@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gravador de trucades</string>
+    <string name="sd">Inseriu una tarja SD a l\'aparell!</string>
+    <string name="contact">Contactes</string>
+    <string name="call_time">Temps de trucada</string>
+    <string name="selected">seleccionat</string>
+    <string name="settings">Ajustaments</string>
+    <string name="notifications">Notificacions</string>
+    <string name="notificationStatus_checkbox_title">Activa notificacions</string>
+    <string name="notificationStatus_checkbox_summary">Mostra a la barra de notificacions després de cada trucada gravada</string>
+    <string name="saveRecordQuestion_checkbox_title">Voleu desar aquesta trucada?</string>
+    <string name="saveRecordQuestion_checkbox_summary">Pregunta després de cada trucada gravada</string>
+    <string name="storage">Emmagatzematge</string>
+    <string name="deleteRecord_title">Neteja automàtica</string>
+    <string name="deleteRecord_summary">Esborra gravacions</string>
+    <string name="recording">Ajustaments de gravació</string>
+    <string name="audioSource_title">Font d\'àudio</string>
+    <string name="audioSource_summary">Seleccioneu la font d\'àudio</string>
+    <string name="audioChannel_title">Canal d\'àudio</string>
+    <string name="audioChannel_summary">Seleccioneu el canal d\'àudio</string>
+    <string name="fileFormat_title">Format d\'arxiu</string>
+    <string name="fileFormat_summary">Seleccioneu el format d\'arxiu</string>
+    <string name="recordingQuality_title">Qualitat de gravació</string>
+    <string name="recordingQuality_summary">Seleccioneu la qualitat de gravació</string>
+    <string name="email_subject">Trucades gravades</string>
+	<string name="buy_category_description">Versió Pro</string>
+	<string name="buy_category_title">Compreu la versió Pro</string>
+	<string name="buy_summary">Sense anuncis i amb funcions addicionals</string>
+
+	<string name="rate">Puntueu aquesta aplicació</string>
+	<string name="rateOk">D\'acord</string>
+	<string name="rateLater">Més tard</string>
+    <string name="start_notification">Gravació iniciada</string>
+    <string name="stop_notification">Gravació aturada</string>
+
+    <string name="save_the_call">Voleu desar aquesta trucada?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+
+	<string name="unknown">Desconegut</string>
+    <string name="hidden">Ocult</string>
+	<string name="start_recording">Gravador en funcionament!</string>
+    <string name="start_recording_details">Totes les trucades es gravaran.</string>
+    <string name="stop_recording">Engegueu la gravació!</string>
+    <string name="stop_recording_details">El gravador està apagat.</string>
+
+    <string name="new_call">S\'ha gravat una trucada!</string>
+    <string name="info">Informació</string>
+    <string name="faq_title">PF</string>
+    <string name="faq_summary">Preguntes Freqüents</string>
+    <string name="other_app_title">Totes les aplicacions</string>
+    <string name="other_app_summary">De Clever Mobile</string>
+
+    <string name="undo">desfés</string>
+    <string name="deleted">suprimit</string>
+
+    <string name="lock">Bloqueja</string>
+    <string name="share">Comparteix</string>
+    <string name="delete">Suprimeix</string>
+    <string name="select_all">Selecciona-ho tot</string>
+    <string name="recordings">Gravacions</string>
+    <string name="help">Ajuda</string>
+    <string name="hint_tap_on_contact_photo">Toqueu la imatge d\'un contacte per seleccionar una acció.</string>
+    <string name="importing_recordings">Important gravacions&#8230;</string>
+
+    <string name="buy">Compra</string>
+    <string name="cancel">Cancel·la</string>
+    <string name="pro_description">La versió Pro permet:
+        \n - Compartir gravacions
+        \n - Sincronitzar amb Dropbox
+        \n - Sincronitzar amb Google Drive
+        \n - Obtenir notificacions avançades
+        \n - Eliminar els anuncis</string>
+
+    <string name="sd_card">Tarja SD</string>
+    <string name="call_recorder_folder">Carpeta \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Espai utilitzat</string>
+    <string name="sd_card_free_memory">Espai lliure</string>
+    <string name="total_files">Arxius</string>
+    <string name="import_recordings">Importa gravacions</string>
+    <string name="run_clean_up">Neteja ara</string>
+    <string name="cleaning">Netejant gravacions antigues&#8230;</string>
+    <string name="share_via">Comparteix a través de&#8230;</string>
+
+    <string name="passcode">Clau d\'accés</string>
+    <string name="enable_passcode">Activa clau d\'accés</string>
+    <string name="enable_passcode_description">Protegiu les gravacions amb clau d\'accés cada cop que engegueu l\'app</string>
+    <string name="change_passcode">Canvia la clau d\'accés</string>
+    <string name="passcode_delete_recordings">Suprimeix gravacions</string>
+    <string name="passcode_delete_recordings_description">Suprimeix totes les gravacions de l\'aparell després de 10 errors en la clau d\'accés</string>
+    <string name="enter_passcode">Introduïu la clau d\'accés</string>
+    <string name="reenter_passcode">Reintroduïu la clau d\'accés</string>
+    <string name="enter_old_passcode">Introduïu la clau d\'accés antiga</string>
+    <string name="passcode_did_not_match">Les claus no són iguals, Torneu a començar!</string>
+    <string name="enter_new_passcode">Introduïu la clau d\'accés nova</string>
+    <string name="reenter_new_passcode">Reintroduïu la clau d\'accés nova</string>
+    <string name="wrong_passcode">Clau errònia, torneu a començar!</string>
+    <string name="exit">Surt</string>
+
+    <string name="cloud">Sincronització</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Vincula al compte Dropbox</string>
+    <string name="dropbox_unlink">Desvincula al compte Dropbox</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Vincula al compte Google Drive</string>
+    <string name="google_drive_unlink">Desvincula al compte Google Drive</string>
+    <string name="connecting_to_google_drive">Connectant a Google Drive</string>
+
+    <string name="login">Entra</string>
+    <string name="logout">Surt</string>
+    <string name="sync_title">Sincronitza ara</string>
+    <string name="sync_summary">Sincronitza ara totes les gravacions</string>
+    <string name="wifi_only">Només wifi</string>
+    <string name="wifi_only_when_sync">Sincronitza només a través de connexió wifi</string>
+
+    <string name="run_pro_question_dlg_description">Esteu fent servir la versió gratuïta però teniu instal·lada la versió Pro.Voleu utilitzar la versió Pro?</string>
+    <string name="run_pro_question_dlg_title">Executa la versió Pro</string>
+    <string name="last_recording">Darrera gravació</string>
+    <string name="last_recording_problem_description">Hi ha hagut un problema en la darrera gravació. Si aquest missatge reapareix proveu de canviar el format d\'arxiu o la font d\'àudio als ajustaments.</string>
+    <string name="read_instructions">Llegiu les instruccions</string>
+    <string name="about">Quant a</string>
+    <string name="translations">Traduccions</string>
+    <string name="translate">Tradueix</string>
+    <string name="help_translate">Ajudeu-nos a traduir-lo a la vostra llengua</string>
+
+    <string name="write_ext_storage_problem_description">No es pot escriure en l\'emmagatzematge extern.</string>
+    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days will be deleting automatically</string>
+    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
+    <string name="number_of_days">Number of days</string>
+
+</resources>

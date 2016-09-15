@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Opkalds Optager</string>
+    <string name="sd">Indsæt venligst et SD kort i telefonen!</string>
+    <string name="contact">Kontakter</string>
+    <string name="call_time">Opkaldstid</string>
+    <string name="selected">markerede</string>
+    <string name="settings">Indstillinger</string>
+    <string name="notifications">Notifikationer</string>
+    <string name="notificationStatus_checkbox_title">Slå notifikationer til</string>
+    <string name="notificationStatus_checkbox_summary">Vis notifikation efter optagelse</string>
+    <string name="saveRecordQuestion_checkbox_title">Bekræftelsesdialog</string>
+    <string name="saveRecordQuestion_checkbox_summary">Vis dialog efter opkald</string>
+    <string name="storage">Lager</string>
+    <string name="deleteRecord_title">Automatisk sletning</string>
+    <string name="deleteRecord_summary">Slet alle optagelser</string>
+    <string name="recording">Optagelsesindstillinger</string>
+    <string name="audioSource_title">Lyd kilde</string>
+    <string name="audioSource_summary">Optag fra telefonlinie eller mikrofon</string>
+    <string name="audioChannel_title">Lyd kanal</string>
+    <string name="audioChannel_summary">Skift lyd kanal information</string>
+    <string name="fileFormat_title">Fil format</string>
+    <string name="fileFormat_summary">Vælg fil format</string>    
+    <string name="recordingQuality_title">Optagelseskvalitet</string>
+    <string name="recordingQuality_summary">Prøv hver enkelt af disse for at bestemme hvilken er bedst for din telefon</string>    
+    <string name="email_subject">Optagede opkald</string>    
+	<string name="buy_category_description">Pro version</string>	
+	<string name="buy_category_title">Køb Call Recorder Pro version</string>	
+	<string name="buy_summary">Uden reklamer og med ekstra funktioner </string>
+
+	<string name="rate">Giv venligst denne app karakter</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">Senere</string>
+    <string name="start_notification">Call Recording Startet</string>    
+    <string name="stop_notification">Call Recording Stoppet</string>
+
+    <string name="save_the_call">Gem dette opkald?</string>    
+    <string name="yes">Ja</string>    
+    <string name="no">Nej</string>
+
+	<string name="unknown">Ukendt</string>
+	<string name="hidden">Gemt</string>	
+	<string name="start_recording">Call Recorder virker!</string>    
+    <string name="start_recording_details">Alle fremtidige opkald bliver gemt.</string>    
+    <string name="stop_recording">Slå optagelse til!</string>    
+    <string name="stop_recording_details">Optagelse er slået fra i øjeblikket.</string>
+
+    <string name="new_call">Nyt opkald er blevet optaget!</string>
+    <string name="info">Information</string>
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Frequently asked questions</string>
+    <string name="other_app_title">All applications</string>
+    <string name="other_app_summary">From Clever Mobile</string>
+
+    <string name="undo">undo</string>
+    <string name="deleted">deleted</string>
+
+    <string name="lock">Lock</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="select_all">Select all</string>
+    <string name="recordings">Recordings</string>
+    <string name="help">Help</string>
+    <string name="hint_tap_on_contact_photo">Tap on a contact photo to select an item.</string>
+    <string name="importing_recordings">Importing recordings&#8230;</string>
+
+    <string name="buy">Buy</string>
+    <string name="cancel">Cancel</string>
+    <string name="pro_description">Pro version contains:
+        \n - Share recordings
+        \n - Dropbox sync
+        \n - Google Drive sync
+        \n - Advanced notifications
+        \n - No more Ads</string>
+
+    <string name="sd_card">SD card</string>
+    <string name="call_recorder_folder">Folder \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Used memory</string>
+    <string name="sd_card_free_memory">Free memory</string>
+    <string name="total_files">Total files</string>
+    <string name="import_recordings">Import recordings</string>
+    <string name="run_clean_up">Clean up now</string>
+    <string name="cleaning">Cleaning old recordings&#8230;</string>
+    <string name="share_via">Share via&#8230;</string>
+
+    <string name="passcode">Passcode</string>
+    <string name="enable_passcode">Enable passcode</string>
+    <string name="enable_passcode_description">Protect your recordings with passcode authentication every time you start the app</string>
+    <string name="change_passcode">Change passcode</string>
+    <string name="passcode_delete_recordings">Delete recordings</string>
+    <string name="passcode_delete_recordings_description">Delete all recordings from this device after 10 failed passcode attempts</string>
+    <string name="enter_passcode">Enter passcode</string>
+    <string name="reenter_passcode">Re-enter passcode</string>
+    <string name="enter_old_passcode">Enter old passcode</string>
+    <string name="passcode_did_not_match">The passcodes did not match. Please, try again!</string>
+    <string name="enter_new_passcode">Enter new passcode</string>
+    <string name="reenter_new_passcode">Re-enter new passcode</string>
+    <string name="wrong_passcode">Wrong passcode. Please, try again!</string>
+    <string name="exit">Exit</string>
+
+    <string name="cloud">Synchronization</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Link Dropbox account</string>
+    <string name="dropbox_unlink">Unlink Dropbox account</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Link Google Drive account</string>
+    <string name="google_drive_unlink">Unlink Google Drive account</string>
+    <string name="connecting_to_google_drive">Connecting to Google Drive</string>
+
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="sync_title">Synchronize now</string>
+    <string name="sync_summary">Synchronize all records now</string>
+    <string name="wifi_only">WiFi only</string>
+    <string name="wifi_only_when_sync">Synchronize only when connected to WiFi</string>
+
+    <string name="run_pro_question_dlg_description">You are trying to run the Free version of Call Recorder but have already installed the Pro one. Would you like to go with the Pro?</string>
+    <string name="run_pro_question_dlg_title">Run Pro version</string>
+    <string name="last_recording">Last recording</string>
+    <string name="last_recording_problem_description">Looks like some problem occurred during last recording. If this message appears again then, please, try to change File format or Audio source in the Settings.</string>
+    <string name="read_instructions">Read instructions</string>
+    <string name="about">About</string>
+    <string name="translations">Translations</string>
+    <string name="translate">Translate</string>
+    <string name="help_translate">Help us with translation to your native language</string>
+
+    <string name="write_ext_storage_problem_description">Unable to write to external storage.</string>
+    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days will be deleting automatically</string>
+    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
+    <string name="number_of_days">Number of days</string>
+
+</resources>

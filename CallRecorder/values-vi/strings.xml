@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ghi âm cuộc gọi</string>
+    <string name="sd">Hãy cài thẻ nhớ SD vào điện thoại</string>
+    <string name="contact">Liên lạc</string>
+    <string name="call_time">Thời gian cuộc gọi</string>
+    <string name="selected">đã chọn</string>
+    <string name="settings">Cài đặt</string>
+    <string name="notifications">Thông báo</string>
+    <string name="notificationStatus_checkbox_title">Bật thông báo</string>
+    <string name="notificationStatus_checkbox_summary">Hiển thị thanh thông báo sau mỗi lần ghi âm cuộc gọi</string>
+    <string name="saveRecordQuestion_checkbox_title">Lưu cuộc gọi này ?</string>
+    <string name="saveRecordQuestion_checkbox_summary">Hỏi sau mỗi lần ghi âm cuộc gọi</string>
+    <string name="storage">Bộ nhớ</string>
+    <string name="deleteRecord_title">Tự động dọn dẹp</string>
+    <string name="deleteRecord_summary">Xóa bản ghi âm</string>
+    <string name="recording">Cài đặt ghi âm</string>
+    <string name="audioSource_title">Nguôn âm thanh</string>
+    <string name="audioSource_summary">Chọn nguồn âm thanh</string>
+    <string name="audioChannel_title">Kênh âm thanh</string>
+    <string name="audioChannel_summary">Chọn kênh âm thanh</string>
+    <string name="fileFormat_title">Định dạng tệp tin</string>
+    <string name="fileFormat_summary">Chọn định dạng tệp</string>
+    <string name="recordingQuality_title">Chất lượng ghi âm</string>
+    <string name="recordingQuality_summary">Chọn chất lượng ghi âm</string>
+    <string name="email_subject">Những bản ghi âm</string>
+	<string name="buy_category_description">Phiên bản Pro</string>
+	<string name="buy_category_title">Mua Call Recorder phiên bản Proo</string>
+	<string name="buy_summary">Không có quảng cáo, với những tính năng cộng thêm</string>
+
+	<string name="rate">Hãy đánh giá ứng dụng này</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">Để lần sau</string>
+    <string name="start_notification">Bắt đầu ghi âm cuộc gọi</string>
+    <string name="stop_notification">Đã dừng thi âm cuộc gọi</string>
+
+    <string name="save_the_call">Lưu cuộc gọi này ?</string>
+    <string name="yes">OK</string>
+    <string name="no">Không</string>
+
+	<string name="unknown">Không biết</string>
+	<string name="hidden">Ẩn</string>	
+	<string name="start_recording">Ghi âm cuộc gọi đang bật!</string>
+    <string name="start_recording_details">Tất cả cuộc gọi sau này sẽ được lưu.</string>
+    <string name="stop_recording">BẬT ghi âm!</string>
+    <string name="stop_recording_details">Ghi âm gần đây đã tắt.</string>
+
+    <string name="new_call">Cuộc gọi mới đã được ghi</string>
+    <string name="info">Thông tin</string>
+    <string name="faq_title">Hỏi và đáp ( Câu hỏi thường gặp )</string>
+    <string name="faq_summary">Câu hỏi thường gặp </string>
+    <string name="other_app_title">Tất cả ứng dụng</string>
+    <string name="other_app_summary">Từ Clever Mobile</string>
+
+    <string name="undo">hoàn tác</string>
+    <string name="deleted">đã xóa</string>
+
+    <string name="lock">Khóa</string>
+    <string name="share">Chia sẻ</string>
+    <string name="delete">Xóa</string>
+    <string name="select_all">Chọn tất cả</string>
+    <string name="recordings">Bản ghi âm</string>
+    <string name="help">Trợ giúp</string>
+    <string name="hint_tap_on_contact_photo">Chạm vào ảnh liên hệ để chọn bản ghi.</string>
+    <string name="importing_recordings">Đang nhập bản ghi&#8230;</string>
+
+    <string name="buy">Mua</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="pro_description">Phiên bản Pro bao gồm:
+        \n - Chia sẻ bản ghi
+        \n - Đồng bộ lên Dropbox
+        \n - Đồng bộ lên Google Drive
+        \n - Thông báo nâng cao
+        \n - Không có quảng cáo</string>
+
+    <string name="sd_card">Thẻ nhớ SD</string>
+    <string name="call_recorder_folder">Thư mục \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Bộ nhớ đã dùng</string>
+    <string name="sd_card_free_memory">Bộ nhớ còn trống</string>
+    <string name="total_files">Tổng số tệp</string>
+    <string name="import_recordings">Nhập bản ghi âm</string>
+    <string name="run_clean_up">Xóa ngay bây giờ</string>
+    <string name="cleaning">Xóa bản ghi cũ&#8230;</string>
+    <string name="share_via">Chia sẻ qua&#8230;</string>
+
+    <string name="passcode">Mật mã</string>
+    <string name="enable_passcode">BẬT mật mã</string>
+    <string name="enable_passcode_description">Bảo vệ bản ghi với mật mã chứng thực mỗi lần chạy ứng dụng</string>
+    <string name="change_passcode">Đổi mật mã</string>
+    <string name="passcode_delete_recordings">Xóa bản ghi</string>
+    <string name="passcode_delete_recordings_description">Xóa tát cả bản ghi trong thiết bị này sau nếu 10 lần nhập mật mã sai liên tiếp</string>
+    <string name="enter_passcode">Nhập mật mã</string>
+    <string name="reenter_passcode">Nhập lại mật mã</string>
+    <string name="enter_old_passcode">Nhập mật mã cũ</string>
+    <string name="passcode_did_not_match">Mật mã không khớp. Hãy thử lại!</string>
+    <string name="enter_new_passcode">Nhập mật mã mới</string>
+    <string name="reenter_new_passcode">Nhập lại mật mã mới</string>
+    <string name="wrong_passcode">Sai mật mã . Hãy thử lại !</string>
+    <string name="exit">Thoát</string>
+
+    <string name="cloud">Đồng bộ</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Liên kết tài khoản Dropbox</string>
+    <string name="dropbox_unlink">Gỡ liên kết tài khoản Dropbox</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Liên kết tài khoản Google Drive</string>
+    <string name="google_drive_unlink">Gỡ liên kết tài khoản Google Drive</string>
+    <string name="connecting_to_google_drive">Đang kết nối Google Drive</string>
+
+    <string name="login">Đăng nhập</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="sync_title">Đồng bộ ngay bây giờ</string>
+    <string name="sync_summary">Đồng bộ tất cả bản ghi ngay bây giờ</string>
+    <string name="wifi_only">Chỉ khi dùng WIFI</string>
+    <string name="wifi_only_when_sync">Đồng bộ chỉ kết nối WIFI</string>
+
+    <string name="run_pro_question_dlg_description">Bạn đang dùng phiên bản Call Recorder miễn phí nhưng đã cài phiên bản Pro. Bạn có muốn chuyển sang bản Pro ?</string>
+    <string name="run_pro_question_dlg_title">Chạy phiên bản Pro</string>
+    <string name="last_recording">Bản ghi cuối</string>
+    <string name="last_recording_problem_description">Có vẻ vài vấn đề đã xảy ra trong bản ghi cuối. Nếu thông báo này xuất hiện lại, hãy đổi định dạng Tệp hoặc nguồn Âm thanh trong phần Cài đặt.</string>
+    <string name="read_instructions">Đọc chỉ dẫn</string>
+    <string name="about">Giới thiệu</string>
+    <string name="translations">Bản dịch</string>
+    <string name="translate">Dịch</string>
+    <string name="help_translate">Giúp chúng tôi với bản dịch bằng ngôn ngữ bản địa của bạn</string>
+
+    <string name="write_ext_storage_problem_description">Không thể ghi lên bộ nhớ mở rộng.</string>
+    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days will be deleting automatically</string>
+    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
+    <string name="number_of_days">Number of days</string>
+
+</resources>

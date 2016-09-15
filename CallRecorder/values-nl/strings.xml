@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gespreksopnemer</string>
+    <string name="sd">Gelieve een SD-kaart in de telefoon te plaatsen!</string>
+    <string name="contact">Contacten</string>
+    <string name="call_time">Gesprekstijd</string>
+    <string name="selected">geselecteerd</string>
+    <string name="settings">Instellingen</string>
+    <string name="notifications">Notificaties</string>
+    <string name="notificationStatus_checkbox_title">Notificaties inschakelen</string>
+    <string name="notificationStatus_checkbox_summary">Tonen in de notificatiebalk na elk opgenomen gesprek</string>
+    <string name="saveRecordQuestion_checkbox_title">Dit gesprek bewaren?</string>
+    <string name="saveRecordQuestion_checkbox_summary">Na elk opgenomen gesprek vragen</string>
+    <string name="storage">Opslagruimte</string>
+    <string name="deleteRecord_title">Automatisch opschonen</string>
+    <string name="deleteRecord_summary">Opnames verwijderen</string>
+    <string name="recording">Opnameinstellingen</string>
+    <string name="audioSource_title">Audiobron</string>
+    <string name="audioSource_summary">Audiobron kiezen</string>
+    <string name="audioChannel_title">Audiokanaal</string>
+    <string name="audioChannel_summary">Audiokanaal kiezen</string>
+    <string name="fileFormat_title">Bestandstype</string>
+    <string name="fileFormat_summary">Bestandstype kiezen</string>
+    <string name="recordingQuality_title">Opnamekwaliteit</string>
+    <string name="recordingQuality_summary">Opnamekwaliteit kiezen</string>
+    <string name="email_subject">Opgenomen gesprekken</string>
+	<string name="buy_category_description">Pro versie</string>
+	<string name="buy_category_title">Gespreksopnemer Pro kopen</string>
+	<string name="buy_summary">Zonder reclame en met bijkomende mogelijkheden</string>
+
+	<string name="rate">Beoordeel deze applicatie alstublieft</string>
+	<string name="rateOk">Ok</string>
+	<string name="rateLater">Later</string>
+    <string name="start_notification">Gespreksopname gestart</string>
+    <string name="stop_notification">Gespreksopname gestopt</string>
+
+    <string name="save_the_call">Dit gesprek bewaren?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+
+	<string name="unknown">Onbekend</string>
+	<string name="hidden">Verborgen</string>	
+	<string name="start_recording">Gespreksopnemer staat aan!</string>
+    <string name="start_recording_details">Alle volgende gesprekken worden opgeslagen.</string>
+    <string name="stop_recording">Zet opname AAN!</string>
+    <string name="stop_recording_details">Gespreksopnemer staat momenteel uit.</string>
+
+    <string name="new_call">Niew gesprek is opgenomen!</string>
+    <string name="info">Informatie</string>
+    <string name="faq_title">FAQ (Veelgestelde vragen)</string>
+    <string name="faq_summary">Veelgestelde vragen</string>
+    <string name="other_app_title">Alle applicaties</string>
+    <string name="other_app_summary">Van Clever Mobile</string>
+
+    <string name="undo">ongedaan maken</string>
+    <string name="deleted">verwijderd</string>
+
+    <string name="lock">Vergrendelen</string>
+    <string name="share">Delen</string>
+    <string name="delete">Verwijderen</string>
+    <string name="select_all">Alle selecteren</string>
+    <string name="recordings">Opnames</string>
+    <string name="help">Help</string>
+    <string name="hint_tap_on_contact_photo">Tik op een contactafbeelding om een item te kiezen.</string>
+    <string name="importing_recordings">Geïmporteerde opnames&#8230;</string>
+
+    <string name="buy">Kopen</string>
+    <string name="cancel">Annuleren</string>
+    <string name="pro_description">Pro versie bevat:
+        \n - Opnames delen
+        \n - Dropbox syncronisatie
+        \n - Google Drive synchronisatie
+        \n - Geavanceerde notificaties
+        \n – Geen reclame</string>
+
+    <string name="sd_card">SD-kaart</string>
+    <string name="call_recorder_folder">\"CallRecorder\" map</string>
+    <string name="sd_card_memory_occupied">- Gebruikt geheugen</string>
+    <string name="sd_card_free_memory">- Vrij geheugen</string>
+    <string name="total_files">- Totaal aantal bestanden</string>
+    <string name="import_recordings">Opnames importeren</string>
+    <string name="run_clean_up">Nu opschonen</string>
+    <string name="cleaning">Oude opnames opschonen&#8230;</string>
+    <string name="share_via">Delen via&#8230;</string>
+
+    <string name="passcode">Toegangscode</string>
+    <string name="enable_passcode">Toegangscode inschakelen</string>
+    <string name="enable_passcode_description">Bescherm je opnames met een toegangscode elke keer je de applicatie start</string>
+    <string name="change_passcode">Toegangscode wijzigen</string>
+    <string name="passcode_delete_recordings">Opnames verwijderen</string>
+    <string name="passcode_delete_recordings_description">Alle opnames op dit toestel wissen na de ingave van 10 foutieve toegangscodes</string>
+    <string name="enter_passcode">Toegangscode invoeren</string>
+    <string name="reenter_passcode">Toegangscode opnieuw invoeren</string>
+    <string name="enter_old_passcode">Oude toegangscode invoeren</string>
+    <string name="passcode_did_not_match">De toegangscodes zijn niet hetzelfde. Probeert u het alstublieft opnieuw!</string>
+    <string name="enter_new_passcode">Nieuwe toegangscode invoeren</string>
+    <string name="reenter_new_passcode">Nieuwe toegangscode opnieuw invoeren</string>
+    <string name="wrong_passcode">Verkeerde toegangscode. Probeer het opnieuw!</string>
+    <string name="exit">Verlaten</string>
+
+    <string name="cloud">Synchronisatie</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Link met Dropboxaccount</string>
+    <string name="dropbox_unlink">Link met Dropboxaccount  verwijderen</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Link met Google Drive</string>
+    <string name="google_drive_unlink">Link met Google Drive verwijderen</string>
+    <string name="connecting_to_google_drive">Verbinden met Google Drive</string>
+
+    <string name="login">Inloggen</string>
+    <string name="logout">Uitloggen</string>
+    <string name="sync_title">Nu synchroniseren</string>
+    <string name="sync_summary">Alle opnames nu synchroniseren</string>
+    <string name="wifi_only">Enkele WiFi</string>
+    <string name="wifi_only_when_sync">Alleen synchroniseren bij WiFi-verbinding</string>
+
+    <string name="run_pro_question_dlg_description">Je probeert de gratis versie van Call Recorder (Gespreksopnemer) te starten, maar je hebt de Pro-versie al geïnstalleerd. Wilt u de Pro-versie gebruiken?</string>
+    <string name="run_pro_question_dlg_title">Pro-versie starten</string>
+    <string name="last_recording">Laatste opname</string>
+    <string name="last_recording_problem_description">Er deed zich een problem voor bij de laatste opname. Als dit bericht blijft verschijnen, probeer dan het Bestandstype of Audiobron te wijzigen in de Instellingen.</string>
+    <string name="read_instructions">Instructies lezen</string>
+    <string name="about">Over</string>
+    <string name="translations">Vertalingen</string>
+    <string name="translate">Vertalen</string>
+    <string name="help_translate">Help ons naar jouw moedertaal te vertalen</string>
+
+    <string name="write_ext_storage_problem_description">Opslaan op extern opslagmedium mislukt.</string>
+    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days will be deleting automatically</string>
+    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
+    <string name="number_of_days">Number of days</string>
+
+</resources>

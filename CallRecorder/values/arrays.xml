@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="deleteInterval">
+        <item name="never">never</item>
+        <item name="2days">older than 2 days</item>
+        <item name="1week">older than 1 week</item>
+        <item name="2weeks">older than 2 weeks</item>
+        <item name="1month">older than 1 month</item>
+    </string-array>   
+    <string-array name="deleteIntervalValues">
+        <item name="never">never</item>
+        <item name="2days">2days</item>
+        <item name="1week">1week</item>
+        <item name="2weeks">2weeks</item>
+        <item name="1month">1month</item>
+    </string-array>
+
+    <string-array name="audioSource">
+        <item name="line">Phone line</item>
+        <item name="mic">Mic</item>
+        <item name="uplink">Own voice</item>
+        <item name="downlink">Opponent voice</item>
+        <item name="communication">Communication</item>
+    </string-array>
+
+    <string-array name="audioSourceValues">
+        <item name="line">line</item>
+        <item name="mic">mic</item>
+        <item name="uplink">uplink</item>
+        <item name="downlink">downlink</item>
+        <item name="communication">communication</item>
+    </string-array>
+
+    <string-array name="audioChannel">
+        <item name="stereo">Stereo</item>
+        <item name="mono">Mono</item>
+    </string-array>
+    <string-array name="audioChannelValues">
+        <item name="stereo">stereo</item>
+        <item name="mono">mono</item>
+    </string-array>
+
+    <string-array name="recordingQuality">
+        <item name="high">High</item>
+        <item name="medium">Medium</item>
+        <item name="low">Low</item>
+        <item name="poor">Poor</item>
+    </string-array>
+    <string-array name="recordingQualityValues">
+        <item name="high">44100</item>
+        <item name="medium">22050</item>
+        <item name="low">11025</item>
+        <item name="verylow">8000</item>
+    </string-array>
+
+    <string-array name="fileFormat">
+        <item name="mp3">mp3</item>
+        <item name="3gp">3gp</item>
+        <item name="mp4">mp4</item>
+        <item name="wav">wav</item>
+
+    </string-array>
+    <string-array name="fileFormatValues">
+        <item name="mp3">mp3</item>
+        <item name="3gp">3gp</item>
+        <item name="mp4">mp4</item>
+        <item name="wav">wav</item>
+    </string-array>
+    
+</resources>

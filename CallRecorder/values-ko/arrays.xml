@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="deleteInterval">
+        <item name="never">사용 안함</item>
+        <item name="2days">2일 경과된 녹음</item>
+        <item name="1week">1주일 경과된 녹음</item>
+        <item name="2weeks">2주일 경과된 녹음</item>
+        <item name="1month">한 달 경과된 녹음</item>
+    </string-array>   
+    <string-array name="deleteIntervalValues">
+        <item name="never">never</item>
+        <item name="2days">2days</item>
+        <item name="1week">1week</item>
+        <item name="2weeks">2weeks</item>
+        <item name="1month">1month</item>
+    </string-array>
+
+    <string-array name="audioSource">
+        <item name="line">전화 회선</item>
+        <item name="mic">마이크</item>
+        <item name="uplink">자신의 목소리</item>
+        <item name="downlink">상대의 목소리</item>
+        <item name="communication">통신</item>
+    </string-array>
+    <string-array name="audioSourceValues">
+        <item name="line">line</item>
+        <item name="mic">mic</item>
+        <item name="uplink">uplink</item>
+        <item name="downlink">downlink</item>
+        <item name="communication">communication</item>
+        </string-array>
+
+    <string-array name="audioChannel">
+        <item name="stereo">스테레오</item>
+        <item name="mono">모노</item>
+    </string-array>
+    <string-array name="audioChannelValues">
+        <item name="stereo">stereo</item>
+        <item name="mono">mono</item>
+    </string-array>
+
+    <string-array name="recordingQuality">
+        <item name="high">높음</item>
+        <item name="medium">중간</item>
+        <item name="low">낮음</item>
+        <item name="poor">최저</item>
+    </string-array>
+    <string-array name="recordingQualityValues">
+        <item name="high">44100</item>
+        <item name="medium">22050</item>
+        <item name="low">11025</item>
+        <item name="verylow">8000</item>
+    </string-array>
+
+    <string-array name="fileFormat">
+        <item name="mp3">mp3</item>
+        <item name="3gp">3gp</item>
+        <item name="mp4">mp4</item>
+        <item name="wav">wav</item>
+
+    </string-array>
+    <string-array name="fileFormatValues">
+        <item name="mp3">mp3</item>
+        <item name="3gp">3gp</item>
+        <item name="mp4">mp4</item>
+        <item name="wav">wav</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Запись звонков</string>
+    <string name="sd">Пожалуйста, вставьте SD карту в телефон!</string>
+    <string name="contact">Контакты</string>
+    <string name="call_time">Время звонка</string>
+    <string name="selected">отмечено</string>    
+    <string name="settings">Настройки</string>    
+    <string name="notifications">Уведомления</string>
+    <string name="notificationStatus_checkbox_title">Включить уведомления</string>
+    <string name="notificationStatus_checkbox_summary">Показывать уведомление после записи разговора</string>
+    <string name="saveRecordQuestion_checkbox_title">Сохранить запись?</string>
+    <string name="saveRecordQuestion_checkbox_summary">Спрашивать после каждого звонка</string>
+    <string name="storage">Память</string>
+    <string name="deleteRecord_title">Автоматическая очистка</string>
+    <string name="deleteRecord_summary">Удалять записи</string>
+    <string name="recording">Настройки записи</string>
+    <string name="audioSource_title">Источник записи</string>
+    <string name="audioSource_summary">Выберите источник записи</string>
+    <string name="audioChannel_title">Аудио канал</string>
+    <string name="audioChannel_summary">Выберите режим аудио канала</string>
+    <string name="fileFormat_title">Формат файла</string>
+    <string name="fileFormat_summary">Выбор формата файла</string>    
+    <string name="recordingQuality_title">Качество записи</string>
+    <string name="recordingQuality_summary">Выберите качество записи</string>    
+    <string name="email_subject">Записанные разговоры</string>      
+	<string name="buy_category_description">Полная версия</string>	
+	<string name="buy_category_title">Купить Запись Звонков полную версию</string>	
+	<string name="buy_summary">Без рекламы и с дополнительными возможностями</string>
+
+	<string name="rate">Пожалуйста, оцените это приложение</string>
+	<string name="rateOk">Хорошо</string>
+	<string name="rateLater">Позже</string>
+	<string name="start_notification">Начата запись звонка</string>    
+    <string name="stop_notification">Запись звонка остановлена</string>
+
+    <string name="save_the_call">Сохранить этот звонок?</string>    
+    <string name="yes">Да</string>    
+    <string name="no">Нет</string>
+
+	<string name="unknown">Неизвестный</string>
+	<string name="hidden">Скрытый</string>	    
+    <string name="start_recording">Запись звонков включена!</string>    
+    <string name="start_recording_details">Все следующие разговоры будут записаны.</string>    
+    <string name="stop_recording">Включите запись звонков!</string>    
+    <string name="stop_recording_details">Запись звонков выключена.</string>
+
+    <string name="new_call">Новый разговор был записан!</string>        
+    <string name="info">Інформация</string>
+    <string name="faq_title">Часто задаваемые вопросы (FAQ)</string>       
+    <string name="faq_summary">Перейти к FAQ странице для Записи звонков</string>       
+    <string name="other_app_title">Все программы от Clever Mobile</string>       
+    <string name="other_app_summary">В Google Play</string>
+
+    <string name="undo">отмена</string>
+    <string name="deleted">удалено</string>
+
+    <string name="lock">Заблокировать</string>
+    <string name="share">Поделиться</string>
+    <string name="delete">Удалить</string>
+    <string name="select_all">Выделить все</string>
+    <string name="recordings">Записи</string>
+    <string name="help">Помощь</string>
+    <string name="hint_tap_on_contact_photo">Нажмите на фото контакта чтобы выделить запись.</string>
+    <string name="importing_recordings">Записи импортируются&#8230;</string>
+
+    <string name="buy">Купить</string>
+    <string name="cancel">Отмена</string>
+    <string name="pro_description">Про версия содержит функции:
+        \n - Поделится записами
+        \n - Синхронизация с Dropbox
+        \n - Синхронизация с Google Drive
+        \n - Дополнителные уведомления
+        \n - Без рекламы</string>
+
+    <string name="sd_card">SD карта</string>
+    <string name="call_recorder_folder">Папка \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Использовано памяти</string>
+    <string name="sd_card_free_memory">Свободно памяти</string>
+    <string name="total_files">Количество файлов</string>
+    <string name="import_recordings">Импортировать записи</string>
+    <string name="run_clean_up">Очистить сейчас</string>
+    <string name="cleaning">Очистка старых записей&#8230;</string>
+    <string name="share_via">Поделиться через&#8230;</string>
+
+    <string name="passcode">Пароль</string>
+    <string name="enable_passcode">Включить пароль</string>
+    <string name="enable_passcode_description">Справшивать пароль каждый раз при запуске приложения</string>
+    <string name="change_passcode">Сменить пароль</string>
+    <string name="passcode_delete_recordings">Удалить записи</string>
+    <string name="passcode_delete_recordings_description">Удалить все записи с телефона после 10 неверыих попыток введения пароля</string>
+    <string name="enter_passcode">Введите пароль</string>
+    <string name="reenter_passcode">Повторите пароль</string>
+    <string name="enter_old_passcode">Введите старый пароль</string>
+    <string name="passcode_did_not_match">Пароли не совпадают. Попробуйте еще раз!</string>
+    <string name="enter_new_passcode">Введите новый пароль</string>
+    <string name="reenter_new_passcode">Повторите новый пароль</string>
+    <string name="wrong_passcode">Неправильный пароль. Попробуйте еще раз!</string>
+    <string name="exit">Выход</string>
+
+    <string name="cloud">Синхронизация</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Присоединить Dropbox</string>
+    <string name="dropbox_unlink">Отсоединить Dropbox</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Присоединить Google Drive</string>
+    <string name="google_drive_unlink">Отсоединить Google Drive</string>
+    <string name="connecting_to_google_drive">Подключение к Google Drive</string>
+
+    <string name="login">Войти</string>
+    <string name="logout">Выйти</string>
+    <string name="sync_title">Синхронизация</string>
+    <string name="sync_summary">Синхронизировать сейчас</string>
+    <string name="wifi_only">Только WiFi</string>
+    <string name="wifi_only_when_sync">Синхронизировать только при подключении через WiFi</string>
+
+    <string name="run_pro_question_dlg_description">Вы пытаетесь запустить пробную версию но на телефоне есть установленна професиональная. Запустить професиональную?</string>
+    <string name="run_pro_question_dlg_title">Запустить Про</string>
+    <string name="last_recording">Последняя запись</string>
+    <string name="last_recording_problem_description">При последней записи возникла ошибка. Если увидите это сообщение снова, попробуйте изменить формат файла или источник аудио в Настройках.</string>
+    <string name="read_instructions">Читать инструкции</string>
+    <string name="about">О программе</string>
+    <string name="translations">Перевод</string>
+    <string name="translate">Перевод</string>
+    <string name="help_translate">Помогите нам с переводом на ваш родной язык</string>
+
+    <string name="write_ext_storage_problem_description">Невозможно записать на карту памяти.</string>
+    <string name="allow_to_write_to_sd_card">Записывать на съемную SD карту</string>
+    <string name="delete_recordings_older_then_selected_days">Записи старше чем выбрано дней будут удаляться автоматически</string>
+    <string name="delete_recordings_on_uninstall">Все записи будут удалены при удалении приложения</string>
+    <string name="number_of_days">Количество дней</string>
+
+</resources>

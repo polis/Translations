@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Call Recorder</string>
+    <string name="sd">Silahkan masukkan SD card ke dalam ponsel!</string>
+    <string name="contact">Kontak</string>
+    <string name="call_time">Waktu panggilan</string>
+    <string name="selected">Dipilih</string>
+    <string name="settings">Pengaturan</string>
+    <string name="notifications">Notifikasi</string>
+    <string name="notificationStatus_checkbox_title">Notifikasi diaktifkan</string>
+    <string name="notificationStatus_checkbox_summary">Tampilkan notifikasi setelah rekaman selesai</string>
+    <string name="saveRecordQuestion_checkbox_title">Dialog konfirmasi</string>
+    <string name="saveRecordQuestion_checkbox_summary">Tampilkan dialog setelah panggilan selesai</string>
+    <string name="storage">Penyimpanan</string>
+    <string name="deleteRecord_title">Pembersihan otomatis</string>
+    <string name="deleteRecord_summary">Hapus semua data rekaman</string>
+    <string name="recording">Pengaturan rekaman</string>
+    <string name="audioSource_title">Sumber suara</string>
+    <string name="audioSource_summary">Merekam dari jalur telepon atau mikrofon</string>
+    <string name="audioChannel_title">Channel suara</string>
+    <string name="audioChannel_summary">Ubah informasi channel suara</string>
+    <string name="fileFormat_title">Format dokumen</string>
+    <string name="fileFormat_summary">Pilih format dokumen</string>    
+    <string name="recordingQuality_title">Kualitas rekaman</string>
+    <string name="recordingQuality_summary">Pilih kualitas rekaman</string>    
+    <string name="email_subject">Panggilan yang sudah direkam</string>    
+	<string name="buy_category_description">Versi Pro</string>	
+	<string name="buy_category_title">Beli Call Recorder versi Pro</string>	
+	<string name="buy_summary">Tanpa iklan dan dengan fitur-fitur tambahan</string>	
+
+	<string name="rate">Mohon nilai aplikasi ini</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">nanti</string>
+    <string name="start_notification">Rekaman panggilan dimulai</string>    
+    <string name="stop_notification">Rekaman panggilan dihentikan</string>    
+
+    <string name="save_the_call">Simpan panggilan ini?</string>
+    <string name="yes">Ya</string>    
+    <string name="no">Tidak</string>    
+
+    <string name="unknown">Tidak diketahui</string>
+	<string name="hidden">Tersembunyi</string>	
+	<string name="start_recording">Call Recorder berfungsi!</string>    
+    <string name="start_recording_details">Semua panggilan Anda yang akan datang akan direkam.</string>    
+    <string name="stop_recording">Nyalakan perekam!</string>    
+    <string name="stop_recording_details">Saat ini perekam tidak aktif.</string>    
+
+    <string name="new_call">Panggilan baru telah direkam!</string>
+    <string name="info">Informasi</string>       
+    <string name="faq_title">Pertanyaan umum</string>       
+    <string name="faq_summary">Menuju ke laman pertanyaan umum Call Recorder</string>       
+    <string name="other_app_title">Semua aplikasi Clever Mobile</string>       
+    <string name="other_app_summary">Ada di Market</string>
+
+    <string name="undo">undo</string>
+    <string name="deleted">deleted</string>
+
+    <string name="lock">Lock</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="select_all">Select all</string>
+    <string name="recordings">Recordings</string>
+    <string name="help">Help</string>
+    <string name="hint_tap_on_contact_photo">Tap on a contact photo to select an item.</string>
+    <string name="importing_recordings">Importing recordings&#8230;</string>
+
+    <string name="buy">Buy</string>
+    <string name="cancel">Cancel</string>
+    <string name="pro_description">Pro version contains:
+        \n - Share recordings
+        \n - Dropbox sync
+        \n - Google Drive sync
+        \n - Advanced notifications
+        \n - No more Ads</string>
+
+    <string name="sd_card">SD card</string>
+    <string name="call_recorder_folder">Folder \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">- Used memory</string>
+    <string name="sd_card_free_memory">- Free memory</string>
+    <string name="total_files">- Total files</string>
+    <string name="import_recordings">Import recordings</string>
+    <string name="run_clean_up">Clean up now</string>
+    <string name="cleaning">Cleaning old recordings&#8230;</string>
+    <string name="share_via">Share via&#8230;</string>
+
+    <string name="passcode">Passcode</string>
+    <string name="enable_passcode">Enable passcode</string>
+    <string name="enable_passcode_description">Protect your recordings with passcode authentication every time you start the app</string>
+    <string name="change_passcode">Change passcode</string>
+    <string name="passcode_delete_recordings">Delete recordings</string>
+    <string name="passcode_delete_recordings_description">Delete all recordings from this device after 10 failed passcode attempts</string>
+    <string name="enter_passcode">Enter passcode</string>
+    <string name="reenter_passcode">Re-enter passcode</string>
+    <string name="enter_old_passcode">Enter old passcode</string>
+    <string name="passcode_did_not_match">The passcodes did not match. Please, try again!</string>
+    <string name="enter_new_passcode">Enter new passcode</string>
+    <string name="reenter_new_passcode">Re-enter new passcode</string>
+    <string name="wrong_passcode">Wrong passcode. Please, try again!</string>
+    <string name="exit">Exit</string>
+
+    <string name="cloud">Synchronization</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Sambungkan dengan akun Dropbox</string>
+    <string name="dropbox_unlink">Putuskan sambungan dengan akun Dropbox</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Link Google Drive account</string>
+    <string name="google_drive_unlink">Unlink Google Drive account</string>
+    <string name="connecting_to_google_drive">Connecting to Google Drive</string>
+
+    <string name="login">login</string>
+    <string name="logout">logout</string>
+    <string name="sync_title">Sinkronisasi</string>
+    <string name="sync_summary">Sinkronisasikan semua rekaman sekarang</string>
+    <string name="wifi_only">WiFi only</string>
+    <string name="wifi_only_when_sync">Synchronize only when connected to WiFi</string>
+
+    <string name="run_pro_question_dlg_description">You are trying to run the Free version of Call Recorder but have already installed the Pro one. Would you like to go with the Pro?</string>
+    <string name="run_pro_question_dlg_title">Run Pro version</string>
+    <string name="last_recording">Last recording</string>
+    <string name="last_recording_problem_description">Looks like some problem occurred during the last recording. If this message appears again then, please, try to change File format or Audio source in the Settings.</string>
+    <string name="read_instructions">Read instructions</string>
+    <string name="about">About</string>
+    <string name="translations">Translations</string>
+    <string name="translate">Translate</string>
+    <string name="help_translate">Help us with translation to your native language</string>
+
+    <string name="write_ext_storage_problem_description">Unable to write to external storage.</string>
+    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days will be deleting automatically</string>
+    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
+    <string name="number_of_days">Number of days</string>
+        
+</resources>

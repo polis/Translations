@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Call Recorder</string>
+    <string name="sd">Παρακαλώ, εισάγετε την κάρτα SD στο τηλέφωνο!</string>
+    <string name="contact">Επαφές</string>
+    <string name="call_time">Χρόνος κλήσης</string>
+    <string name="selected">Επιλεγμένα</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="notifications">Ειδοποιήσεις</string>
+    <string name="notificationStatus_checkbox_title">Ενεργοποίηση ειδοποιήσεων</string>
+    <string name="notificationStatus_checkbox_summary">Εμφάνιση κοινοποίησης στη γραμμή εργασιών μετά από κάθε κλήση που καταγράφεται</string>
+    <string name="saveRecordQuestion_checkbox_title">Αποθηκεύση κλήσης;</string>
+    <string name="saveRecordQuestion_checkbox_summary">Ερώτηση μετά από κάθε κλήση που καταγράφεται</string>
+    <string name="storage">Αποθήκη</string>
+    <string name="deleteRecord_title">Αυτόματος καθαρισμός</string>
+    <string name="deleteRecord_summary">Διαγραφή εγγραφών</string>
+    <string name="recording">Ρυθμίσεις εγγραφής</string>
+    <string name="audioSource_title">Πηγή ήχου</string>
+    <string name="audioSource_summary">Επιλογή πηγής ήχου</string>
+    <string name="audioChannel_title">Κανάλι ήχου</string>
+    <string name="audioChannel_summary">Επιλογή καναλιού ήχου</string>
+    <string name="fileFormat_title">Μορφή αρχείου</string>
+    <string name="fileFormat_summary">Επιλογή μορφής αρχείου</string>
+    <string name="recordingQuality_title">Ποιότητα εγγραφής</string>
+    <string name="recordingQuality_summary">Επιλογη ποιότητας εγγραφής</string>
+    <string name="email_subject">Καταγεγραμμένες κλήσης</string>
+	<string name="buy_category_description">Pro έκδοση</string>
+	<string name="buy_category_title">Αγορά της έκδοσης Call Recorder Pro</string>
+	<string name="buy_summary">Χωρίς διαφημίσεις και με επιπλέον χαρακτηριστικά</string>
+
+	<string name="rate">Παρακαλούμε, βαθμολογήστε αυτή την εφαρμογή</string>
+	<string name="rateOk">Εντάξει</string>
+	<string name="rateLater">Αργότερα</string>
+    <string name="start_notification">Η ηχογράφηση ξεκίνησε</string>
+    <string name="stop_notification">Η ηχογράφηση σταμάτησε</string>
+
+    <string name="save_the_call">Αποθήκευση αυτής της κλήσης;</string>
+    <string name="yes">Ναί</string>
+    <string name="no">Όχι</string>
+
+	<string name="unknown">Άγνωστο</string>
+    <string name="hidden">Κρυμμένο</string>
+	<string name="start_recording">Το Call Recorder λειτουργεί!</string>
+    <string name="start_recording_details">Όλες η μελλοντικές κλήσης θα αποθηκεύονται</string>
+    <string name="stop_recording">Ενεργοποίηση εγγραφής!</string>
+    <string name="stop_recording_details">Αυτή τη στιγμή η εγγραφή είναι απενεργοποιημένη.</string>
+
+    <string name="new_call">Νέα κλήση έχει καταγραφεί!</string>
+    <string name="info">Πληροφορίες</string>
+    <string name="faq_title">FAQ (Συχνές Ερωτήσεις)</string>
+    <string name="faq_summary">Συχνές Ερωτήσεις</string>
+    <string name="other_app_title">Όλες οι εφαρμογές</string>
+    <string name="other_app_summary">Απο το Clever Mobile</string>
+
+    <string name="undo">Αναίρεση</string>
+    <string name="deleted">Διαγραμμένα</string>
+
+    <string name="lock">Κλείδωμα</string>
+    <string name="share">Μοιράσου το</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="select_all">Επιλογή όλων</string>
+    <string name="recordings">Ηχογραφήσεις</string>
+    <string name="help">Βοήθεια</string>
+    <string name="hint_tap_on_contact_photo">Πατήστε σε μια φωτογραφία επαφής για να επιλέξετε ένα στοιχείο.</string>
+    <string name="importing_recordings">Εισαγωγή ηχογραφήσεων&#8230;</string>
+
+    <string name="buy">Αγορά</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="pro_description">Η Pro έκδοση περιλαμβάνει:
+        \n - Μοιραστείτε τις εγγραφές
+        \n - Συγχρονισμός Dropbox
+        \n - Google Drive συγχρονισμός
+        \n - Προηγμένες ειδοποιήσεις
+        \n - Χωρίς διαφημίσεις</string>
+
+    <string name="sd_card">SD κάρτα</string>
+    <string name="call_recorder_folder">Φάκελος \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">- Μνήμη σε χρήση</string>
+    <string name="sd_card_free_memory">- Ελεύθερη μνήμη</string>
+    <string name="total_files">- Συνολικά αρχεία</string>
+    <string name="import_recordings">Εισαγωγή ηχογραφήσεων</string>
+    <string name="run_clean_up">Καθαρισμός τώρα</string>
+    <string name="cleaning">Καθαρισμός παλιών ηχογραφήσεων&#8230;</string>
+    <string name="share_via">Μοιραστείτε μέσω&#8230;</string>
+
+    <string name="passcode">Κωδικός πρόσβασης</string>
+    <string name="enable_passcode">Ενεργοποίηση κωδικού πρόσβασης</string>
+    <string name="enable_passcode_description">Προστατέψτε τις εγγραφές σας με τον έλεγχο ταυτότητας κωδικό πρόσβασης κάθε φορά που ξεκινάτε την εφαρμογή</string>
+    <string name="change_passcode">Αλλαγή κωδικού πρόσβασης</string>
+    <string name="passcode_delete_recordings">Διαγραφή των εγγραφών</string>
+    <string name="passcode_delete_recordings_description">Διαγραφή όλων των εγγραφών από αυτή τη συσκευή μετά από 10 αποτυχημένες προσπάθειες του κωδικού πρόσβασης</string>
+    <string name="enter_passcode">Εισάγετε τον κωδικό πρόσβασής</string>
+    <string name="reenter_passcode">Πληκτρολογήστε ξανά τον κωδικό πρόσβασης</string>
+    <string name="enter_old_passcode">Εισάγετε τον παλιό κωδικό πρόσβασης</string>
+    <string name="passcode_did_not_match">Οι κωδικοί πρόσβασης δεν ταιριάζουν. Παρακαλώ προσπάθησε ξανά!</string>
+    <string name="enter_new_passcode">Πληκτρολογήστε τον νέο κωδικό πρόσβασης</string>
+    <string name="reenter_new_passcode">Εισάγετε ξανά το νέο κωδικό πρόσβασης</string>
+    <string name="wrong_passcode">Λάθος κωδικός. Παρακαλώ προσπάθησε ξανά!</string>
+    <string name="exit">Έξοδος</string>
+
+    <string name="cloud">Συγχρονισμός</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Σύνδεση του λογαριασμού Dropbox</string>
+    <string name="dropbox_unlink">Αποσύνδεση λογαριασμού Dropbox</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Σύνδεση του λογαριασμού Google Drive</string>
+    <string name="google_drive_unlink">Αποσύνδεση λογαριασμού Google Drive</string>
+    <string name="connecting_to_google_drive">Σύνδεση με Google Drive</string>
+
+    <string name="login">Σύνδεση</string>
+    <string name="logout">Αποσύνδεση</string>
+    <string name="sync_title">Συγχρονισμός τώρα</string>
+    <string name="sync_summary">Συγχρονισμός όλων των εγγραφών τώρα</string>
+    <string name="wifi_only">WiFi μόνο</string>
+    <string name="wifi_only_when_sync">Συγχρονισμός μόνο όταν είστε συνδεμένοι με WiFi</string>
+
+    <string name="run_pro_question_dlg_description">Προσπαθείτε να εκτελέσετε την ΔΩΡΕΑΝ έκδοση του Call Recorder, αλλά έχετε ήδη εγκαταστήσει το Pro ένα. Θα θέλατε να πάτε με το Pro;</string>
+    <string name="run_pro_question_dlg_title">Εκτέλεση έκδοση Pro</string>
+    <string name="last_recording">Τελευταία εγγραφή</string>
+    <string name="last_recording_problem_description">Κάποιο πρόβλημα συνέβη κατά την τελευταία εγγραφή. Εάν εμφανιστεί αυτό το μήνυμα ξανά, στη συνέχεια, σας παρακαλώ, προσπαθήστε να αλλάξετε τη μορφή αρχείου ή πηγή ήχου στις ρυθμίσεις.</string>
+    <string name="read_instructions">Διαβάστε τις οδηγίες</string>
+    <string name="about">Σχετικά με</string>
+    <string name="translations">Μεταφράσεις</string>
+    <string name="translate">Μετάφραση</string>
+    <string name="help_translate">Βοηθήστε μας με τη μετάφραση στη μητρική σας γλώσσα</string>
+
+    <string name="write_ext_storage_problem_description">Δεν είναι δυνατή η εγγραφή σε εξωτερική αποθήκευση.</string>
+    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days will be deleting automatically</string>
+    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
+    <string name="number_of_days">Number of days</string>
+
+</resources>

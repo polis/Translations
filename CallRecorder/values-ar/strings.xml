@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مسجل المكالمات</string>
+    <string name="sd">الرجاء ادخل بطاقة SD في الهاتف</string>
+    <string name="contact">جهات اتصال</string>
+    <string name="call_time">وقت الاتصال</string>
+    <string name="selected">اختيار</string>
+    <string name="settings">اعدادات</string>
+    <string name="notifications">تنبيهات</string>
+    <string name="notificationStatus_checkbox_title">تمكين التنبيهات</string>
+    <string name="notificationStatus_checkbox_summary">اعرض في شريط التنبيهات بعد كل تسجيل مكالمة</string>
+    <string name="saveRecordQuestion_checkbox_title">هل تريد الحفظ؟</string>
+    <string name="saveRecordQuestion_checkbox_summary">اسأل بعد كل تسجيل مكالمة؟</string>
+    <string name="storage">تحزين</string>
+    <string name="deleteRecord_title">تنظيف تلقائي</string>
+    <string name="deleteRecord_summary">حذف التسجيل</string>
+    <string name="recording">إعدادات التسجيل</string>
+    <string name="audioSource_title">مصدر الصوت</string>
+    <string name="audioSource_summary">اختيار مصدر الصوت</string>
+    <string name="audioChannel_title">قناة الصوت</string>
+    <string name="audioChannel_summary">اختيار قناة الصوت</string>
+    <string name="fileFormat_title">تنسيق ملف</string>
+    <string name="fileFormat_summary">اختيار التنسيق</string>
+    <string name="recordingQuality_title">جودة التسجيل</string>
+    <string name="recordingQuality_summary">اختيار جودة التسجيل</string>
+    <string name="email_subject">المكالمات المسجلة</string>
+    <string name="buy_category_description">الاصدار الكامل</string>
+    <string name="buy_category_title">اشتري الاصدار الكامل</string>
+    <string name="buy_summary">بدون اعلانات ومع مميزات اضافية </string>
+
+    <string name="rate">تقيمك للبرنامج يسعدنا</string>
+    <string name="rateOk">حسنا</string>
+    <string name="rateLater">لاحقا</string>
+    <string name="start_notification">بدء التسجيل </string>
+    <string name="stop_notification">ايقاف التسجيل</string>
+
+    <string name="save_the_call">حفظ المكالمة</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+
+    <string name="unknown">مجهول</string>
+    <string name="hidden">مخفي</string>
+    <string name="start_recording">التسجيل يعمل!</string>
+    <string name="start_recording_details">سيتم حفظ جميع المكالمات</string>
+    <string name="stop_recording">تشغيل التسجيل</string>
+    <string name="stop_recording_details">وضع التسجيل الان مغلق</string>
+
+    <string name="new_call">تم تسجيل مكالمة جديدة</string>
+    <string name="info">معلومات</string>
+    <string name="faq_title">اسئلة متكررة</string>
+    <string name="faq_summary">اسئلة متكررة</string>
+    <string name="other_app_title">كل التطبيقات</string>
+    <string name="other_app_summary">من المصمم</string>
+
+    <string name="undo">تراجع</string>
+    <string name="deleted">تم الحذف</string>
+
+    <string name="lock">غلق</string>
+    <string name="share">مشاركة</string>
+    <string name="delete">حذف</string>
+    <string name="select_all">اختيار الكل</string>
+    <string name="recordings">التسجيلات</string>
+    <string name="help">مساعدة</string>
+    <string name="hint_tap_on_contact_photo">انقر على صورة المتصل لاختيار عنصر</string>
+    <string name="importing_recordings">استيراد التسجيلات</string>
+
+    <string name="buy">شراء</string>
+    <string name="cancel">إلغاء</string>
+    <string name="pro_description">الاصدار الكامل يحتوي:
+        \n -	مشاركة التسجيلات
+        \n -	مزامنة الدروب بوكس
+        \n -	مزامنة جوجل درايف
+        \n -	تنبهات متقدمة
+        \n -	لا مزيد من الاعلانات</string>
+
+    <string name="sd_card">الذاكرة الخارجية</string>
+    <string name="call_recorder_folder">\"CallRecorder\" مجلد </string>
+    <string name="sd_card_memory_occupied">الذاكرة المستخدمة</string>
+    <string name="sd_card_free_memory">الذاكرة المتوفرة</string>
+    <string name="total_files">عدد الملفات</string>
+    <string name="import_recordings">استيراد التسجيلات</string>
+    <string name="run_clean_up">التنظيف التلقائي الان</string>
+    <string name="cleaning">حذف التسجيلات القديمة</string>
+    <string name="share_via">مشاركة ..</string>
+
+    <string name="passcode">الرمز السري</string>
+    <string name="enable_passcode">تمكين الرمز السري</string>
+    <string name="enable_passcode_description">احمي تسجيلاتك مع مصادقة الرمز السري في كل مرة يتم فيها تشغيل التطبيق</string>
+    <string name="change_passcode">تغير الرمز السري</string>
+    <string name="passcode_delete_recordings">حذف التسجيلات</string>
+    <string name="passcode_delete_recordings_description">حذف جميع التسجيلات من الجهاز بعد 10 محاولات خاطئة لادخال الرمز السري</string>
+    <string name="enter_passcode">ادخل الرمز السري</string>
+    <string name="reenter_passcode">اعادة ادخال الرمز السري</string>
+    <string name="enter_old_passcode">ادخل الرمز السري القديم</string>
+    <string name="passcode_did_not_match">الرمز السري غير مطابق. المرجو اعادة المحاولة</string>
+    <string name="enter_new_passcode">ادخل رمز سري جديد</string>
+    <string name="reenter_new_passcode">اعادة ادخال رمز سري جديد</string>
+    <string name="wrong_passcode">الرمز السري خطأ. المرجو اعادة المحاولة</string>
+    <string name="exit">اخرج</string>
+
+    <string name="cloud">مزامنة</string>
+
+    <string name="dropbox">دروب بوكس "Dropbox"</string>
+    <string name="dropbox_link">ربط حسابك بالدروب بوكس</string>
+    <string name="dropbox_unlink">الغاء ربط حسابك بالدروب بوكس</string>
+
+    <string name="google_drive">قوقل درايف</string>
+    <string name="google_drive_link">ربط حسابك بقوقل درايف</string>
+    <string name="google_drive_unlink">الغاء ربط حسابك بقوقل درايف</string>
+    <string name="connecting_to_google_drive">الاتصال على قوقل درايف</string>
+
+    <string name="login">تسجيل الدخول</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="sync_title">مزامنة الآن</string>
+    <string name="sync_summary">مزامنة كل التسجيلات الان</string>
+    <string name="wifi_only">WiFi فقط</string>
+    <string name="wifi_only_when_sync">المزامنة عند الاتصال بالـ WiFi فقط</string>
+
+    <string name="run_pro_question_dlg_description">تحاول تثبيت النسخة المجانية لكن لديك مثبت النسخة الكاملة.هل تريد تبقى مع النسخة الكاملة؟</string>
+    <string name="run_pro_question_dlg_title">تشغيل النسخة الكاملة</string>
+    <string name="last_recording">التسجيل الاخير</string>
+    <string name="last_recording_problem_description">يبدو انه هناك مشكلة في التسجيل الاخير. لو ظهرت هذه المشكلة مرة اخرى ، فحاول تغير نوعية تنسيق الملفات من الاعدادات.</string>
+    <string name="read_instructions">اقرأ التعليمات</string>
+    <string name="about">حول</string>
+    <string name="translations">الترجمة</string>
+    <string name="translate">ترجم</string>
+    <string name="help_translate">ساعدنا في ترجمة التطبيق الى لغتك الأم</string>
+
+    <string name="write_ext_storage_problem_description">لا يمكن الوصول للذاكرة الخارجية</string>
+    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days will be deleting automatically</string>
+    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
+    <string name="number_of_days">Number of days</string>
+
+</resources>

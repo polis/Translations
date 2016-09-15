@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apel Înregistrator</string>
+    <string name="sd">Vă rugăm să introduceți Cardul-MicroSD în telefon!</string>
+    <string name="contact">Contacte</string>
+    <string name="call_time">Timp apelare</string>
+    <string name="selected">selectat</string>
+    <string name="settings">Setări</string>
+    <string name="notifications">Notificări</string>
+    <string name="notificationStatus_checkbox_title">Activare notificări</string>
+    <string name="notificationStatus_checkbox_summary">Afișează în bara de notificare după fiecare apel înregistrat</string>
+    <string name="saveRecordQuestion_checkbox_title">Salvați acest apel?</string>
+    <string name="saveRecordQuestion_checkbox_summary">Întreabă după fiecare apel înregistrat</string>
+    <string name="storage">Depozitare</string>
+    <string name="deleteRecord_title">Curăţare automată</string>
+    <string name="deleteRecord_summary">Șterge înregistrările</string>
+    <string name="recording">Setări de înregistrare</string>
+    <string name="audioSource_title">Sursă audio</string>
+    <string name="audioSource_summary">Selectați sursa audio</string>
+    <string name="audioChannel_title">Canal audio</string>
+    <string name="audioChannel_summary">Selectați canalul audio</string>
+    <string name="fileFormat_title">Tipul de fișier</string>
+    <string name="fileFormat_summary">Selectati tipul de fișier</string>
+    <string name="recordingQuality_title">Calitatea înregistrării</string>
+    <string name="recordingQuality_summary">Selectați calitatea înregistrării</string>
+    <string name="email_subject">Apeluri înregistrate</string>
+	<string name="buy_category_description">Versiunea Pro</string>
+	<string name="buy_category_title">Cumpără Apel Înregistrator versiunea Pro</string>
+	<string name="buy_summary">Fără anunțuri și cu caracteristici suplimentare</string>
+
+	<string name="rate">Vă rog să evaluați această aplicație</string>
+	<string name="rateOk">Bine</string>
+	<string name="rateLater">Mai târziu</string>
+    <string name="start_notification">Call Recording PORNIT</string>
+    <string name="stop_notification">Call Recording OPRIT</string>
+
+    <string name="save_the_call">Salvați acest apel?</string>
+    <string name="yes">Da</string>
+    <string name="no">Nu</string>
+
+    <string name="unknown">Necunoscut</string>
+    <string name="hidden">Ascuns</string>
+    <string name="start_recording">Apel Înregistrator funcționează!</string>
+    <string name="start_recording_details">Toate apelurilele tale vor fi Salvate.</string>
+    <string name="stop_recording">Înregistrare pornită!</string>
+    <string name="stop_recording_details">Înregistratorul este oprit.</string>
+
+    <string name="new_call">Noul apel a fost înregistrat!</string>
+    <string name="info">Informație</string>
+    <string name="faq_title">FAQ(Întrebări frecvente)</string>
+    <string name="faq_summary">Întrebări frecvente</string>
+    <string name="other_app_title">Toate aplicațiile</string>
+    <string name="other_app_summary">Din Clever Mobile</string>
+
+    <string name="undo">Anulare</string>
+    <string name="deleted">Șters</string>
+
+    <string name="lock">Blocare</string>
+    <string name="share">Distribuie</string>
+    <string name="delete">Șterge</string>
+    <string name="select_all">Selectează tot</string>
+    <string name="recordings">Înregistrări</string>
+    <string name="help">Ajutor</string>
+    <string name="hint_tap_on_contact_photo">Apăsați pe o fotografie de contact pentru a selecta un element.</string>
+    <string name="importing_recordings">Se importă înregistrări&#8230;</string>
+
+    <string name="buy">Cumpără</string>
+    <string name="cancel">Anulare</string>
+    <string name="pro_description">Versiunea Pro conține:
+        \n - Partajarea înregistrărilor
+        \n - Sincronizarea cu DropBox
+        \n - Sincronizarea cu GoogleDrive
+        \n - Notificări avansate
+        \n - Fără reclame</string>
+
+    <string name="sd_card">Card MicroSD</string>
+    <string name="call_recorder_folder">Dosarul \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">- Memorie folosită</string>
+    <string name="sd_card_free_memory">- Memorie liberă</string>
+    <string name="total_files">- Fișiere totale</string>
+    <string name="import_recordings">Înregistrări importate</string>
+    <string name="run_clean_up">Curăță acum</string>
+    <string name="cleaning">Curățare înregistrări vechi&#8230;</string>
+    <string name="share_via">Spune-le prietenilor prin&#8230;</string>
+
+    <string name="passcode">Cod de Acces</string>
+    <string name="enable_passcode">Activați Codul de Acces</string>
+    <string name="enable_passcode_description">Protejați-vă înregistrările cu autentificare prin Parolă de fiecare dată când porniți aplicația</string>
+    <string name="change_passcode">Schimbați Parola</string>
+    <string name="passcode_delete_recordings">Șterge înregistrările</string>
+    <string name="passcode_delete_recordings_description">Șterge toate înregistrările din telefon după 10 încercări nereușite de introducere a Codului de Acces</string>
+    <string name="enter_passcode">Intoduceți Parola</string>
+    <string name="reenter_passcode">Re-introduceți Parola</string>
+    <string name="enter_old_passcode">Introduceți Parola veche</string>
+    <string name="passcode_did_not_match">Parolele nu se potrivesc. Vă rugăm să încercați din nou!</string>
+    <string name="enter_new_passcode">Introduceți o Parolă nouă</string>
+    <string name="reenter_new_passcode">Re-introceți Parola nouă</string>
+    <string name="wrong_passcode">Parolă greșită. Vă rugăm să încercați din nou!</string>
+    <string name="exit">Ieșire</string>
+
+    <string name="cloud">Sincronizare</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Legătură la Dropbox - Acont</string>
+    <string name="dropbox_unlink">Deconectare legatură la Dropbox - Acont</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Legătură la Google Drive - Acont</string>
+    <string name="google_drive_unlink">Deconectare legatură la Google Drive - Acont</string>
+    <string name="connecting_to_google_drive">Conectare la Google Drive</string>
+
+    <string name="login">Logare</string>
+    <string name="logout">Delogare</string>
+    <string name="sync_title">Sincronizați acum</string>
+    <string name="sync_summary">Sincronizați acum toate înregistrările</string>
+    <string name="wifi_only">Numai WiFi</string>
+    <string name="wifi_only_when_sync">Sincronizare numai atunci când este conectat la rețeaua WiFi</string>
+
+    <string name="run_pro_question_dlg_description">ți încercat să rulați softul Call Recorder versiunea Free, dar s-a instalat deja versiunea Pro? Vrei să ai v.Pro?</string>
+    <string name="run_pro_question_dlg_title">Rulează versiunea Pro</string>
+    <string name="last_recording">Ultima înregistrare</string>
+    <string name="last_recording_problem_description">Se pare că unele probleme au avut loc în timpul ultimei înregistrări. Dacă acest mesaj apare din nou atunci, vă rugăm, încercați să schimbați formatul/tipul de Fișier sau sursa Audio din pagina cu Setări.</string>
+    <string name="read_instructions">Citiți instrucțiunile</string>
+    <string name="about">Despre</string>
+    <string name="translations">Traduceri</string>
+    <string name="translate">Traduceți</string>
+    <string name="help_translate">Ajutați-ne cu traducerea în limba voastră nativă</string>
+
+    <string name="write_ext_storage_problem_description">Nu se poate scrie în stocarea externă.</string>
+    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days will be deleting automatically</string>
+    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
+    <string name="number_of_days">Number of days</string>
+
+</resources>

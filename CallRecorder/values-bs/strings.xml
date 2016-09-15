@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snimač razgovora</string>
+    <string name="sd">Molim Vas, ubacite SD karticu u telefon!</string>
+    <string name="contact">Kontakti</string>
+    <string name="call_time">Vrijeme poziva</string>
+    <string name="selected">Odabran</string>
+    <string name="settings">Podešavanja</string>
+    <string name="notifications">Obavijesti</string>
+    <string name="notificationStatus_checkbox_title">Omogući obavijesti</string>
+    <string name="notificationStatus_checkbox_summary">Prikaži obavijesti poslije svakog snimljenog poziva</string>
+    <string name="saveRecordQuestion_checkbox_title">Sačuvaj ovaj poziv?</string>
+    <string name="saveRecordQuestion_checkbox_summary">Pitaj poslije svakog snimljenog poziva</string>
+    <string name="storage">Memorija</string>
+    <string name="deleteRecord_title">Automatsko brisanje</string>
+    <string name="deleteRecord_summary">Brisanje snimaka</string>
+    <string name="recording">Podešavanje snimanja</string>
+    <string name="audioSource_title">Izvor zvuka</string>
+    <string name="audioSource_summary">Izaberi izvor zvuka</string>
+    <string name="audioChannel_title">Audio kanal</string>
+    <string name="audioChannel_summary">Odaberi audio kanal</string>
+    <string name="fileFormat_title">Format fajla</string>
+    <string name="fileFormat_summary">Odaberi format fajla</string>
+    <string name="recordingQuality_title">Kvalitet snimka</string>
+    <string name="recordingQuality_summary">Odaberi kvalitetu snimka</string>
+    <string name="email_subject">Snimljeni pozivi</string>
+	<string name="buy_category_description">Pro verzija</string>
+	<string name="buy_category_title">Kupi Pro verziju</string>
+	<string name="buy_summary">Bez reklama sa dodatnim funkcijama</string>
+
+	<string name="rate">Molimo ocijenite aplikaciju</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">Kasnije</string>
+    <string name="start_notification">Snimač razgovora je pokrenut</string>
+    <string name="stop_notification">Snimač razgovora je zaustavljen</string>
+
+    <string name="save_the_call">Sačuvaj ovaj poziv?</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+
+	<string name="unknown">Nepoznat</string>
+    <string name="hidden">Skriven</string>
+	<string name="start_recording">Snimač razgovora radi!</string>
+    <string name="start_recording_details">Svi budući pozivi bit će snimljeni.</string>
+    <string name="stop_recording">Uključi snimanje!</string>
+    <string name="stop_recording_details">Snimanje razgovora je isključeno.</string>
+
+    <string name="new_call">Novi poziv je snimljen!</string>
+    <string name="info">Informacija</string>
+    <string name="faq_title">Često postavljena pitanja</string>
+    <string name="faq_summary">Često postavljena pitanja</string>
+    <string name="other_app_title">Sve aplikacije</string>
+    <string name="other_app_summary">Clever Mobile</string>
+
+    <string name="undo">unazad</string>
+    <string name="deleted">obrisan</string>
+
+    <string name="lock">Zaključaj</string>
+    <string name="share">Podijeli</string>
+    <string name="delete">Obriši</string>
+    <string name="select_all">Odaberi sve</string>
+    <string name="recordings">Snimci</string>
+    <string name="help">Pomoć</string>
+    <string name="hint_tap_on_contact_photo">Klikni na sliku kontakta za odabir.</string>
+    <string name="importing_recordings">Uvezi snimke&#8230;</string>
+
+    <string name="buy">Kupi</string>
+    <string name="cancel">Odustani</string>
+    <string name="pro_description">Pro verzija sadrži:
+        \n - Dijeljenje snimaka
+        \n - Sinhronizaciju sa Dropbox nalogom
+        \n - Sinhronizaciju sa Google Drive nalogom
+        \n - Napredne obavijesti
+        \n - Nema reklama</string>
+
+    <string name="sd_card">SD kartica</string>
+    <string name="call_recorder_folder">Folder \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Korištena memorija</string>
+    <string name="sd_card_free_memory">Slobodna memorija</string>
+    <string name="total_files">Ukupno fajlova</string>
+    <string name="import_recordings">Uvezi snimke</string>
+    <string name="run_clean_up">Čišćenje</string>
+    <string name="cleaning">Čišćenje starih snimaka&#8230;</string>
+    <string name="share_via">Podijeli preko&#8230;</string>
+
+    <string name="passcode">Lozinka</string>
+    <string name="enable_passcode">Omogući lozinku</string>
+    <string name="enable_passcode_description">Zaštitite snimke sa pristupnom lozinkom koju unosite svaki put kada pokrećete aplikaciju</string>
+    <string name="change_passcode">Promijeni lozinku</string>
+    <string name="passcode_delete_recordings">Obriši snimke</string>
+    <string name="passcode_delete_recordings_description">Obriši sve snimke sa aparata poslije 10 neuspješnih unosa lozinke</string>
+    <string name="enter_passcode">Unesi lozinku</string>
+    <string name="reenter_passcode">Ponovo unesi lozinku</string>
+    <string name="enter_old_passcode">Unesi staru lozinku</string>
+    <string name="passcode_did_not_match">Lozinke se ne podudaraju. Molimo vas pokušajte ponovo!</string>
+    <string name="enter_new_passcode">Unesi novu lozinku</string>
+    <string name="reenter_new_passcode">Ponovo unesi novu lozinku</string>
+    <string name="wrong_passcode">Pogrešna lozinka. Pokušajte ponovo!</string>
+    <string name="exit">Izlaz</string>
+
+    <string name="cloud">Sinhronizacija</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Prijavi Dropbox nalog</string>
+    <string name="dropbox_unlink">Odjavi Dropbox nalog</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Prijavi Google Drive nalog</string>
+    <string name="google_drive_unlink">Odjavi Google Drive nalog</string>
+    <string name="connecting_to_google_drive">Povezivanje na Google drive</string>
+
+    <string name="login">Prijava</string>
+    <string name="logout">Odjava</string>
+    <string name="sync_title">Sinhronizuj sada</string>
+    <string name="sync_summary">Sinhronizuj sve snimke sada</string>
+    <string name="wifi_only">Samo uz WiFi vezu</string>
+    <string name="wifi_only_when_sync">Sinhronizacija samo kada ste povezani preko WiFi</string>
+
+    <string name="run_pro_question_dlg_description">Pokušavate da pokrenete Besplatnu verziju ali ste već instalirali Pro verziju. Da li želite da startujete Pro verziju?</string>
+    <string name="run_pro_question_dlg_title">Pokreni Pro verziju</string>
+    <string name="last_recording">Zadnji snimak</string>
+    <string name="last_recording_problem_description">Izgleda da se javio problem prilikom zadnjeg snimka. Ukoliko se ova obavijest pojavi ponovo promijenite format fajla ili izvor zvuka u podešavanju.</string>
+    <string name="read_instructions">Pročitaj uputstvo</string>
+    <string name="about">O autoru</string>
+    <string name="translations">Prevodi</string>
+    <string name="translate">Prevod</string>
+    <string name="help_translate">Pomozite nam da prevedemo aplikaciju na Vaš jezik</string>
+
+    <string name="write_ext_storage_problem_description">Nije moguć upis na eksternu memoriju.</string>
+    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days period will be deleting automatically</string>
+    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
+    <string name="number_of_days">Number of days</string>
+
+</resources>

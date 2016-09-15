@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="deleteInterval">
+        <item name="never">Sosem</item>
+        <item name="2days">2 naptól régebbieket</item>
+        <item name="1week">1 hétnél régebbieket</item>
+        <item name="2weeks">2 hétnél régebbieket</item>
+        <item name="1month">1 hónapnál régebbieket</item>
+    </string-array>   
+    <string-array name="deleteIntervalValues">
+        <item name="never">never</item>
+        <item name="2days">2days</item>
+        <item name="1week">1week</item>
+        <item name="2weeks">2weeks</item>
+        <item name="1month">1month</item>
+    </string-array>
+
+    <string-array name="audioSource">
+        <item name="line">Telefonvonal</item>
+        <item name="mic">Mikrofon</item>
+        <item name="uplink">Saját hang</item>
+        <item name="downlink">Beszélgetőpartner hangja</item>
+        <item name="communication">közlés</item>
+    </string-array>
+    <string-array name="audioSourceValues">
+        <item name="line">line</item>
+        <item name="mic">mic</item>
+        <item name="uplink">uplink</item>
+        <item name="downlink">downlink</item>
+        <item name="communication">communication</item>
+    </string-array>
+
+    <string-array name="audioChannel">
+        <item name="stereo">Sztereó</item>
+        <item name="mono">Monó</item>
+    </string-array>
+    <string-array name="audioChannelValues">
+        <item name="stereo">stereo</item>
+        <item name="mono">mono</item>
+    </string-array>
+
+    <string-array name="recordingQuality">
+        <item name="high">Magas</item>
+        <item name="medium">Közepes</item>
+        <item name="low">Alacsony</item>
+        <item name="poor">Leggyengébb</item>
+    </string-array>
+    <string-array name="recordingQualityValues">
+        <item name="high">44100</item>
+        <item name="medium">22050</item>
+        <item name="low">11025</item>
+        <item name="verylow">8000</item>
+    </string-array>
+
+    <string-array name="fileFormat">
+        <item name="mp3">mp3</item>
+        <item name="3gp">3gp</item>
+        <item name="mp4">mp4</item>
+        <item name="wav">wav</item>
+
+    </string-array>
+    <string-array name="fileFormatValues">
+        <item name="mp3">mp3</item>
+        <item name="3gp">3gp</item>
+        <item name="mp4">mp4</item>
+        <item name="wav">wav</item>
+    </string-array>
+    
+</resources>

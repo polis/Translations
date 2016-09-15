@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Çağrı Kaydedici</string>
+    <string name="sd">Lütfen telefona SD kart takın!</string>
+    <string name="contact">Kişiler</string>
+    <string name="call_time">Çağrı zamanı</string>
+    <string name="selected">seçildi</string>
+    <string name="settings">Ayarlar</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="notificationStatus_checkbox_title">Bildirimleri etkinleştir</string>
+    <string name="notificationStatus_checkbox_summary">Her çağrı kaydından sonra bildirim çubuğunda göster</string>
+    <string name="saveRecordQuestion_checkbox_title">Bu çağrı kaydedilsin mi?</string>
+    <string name="saveRecordQuestion_checkbox_summary">Her çağrı kaydından sonra sor</string>
+    <string name="storage">Depolama</string>
+    <string name="deleteRecord_title">Otomatik temizleme</string>
+    <string name="deleteRecord_summary">Kayıtları sil</string>
+    <string name="recording">Kayıt ayarları</string>
+    <string name="audioSource_title">Ses kaynağı</string>
+    <string name="audioSource_summary">Ses kaynağını seçin</string>
+    <string name="audioChannel_title">Ses kanalı</string>
+    <string name="audioChannel_summary">Ses kanalını seçin</string>
+    <string name="fileFormat_title">Dosya biçimi</string>
+    <string name="fileFormat_summary">Dosya biçimini seçin</string>
+    <string name="recordingQuality_title">Kayıt kalitesi</string>
+    <string name="recordingQuality_summary">Kayıt kalitesini seçin.</string>
+    <string name="email_subject">Kayıtlı çağrılar</string>
+	<string name="buy_category_description">Pro sürüm</string>
+	<string name="buy_category_title">Çağrı Kaydedici Pro sürümünü satın al</string>
+	<string name="buy_summary">Reklamsız ve ek özelliklerle</string>
+
+	<string name="rate">Lütfen bu uygulamayı değerlendirin</string>
+	<string name="rateOk">Tamam</string>
+	<string name="rateLater">Sonra</string>
+    <string name="start_notification">Çağrı Kaydı Başlatıldı</string>
+    <string name="stop_notification">Çağrı Kaydı Durduruldu</string>
+
+    <string name="save_the_call">Bu çağrı kaydedilsin mi?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+
+	<string name="unknown">Bilinmeyen</string>
+	<string name="hidden">Gizli</string>
+	<string name="start_recording">Çağrı Kaydedici çalışıyor!</string>
+    <string name="start_recording_details">Bundan sonra tüm çağrılarınız kaydedilecek.</string>
+    <string name="stop_recording">Kaydı başlat!</string>
+    <string name="stop_recording_details">Kaydedici kapatılmış durumda.</string>
+
+    <string name="new_call">Yeni çağrı kaydedildi!</string>
+    <string name="info">Bilgi</string>
+    <string name="faq_title">SSS (Sıkça Sorulan Sorular)</string>
+    <string name="faq_summary">Sıkça Sorulan Sorular</string>
+    <string name="other_app_title">Tüm uygulamalar</string>
+    <string name="other_app_summary">Clever Mobile\'dan</string>
+
+    <string name="undo">geri al</string>
+    <string name="deleted">silindi</string>
+
+    <string name="lock">Kilitle</string>
+    <string name="share">Paylaş</string>
+    <string name="delete">Sil</string>
+    <string name="select_all">Tümünü seç</string>
+    <string name="recordings">Kayıtlar</string>
+    <string name="help">Yardım</string>
+    <string name="hint_tap_on_contact_photo">Bir öğeyi seçmek için kişinin fotoğrafına tıkla.</string>
+    <string name="importing_recordings">Kayıtlar içe aktarılıyor&#8230;</string>
+
+    <string name="buy">Satın al</string>
+    <string name="cancel">İptal</string>
+    <string name="pro_description">Pro sürümün içerdikleri:
+        \n - Kayıtları paylaşma
+        \n - Dropbox eşitlemesi
+        \n - Google Drive eşitlemesi
+        \n - Gelişmiş bildirimler
+        \n - Reklam yok</string>
+
+    <string name="sd_card">SD kart</string>
+    <string name="call_recorder_folder">\"CallRecorder\" dizini</string>
+    <string name="sd_card_memory_occupied">- Kullanılan hafıza</string>
+    <string name="sd_card_free_memory">- Boş hafıza</string>
+    <string name="total_files">- Toplam dosya</string>
+    <string name="import_recordings">Kayıtları içe aktar</string>
+    <string name="run_clean_up">Şimdi temizle</string>
+    <string name="cleaning">Eski kayıtları temizliyor&#8230;</string>
+    <string name="share_via">&#8230; ile paylaş</string>
+
+    <string name="passcode">Parola</string>
+    <string name="enable_passcode">Parolayı doğrula</string>
+    <string name="enable_passcode_description">Uygulamayı her açtığında parola doğrulaması ile kayıtlarını koru</string>
+    <string name="change_passcode">Parolayı değiştir</string>
+    <string name="passcode_delete_recordings">Kayıtları sil</string>
+    <string name="passcode_delete_recordings_description">10 defa parola yanlış girildiğinde tüm kayıtları bu cihazdan sil</string>
+    <string name="enter_passcode">Parolayı gir</string>
+    <string name="reenter_passcode">Parolayı yeniden gir</string>
+    <string name="enter_old_passcode">Eski parolayı gir</string>
+    <string name="passcode_did_not_match">Parolalar uyuşmuyor. Lütfen tekrar dene.</string>
+    <string name="enter_new_passcode">Yeni parolayı gir</string>
+    <string name="reenter_new_passcode">Yeni parolayı yeniden gir</string>
+    <string name="wrong_passcode">Hatalı parola. Lütfen tekrar dene!</string>
+    <string name="exit">Çıkış</string>
+
+    <string name="cloud">Eşitleme</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Dropbox hesabı bağla</string>
+    <string name="dropbox_unlink">Dropbox hesap bağlantısını kaldır</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Google Drive hesabı bağla</string>
+    <string name="google_drive_unlink">Google Drive hesap bağlantısını kaldır</string>
+    <string name="connecting_to_google_drive">Google Drive\'a bağlanıyor</string>
+
+    <string name="login">Giriş Yap</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="sync_title">Şimdi eşitle</string>
+    <string name="sync_summary">Tüm kayıtları şimdi eşitle</string>
+    <string name="wifi_only">Sadece WiFi</string>
+    <string name="wifi_only_when_sync">Sadece WiFi ile bağlanıldığında eşitle</string>
+
+    <string name="run_pro_question_dlg_description">Çağrı Kaydedicinin ücretsiz sürümünü çalıştırmayı deniyorsun ama Pro zaten yüklü. Pro\'ya gitmek istiyor musun?</string>
+    <string name="run_pro_question_dlg_title">Pro sürümünü çalıştır</string>
+    <string name="last_recording">Son kayıtlar</string>
+    <string name="last_recording_problem_description">Son kayıt esnasında bir problem oluştu. Eğer bu mesaj tekrar görüntülenirse lütfen Ayarlardan dosya biçimini ya da Ses kaynağını değiştirmeyi dene.</string>
+    <string name="read_instructions">Talimatları oku</string>
+    <string name="about">Hakkında</string>
+    <string name="translations">Çeviriler</string>
+    <string name="translate">Çevir</string>
+    <string name="help_translate">Yerel lisanınıza çevirmemizde bize yardım et</string>
+
+    <string name="write_ext_storage_problem_description">Harici depolamaya yazılamadı.</string>
+    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days will be deleting automatically</string>
+    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
+    <string name="number_of_days">Number of days</string>
+
+</resources>

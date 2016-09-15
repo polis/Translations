@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Enregistreur d\'appel</string>
+    <string name="sd">Veuillez, insérer la carte SD dans le téléphone!</string>
+    <string name="contact">Contacts</string>
+    <string name="call_time">Heure d\’appel</string>
+    <string name="selected">sélectionné</string>
+    <string name="settings">Paramètres</string>
+    <string name="notifications">Notification</string>
+    <string name="notificationStatus_checkbox_title">Activer les notifications</string>
+    <string name="notificationStatus_checkbox_summary">Afficher la barre de notification, après chaque appel enregistré.</string>
+    <string name="saveRecordQuestion_checkbox_title">Enregistrer cet appel?</string>
+    <string name="saveRecordQuestion_checkbox_summary">Demandez après chaque appel enregistré</string>
+    <string name="storage">Stockage</string>
+    <string name="deleteRecord_title">Nettoyage automatique</string>
+    <string name="deleteRecord_summary">supprimer des enregistrements</string>
+    <string name="recording">Paramètres d\'enregistrement</string>
+    <string name="audioSource_title">Source audio</string>
+    <string name="audioSource_summary">Sélectionnez  la  source audio </string>
+    <string name="audioChannel_title">Canal audio</string>
+    <string name="audioChannel_summary">Sélectionnez le canal audio</string>
+    <string name="fileFormat_title">Format de fichier</string>
+    <string name="fileFormat_summary">Sélectionnez le format de fichier</string>
+    <string name="recordingQuality_title">Qualité d\'enregistrement</string>
+    <string name="recordingQuality_summary">Sélectionnez la qualité d\'enregistrement</string>
+    <string name="email_subject">Appels enregistrés</string>
+	<string name="buy_category_description">Version Pro</string>	
+	<string name="buy_category_title">Acheter Enregistreur d\'appel version Pro</string>
+	<string name="buy_summary">Version sans publicité et avec des fonctionnalités supplémentaires</string>
+
+    <string name="rate">Merci de, votez pour cette application</string>
+    <string name="rateOk">D\'accord</string>
+    <string name="rateLater">Plus tard</string>
+    <string name="start_notification">Début d\'enregistrement de l\'appel</string>
+    <string name="stop_notification">L\' enregistreur  d\'appel s\' est arrêté</string>
+
+    <string name="save_the_call">Enregistrer cet appel?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+
+    <string name="unknown">Inconnu</string>
+	<string name="hidden">Caché</string>
+    <string name="start_recording">Enregistreur d\'appel fonctionne!</string>
+    <string name="start_recording_details">Tous vos  appels seront enregistrés.</string>
+    <string name="stop_recording">Activer l\'enregistrement!</string>
+    <string name="stop_recording_details">Actuellement l\'enregistreur est éteint.</string>
+
+    <string name="new_call">Ce nouvel appel a été enregistrée!</string>
+    <string name="info">Informations</string>
+    <string name="faq_title">FAQ (Foire Aux Questions)</string>
+    <string name="faq_summary">Questions fréquentes</string>
+    <string name="other_app_title">Toutes les applications</string>
+    <string name="other_app_summary">De Clever mobile</string>
+
+    <string name="undo">annuler</string>
+    <string name="deleted">supprimé</string>
+
+    <string name="lock">Bloquer</string>
+    <string name="share">Partager</string>
+    <string name="delete">Effacer</string>
+    <string name="select_all">Tous sélectionner</string>
+    <string name="recordings">Enregistrements</string>
+    <string name="help">Aidez-moi</string>
+    <string name="hint_tap_on_contact_photo">Tapez sur une photo de contact pour sélectionner un élément.</string>
+    <string name="importing_recordings">Importation des enregistrements&#8230;</string>
+
+    <string name="buy">Acheter</string>
+    <string name="cancel">Annuler</string>
+    <string name="pro_description">Contenu de la version Pro:
+        \n - Partagez vos enregistrements
+        \n - Synchronisation Dropbox
+        \n - Synchronisation Google Drive
+        \n - Notifications avancée
+        \n - Pas de pub</string>
+
+    <string name="sd_card">Carte SD</string>
+    <string name="call_recorder_folder">Dossier \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">- Mémoire utilisée</string>
+    <string name="sd_card_free_memory">- Mémoire libre</string>
+    <string name="total_files">- Total des fichiers</string>
+    <string name="import_recordings">Importation des enregistrements</string>
+    <string name="run_clean_up">Nettoyage manuel</string>
+    <string name="cleaning">Nettoyer les anciens enregistrements</string>
+    <string name="share_via">Partager via</string>
+
+    <string name="passcode">Protection</string>
+    <string name="enable_passcode">Protection par code</string>
+    <string name="enable_passcode_description">Protégez vos enregistrements avec l\'authentification du code, à chaque démarrage l\'application.</string>
+    <string name="change_passcode">Changement du code</string>
+    <string name="passcode_delete_recordings">Effacer les enregistrements</string>
+    <string name="passcode_delete_recordings_description">Suppression de tous les enregistrements après 10 tentatives infructueuses du code.</string>
+    <string name="enter_passcode">Entrez le code</string>
+    <string name="reenter_passcode">Ré-entrez le code</string>
+    <string name="enter_old_passcode">Entrez l\'ancien code</string>
+    <string name="passcode_did_not_match">Les codes ne correspondent pas. Essayez a nouveau!</string>
+    <string name="enter_new_passcode">Entrez un nouveau code</string>
+    <string name="reenter_new_passcode">Retaper le nouveau code</string>
+    <string name="wrong_passcode">Code incorrect. Essayez de nouveau!</string>
+    <string name="exit">Sortie</string>
+
+    <string name="cloud">Synchronisation</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Liez avec votre Compte Dropbox</string>
+    <string name="dropbox_unlink">Délier de votre compte Dropbox</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Liez avec votre compte Google Drive</string>
+    <string name="google_drive_unlink">Délier de votre compte Google Drive</string>
+    <string name="connecting_to_google_drive">Connexion à Google Drive</string>
+
+    <string name="login">Connexion</string>
+    <string name="logout">Déconnexion</string>
+    <string name="sync_title">Synchronisé maintenant</string>
+    <string name="sync_summary">Synchroniser tous les dossiers maintenant</string>
+    <string name="wifi_only">Seulement par Wifi</string>
+    <string name="wifi_only_when_sync">Synchroniser uniquement par WiFi</string>
+
+    <string name="run_pro_question_dlg_description">Vous essayez d\'exécuter la version gratuite de Call Recorder, mais vous avez déjà installé la Pro. Voulez-vous continuez avec la version Pro?</string>
+    <string name="run_pro_question_dlg_title">Exécuter la version Pro</string>
+    <string name="last_recording">Dernier enregistrement</string>
+    <string name="last_recording_problem_description">Un problème est survenu lors du dernier enregistrement. Si ce message apparaît à nouveau, essayez de changer le format de fichier ou la source audio dans les réglages.</string>
+    <string name="read_instructions">Lisez les instructions</string>
+    <string name="about">A Propos</string>
+    <string name="translations">Traductions</string>
+    <string name="translate">Traduire</string>
+    <string name="help_translate">Aidez-nous à traduire dans votre langue natale</string>
+
+    <string name="write_ext_storage_problem_description">Impossible d\'écrire sur le stockage externe.</string>
+    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days will be deleting automatically</string>
+    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
+    <string name="number_of_days">Number of days</string>
+    				
+</resources>
