@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">Opkalds Optager</string>
     <string name="sd">Indsæt venligst et SD kort i telefonen!</string>
@@ -9,7 +9,7 @@
     <string name="notifications">Notifikationer</string>
     <string name="notificationStatus_checkbox_title">Slå notifikationer til</string>
     <string name="notificationStatus_checkbox_summary">Vis notifikation efter optagelse</string>
-    <string name="saveRecordQuestion_checkbox_title">Bekræftelsesdialog</string>
+    <string name="saveRecordQuestion_checkbox_title">Save this call?</string>
     <string name="saveRecordQuestion_checkbox_summary">Vis dialog efter opkald</string>
     <string name="storage">Lager</string>
     <string name="deleteRecord_title">Automatisk sletning</string>
@@ -62,7 +62,7 @@
     <string name="recordings">Recordings</string>
     <string name="help">Help</string>
     <string name="hint_tap_on_contact_photo">Tap on a contact photo to select an item.</string>
-    <string name="importing_recordings">Importing recordings&#8230;</string>
+    <string name="importing_recordings">Importing recordings…</string>
 
     <string name="buy">Buy</string>
     <string name="cancel">Cancel</string>
@@ -80,8 +80,8 @@
     <string name="total_files">Total files</string>
     <string name="import_recordings">Import recordings</string>
     <string name="run_clean_up">Clean up now</string>
-    <string name="cleaning">Cleaning old recordings&#8230;</string>
-    <string name="share_via">Share via&#8230;</string>
+    <string name="cleaning">Cleaning old recordings…</string>
+    <string name="share_via">Share via…</string>
 
     <string name="passcode">Passcode</string>
     <string name="enable_passcode">Enable passcode</string>
