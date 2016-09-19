@@ -1,4 +1,5 @@
-﻿<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
     <string name="app_name">Менеджер гучності</string>
     <string name="volume">Гучність</string>
@@ -58,7 +59,7 @@
 
     <string name="info">Інформація</string>
     <string name="faq_title">Часті запитання (FAQ)</string>
-    <string name="faq_summary">Перейти до FAQ сторінки Запису дзвінків</string>
+    <string name="faq_summary">Часті запитання</string>
     <string name="other_app_title">Усі аплікаціїї від Clever Mobile</string>
     <string name="other_app_summary">У Goodle Play маркеті</string>
     <string name="about">Про програму</string>
