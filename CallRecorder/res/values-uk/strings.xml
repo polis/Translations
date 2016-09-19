@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Запис дзвінків</string>
     <string name="sd">Будь-ласка, вставте SD карту в телефон!</string>
     <string name="contact">Контакти</string>
