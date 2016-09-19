@@ -45,7 +45,9 @@
     <string name="wifi">WiFi точки</string>
     <string name="add_wifi">Виберіть WiFi точку та Профіль гучності</string>
     <string name="wifi_connecting">WiFi вмикається!</string>
-    <string name="no_wifi_spots">Будь ласка, переконайтесь що:/n1.WiFi включено./n2.Хоча б одна WiFi точка збережена у конфігурації WiFi вашого телефону.</string>
+    <string name="no_wifi_spots">Будь ласка, переконайтесь що:
+1. WiFi включено.
+2. Хоча б одна WiFi точка збережена у конфігурації WiFi вашого телефону.</string>
     <string name="on_disconnect">При від\'єданні від WiFi точки</string>
 
     <string name="help">Допомога</string>
