@@ -1,6 +1,7 @@
-<resources>
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
-    <string name="app_name">Quản Lý Âm Lượng Pro</string>
+    <string name="app_name">Quản Lý Âm Lượng</string>
     <string name="volume">Âm lượng</string>
     <string name="profiles">Hồ sơ cá nhân</string>
     <string name="profile_add">Thêm hồ sơ mới</string>

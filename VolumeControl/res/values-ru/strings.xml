@@ -1,4 +1,4 @@
-<resources>
+﻿<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
     <string name="app_name">Менеджер громкости</string>
     <string name="volume">Громкость</string>
@@ -56,7 +56,7 @@
     <string name="buy_category_description">Про версия</string>
     <string name="buy_category_title">Купить Менеджер громкости Про</string>
 
-    <string name="info">Інформация</string>
+    <string name="info">Информация</string>
     <string name="faq_title">Часто задаваемые вопросы (FAQ)</string>
     <string name="faq_summary">Перейти к FAQ странице для Записи звонков</string>
     <string name="other_app_title">Все программы от Clever Mobile</string>
