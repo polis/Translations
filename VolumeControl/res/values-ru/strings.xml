@@ -1,4 +1,5 @@
-﻿<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
     <string name="app_name">Менеджер громкости</string>
     <string name="volume">Громкость</string>
@@ -58,7 +59,7 @@
 
     <string name="info">Информация</string>
     <string name="faq_title">Часто задаваемые вопросы (FAQ)</string>
-    <string name="faq_summary">Перейти к FAQ странице для Записи звонков</string>
+    <string name="faq_summary">Перейти к FAQ</string>
     <string name="other_app_title">Все программы от Clever Mobile</string>
     <string name="other_app_summary">В Google Play</string>
     <string name="about">О программе</string>
