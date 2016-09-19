@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
     <string name="app_name">Volume Control</string>
@@ -44,7 +45,9 @@
     <string name="wifi">WiFi Spots</string>
     <string name="add_wifi">Select WiFi spot and volume Profile</string>
     <string name="wifi_connecting">WiFi is turning On!</string>
-    <string name="no_wifi_spots">Please, make sure that:/n1.WiFi is turned on./n2.At least one WiFi spot is stored in WiFi Networks config of your phone</string>
+    <string name="no_wifi_spots">Please, make sure that:
+1. WiFi is turned on.
+2. At least one WiFi spot is stored in WiFi Networks config of your phone.</string>
     <string name="on_disconnect">On disconnect from WiFi spot</string>
 
     <string name="help">Help</string>
