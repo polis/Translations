@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="app_name">Quản Lý Âm Lượng Pro</string>
+    <string name="volume">Âm lượng</string>
+    <string name="profiles">Hồ sơ cá nhân</string>
+    <string name="profile_add">Thêm hồ sơ mới</string>
+    <string name="profile_edit">Sửa hồ sơ</string>
+    <string name="toast_enter_profile_name">Xin nhập tên hồ sơ.</string>    
+    <string name="text_create_profile">Xin thêm hồ sơ trước!</string>    
+    <string name="scheduler">Lịch trình</string>    
+    <string name="location">Địa điểm</string>          
+    
+    <string name="tap_hint_text">Bấm để nhập tên</string>       
+    <string name="button_Save">Lưu</string>    
+    <string name="button_Cancel">Huỷ</string>       
+    <string name="dialog_button_OK">OK</string>       
+    <string name="dialog_delete_profile_title">Xoá hồ sơ</string>       
+    <string name="dialog_delete_profile_message">Tất lịch trình, địa điểm và các điểm WiFi đã lưu trong hồ sơ này sẽ bị xóa. Bạn có muốn tiếp tục?</string>            
+    
+    <string name="ringTitle">Chuông</string>
+    <string name="musicTitle">Đa phương tiện</string>
+    <string name="voiceCallTitle">Cuộc gọi thoại</string>
+    <string name="alarmTitle">Chuông báo</string>
+    <string name="notificationTitle">Thông báo</string>
+    <string name="systemTitle">Hệ thống</string>
+    
+    <string name="radio_silent">Im lặng</string>
+    <string name="radio_normal">Bình thường</string>
+    <string name="radio_vibrate">Rung</string>
+    
+    <string name="location_select">Chọn địa điểm</string>
+    <string name="location_name">Tên địa điểm</string>
+    <string name="marker_info">Đến đây</string>
+    <string name="toast_set_location">Xin hãy đặt điểm đánh dấu trên bản đồ.</string>
+    <string name="toast_enter_location_name">Xin hãy nhập tên địa điểm.</string>
+    <string name="edit">Sửa</string>
+
+    <string name="text_buy_pro">Chức năng này có sẵn trong phiên bản Pro!</string>
+    <string name="button_buy_pro">Mua phiên bản Pro</string>
+	<string name="rate">Vui lòng đánh giá ứng dụng</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">Sau</string>
+    
+    <string name="wifi">Điểm WiFi</string>
+    <string name="add_wifi">Chọn điểm WiFi và điều chỉnh Hồ sơ </string>   
+    <string name="wifi_connecting">WiFi đang bật!</string>   
+    <string name="no_wifi_spots">Vui lòng đảm bảo rằng:/n1.WiFi đã được bật./n2.Ít nhất một điểm WiFi được lưu trữ trong cấu hình Mạng WiFi của điện thoại</string>
+
+</resources>
