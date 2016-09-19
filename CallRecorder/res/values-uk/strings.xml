@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">Запис дзвінків</string>
     <string name="sd">Будь-ласка, вставте SD карту в телефон!</string>
@@ -40,9 +40,9 @@
 	<string name="unknown">Невідомий</string>
 	<string name="hidden">Прихований</string>	    
     <string name="start_recording">Запис дзвінків розпочато!</string>    
-    <string name="start_recording_details">Усі наступні дзвінки будуть записані. Запис дзвінків увімкнено!</string>
+    <string name="start_recording_details">Усі наступні дзвінки будуть записані.</string>
     <string name="stop_recording">Увімкніть запис дзвінків!</string>    
-    <string name="stop_recording_details">Функція запису дзвінків вимкненна. Запис дзвінків вимкнено!</string>
+    <string name="stop_recording_details">Функція запису дзвінків вимкненна.</string>
 
     <string name="new_call">Нову розмову було записано!</string>    
     <string name="info">Інформація</string>       
@@ -61,7 +61,7 @@
     <string name="recordings">Записи</string>
     <string name="help">Допомога</string>
     <string name="hint_tap_on_contact_photo">Натисніть на фото контакту щоб виділити запис.</string>
-    <string name="importing_recordings">Записи імпортуються&#8230;</string>
+    <string name="importing_recordings">Записи імпортуються…</string>
 
     <string name="buy">Купити</string>
     <string name="cancel">Відміна</string>
@@ -80,8 +80,8 @@
     <string name="total_files">Кількість файлів</string>
     <string name="import_recordings">Імпортувати записи</string>
     <string name="run_clean_up">Очистити зараз</string>
-    <string name="cleaning">Очистка старих записів&#8230;</string>
-    <string name="share_via">Поділитись через&#8230;</string>
+    <string name="cleaning">Очистка старих записів…</string>
+    <string name="share_via">Поділитись через…</string>
 
     <string name="passcode">Пароль</string>
     <string name="enable_passcode">Увімкнути пароль</string>
