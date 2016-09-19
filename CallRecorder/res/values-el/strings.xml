@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Call Recorder</string>
     <string name="sd">Παρακαλώ, εισάγετε την κάρτα SD στο τηλέφωνο!</string>
     <string name="contact">Επαφές</string>
@@ -127,9 +127,5 @@
     <string name="help_translate">Βοηθήστε μας με τη μετάφραση στη μητρική σας γλώσσα</string>
 
     <string name="write_ext_storage_problem_description">Δεν είναι δυνατή η εγγραφή σε εξωτερική αποθήκευση.</string>
-    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
-    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days will be deleting automatically</string>
-    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
-    <string name="number_of_days">Number of days</string>
 
 </resources>

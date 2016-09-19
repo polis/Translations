@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Snimač razgovora</string>
     <string name="sd">Molim Vas, ubacite SD karticu u telefon!</string>
     <string name="contact">Kontakti</string>
@@ -127,9 +127,9 @@
     <string name="help_translate">Pomozite nam da prevedemo aplikaciju na Vaš jezik</string>
 
     <string name="write_ext_storage_problem_description">Nije moguć upis na eksternu memoriju.</string>
-    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
-    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days period will be deleting automatically</string>
-    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
-    <string name="number_of_days">Number of days</string>
+    <string name="allow_to_write_to_sd_card">Dopusti pisanje na SD karticu</string>
+    <string name="delete_recordings_older_then_selected_days">Sve snimke starije od odabranog perioda će biti automatski obrisane</string>
+    <string name="delete_recordings_on_uninstall">To će obrisati sve snimke ako deinstalirate aplikaciju Call Recorder</string>
+    <string name="number_of_days">Broj dana</string>
 
 </resources>
