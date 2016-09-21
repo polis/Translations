@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Enregistreur d\'appel</string>
     <string name="sd">Veuillez, insérer la carte SD dans le téléphone!</string>
@@ -62,7 +62,7 @@
     <string name="recordings">Enregistrements</string>
     <string name="help">Aidez-moi</string>
     <string name="hint_tap_on_contact_photo">Tapez sur une photo de contact pour sélectionner un élément.</string>
-    <string name="importing_recordings">Importation des enregistrements&#8230;</string>
+    <string name="importing_recordings">Importation des enregistrements…</string>
 
     <string name="buy">Acheter</string>
     <string name="cancel">Annuler</string>
@@ -80,8 +80,8 @@
     <string name="total_files">- Total des fichiers</string>
     <string name="import_recordings">Importation des enregistrements</string>
     <string name="run_clean_up">Nettoyage manuel</string>
-    <string name="cleaning">Nettoyer les anciens enregistrements</string>
-    <string name="share_via">Partager via</string>
+    <string name="cleaning">Nettoyer les anciens enregistrements…</string>
+    <string name="share_via">Partager via…</string>
 
     <string name="passcode">Protection</string>
     <string name="enable_passcode">Protection par code</string>
