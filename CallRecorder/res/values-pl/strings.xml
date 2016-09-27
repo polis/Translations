@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Nagranie Rozmów</string>
     <string name="sd">Proszę włożyć kartę SD do telefonu!</string>
@@ -9,7 +9,7 @@
     <string name="notifications">Powiadomienia</string>
     <string name="notificationStatus_checkbox_title">Włącz powiadomienia</string>
     <string name="notificationStatus_checkbox_summary">Wyświetlaj wyskakujące powiadomienia</string>
-    <string name="saveRecordQuestion_checkbox_title">Dialogowe potwierdzenia</string>
+    <string name="saveRecordQuestion_checkbox_title">Zapisać rozmowę?</string>
     <string name="saveRecordQuestion_checkbox_summary">Pokaż okno po wywołaniu</string>
     <string name="storage">Karta SD</string>
     <string name="deleteRecord_title">Automatyczne usuwanie</string>
@@ -63,7 +63,7 @@
     <string name="recordings">Nagrania</string>
     <string name="help">Pomoc</string>
     <string name="hint_tap_on_contact_photo">Kliknij na zdjęcie kontaktu aby wybrać nagranie.</string>
-    <string name="importing_recordings">Importować nagrania&#8230;</string>
+    <string name="importing_recordings">Importować nagrania…</string>
 
     <string name="buy">Kupić</string>
     <string name="cancel">Wstecz</string>
@@ -81,8 +81,8 @@
     <string name="total_files">- Wszystkich plików</string>
     <string name="import_recordings">Importowanie nagrań</string>
     <string name="run_clean_up">Oczyść teraz</string>
-    <string name="cleaning">Oczyść stare nagrania&#8230;</string>
-    <string name="share_via">Udostępnij przez&#8230;</string>
+    <string name="cleaning">Oczyść stare nagrania…</string>
+    <string name="share_via">Udostępnij przez…</string>
 
     <string name="passcode">Hasło</string>
     <string name="enable_passcode">Aktywuj hasło</string>
