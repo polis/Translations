@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="deleteInterval">
-        <item name="never">Nikdy</item>
-        <item name="2days">Staršie ako 2 dni</item>
-        <item name="1week">Staršie ako 1 týždeň</item>
-        <item name="2weeks">Staršie ako 2 týždne</item>
-        <item name="1month">Staršie ako mesiac</item>
-    </string-array>   
-    <string-array name="deleteIntervalValues">
-        <item name="never">never</item>
-        <item name="2days">2days</item>
-        <item name="1week">1week</item>
-        <item name="2weeks">2weeks</item>
-        <item name="1month">1month</item>
-    </string-array>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
     <string-array name="audioSource">
         <item name="line">Telefónna linka</item>
@@ -39,31 +25,25 @@
         <item name="mono">mono</item>
     </string-array>
 
-    <string-array name="recordingQuality">
-        <item name="high">Vysoká</item>
-        <item name="medium">Stredná</item>
-        <item name="low">Nízka</item>
-        <item name="poor">Hrozná</item>
+    <string-array name="fileAudioFormat">
+        <item name="amr">amr</item>
+        <item name="mp3">mp3</item>
+        <item name="wav">wav</item>
     </string-array>
-    <string-array name="recordingQualityValues">
-        <item name="high">44100</item>
-        <item name="medium">22050</item>
-        <item name="low">11025</item>
-        <item name="verylow">8000</item>
+    <string-array name="fileAudioFormatValues">
+        <item name="amr">amr</item>
+        <item name="mp3">mp3</item>
+        <item name="wav">wav</item>
     </string-array>
 
-    <string-array name="fileFormat">
-        <item name="mp3">mp3</item>
+    <string-array name="fileMediaFormat">
         <item name="3gp">3gp</item>
         <item name="mp4">mp4</item>
-        <item name="wav">wav</item>
 
     </string-array>
-    <string-array name="fileFormatValues">
-        <item name="mp3">mp3</item>
+    <string-array name="fileMediaFormatValues">
         <item name="3gp">3gp</item>
         <item name="mp4">mp4</item>
-        <item name="wav">wav</item>
     </string-array>
     
 </resources>
