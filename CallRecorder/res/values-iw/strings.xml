@@ -45,7 +45,7 @@
     <string name="stop_recording">הפעל הקלטה</string>
     <string name="stop_recording_details">כרגע המקליט כבוי</string>
 
-<string name="new_call">שיחה חדשה הוקלטה!</string>    
+    <string name="new_call">שיחה חדשה הוקלטה!</string>
     <string name="info">מידע</string>       
     <string name="faq_summary">שאלות נפוצות</string>
     <string name="other_app_title">כל האפליקציות</string>
