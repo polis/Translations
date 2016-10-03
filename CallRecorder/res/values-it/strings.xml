@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Registratore di Chiamata</string>
     <string name="sd">Per favore, inserisci la SD card nel telefono!</string>
@@ -62,7 +62,7 @@
     <string name="recordings">Registrazioni</string>
     <string name="help">Aiuto</string>
     <string name="hint_tap_on_contact_photo">Tocca sulla foto del contatto per selezionare un oggetto.</string>
-    <string name="importing_recordings">Importazione registrazioni&#8230;</string>
+    <string name="importing_recordings">Importazione registrazioni…</string>
 
     <string name="buy">Acquista</string>
     <string name="cancel">Cancella</string>
@@ -80,8 +80,8 @@
     <string name="total_files">- Files totali</string>
     <string name="import_recordings">Importa registrazioni</string>
     <string name="run_clean_up">Pulisci ora</string>
-    <string name="cleaning">Pulizia vecchie registrazioni&#8230;</string>
-    <string name="share_via">Condividi con&#8230;</string>
+    <string name="cleaning">Pulizia vecchie registrazioni…</string>
+    <string name="share_via">Condividi con…</string>
 
     <string name="passcode">Password</string>
     <string name="enable_passcode">Attiva password</string>
@@ -128,4 +128,6 @@
 
     <string name="write_ext_storage_problem_description">Non abilitato a scrivere su archivio esterno.</string>
 
-</resources>
+<string name="allow_to_write_to_sd_card">Permetti di scrivere sulla SD card</string>
+    <string name="delete_recordings_older_then_selected_days">Tutte le registrazioni più vecchie dei giorni selezionati saranno cancellate automaticamante</string>
+    </resources>

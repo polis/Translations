@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">מקליט שיחות</string>
     <string name="sd">אנא, הכנס כרטיס זיכרון חיצוני למכשירך!</string>
@@ -45,4 +45,20 @@
     <string name="stop_recording">הפעל הקלטה</string>
     <string name="stop_recording_details">כרגע המקליט כבוי</string>
 
-</resources>
+    <string name="new_call">שיחה חדשה הוקלטה!</string>
+    <string name="info">מידע</string>       
+    <string name="faq_summary">שאלות נפוצות</string>
+    <string name="other_app_title">כל האפליקציות</string>
+    <string name="other_app_summary">מאת Clever Mobile</string>
+
+    <string name="undo">ביטול</string>
+    <string name="deleted">נמחק</string>
+
+    <string name="lock">נעילה</string>
+    <string name="share">שיתוף</string>
+    <string name="delete">מחיקה</string>
+    <string name="select_all">בחר הכל</string>
+    <string name="recordings">הקלטות</string>
+    <string name="help">עזרה</string>
+    <string name="hint_tap_on_contact_photo">לחץ על תמונה איש קשר כדי לבחור פריט</string>
+    </resources>

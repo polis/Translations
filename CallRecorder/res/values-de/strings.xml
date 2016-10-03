@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Call Recorder</string>
-    <string name="sd">Bitte stecken Sie eine SD Karte in Ihr Handy.</string>
+    <string name="sd">Bitte stecken Sie eine SD Karte in Ihr Handy!</string>
     <string name="contact">Kontakte</string>
     <string name="call_time">Anfrufzeit</string>
     <string name="selected">ausgewählt</string>
@@ -28,7 +28,7 @@
 	<string name="buy_category_title">\"Call Recorder\" Pro-Version kaufen</string>
 	<string name="buy_summary">Ohne Werbung und mit zusätzlichen Funktionen</string>
 
-	<string name="rate">Bitte bewerten Sie diese Applikation.</string>
+	<string name="rate">Bitte bewerten Sie diese Applikation</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">Später</string>
     <string name="start_notification">Aufnahme gestartet</string>
@@ -80,8 +80,8 @@
     <string name="total_files">- Gesamtanzahl Dateien</string>
     <string name="import_recordings">Aufnahmen importieren</string>
     <string name="run_clean_up">Jetzt bereinigen</string>
-    <string name="cleaning">Alte Aufnahmen bereinigen&#8230;</string>
-    <string name="share_via">Teilen über&#8230;</string>
+    <string name="cleaning">Alte Aufnahmen bereinigen…</string>
+    <string name="share_via">Teilen über…</string>
 
     <string name="passcode">Sicherheitscode</string>
     <string name="enable_passcode">Sicherheitscode aktivieren</string>
@@ -128,4 +128,9 @@
 
     <string name="write_ext_storage_problem_description">Schreiben auf externen Speicher nicht möglich.</string>
 
-</resources>
+<string name="allow_to_write_to_sd_card">Erlauben auf wechselbare SD Karte zu schreiben</string>
+    <string name="delete_recordings_older_then_selected_days">Alle Aufnahmen älter als die gewählte Tages-Spanne werden automatisch gelöscht</string>
+    <string name="delete_recordings_on_uninstall">Es werden alle Aufnahmen gelöscht wenn die Call Recorder Anwendung deinstalliert wird</string>
+    <string name="number_of_days">Anzahl der Tage</string>
+
+    </resources>

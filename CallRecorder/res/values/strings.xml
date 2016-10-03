@@ -132,4 +132,7 @@
     <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
     <string name="number_of_days">Number of days</string>
 
+    <string name="recording_method">Recording method</string>
+    <string name="no_player_app_found">No player app found to play this audio</string>
+
 </resources>
