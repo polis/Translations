@@ -46,8 +46,8 @@
     <string name="add_wifi">Виберіть WiFi точку та Профіль гучності</string>
     <string name="wifi_connecting">WiFi вмикається!</string>
     <string name="no_wifi_spots">Будь ласка, переконайтесь що:
-1. WiFi включено.
-2. Хоча б одна WiFi точка збережена у конфігурації WiFi вашого телефону.</string>
+        \n 1. WiFi включено.
+        \n 2. Хоча б одна WiFi точка збережена у конфігурації WiFi вашого телефону.</string>
     <string name="on_disconnect">При від\'єданні від WiFi точки</string>
 
     <string name="help">Допомога</string>
@@ -55,7 +55,9 @@
 
     <string name="buy">Купити</string>
     <string name="cancel">Відміна</string>
-    <string name="pro_description">Про версія містить:\n - Установка профілю при відключенні від WiFi точки\n - Установка профілю по місцезнаходженню від сигалу GPS\n - Більше ніякої реклами</string>
+    <string name="pro_description">Про версія містить:
+        \n - Установка профілю при відключенні від WiFi точки
+        \n - Більше ніякої реклами</string>
     <string name="buy_category_description">Pro version</string>
     <string name="buy_category_title">Купити Менеджер гучності Про</string>
 

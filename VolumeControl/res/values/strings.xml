@@ -46,8 +46,8 @@
     <string name="add_wifi">Select WiFi spot and volume Profile</string>
     <string name="wifi_connecting">WiFi is turning On!</string>
     <string name="no_wifi_spots">Please, make sure that:
-1. WiFi is turned on.
-2. At least one WiFi spot is stored in WiFi Networks config of your phone.</string>
+        \n 1. WiFi is turned on.
+        \n 2. At least one WiFi spot is stored in WiFi Networks config of your phone.</string>
     <string name="on_disconnect">On disconnect from WiFi spot</string>
 
     <string name="help">Help</string>
@@ -55,7 +55,9 @@
 
     <string name="buy">Buy</string>
     <string name="cancel">Cancel</string>
-    <string name="pro_description">Pro version contains:\n - Possibility configure profile on disconnect from WiFi spot\n - Possibility configure profile on location from GPS signal\n - No more Ads</string>
+    <string name="pro_description">Pro version contains:
+        \n - Possibility configure profile on disconnect from WiFi spot
+        \n - No more Ads</string>
     <string name="buy_category_description">Pro version</string>
     <string name="buy_category_title">Buy Volume Control Pro version</string>
 

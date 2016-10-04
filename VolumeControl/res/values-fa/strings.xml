@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="app_name">کنترل صدا</string>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+    <string name="app_name">کنترل صدا</string>
     <string name="volume">صدا</string>
     <string name="profiles">نمایه ها</string>
     <string name="profile_add">اضافه کردن نمایه جدید</string>
     <string name="profile_edit">ویرایش نمایه</string>
     <string name="toast_enter_profile_name">لطفا نام نمایه جدید را وارد کنید</string>    
     <string name="text_create_profile">ابتدا یک نمایه جدید بسازید.</string>    
-    </resources>
+</resources>
