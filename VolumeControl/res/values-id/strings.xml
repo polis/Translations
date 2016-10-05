@@ -1,0 +1,54 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+    <string name="app_name">Volume Manager</string>
+    <string name="volume">Volume</string>
+    <string name="profiles">Profil</string>
+    <string name="profile_add">Tambahkan profil</string>
+    <string name="profile_edit">Ubah profil</string>
+    <string name="toast_enter_profile_name">Silahkan, masukkan nama profil.</string>    
+    <string name="text_create_profile">Silahkan, masukkan tambah profil terlebih dahulu!</string>    
+    <string name="scheduler">Kalender</string>    
+    <string name="location">Lokasi</string>          
+    
+    <string name="tap_hint_text">Sentuh untuk memasukkan judul</string>       
+    <string name="button_Save">Simpan</string>    
+    <string name="button_Cancel">Batal</string>       
+    <string name="dialog_button_OK">OK</string>       
+    <string name="dialog_delete_profile_title">Hapus profil</string>       
+    <string name="dialog_delete_profile_message">Semua jadwal, lokasi, dan jaringan WiFi yang tersambung dengan profil ini akan dihapus. Apakah Anda ingin melanjutkan?</string>            
+    
+    <string name="ringTitle">Dering</string>
+    <string name="musicTitle">Media</string>
+    <string name="voiceCallTitle">Panggilan suara</string>
+    <string name="alarmTitle">Alarm</string>
+    <string name="notificationTitle">Notifikasi</string>
+    <string name="systemTitle">Sistem</string>
+    
+    <string name="radio_silent">Diam</string>
+    <string name="radio_normal">Normal</string>
+    <string name="radio_vibrate">Getar</string>
+    
+    <string name="location_select">Pilih lokasi</string>
+    <string name="location_name">Nama lokasi</string>
+    <string name="marker_info">Menuju ke sinie</string>
+    <string name="toast_set_location">Silahkan tempatkan marker di peta.</string>
+    <string name="toast_enter_location_name">Silahkan masukkan nama lokasi.</string>
+    <string name="edit">Ubah</string>
+
+    <string name="text_buy_pro">Fungsi ini tersedia di versi Pro!</string>
+    <string name="button_buy_pro">Beli Pro</string>
+	<string name="rate">Mohon nilai aplikasi ini</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">Nanti</string>
+    
+    <string name="wifi">Lokasi jaringan WiFi</string>
+    <string name="add_wifi">Pilih lokasi jaringan WiFi dan profil volume</string>   
+    <string name="wifi_connecting">WiFi diaktifkan!</string>   
+    <string name="no_wifi_spots">Silahkan pastikan bahwa:/n1.WiFi telah dinyalakan./n2.Setidaknya salah satu lokasi jaringan WiFi telah tersimpan di konfigurasi jaringan WiFi ponsel Anda. </string>
+    <string name="on_disconnect">On disconnect from WiFi spot</string>
+
+    <string name="help">Help</string>
+    <string name="buy_pro">Buy Volume Manager Pro</string>
+    <string name="set">Set</string>
+
+</resources>
