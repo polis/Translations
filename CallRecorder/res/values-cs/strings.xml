@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Záznam Hovoru</string>
     <string name="sd">Prosím, vložte kartu SD do telefonu!</string>
@@ -64,4 +64,9 @@
     <string name="sync_title">Synchronizace</string>
     <string name="sync_summary">Synchronizovat všechny nahrávky nyní</string>
 
-</resources>
+<string name="lock">Zámek</string>
+    <string name="share">Sdílet</string>
+    <string name="delete">Smazat</string>
+    <string name="buy">Koupit</string>
+    <string name="cancel">Zrušit</string>
+    </resources>
