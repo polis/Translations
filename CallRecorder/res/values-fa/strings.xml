@@ -121,20 +121,23 @@
     <string name="wifi_only">فقط وای فای</string>
     <string name="wifi_only_when_sync">همگام سازی فقط هنگامی که به وای فای متصل شدید</string>
 
-    <string name="run_pro_question_dlg_description">شما درحال حاظر از نسخه رایگان استفاده میکنید در حالی که یک نسخه‌ی حرفه ای روی دستگاه شما نصب شده. آیا میخواهید به نسخه‌‌ی حرفه</string>
+    <string name="run_pro_question_dlg_description">شما درحال حاظر از نسخه رایگان استفاده میکنید در حالی که یک نسخه‌ی غیر حرفه ای روی دستگاه شما نصب شده است. آیا نسخه‌‌ی حرفه ای این برنامه را می خواهید ؟</string>
     <string name="run_pro_question_dlg_title">اجرای نسخه حرفه‌ای</string>
     <string name="last_recording">آخرین ضبط</string>
     <string name="last_recording_problem_description">به نظر میرسد مشکلی در آخرین ضبط پیش آمده. اگر دوباره این پیام را مشاهده کردید، لطفاً فرمت فایل را تغییر دهید و یا به تنظیمات منبع صدا مراجعه کنید.</string>
     <string name="read_instructions">خواندن دستورالعمل ها</string>
     <string name="about">درباره</string>
     <string name="translations">ترجمه</string>
-    <string name="translate">ترجمه توسط حسین</string>
+    <string name="translate">ترجمه کردن</string>
     <string name="help_translate">به ما کمک کنید در ترجمه‌ی زبانهای ناموجود.</string>
 
     <string name="write_ext_storage_problem_description">قادر به ذخیره در حافظه خارجی نیستید.</string>
-    <string name="allow_to_write_to_sd_card">اجازه دادن برای نوشتن در کارت SD قابل حمل</string>
+    <string name="allow_to_write_to_sd_card">اجازه دادن برای نوشتن در کارت حافظه خارجی قابل حمل</string>
     <string name="delete_recordings_older_then_selected_days">همه تماس های ضبط شده قدیمی تر پس از انتخاب دوره روزانه به صورت خودکار حذف خواهند شد</string>
     <string name="delete_recordings_on_uninstall">اکر برنامه ضبط تماس حذف شود همه تماس های ضبط شده حذف خواهند شد</string>
     <string name="number_of_days"> تعداد روزها</string>
+
+<string name="recording_method">شیوه ضبط</string>
+    <string name="no_player_app_found">هیچ برنامه پخشی برای پخش این صدا وجود ندارد</string>
 
 </resources>
