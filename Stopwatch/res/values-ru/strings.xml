@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+    <string name="app_name">Секундомер</string>
+    <string name="settings">Настройки</string>
+    <string name="start_button">Пуск</string>
+    <string name="pause_button">Пауза</string>
+    <string name="lap_button">Круг</string>
+    <string name="reset_button">Сброс</string>    
+    <string name="days">Дни</string>
+    <string name="d">д</string>
+    <string name="hours">Часы</string>
+    <string name="lap">КРУГ</string>
+	<string name="elapsed_time">ЗАТРАЧЕННОЕ ВРЕМЯ</string>	
+	<string name="lap_time">ВРЕМЯ КРУГА</string>	    
+    <string name="screen">"Экран"</string>
+    <string name="displayMode_checkbox_title">"Экран включен"</string>
+    <string name="laps">Круги</string>
+    <string name="displayMode_checkbox_summary">Запретить переход в спящий режим</string>
+    <string name="lapOnPause_checkbox_title">Круг на Паузу</string>
+    <string name="lapOnPause_checkbox_summary">Добавить круг при нажатии на паузу</string>
+    <string name="haptics">Касания</string>
+    <string name="hapticFeedback_checkbox_title">Вибрация при касании</string>
+    <string name="hapticFeedback_checkbox_summary">Вибрировать когда нажата кнопка</string>
+    <string name="send">Отправить</string>
+    <string name="donate">Вложение</string>
+	<string name="email_subject">Секундомер - результаты кругов</string>
+	<string name="email">Почта</string>
+	<string name="email_title">Введите ваш email</string>
+	<string name="email_summary">Настроить email для отправки результатов</string>
+	<string name="buy_category_description">Полная версия</string>	
+	<string name="buy_category_title">Купить полную версию </string>	
+	<string name="buy_summary">Без рекламы</string>
+
+    <string name="rate">Пожалуйста, оцените это приложение</string>
+    <string name="rateOk">Хорошо</string>
+    <string name="rateLater">Позже</string>
+
+</resources>
