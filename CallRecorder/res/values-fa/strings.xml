@@ -137,7 +137,7 @@
     <string name="delete_recordings_on_uninstall">اکر برنامه ضبط تماس حذف شود همه تماس های ضبط شده حذف خواهند شد</string>
     <string name="number_of_days"> تعداد روزها</string>
 
-<string name="recording_method">شیوه ضبط</string>
+    <string name="recording_method">شیوه ضبط</string>
     <string name="no_player_app_found">هیچ برنامه پخشی برای پخش این صدا وجود ندارد</string>
 
 </resources>

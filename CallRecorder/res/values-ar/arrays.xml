@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="en">
 
     <string-array name="audioSource">
         <item name="line">خط الهاتف</item>
