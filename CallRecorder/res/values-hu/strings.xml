@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Hívásrögzítő</string>
     <string name="sd">Kérem, helyezze be az SD kártyát a telefonba!</string>
@@ -13,7 +13,7 @@
     <string name="saveRecordQuestion_checkbox_summary">Megerősítés kérése hívás után</string>
     <string name="storage">Tárhely</string>
     <string name="deleteRecord_title">Automata törlés</string>
-    <string name="deleteRecord_summary">Összes felvétel törlése&#8230;</string>
+    <string name="deleteRecord_summary">Összes felvétel törlése…</string>
     <string name="recording">Hangrögzítés beállítása</string>
     <string name="audioSource_title">Audió forrás</string>
     <string name="audioSource_summary">Telefonvonal vagy mikrofon rögzítése</string>
@@ -28,7 +28,7 @@
 	<string name="buy_category_title">Call Recorder Pro verzió megvásárlása</string>
 	<string name="buy_summary">Reklám nélkül, további opciókkal</string>
 
-	<string name="rate">Kérem, értékelje az applikációt!</string>
+	<string name="rate">Kérem, értékelje az applikációt</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">Később</string>
     <string name="start_notification">Hangrögzítés megkezdve</string>
@@ -66,4 +66,5 @@
     <string name="wifi_only">WiFi only</string>
     <string name="wifi_only_when_sync">Synchronize only when connected to WiFi</string>
 
-</resources>
+<string name="lock">Zár</string>
+    </resources>

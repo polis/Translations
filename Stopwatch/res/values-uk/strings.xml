@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+    <string name="app_name">Секундомір</string>
+    <string name="settings">Налаштування</string>
+    <string name="start_button">Старт</string>
+    <string name="pause_button">Пауза</string>
+    <string name="lap_button">Коло</string>
+    <string name="reset_button">Скинути</string>    
+    <string name="days">Дні</string>
+    <string name="d">д</string>    
+    <string name="hours">Години</string>
+    <string name="lap">КОЛО</string>
+	<string name="elapsed_time">ВИТРАЧЕНИЙ ЧАС</string>	
+	<string name="lap_time">ЧАС КОЛА</string>	        
+    <string name="screen">"Екран"</string>
+    <string name="displayMode_checkbox_title">"Екран увімкнений"</string>
+    <string name="laps">Кола</string>
+    <string name="displayMode_checkbox_summary">Заборонити перехід в режим сну</string>
+    <string name="lapOnPause_checkbox_title">Коло на Паузу</string>
+    <string name="lapOnPause_checkbox_summary">Додати коло при натисненні на паузу</string>
+    <string name="haptics">Дотики</string>
+    <string name="hapticFeedback_checkbox_title">Вібрація на дотик</string>
+    <string name="hapticFeedback_checkbox_summary">Вібрувати коли кнопка натиснута</string>
+    <string name="send">Надіслати</string>
+    <string name="donate">Вклад</string>
+	<string name="email_subject">Секундомір - результати кругів</string>
+	<string name="email">Пошта</string>
+	<string name="email_title">Введіть ваш email</string>
+	<string name="email_summary">Налаштувати email для відправки результатів</string>
+	<string name="buy_category_description">Повна версія</string>	
+	<string name="buy_category_title">Придбати повну версію </string>	
+	<string name="buy_summary">Без реклами</string>
+
+    <string name="rate">Будь ласка, оцініть даний додаток</string>
+    <string name="rateOk">Добре</string>
+    <string name="rateLater">Пізніше</string>
+
+</resources>

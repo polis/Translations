@@ -1,3 +1,143 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<string name="sd">Ole hyvä ja aseta SD-kortti puhelimeesi!</string>
+    <string name="contact">Yhteystiedot</string>
+    <string name="call_time">Puhelun aika</string>
+    <string name="app_name">Call Recorder</string>
+    <string name="selected">valittu</string>
+    <string name="settings">Asetukset</string>
+    <string name="no_player_app_found">Ei löytynyt sovellusta, jolla toistaa tallenne</string>
+
+    <string name="notifications">Ilmoitukset</string>
+    <string name="notificationStatus_checkbox_title">Salli ilmoitukset</string>
+    <string name="notificationStatus_checkbox_summary">Näytä ilmoituksena kunkin tallennetun puhelun jälkeen</string>
+    <string name="saveRecordQuestion_checkbox_title">Tallennetaanko tämä puhelu?</string>
+    <string name="saveRecordQuestion_checkbox_summary">Kysy kunkin puhelun jälkeen</string>
+    <string name="deleteRecord_title">Automaattinen poisto</string>
+    <string name="deleteRecord_summary">Poista tallenteet</string>
+    <string name="recording">Tallennusasetukset</string>
+    <string name="audioSource_title">Äänilähde</string>
+    <string name="audioSource_summary">Valitse äänilähde</string>
+    <string name="audioChannel_title">Äänikanava</string>
+    <string name="audioChannel_summary">Valitse äänikanava</string>
+    <string name="fileFormat_title">Tiedostomuoto</string>
+    <string name="fileFormat_summary">Valitse tiedostomuoto</string>
+    <string name="recordingQuality_title">Tallennuslaatu</string>
+    <string name="recordingQuality_summary">Valitse tallennuslaatu</string>    
+    <string name="email_subject">Tallennetut puhelut</string>
+	<string name="buy_category_description">Pro-versio</string>
+	<string name="buy_category_title">Osta Call Recorderin Pro-versio</string>
+	<string name="buy_summary">Lisää ominaisuuksia, ei mainoksia</string>
+
+	<string name="rate">Ole hyvä ja arvostele tämä sovellus</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">Myöhemmin</string>
+    <string name="start_notification">Tallennus aloitettu</string>    
+    <string name="stop_notification">Tallennus lopetettu</string>
+
+    <string name="save_the_call">Tallennetaanko tämä puhelu?</string>
+    <string name="yes">Kyllä</string>
+    <string name="no">Ei</string>
+
+	<string name="unknown">Tuntematon</string>
+    <string name="hidden">Piilotettu</string>
+	<string name="start_recording">Call Recorder toimii!</string>    
+    <string name="start_recording_details">Kaikki puhelut tallennetaan tästedes.</string>    
+    <string name="stop_recording">Aseta tallentaminen PÄÄLLE!</string>    
+    <string name="stop_recording_details">Puheluja ei tallenneta.</string>
+
+    <string name="new_call">Uusi puhelu on tallennettu.</string>    
+    <string name="info">Tietoja</string>       
+    <string name="faq_title">UKK</string>
+    <string name="faq_summary">Usein kysyttyjä kysymyksiä</string>
+    <string name="other_app_title">Kaikki sovellukset</string>
+    <string name="other_app_summary">Clever Mobilelta</string>
+
+    <string name="undo">peru</string>
+    <string name="deleted">poistetut</string>
+
+    <string name="lock">Lukitse</string>
+    <string name="share">Jaa</string>
+    <string name="delete">Poista</string>
+    <string name="select_all">Valitse kaikki</string>
+    <string name="recordings">Tallenteet</string>
+    <string name="help">Apua</string>
+    <string name="hint_tap_on_contact_photo">Kosketa yhteystiedon valokuvaa valitaksesi kohteen.</string>
+    <string name="importing_recordings">Tuodaan tallenteita...</string>
+
+    <string name="buy">Osta</string>
+    <string name="cancel">Peru</string>
+    <string name="pro_description">Pro-version ominaisuuksia:
+
+- tallenteiden jakaminen
+
+- Dropboxiin synkronointi
+
+- Google Driveen synkronointi
+
+- kehittyneet ilmoitukset
+
+- ei enää mainoksia</string>
+
+    <string name="sd_card">SD-kortti</string>
+    <string name="call_recorder_folder">Hakemisto \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Käytetty muisti</string>
+    <string name="sd_card_free_memory">Vapaana oleva muisti</string>
+    <string name="total_files">Tiedostoja yhteensä</string>
+    <string name="import_recordings">Tuo tallenteita</string>
+    <string name="run_clean_up">Puhdista nyt</string>
+    <string name="cleaning">Puhdistetaan vanhoja tallenteita...</string>
+    <string name="share_via">Jaa tämän kautta...</string>
+
+    <string name="passcode">Salasana</string>
+    <string name="enable_passcode">Käytä salasanaa</string>
+    <string name="enable_passcode_description">Suojaa tallenteesi salasanalla aina sovelluksen käynnistyessä</string>
+    <string name="change_passcode">Vaihda salasanaa</string>
+    <string name="passcode_delete_recordings">Poista tallenteet</string>
+    <string name="passcode_delete_recordings_description">Poista kaikki tallenteet tältä laitteelta kymmenen epäonnistuneen kirjautumisyrityksen jälkeen</string>
+    <string name="enter_passcode">Anna salasana</string>
+    <string name="reenter_passcode">Anna salasana uudelleen</string>
+    <string name="enter_old_passcode">Anna vanha salasana</string>
+    <string name="passcode_did_not_match">Salasanat eivät täsmää. Yritä uudelleen.</string>
+    <string name="enter_new_passcode">Anna uusi salasana</string>
+    <string name="reenter_new_passcode">Anna uusi salasana uudelleen</string>
+    <string name="wrong_passcode">Väärä salasana. Yritä uudelleen.</string>
+    <string name="exit">Poistu</string>
+
+    <string name="cloud">Synkronointi</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_unlink">Poista yhteys Dropbox-tiliin</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Yhdistä Google Drive -tili</string>
+    <string name="google_drive_unlink">Poista yhteys Google Drive -tiliin</string>
+    <string name="dropbox_link">Yhdistä Dropbox-tili</string>
+    <string name="connecting_to_google_drive">Yhdistetään Google Driveen</string>
+
+    <string name="login">Kirjaudu sisään</string>
+    <string name="logout">Kirjaudu ulos</string>
+    <string name="sync_title">Synkronoi nyt</string>
+    <string name="sync_summary">Synkronoi kaikki tallenteet nyt</string>
+    <string name="wifi_only">Vain WiFi</string>
+    <string name="wifi_only_when_sync">Synkronoi vain WiFi-yhteyden välityksellä</string>
+
+    <string name="run_pro_question_dlg_description">Yrität käynnistää Call Recorderin ilmaisversiota, vaikka olet asentanut myös Pro-version. Vaihdetaanko Prohon?</string>
+    <string name="run_pro_question_dlg_title">Käytä Pro-versiota</string>
+    <string name="last_recording">Viimeisin tallenne</string>
+    <string name="last_recording_problem_description">Viimeisimmän tallennuksen yhteydessä ilmaantui ongelma. Jos tämä viesti tulee uudelleen, kokeile vaihtaa sovelluksen asetuksista tallenteen tiedostomuotoa tai äänilähdettä.</string>
+    <string name="read_instructions">Lue ohjeet</string>
+    <string name="about">Tietoja</string>
+    <string name="translations">Käännökset</string>
+    <string name="translate">Käännä</string>
+    <string name="help_translate">Auta meitä kääntämään sovellus äidinkielellesi</string>
+
+    <string name="write_ext_storage_problem_description">Ulkoiselle tallennustilalle tallentaminen epäonnistui</string>
+    <string name="allow_to_write_to_sd_card">Salli tallennus poistettavalle SD-kortille</string>
+    <string name="delete_recordings_older_then_selected_days">Kaikki tallenteet poistetaan automaattisesti, mikäli ne ovat vanhempia kuin valitsemasi aikarajaus</string>
+    <string name="delete_recordings_on_uninstall">Mikäli Call Recorder -sovellus poistetaan, poistuvat myös kaikki tallenteet</string>
+    <string name="number_of_days">Aikarajaus päivinä</string>
+
+    <string name="recording_method">Tallennusmenetelmä</string>
+    <string name="storage">Tallennustila</string>
 </resources>

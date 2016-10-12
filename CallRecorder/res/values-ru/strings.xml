@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Запись звонков</string>
     <string name="sd">Пожалуйста, вставьте SD карту в телефон!</string>
@@ -62,7 +62,7 @@
     <string name="recordings">Записи</string>
     <string name="help">Помощь</string>
     <string name="hint_tap_on_contact_photo">Нажмите на фото контакта чтобы выделить запись.</string>
-    <string name="importing_recordings">Записи импортируются&#8230;</string>
+    <string name="importing_recordings">Записи импортируются…</string>
 
     <string name="buy">Купить</string>
     <string name="cancel">Отмена</string>
@@ -80,8 +80,8 @@
     <string name="total_files">Количество файлов</string>
     <string name="import_recordings">Импортировать записи</string>
     <string name="run_clean_up">Очистить сейчас</string>
-    <string name="cleaning">Очистка старых записей&#8230;</string>
-    <string name="share_via">Поделиться через&#8230;</string>
+    <string name="cleaning">Очистка старых записей…</string>
+    <string name="share_via">Поделиться через…</string>
 
     <string name="passcode">Пароль</string>
     <string name="enable_passcode">Включить пароль</string>
@@ -131,5 +131,8 @@
     <string name="delete_recordings_older_then_selected_days">Записи старше чем выбрано дней будут удаляться автоматически</string>
     <string name="delete_recordings_on_uninstall">Все записи будут удалены при удалении приложения</string>
     <string name="number_of_days">Количество дней</string>
+
+<string name="recording_method">Метод записи</string>
+    <string name="no_player_app_found">"Не найдено приложения, для проигрывания этой записи. "</string>
 
 </resources>

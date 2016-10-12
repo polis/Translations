@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="en">
+
     <string name="app_name">مسجل المكالمات</string>
     <string name="sd">الرجاء ادخل بطاقة SD في الهاتف</string>
     <string name="contact">جهات اتصال</string>

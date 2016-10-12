@@ -1,3 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="app_name">تۆمارکردنی پەیوەندییەکان</string>
+    <string name="sd">تکایە،میمۆری دەرەکی بکرە ناو موبایلەکەت!</string>
+    <string name="notificationStatus_checkbox_summary">پێشانمدە پەیوەندی تۆماراکراو لەدوای هەر پەیوەندیەک لە شوێنی ئاگادارکردنەوەکان</string>
+    <string name="saveRecordQuestion_checkbox_title">هەڵگرتنی ئەو تۆمارە</string>
+    <string name="saveRecordQuestion_checkbox_summary">پرسیارم لێبکە لەدوای هەموو پەیوەندیەک</string>
+    <string name="storage">میمۆری ناوەکی</string>
+    <string name="deleteRecord_title">پاکردنەوەی ئۆتۆماتیکی</string>
+    <string name="deleteRecord_summary">ڕەشکرنەوەی تۆمارکراوەکان</string>
+    <string name="recording">ڕێکخستنی تۆمارەکان</string>
+    <string name="audioSource_title">شێوازی دەنگ</string>
+    <string name="audioSource_summary">هەڵبژاردنی شێوازی دەنگ</string>
+    <string name="audioChannel_title">وەرگرتنی دەنگ</string>
+    <string name="audioChannel_summary">هەڵبژارنی وەرگرتنی دەنگ</string>
+    <string name="fileFormat_title">ڕەشکڕنەوەی فایل</string>
+    <string name="fileFormat_summary">هەڵبژاردنی شێوازی فایل</string>
+    <string name="recordingQuality_title">شێوازی هڵگرتنی تۆمار</string>
+    <string name="recordingQuality_summary">دیاریکردنی شێوازی تۆمارکردن</string>    
+    <string name="email_subject">تۆماری پەیوەندییەکان</string>
+	<string name="buy_category_description">ڤێرژنی تەواو</string>
+	<string name="buy_category_title">کڕینی ڤێرژنی تەواو</string>
+	<string name="lock">قفڵ</string>
+    <string name="share">هاوبەشیکردن</string>
+    <string name="delete">سڕینەوە</string>
+    <string name="select_all">دیاریکردنی هەمووی</string>
+    <string name="recordings">تۆمارکراوەکان</string>
+    <string name="help">یارمەتی</string>
+    <string name="hint_tap_on_contact_photo">یەک جار دەست بنێ بەو تۆمارەی دەتهەوێت بۆ دیاریکردنی.</string>
+    <string name="importing_recordings">هێنای تۆمارەکان لەدەرەوە</string>
+
+    <string name="buy">بە گوێرەی</string>
+    <string name="cancel">گەڕانەوە</string>
+    <string name="pro_description">ڤێرژنی تەواو</string>
+
+    <string name="sd_card">میمۆری دەرەکی</string>
+    <string name="call_recorder_folder">فایلی“تۆماری پەیوەندییەکان”</string>
+    </resources>

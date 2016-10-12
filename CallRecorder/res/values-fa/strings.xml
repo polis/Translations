@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">ضبط تماس</string>
     <string name="sd">لطفاً کارت حافظه را وارد کنید!</string>
@@ -28,7 +28,7 @@
 	<string name="buy_category_title">خرید نسخه‌ی حرفه‌ای ضبط صدا</string>
 	<string name="buy_summary">بدون تبلیغات و همراه با ویژگیهای خاص</string>
 
-	<string name="rate">لطفاً به این برنامه امتیاز بدید</string>
+	<string name="rate">لطفاً به این برنامه امتیاز دهید</string>
 	<string name="rateOk">باشه</string>
 	<string name="rateLater">بعداً</string>
     <string name="start_notification">ضبط تماس شروع شد</string>
@@ -50,7 +50,7 @@
     <string name="faq_title">سوالات متداول</string>
     <string name="faq_summary">سوالات متداول</string>
     <string name="other_app_title">تمام اپلیکیشن‌ها</string>
-    <string name="other_app_summary">Clever Mobile</string>
+    <string name="other_app_summary">از موبایل هوشمند</string>
 
     <string name="undo">بازگردانی</string>
     <string name="deleted">حذف شد</string>
@@ -59,77 +59,85 @@
     <string name="share">اشتراک گذاری</string>
     <string name="delete">حذف</string>
     <string name="select_all">انتخاب همه</string>
-    <string name="recordings">ضبطشده‌ها</string>
+    <string name="recordings">ضبط شده‌ها</string>
     <string name="help">راهنما</string>
     <string name="hint_tap_on_contact_photo">برای انتخاب یک آیتم روی تصویر مخاطب بزنید.</string>
-    <string name="importing_recordings">درحال وارد کردن ضبط شده‌ها</string>
+    <string name="importing_recordings">درحال وارد کردن ضبط شده‌ها…</string>
 
     <string name="buy">خرید</string>
     <string name="cancel">لغو</string>
     <string name="pro_description">امکانات نسخه حرفه‌ای:
-        \n - اشتراک گذاری ضبط ها
-        \n - همگام سازی با Dropbox
-        \n - همگام سازی با Google Drive
-        \n - اعلانات پیشرفته
-        \n - بدون تبلیغات</string>
+ 
+ - اشتراک گذاری ضبط ها
+ 
+ - همگام سازی با دارپ باکس
+ 
+ - همگام سازی با گوگل درایو
+ 
+ - اعلانات پیشرفته
+ 
+ - بدون تبلیغات</string>
 
     <string name="sd_card">کارت حافظه</string>
     <string name="call_recorder_folder">پوشه \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">- حافظه استفاده شده</string>
-    <string name="sd_card_free_memory">- حافظه آزاد</string>
-    <string name="total_files">- کل فایل‌ها</string>
+    <string name="sd_card_memory_occupied">حافظه استفاده شده</string>
+    <string name="sd_card_free_memory">حافظه آزاد</string>
+    <string name="total_files">کل فایل‌ها</string>
     <string name="import_recordings">وارد کردن ضبط‌ها</string>
-    <string name="run_clean_up">همین الان پاک کن</string>
-    <string name="cleaning">پاک کردن ضبط‌های قدیمی</string>
-    <string name="share_via">اشتراک با&#8230;</string>
+    <string name="run_clean_up">اکنون پاک شود</string>
+    <string name="cleaning">پاک کردن ضبط‌های قدیمی…</string>
+    <string name="share_via">اشتراک گذاری با…</string>
 
     <string name="passcode">رمز عبور</string>
-    <string name="enable_passcode">رمز عبور را وارد کنید</string>
-    <string name="enable_passcode_description">حفاظت از ضبط‌های شما توسط رمز عبور، هر زمان شما برنامه را اجرا میکنید</string>
+    <string name="enable_passcode">فعال کردن رمز عبور</string>
+    <string name="enable_passcode_description">حفاظت از ضبط‌های شما توسط رمز عبور، هر زمان شما برنامه را اجرا می کنید</string>
     <string name="change_passcode">تغییر رمز عبور</string>
     <string name="passcode_delete_recordings">حذف ضبط ها</string>
-    <string name="passcode_delete_recordings_description">حذف تمامی ضبط های این دستگاه پس از 10 دفعه اشتباه وارد کردن رمز عبور</string>
+    <string name="passcode_delete_recordings_description">حذف تمامی ضبط های این دستگاه پس از 10 بار اشتباه وارد کردن رمز عبور</string>
     <string name="enter_passcode">رمز عبور را وارد کنید</string>
     <string name="reenter_passcode">رمز عبور را دوباره وارد کنید</string>
     <string name="enter_old_passcode">رمز عبور قدیمی را وارد کنید</string>
     <string name="passcode_did_not_match">رمزهای عبور مطابقت نداشتند. لطفا دوباره تلاش کنید!</string>
     <string name="enter_new_passcode">رمز عبور جدید را وارد کنید</string>
     <string name="reenter_new_passcode">رمز عبور جدید را دوباره وارد کنید</string>
-    <string name="wrong_passcode">رمزعبور اشتباه. لطفا دوباره تلاش کنید!</string>
+    <string name="wrong_passcode">رمزعبور اشتباه است. لطفا، دوباره تلاش کنید!</string>
     <string name="exit">خروج</string>
 
-    <string name="cloud">همگامی</string>
+    <string name="cloud">همگام سازی</string>
 
-    <string name="dropbox">Dropbox</string>
-    <string name="dropbox_link">اتصال حساب  Dropbox</string>
-    <string name="dropbox_unlink">قطع اتصال حساب Dropbox</string>
+    <string name="dropbox">دراپ باکس</string>
+    <string name="dropbox_link">اتصال حساب دراپ باکس</string>
+    <string name="dropbox_unlink">قطع اتصال حساب دراپ باکس</string>
 
-    <string name="google_drive">Google Drive</string>
-    <string name="google_drive_link">اتصال حساب Google Drive</string>
-    <string name="google_drive_unlink">قطع اتصال حساب Google Drive</string>
-    <string name="connecting_to_google_drive">درحال اتصال به Google Drive</string>
+    <string name="google_drive">گوگل درایو</string>
+    <string name="google_drive_link">اتصال حساب گوگل درایو</string>
+    <string name="google_drive_unlink">قطع اتصال حساب گوگل درایو</string>
+    <string name="connecting_to_google_drive">درحال اتصال به گوگل درایو</string>
 
     <string name="login">ورود</string>
     <string name="logout">خروج از حساب</string>
     <string name="sync_title">همگام سازی</string>
-    <string name="sync_summary">همگام سازی ضبط‌ها همین الان</string>
+    <string name="sync_summary">همگام سازی ضبط‌ها اکنون</string>
     <string name="wifi_only">فقط وای فای</string>
     <string name="wifi_only_when_sync">همگام سازی فقط هنگامی که به وای فای متصل شدید</string>
 
-    <string name="run_pro_question_dlg_description">شما درحال حاظر از نسخه رایگان استفاده میکنید در حالی که یک نسخه‌ی حرفه ای روی دستگاه شما نصب شده. آیا میخواهید به نسخه‌‌ی حرفه</string>
+    <string name="run_pro_question_dlg_description">شما درحال حاظر از نسخه رایگان استفاده میکنید در حالی که یک نسخه‌ی غیر حرفه ای روی دستگاه شما نصب شده است. آیا نسخه‌‌ی حرفه ای این برنامه را می خواهید ؟</string>
     <string name="run_pro_question_dlg_title">اجرای نسخه حرفه‌ای</string>
     <string name="last_recording">آخرین ضبط</string>
     <string name="last_recording_problem_description">به نظر میرسد مشکلی در آخرین ضبط پیش آمده. اگر دوباره این پیام را مشاهده کردید، لطفاً فرمت فایل را تغییر دهید و یا به تنظیمات منبع صدا مراجعه کنید.</string>
     <string name="read_instructions">خواندن دستورالعمل ها</string>
     <string name="about">درباره</string>
     <string name="translations">ترجمه</string>
-    <string name="translate">ترجمه توسط حسین</string>
+    <string name="translate">ترجمه کردن</string>
     <string name="help_translate">به ما کمک کنید در ترجمه‌ی زبانهای ناموجود.</string>
 
     <string name="write_ext_storage_problem_description">قادر به ذخیره در حافظه خارجی نیستید.</string>
-    <string name="allow_to_write_to_sd_card">اجازه دادن برای نوشتن در کارت SD قابل حمل</string>
+    <string name="allow_to_write_to_sd_card">اجازه دادن برای نوشتن در کارت حافظه خارجی قابل حمل</string>
     <string name="delete_recordings_older_then_selected_days">همه تماس های ضبط شده قدیمی تر پس از انتخاب دوره روزانه به صورت خودکار حذف خواهند شد</string>
     <string name="delete_recordings_on_uninstall">اکر برنامه ضبط تماس حذف شود همه تماس های ضبط شده حذف خواهند شد</string>
     <string name="number_of_days"> تعداد روزها</string>
+
+    <string name="recording_method">شیوه ضبط</string>
+    <string name="no_player_app_found">هیچ برنامه پخشی برای پخش این صدا وجود ندارد</string>
 
 </resources>
