@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-<string name="sd">Sätt i ett minneskort i mobilen tack</string>
+<string name="sd">Sätt i ett minneskort i mobilen tack!</string>
     <string name="contact">Kontakter</string>
-    <string name="call_time">Samtalstid</string>
-    <string name="selected">Utvalda</string>
+    <string name="call_time">"Samtalstid "</string>
+    <string name="selected">utvalda</string>
     <string name="settings">Inställningar</string>
-    <string name="notifications">Notiser</string>
-    <string name="notificationStatus_checkbox_title">Aktivera notiser</string>
+    <string name="notifications">"Meddelande "</string>
+    <string name="notificationStatus_checkbox_title">"Aktivera notiser "</string>
     <string name="notificationStatus_checkbox_summary">Visa notis i meddelande-fältet</string>
     <string name="saveRecordQuestion_checkbox_title">Spara detta samtal?</string>
     <string name="saveRecordQuestion_checkbox_summary">Fråga efter varje inspelat samtal</string>
