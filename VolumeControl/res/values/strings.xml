@@ -1,74 +1,50 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
-    <string name="app_name">Volume Control</string>
-    <string name="volume">Volume</string>
-    <string name="profiles">Profiles</string>
-    <string name="profile_add">Add new profile</string>
-    <string name="profile_edit">Edit profile</string>
-    <string name="toast_enter_profile_name">Please, enter profile name.</string>    
-    <string name="text_create_profile">Please, add profile, first!</string>    
-    <string name="scheduler">Scheduler</string>    
-    <string name="location">Locations</string>          
-    
-    <string name="tap_hint_text">Tap to enter title</string>       
-    <string name="button_Save">Save</string>    
-    <string name="button_Cancel">Cancel</string>       
-    <string name="dialog_button_OK">OK</string>       
-    <string name="dialog_delete_profile_title">Delete profile</string>       
-    <string name="dialog_delete_profile_message">All schedules, locations and WiFi spots assigned to this profile will be deleted. Would you like to proceed?</string>            
-    
-    <string name="ringTitle">Ring</string>
-    <string name="musicTitle">Media</string>
-    <string name="voiceCallTitle">Voice call</string>
-    <string name="alarmTitle">Alarm</string>
-    <string name="notificationTitle">Notification</string>
-    <string name="systemTitle">System</string>
-    
-    <string name="radio_silent">Silent</string>
-    <string name="radio_normal">Normal</string>
-    <string name="radio_vibrate">Vibrate</string>
-    
-    <string name="location_select">Select location</string>
-    <string name="location_name">Location Name</string>
-    <string name="marker_info">Go here</string>
-    <string name="toast_set_location">Please, set marker on the map.</string>
-    <string name="toast_enter_location_name">Please, enter locaion name.</string>
-    <string name="edit">Edit</string>
+    <string name="app_name">Stopwatch</string>
+    <string name="settings">Settings</string>
+    <string name="start_button">Start</string>
+    <string name="pause_button">Pause</string>
+    <string name="lap_button">Lap</string>
+    <string name="reset_button">Reset</string>
+    <string name="days">Days</string>
+    <string name="d">d</string>
+    <string name="hours">Hours</string>
+    <string name="lap">LAP</string>
+	<string name="elapsed_time">ELAPSED TIME</string>	
+	<string name="lap_time">LAP TIME</string>	
+    <string name="screen">Screen</string>
+    <string name="displayMode_checkbox_title">Keep screen on</string>
+    <string name="displayMode_checkbox_summary">Prevent phone from sleeping</string>
+    <string name="laps">Laps</string>
+    <string name="lapOnPause_checkbox_title">Lap on Pause</string>
+    <string name="lapOnPause_checkbox_summary">Add lap when pause button is pressed</string>
+    <string name="haptics">Haptics</string>
+    <string name="hapticFeedback_checkbox_title">Vibration feedback</string>
+    <string name="hapticFeedback_checkbox_summary">Vibration on button press</string>
+    <string name="send">Send</string>
+    <string name="donate">Donate</string>
+    <string name="email_subject">Stopwatch - Lap list</string>
+	<string name="email">Email</string>
+	<string name="email_title">Enter your email</string>
+	<string name="email_summary">Set up email for sending results</string>	
+	<string name="buy_category_description">Pro version</string>
+	<string name="buy_category_title">Buy Stopwatch Pro version</string>
+	<string name="buy_summary">Without Ads</string>
 
-    <string name="text_buy_pro">This functionality is available in Pro version!</string>
-    <string name="button_buy_pro">Buy Pro</string>
-	<string name="rate">Please, rate this application</string>
-	<string name="rateOk">OK</string>
-	<string name="rateLater">Later</string>
-    
-    <string name="wifi">WiFi Spots</string>
-    <string name="add_wifi">Select WiFi spot and volume Profile</string>
-    <string name="wifi_connecting">WiFi is turning On!</string>
-    <string name="no_wifi_spots">Please, make sure that:
-        \n 1. WiFi is turned on.
-        \n 2. At least one WiFi spot is stored in WiFi Networks config of your phone.</string>
-    <string name="on_disconnect">On disconnect from WiFi spot</string>
+    <string name="rate">Please, rate this application</string>
+    <string name="rateOk">OK</string>
+    <string name="rateLater">Later</string>
 
-    <string name="help">Help</string>
-    <string name="set">Set</string>
-
-    <string name="buy">Buy</string>
-    <string name="cancel">Cancel</string>
-    <string name="pro_description">Pro version contains:
-        \n - Possibility configure profile on disconnect from WiFi spot
-        \n - No more Ads</string>
-    <string name="buy_category_description">Pro version</string>
-    <string name="buy_category_title">Buy Volume Control Pro version</string>
+    <string name="share">Share</string>
 
     <string name="info">Information</string>
-    <string name="faq_title">FAQ</string>
-    <string name="faq_summary">Frequently asked questions</string>
     <string name="other_app_title">All applications</string>
     <string name="other_app_summary">From Clever Mobile</string>
     <string name="about">About</string>
     <string name="translations">Translations</string>
     <string name="translate">Translate</string>
     <string name="help_translate">Help us with translation to your native language</string>
+
 
 </resources>

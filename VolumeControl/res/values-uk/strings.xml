@@ -1,74 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
-    <string name="app_name">Менеджер гучності</string>
-    <string name="volume">Гучність</string>
-    <string name="profiles">Профілі</string>
-    <string name="profile_add">Добавити новий профіль</string>
-    <string name="profile_edit">Редагувати профіль</string>
-    <string name="toast_enter_profile_name">Будь ласка, введіть назву профіля.</string>    
-    <string name="text_create_profile">Будь ласка, добавте профіль, спочатку!</string>    
-    <string name="scheduler">Планувальник</string>    
-    <string name="location">Місцезнаходження</string>        
-    
-    <string name="tap_hint_text">Тицніть для вводу назви</string>       
-    <string name="button_Save">Зберегти</string>    
-    <string name="button_Cancel">Відміна</string>       
-    <string name="dialog_button_OK">OK</string>       
-    <string name="dialog_delete_profile_title">Видалити профіль</string>       
-    <string name="dialog_delete_profile_message">Усі планування, місезнаходження та WiFi точки для цього профіля будуть вилучені. Бажаєте продовжити?</string>          
-    
-    <string name="ringTitle">Дзвінок</string>
-    <string name="musicTitle">Мультимедіа</string>
-    <string name="voiceCallTitle">Лінія</string>
-    <string name="alarmTitle">Будильник</string>
-    <string name="notificationTitle">Повідомлення</string>
-    <string name="systemTitle">Система</string>
-    
-    <string name="radio_silent">Тихий</string>
-    <string name="radio_normal">Звичайний</string>
-    <string name="radio_vibrate">Вібро</string>
+    <string name="app_name">Секундомір</string>
+    <string name="settings">Налаштування</string>
+    <string name="start_button">Старт</string>
+    <string name="pause_button">Пауза</string>
+    <string name="lap_button">Коло</string>
+    <string name="reset_button">Скинути</string>    
+    <string name="days">Дні</string>
+    <string name="d">д</string>    
+    <string name="hours">Години</string>
+    <string name="lap">КОЛО</string>
+	<string name="elapsed_time">ВИТРАЧЕНИЙ ЧАС</string>	
+	<string name="lap_time">ЧАС КОЛА</string>	        
+    <string name="screen">"Екран"</string>
+    <string name="displayMode_checkbox_title">"Екран увімкнений"</string>
+    <string name="laps">Кола</string>
+    <string name="displayMode_checkbox_summary">Заборонити перехід в режим сну</string>
+    <string name="lapOnPause_checkbox_title">Коло на Паузу</string>
+    <string name="lapOnPause_checkbox_summary">Додати коло при натисненні на паузу</string>
+    <string name="haptics">Дотики</string>
+    <string name="hapticFeedback_checkbox_title">Вібрація на дотик</string>
+    <string name="hapticFeedback_checkbox_summary">Вібрувати коли кнопка натиснута</string>
+    <string name="send">Надіслати</string>
+    <string name="donate">Вклад</string>
+	<string name="email_subject">Секундомір - результати кругів</string>
+	<string name="email">Пошта</string>
+	<string name="email_title">Введіть ваш email</string>
+	<string name="email_summary">Налаштувати email для відправки результатів</string>
+	<string name="buy_category_description">Версія Про</string>	
+	<string name="buy_category_title">Придбати версію Про</string>	
+	<string name="buy_summary">Без реклами</string>
 
-    <string name="location_select">Відмітити місце</string>
-    <string name="location_name">Назва місця</string>
-    <string name="marker_info">Іти сюди</string>
-    <string name="toast_set_location">Будь ласка, встановіть маркер на карті.</string>
-    <string name="toast_enter_location_name">Будь ласка, введіть назву для обраного місця.</string>
-    <string name="edit">Редагувати</string>
+    <string name="rate">Будь ласка, оцініть даний додаток</string>
+    <string name="rateOk">Добре</string>
+    <string name="rateLater">Пізніше</string>
 
-    <string name="text_buy_pro">Цей функціонал доступнтй у Про версії!</string>
-    <string name="button_buy_pro">Купити Про</string>
-	<string name="rate">Будь ласка, оцініть даний додаток</string>
-	<string name="rateOk">Добре</string>
-	<string name="rateLater">Пізніше</string>
-	
-    <string name="wifi">WiFi точки</string>
-    <string name="add_wifi">Виберіть WiFi точку та Профіль гучності</string>
-    <string name="wifi_connecting">WiFi вмикається!</string>
-    <string name="no_wifi_spots">Будь ласка, переконайтесь що:
-        \n 1. WiFi включено.
-        \n 2. Хоча б одна WiFi точка збережена у конфігурації WiFi вашого телефону.</string>
-    <string name="on_disconnect">При від\'єданні від WiFi точки</string>
-
-    <string name="help">Допомога</string>
-    <string name="set">Активувати</string>
-
-    <string name="buy">Купити</string>
-    <string name="cancel">Відміна</string>
-    <string name="pro_description">Про версія містить:
-        \n - Установка профілю при відключенні від WiFi точки
-        \n - Більше ніякої реклами</string>
-    <string name="buy_category_description">Про версія</string>
-    <string name="buy_category_title">Купити Менеджер гучності Про</string>
+<string name="share">Поділитись</string>
 
     <string name="info">Інформація</string>
-    <string name="faq_title">Часті запитання (FAQ)</string>
-    <string name="faq_summary">Часті запитання</string>
-    <string name="other_app_title">Усі аплікаціїї від Clever Mobile</string>
-    <string name="other_app_summary">У Goodle Play маркеті</string>
-    <string name="about">Про програму</string>
+    <string name="other_app_title">Усі додатки</string>
+    <string name="other_app_summary">від Clever Mobile</string>
+    <string name="about">Про программу</string>
     <string name="translations">Переклад</string>
     <string name="translate">Перекласти</string>
     <string name="help_translate">Допоможіть нам з перекладом на вашу рідну мову</string>
+
 
 </resources>

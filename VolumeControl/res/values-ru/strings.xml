@@ -1,74 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
-    <string name="app_name">Менеджер громкости</string>
-    <string name="volume">Громкость</string>
-    <string name="profiles">Профили</string>
-    <string name="profile_add">Добавить профиль</string>
-    <string name="profile_edit">Редактировать профиль</string>
-    <string name="toast_enter_profile_name">Пожалуйста, введите название для профиля.</string>    
-    <string name="text_create_profile">Пожалуйста, добавьте профиль, сначала!</string>    
-    <string name="scheduler">Планировщик</string>    
-    <string name="location">Местоположения</string>        
-    
-    <string name="tap_hint_text">Название</string>       
-    <string name="button_Save">Сохранить</string>    
-    <string name="button_Cancel">Отмена</string>       
-    <string name="dialog_button_OK">OK</string>       
-    <string name="dialog_delete_profile_title">Удалить профиль</string>       
-    <string name="dialog_delete_profile_message">Все планирования и местооложения для даного профиля будуд удалены. Желаете продолжить?</string>           
-    
-    <string name="ringTitle">Звонок</string>
-    <string name="musicTitle">Мультимедия</string>
-    <string name="voiceCallTitle">Линия</string>
-    <string name="alarmTitle">Будильник</string>
-    <string name="notificationTitle">Уведомления</string>
-    <string name="systemTitle">Система</string>
-    
-    <string name="radio_silent">Тихий</string>
-    <string name="radio_normal">Нормальный</string>
-    <string name="radio_vibrate">Вибро</string>
+    <string name="app_name">Секундомер</string>
+    <string name="settings">Настройки</string>
+    <string name="start_button">Пуск</string>
+    <string name="pause_button">Пауза</string>
+    <string name="lap_button">Круг</string>
+    <string name="reset_button">Сброс</string>    
+    <string name="days">Дни</string>
+    <string name="d">д</string>
+    <string name="hours">Часы</string>
+    <string name="lap">КРУГ</string>
+	<string name="elapsed_time">ЗАТРАЧЕННОЕ ВРЕМЯ</string>	
+	<string name="lap_time">ВРЕМЯ КРУГА</string>	    
+    <string name="screen">"Экран"</string>
+    <string name="displayMode_checkbox_title">"Экран включен"</string>
+    <string name="laps">Круги</string>
+    <string name="displayMode_checkbox_summary">Запретить переход в спящий режим</string>
+    <string name="lapOnPause_checkbox_title">Круг на Паузу</string>
+    <string name="lapOnPause_checkbox_summary">Добавить круг при нажатии на паузу</string>
+    <string name="haptics">Касания</string>
+    <string name="hapticFeedback_checkbox_title">Вибрация при касании</string>
+    <string name="hapticFeedback_checkbox_summary">Вибрировать когда нажата кнопка</string>
+    <string name="send">Отправить</string>
+    <string name="donate">Вложение</string>
+	<string name="email_subject">Секундомер - результаты кругов</string>
+	<string name="email">Почта</string>
+	<string name="email_title">Введите ваш email</string>
+	<string name="email_summary">Настроить email для отправки результатов</string>
+	<string name="buy_category_description">Версия Про</string>	
+	<string name="buy_category_title">Купить версию Про</string>	
+	<string name="buy_summary">Без рекламы</string>
 
-    <string name="location_select">Отметить место</string>
-    <string name="location_name">Название места</string>
-    <string name="marker_info">Идти сюда</string>
-    <string name="toast_set_location">Пожалуйста, установите маркер на карте.</string>
-    <string name="toast_enter_location_name">Пожалуйста, введите название для отмеченого местоположения.</string>
-    <string name="edit">Редактировать</string>
+    <string name="rate">Пожалуйста, оцените это приложение</string>
+    <string name="rateOk">Хорошо</string>
+    <string name="rateLater">Позже</string>
 
-    <string name="text_buy_pro">Эта функциональность доступна в Про версии!</string>
-    <string name="button_buy_pro">Купить Про</string>
-	<string name="rate">Пожалуйста, оцените это приложение</string>
-	<string name="rateOk">Хорошо</string>
-	<string name="rateLater">Позже</string>
-
-	<string name="wifi">WiFi точки</string>
-    <string name="add_wifi">Выберете WiFi точку и Профиль громкости</string>
-    <string name="wifi_connecting">WiFi включается!</string>
-    <string name="no_wifi_spots">Пожалуйста, убедитесь что:
-        \n 1.WiFi включен.
-        \n 2.Хотя бы одна WiFi точка сохранена в конфигурации WiFi вашего телефона.</string>
-    <string name="on_disconnect">При отключении от WiFi точки</string>
-
-    <string name="help">Помощь</string>
-    <string name="set">Установить</string>
-
-    <string name="buy">Купить</string>
-    <string name="cancel">Отмена</string>
-    <string name="pro_description">Про версия содержит:
-        \n - Возможность установки профиля при отключении от WiFi точки
-        \n - Без рекламы</string>
-    <string name="buy_category_description">Про версия</string>
-    <string name="buy_category_title">Купить Менеджер громкости Про</string>
+<string name="share">Поделиться</string>
 
     <string name="info">Информация</string>
-    <string name="faq_title">Часто задаваемые вопросы (FAQ)</string>
-    <string name="faq_summary">Перейти к FAQ</string>
-    <string name="other_app_title">Все программы от Clever Mobile</string>
-    <string name="other_app_summary">В Google Play</string>
+    <string name="other_app_title">Все программы</string>
+    <string name="other_app_summary">от Clever Mobile</string>
     <string name="about">О программе</string>
     <string name="translations">Перевод</string>
-    <string name="translate">Перевод</string>
+    <string name="translate">Перевести</string>
     <string name="help_translate">Помогите нам с переводом на ваш родной язык</string>
+
 
 </resources>
