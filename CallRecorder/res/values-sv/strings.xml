@@ -95,11 +95,11 @@ Inga annonser</string>
 
     <string name="cloud">Synkronisering</string>
 
-    <string name="dropbox">DropBox</string>
+    <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Länka Dropbox-konto</string>
     <string name="dropbox_unlink">Ta bort länk till Dropbox-konto</string>
 
-    <string name="google_drive">GoogleDrive</string>
+    <string name="google_drive">Google Drive</string>
     <string name="google_drive_link">Länka till GoogleDrive-konto</string>
     <string name="google_drive_unlink">Ta bort länken till GoogleDrive-konto</string>
     <string name="connecting_to_google_drive">Kopplar till GoogleDrive</string>
@@ -130,9 +130,9 @@ Inga annonser</string>
     <string name="no_player_app_found">Det finns ingen musikspelare för att spela detta</string>
 
 <string name="app_name">"Samtalsinspelning "</string>
-    <string name="audioChannel_title">Ljudkälla</string>
-    <string name="audioChannel_summary">Välj ljudkälla</string>
-    <string name="enable_passcode">Använd lösenord</string>
-    <string name="passcode_delete_recordings_description">Radera alla inspelningar efter 10 misslyckade lösenordsförsök</string>
-    <string name="recording_method">Inspelningssätt</string>
+    <string name="audioChannel_title">"Lagringskanal "</string>
+    <string name="audioChannel_summary">"Välj lagringskanal "</string>
+    <string name="enable_passcode">"Koppla på lösenord "</string>
+    <string name="passcode_delete_recordings_description">Ta bort inspelningar på denna mobil efter 10 misslyckade lösenordsförsök</string>
+    <string name="recording_method">Inspelningstyp</string>
     </resources>
