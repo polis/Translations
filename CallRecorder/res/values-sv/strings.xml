@@ -95,11 +95,11 @@ Inga annonser</string>
 
     <string name="cloud">Synkronisering</string>
 
-    <string name="dropbox">Dropbox</string>
+    <string name="dropbox">DropBox</string>
     <string name="dropbox_link">Länka Dropbox-konto</string>
     <string name="dropbox_unlink">Ta bort länk till Dropbox-konto</string>
 
-    <string name="google_drive">Google Drive.</string>
+    <string name="google_drive">GoogleDrive</string>
     <string name="google_drive_link">Länka till GoogleDrive-konto</string>
     <string name="google_drive_unlink">Ta bort länken till GoogleDrive-konto</string>
     <string name="connecting_to_google_drive">Kopplar till GoogleDrive</string>
@@ -129,7 +129,7 @@ Inga annonser</string>
 
     <string name="no_player_app_found">Det finns ingen musikspelare för att spela detta</string>
 
-<string name="app_name">Callrecorder</string>
+<string name="app_name">"Samtalsinspelning "</string>
     <string name="audioChannel_title">Ljudkälla</string>
     <string name="audioChannel_summary">Välj ljudkälla</string>
     <string name="enable_passcode">Använd lösenord</string>
