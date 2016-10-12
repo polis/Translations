@@ -1,3 +1,138 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="sd">Sätt i ett minneskort i mobilen tack</string>
+    <string name="contact">Kontakter</string>
+    <string name="call_time">Samtalstid</string>
+    <string name="selected">Utvalda</string>
+    <string name="settings">Inställningar</string>
+    <string name="notifications">Notiser</string>
+    <string name="notificationStatus_checkbox_title">Aktivera notiser</string>
+    <string name="notificationStatus_checkbox_summary">Visa notis i meddelande-fältet</string>
+    <string name="saveRecordQuestion_checkbox_title">Spara detta samtal?</string>
+    <string name="saveRecordQuestion_checkbox_summary">Fråga efter varje inspelat samtal</string>
+    <string name="storage">Lagring</string>
+    <string name="deleteRecord_title">Automatisk rensning</string>
+    <string name="deleteRecord_summary">Ta bort inspelningar</string>
+    <string name="recording">Inställningar för inspelning</string>
+    <string name="audioSource_title">Ljudkälla</string>
+    <string name="audioSource_summary">Välj ljudkälla</string>
+    <string name="fileFormat_title">Filformat</string>
+    <string name="fileFormat_summary">Välj filformat</string>
+    <string name="recordingQuality_title">Inspelningskvalitet</string>
+    <string name="recordingQuality_summary">Välj inspelningskvalitet</string>    
+    <string name="email_subject">Inspelade samtal</string>
+	<string name="buy_category_description">Betal version</string>
+	<string name="buy_category_title">Köp betalversion</string>
+	<string name="buy_summary">Utan annonser och ytterligare egenskaper</string>
+
+	<string name="rate">Var snäll och betygsätt denna app</string>
+	<string name="rateOk">Okej</string>
+	<string name="rateLater">Senare</string>
+    <string name="start_notification">Samtalsinspelning startade</string>    
+    <string name="stop_notification">Samtalsinspelning avslutade</string>
+
+    <string name="save_the_call">Spara detta samtal?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+
+	<string name="unknown">Okänd</string>
+    <string name="hidden">Dold</string>
+	<string name="start_recording">Samtalsinspelning arbetar!</string>    
+    <string name="start_recording_details">Alla framtida samtal blir sparade.</string>    
+    <string name="stop_recording">Sätt PÅ inspelning!</string>    
+    <string name="stop_recording_details">Inspelning är tillfälligt avstängd.</string>
+
+    <string name="new_call">Ett nytt samtal har spelats in!</string>    
+    <string name="info">Info</string>       
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Vanliga frågor</string>
+    <string name="other_app_title">Alla egenskaper</string>
+    <string name="other_app_summary">Från Clever Mobile</string>
+
+    <string name="undo">Ångra</string>
+    <string name="deleted">Borttagna</string>
+
+    <string name="lock">Lås</string>
+    <string name="share">Dela</string>
+    <string name="delete">Ta bort</string>
+    <string name="select_all">Välj alla</string>
+    <string name="recordings">Inspelningar</string>
+    <string name="help">Hjälp</string>
+    <string name="hint_tap_on_contact_photo">Dutta ett kontaktfoto för att välja.</string>
+    <string name="importing_recordings">Importerar inspelningar…</string>
+
+    <string name="buy">Köp</string>
+    <string name="cancel">Annulera</string>
+    <string name="pro_description">Köpversionen innehåller 
+Dela inspelning 
+Dropbox synk 
+Google Drive synk 
+Avancerade notiser
+Inga annonser</string>
+
+    <string name="sd_card">Minneskort</string>
+    <string name="call_recorder_folder">Mapp \"Callrecorder\"</string>
+    <string name="sd_card_memory_occupied">Använt minne</string>
+    <string name="sd_card_free_memory">Ledigt minne</string>
+    <string name="total_files">Antal filer totalt</string>
+    <string name="import_recordings">Importera inspelningar</string>
+    <string name="run_clean_up">Rensa nu</string>
+    <string name="cleaning">Rensar gamla inspelningar…</string>
+    <string name="share_via">Dela via…</string>
+
+    <string name="passcode">Lösenord</string>
+    <string name="enable_passcode_description">Skydda dina inspelningar med lösenord varje gång du öppnar appen</string>
+    <string name="change_passcode">Ändra lösenord</string>
+    <string name="passcode_delete_recordings">Ta bort inspelningar</string>
+    <string name="enter_passcode">Skriv in lösenord</string>
+    <string name="reenter_passcode">Skriv in lösenord igen</string>
+    <string name="enter_old_passcode">Skriv in gammalt lösenord</string>
+    <string name="passcode_did_not_match">Lösenordet stämmer inte. Försök igen!</string>
+    <string name="enter_new_passcode">Skriv in nytt lösenord</string>
+    <string name="reenter_new_passcode">Skriv in nytt lösenord igen</string>
+    <string name="wrong_passcode">Fel lösenord. Försök igen!</string>
+    <string name="exit">Avsluta</string>
+
+    <string name="cloud">Synkronisering</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Länka Dropbox-konto</string>
+    <string name="dropbox_unlink">Ta bort länk till Dropbox-konto</string>
+
+    <string name="google_drive">Google Drive.</string>
+    <string name="google_drive_link">Länka till GoogleDrive-konto</string>
+    <string name="google_drive_unlink">Ta bort länken till GoogleDrive-konto</string>
+    <string name="connecting_to_google_drive">Kopplar till GoogleDrive</string>
+
+    <string name="login">Logga in</string>
+    <string name="logout">Logga ut</string>
+    <string name="sync_title">Synkronisera nu</string>
+    <string name="sync_summary">Synkronisera alla inspelningar</string>
+    <string name="wifi_only">Endast Wifi</string>
+    <string name="wifi_only_when_sync">Synka endast med wifi</string>
+
+    <string name="run_pro_question_dlg_description">Du använder nu gratis-versionen av Callrecorder men har köpt Pro. Vill du använda Pro istället?</string>
+    <string name="run_pro_question_dlg_title">Kör Pro</string>
+    <string name="last_recording">Senaste inspelning</string>
+    <string name="last_recording_problem_description">Det verkar vara ett problem med den senaste inspelningen. Kommer detta meddelande upp igen, var god försök ändra Filformat eller Ljud -inställningar.</string>
+    <string name="read_instructions">Läs instruktionerna</string>
+    <string name="about">Om</string>
+    <string name="translations">Översättningar</string>
+    <string name="translate">Översätt</string>
+    <string name="help_translate">Hjälp oss att översätta till ditt modersmål</string>
+
+    <string name="write_ext_storage_problem_description">Kan inte skriva till externt minne.</string>
+    <string name="allow_to_write_to_sd_card">Godkänn att spara till minneskort</string>
+    <string name="delete_recordings_older_then_selected_days">Alla inspelningar äldre än antal valda dagar kommer automatiskt att raderas</string>
+    <string name="delete_recordings_on_uninstall">Detta raderar alla inspelningar om du avinstallerar Callrecorder</string>
+    <string name="number_of_days">Antal dagar</string>
+
+    <string name="no_player_app_found">Det finns ingen musikspelare för att spela detta</string>
+
+<string name="app_name">Callrecorder</string>
+    <string name="audioChannel_title">Ljudkälla</string>
+    <string name="audioChannel_summary">Välj ljudkälla</string>
+    <string name="enable_passcode">Använd lösenord</string>
+    <string name="passcode_delete_recordings_description">Radera alla inspelningar efter 10 misslyckade lösenordsförsök</string>
+    <string name="recording_method">Inspelningssätt</string>
+    </resources>
