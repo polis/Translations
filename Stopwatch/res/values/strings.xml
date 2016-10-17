@@ -28,12 +28,23 @@
 	<string name="email">Email</string>
 	<string name="email_title">Enter your email</string>
 	<string name="email_summary">Set up email for sending results</string>	
-	<string name="buy_category_description">Full version</string>	
-	<string name="buy_category_title">Buy Stopwatch Full version</string>	
+	<string name="buy_category_description">Pro version</string>
+	<string name="buy_category_title">Buy Stopwatch Pro version</string>
 	<string name="buy_summary">Without Ads</string>
 
     <string name="rate">Please, rate this application</string>
     <string name="rateOk">OK</string>
     <string name="rateLater">Later</string>
+
+    <string name="share">Share</string>
+
+    <string name="info">Information</string>
+    <string name="other_app_title">All applications</string>
+    <string name="other_app_summary">From Clever Mobile</string>
+    <string name="about">About</string>
+    <string name="translations">Translations</string>
+    <string name="translate">Translate</string>
+    <string name="help_translate">Help us with translation to your native language</string>
+
 
 </resources>

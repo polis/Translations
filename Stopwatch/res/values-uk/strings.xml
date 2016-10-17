@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
     <string name="app_name">Секундомір</string>
@@ -28,12 +28,23 @@
 	<string name="email">Пошта</string>
 	<string name="email_title">Введіть ваш email</string>
 	<string name="email_summary">Налаштувати email для відправки результатів</string>
-	<string name="buy_category_description">Повна версія</string>	
-	<string name="buy_category_title">Придбати повну версію </string>	
+	<string name="buy_category_description">Версія Про</string>	
+	<string name="buy_category_title">Придбати версію Про</string>	
 	<string name="buy_summary">Без реклами</string>
 
     <string name="rate">Будь ласка, оцініть даний додаток</string>
     <string name="rateOk">Добре</string>
     <string name="rateLater">Пізніше</string>
+
+<string name="share">Поділитись</string>
+
+    <string name="info">Інформація</string>
+    <string name="other_app_title">Усі додатки</string>
+    <string name="other_app_summary">від Clever Mobile</string>
+    <string name="about">Про программу</string>
+    <string name="translations">Переклад</string>
+    <string name="translate">Перекласти</string>
+    <string name="help_translate">Допоможіть нам з перекладом на вашу рідну мову</string>
+
 
 </resources>

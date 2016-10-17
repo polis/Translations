@@ -12,4 +12,7 @@
     <color name="grey3">#FFDADADA</color>
     <color name="grey4">#FFD2D2D2</color>
 
+    <color name="text_alpha50">#80000000</color>
+
+
 </resources>
