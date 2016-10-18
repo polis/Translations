@@ -132,4 +132,7 @@
     <string name="delete_recordings_on_uninstall">При видаленні аплікації усі записані файли будуть видалені</string>
     <string name="number_of_days">Кількість днів</string>
 
+<string name="recording_method">Метод запису</string>
+    <string name="no_player_app_found">Не знайдено програми програвача для відтворення запису</string>
+
 </resources>
