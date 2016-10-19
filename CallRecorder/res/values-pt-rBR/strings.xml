@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="app_name">Gravador de chamadas</string>
-    <string name="sd">Favor inserir o cartão de memória no celular!</string>
+    <string name="sd">Por favor, insira um cartão SD no telefone!</string>
     <string name="contact">Contatos</string>
     <string name="call_time">Tempo da chamada</string>
     <string name="selected">selecionado</string>
@@ -36,4 +36,14 @@
 
     <string name="save_the_call">Salvar essa chamada?</string>
     <string name="yes">Sim</string>
+    <string name="recording_method">Método de gravação</string>
+    <string name="number_of_days">Número de dias</string>
+
+    <string name="delete_recordings_on_uninstall">Caso o aplicativo Call Recorder seja desinstalado, todas as gravações serão deletadas</string>
+    <string name="help_translate">Ajude-nos com a tradução para sua língua natal</string>
+
+    <string name="translate">Traduzir</string>
+    <string name="translations">Traduções</string>
+    <string name="about">Sobre</string>
+    <string name="last_recording">Última gravação</string>
     </resources>
