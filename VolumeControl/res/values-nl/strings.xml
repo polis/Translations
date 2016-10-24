@@ -1,3 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<string name="app_name">Volume instelling</string>
+    <string name="volume">Volume</string>
+    <string name="profiles">Profiel</string>
+    <string name="profile_add">Nieuw profiel</string>
+    <string name="profile_edit">Wijzig profiel</string>
+    <string name="toast_enter_profile_name">Profiel bevestigen</string>    
+    <string name="text_create_profile">Maak eerst profiel aan?</string>    
+    <string name="scheduler">Tijdinstelling</string>    
+    <string name="location">Locaties</string>          
+    
+    <string name="button_Save">Opslaan</string>    
+    <string name="button_Cancel">Afbreken</string>       
+    <string name="dialog_delete_profile_title">Profiel verwijderen</string>       
+    <string name="dialog_button_OK">Ok</string>       
+    <string name="alarmTitle">Alarm</string>
+    <string name="systemTitle">Systeem</string>
+    
+    <string name="musicTitle">Media</string>
+    <string name="ringTitle">Bel</string>
+    <string name="dialog_delete_profile_message">Alle instellingen, locaties en WIFI gegevens behorend bij dit profiel zal worden gewist. Wil je verder gaan?</string>            
+    
+    <string name="voiceCallTitle">Telefoonische oproep</string>
+    <string name="notificationTitle">Notitie</string>
+    <string name="radio_silent">Stilte</string>
+    <string name="radio_normal">Normaal</string>
+    <string name="radio_vibrate">Trillen</string>
+    
+    <string name="location_select">Selecteer locatie</string>
+    <string name="location_name">Naam locatie
+Woonplaats</string>
+    <string name="marker_info">Ga hier</string>
+    <string name="toast_set_location">Gelieve, markeer deze map</string>
+    <string name="toast_enter_location_name">Gelieve, locatie naam
+Gelieve woonplaats</string>
+    <string name="edit">Wijzig</string>
+
+    <string name="text_buy_pro">Deze functionaliteit is verkrijgbaar in Pro versie</string>
+    <string name="button_buy_pro">Koop Pro</string>
+	<string name="rate">Gelieve, waarder deze aplicatie</string>
+	<string name="rateOk">Ok</string>
+	<string name="rateLater">Later</string>
+    
+    <string name="wifi">WIFI spot
+WIFI adres</string>
+    <string name="no_wifi_spots">Weet zeker dat
+WIFI is ingeschakeld
+Ten minste een WIFI adres moet zijn opgeslagen in WIFI Netwerk configuratie van je telefoon.</string>
+    <string name="on_disconnect">Aan afgesloten van WIFI netwerk</string>
+
+    <string name="help">Help</string>
+    <string name="set">Stel in
+Instellen</string>
+
+    <string name="buy">Koop</string>
+    <string name="cancel">Verwijder</string>
+    <string name="pro_description">Pro versie bevat
+Mogelijkheid configuratie profiel bij afgesloten van WIFI netwerk</string>
+    <string name="buy_category_description">Pro versie</string>
+    <string name="buy_category_title">Koop Volume instelling Pro versie</string>
+
+    <string name="info">informatie</string>
+    <string name="faq_title"/>
+    <string name="faq_summary">Meermaals gevraagd</string>
+    <string name="other_app_title">Alle aplicaties</string>
+    <string name="other_app_summary">Van Clever Mobile</string>
+    <string name="about">Over</string>
+    <string name="translations">Vertaling</string>
+    <string name="translate">Vertaal</string>
+    <string name="help_translate">Help ons met vertalen naar jouw taal</string>
+
 </resources>
