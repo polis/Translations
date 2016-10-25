@@ -70,7 +70,7 @@
     <string name="translations">Translations</string>
     <string name="translate">Translate</string>
     <string name="help_translate">Help us with translation to your native language</string>
-    <string name="help_translate">Volume Control / Manager - application that controls volume for all sound streams in Android phone. It can automatically set the volume of any stream at configured time.
+    <string name="description">Volume Control / Manager - application that controls volume for all sound streams in Android phone. It can automatically set the volume of any stream at configured time.
         Offers features such as::
         - configure volume for all sound streams in the phone
         - save configurations into profiles
