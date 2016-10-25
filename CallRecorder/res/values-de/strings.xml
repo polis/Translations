@@ -133,4 +133,7 @@
     <string name="delete_recordings_on_uninstall">Es werden alle Aufnahmen gelöscht wenn die Call Recorder Anwendung deinstalliert wird</string>
     <string name="number_of_days">Anzahl der Tage</string>
 
-    </resources>
+    <string name="recording_method">Aufnahme Methode</string>
+    <string name="no_player_app_found">Keine app gefunden um dieses audio abzuspielen.</string>
+
+</resources>
