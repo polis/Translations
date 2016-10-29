@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Grabador de Llamadas</string>
-    <string name="sd">Por favor, ¡inserte la tarjeta SD en el teléfono!!</string>
+    <string name="sd">Por favor, ¡inserte la tarjeta SD en el teléfono!</string>
     <string name="contact">Contactos</string>
     <string name="call_time">Tiempo de llamada</string>
     <string name="selected">seleccionado</string>
     <string name="settings">Ajustes</string>
     <string name="notifications">Notificaciones</string>
     <string name="notificationStatus_checkbox_title">Habilitar notificaciones</string>
-    <string name="notificationStatus_checkbox_summary">Mostrar en la barra de notificación luego de cada llamada grabada</string>
+    <string name="notificationStatus_checkbox_summary">Mostrar en la barra de notificación después de cada llamada grabada</string>
     <string name="saveRecordQuestion_checkbox_title">¿Guardar esta llamada?</string>
     <string name="saveRecordQuestion_checkbox_summary">Preguntar después de cada llamada grabada</string>
     <string name="storage">Almacenamiento</string>
@@ -16,13 +16,13 @@
     <string name="deleteRecord_summary">Eliminar grabaciones</string>
     <string name="recording">Ajustes de grabación</string>
     <string name="audioSource_title">Fuente de audio</string>
-    <string name="audioSource_summary">Seleccione la fuente audio</string>
+    <string name="audioSource_summary">Seleccione la fuente de audio</string>
     <string name="audioChannel_title">Canal de audio</string>
     <string name="audioChannel_summary">Seleccione el canal de audio</string>
     <string name="fileFormat_title">Formato del archivo</string>
     <string name="fileFormat_summary">Seleccione el formato del archivo</string>
     <string name="recordingQuality_title">Calidad de grabación</string>
-    <string name="recordingQuality_summary">Seleccione la calidad de grabación</string>
+    <string name="recordingQuality_summary">Seleccione la calidad de la grabación</string>
 	<string name="email_subject">Llamadas grabadas</string>
 	<string name="buy_category_description">Versión Pro</string>
 	<string name="buy_category_title">Comprar el Grabador de Llamadas versión Pro</string>
@@ -41,14 +41,14 @@
 	<string name="unknown">Desconocido</string>
 	<string name="hidden">Oculto</string>
     <string name="start_recording">¡Está funcionando el Grabador de Llamadas!</string>
-    <string name="start_recording_details">Todas sus llamadas siguientes serán guardadas.</string>
+    <string name="start_recording_details">Todas sus llamadas futuras serán guardadas.</string>
     <string name="stop_recording">¡Active la grabación!</string>
     <string name="stop_recording_details">La grabadora actualmente está apagada.</string>
 
-    <string name="new_call">Se ha grabado una nueva llamada!</string>
+    <string name="new_call">¡Se ha grabado una nueva llamada!</string>
     <string name="info">Información</string>
-    <string name="faq_title">PFF</string>
-    <string name="faq_summary">Preguntas Frecuentemente Formuladas</string>
+    <string name="faq_title">Preguntas frecuentes</string>
+    <string name="faq_summary">Preguntas frecuentes</string>
     <string name="other_app_title">Todas las aplicaciones</string>
     <string name="other_app_summary">De Clever Mobile</string>
 
@@ -61,31 +61,36 @@
     <string name="select_all">Seleccionar todo</string>
     <string name="recordings">Grabaciones</string>
     <string name="help">Ayuda</string>
-    <string name="hint_tap_on_contact_photo">Golpear ligeramente la foto de algún contacto para seleccionar un objeto.</string>
+    <string name="hint_tap_on_contact_photo">Pulse sobre una foto de contacto para seleccionar un elemento.</string>
     <string name="importing_recordings">Importando grabaciones…</string>
 
     <string name="buy">Comprar</string>
     <string name="cancel">Cancelar</string>
     <string name="pro_description">La versión Pro contiene:
-        \n - Compartir grabaciones
-        \n - Sinc. De Dropbox
-        \n - Sinc. del Google Drive
-        \n - Notificaciones avanzadas
-        \n - No más anuncios</string>
+ 
+ - Compartir grabaciones
+ 
+ - Sincronización de Dropbox
+ 
+ - Sincronización de Google Drive
+ 
+ - Notificaciones avanzadas
+ 
+ - No más anuncios</string>
 
     <string name="sd_card">Tarjeta SD</string>
-    <string name="call_recorder_folder">Folder \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">- Memoria usada</string>
-    <string name="sd_card_free_memory">- Memoria libre</string>
-    <string name="total_files">- Total de archivos </string>
-    <string name="import_recordings">Importar de grabaciones</string>
+    <string name="call_recorder_folder">Carpeta \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Memoria usada</string>
+    <string name="sd_card_free_memory">Memoria libre</string>
+    <string name="total_files">Total de archivos</string>
+    <string name="import_recordings">Importar grabaciones</string>
     <string name="run_clean_up">Limpiar ahora</string>
-    <string name="cleaning">Limpieza de grabaciones viejas…</string>
+    <string name="cleaning">Limpiando grabaciones viejas…</string>
     <string name="share_via">Compartir a través de…</string>
 
     <string name="passcode">Contraseña</string>
     <string name="enable_passcode">Habilitar contraseña</string>
-    <string name="enable_passcode_description">Proteja sus grabaciones con autentificación de la contraseña cada vez que usted inicie la app</string>
+    <string name="enable_passcode_description">Proteja sus grabaciones con la autenticación de contraseña cada vez que inicie la aplicación</string>
     <string name="change_passcode">Cambiar contraseña</string>
     <string name="passcode_delete_recordings">Eliminar grabaciones</string>
     <string name="passcode_delete_recordings_description">Eliminar todas las grabaciones de este dispositivo después de 10 intentos fallidos de ingreso de contraseña</string>
@@ -93,8 +98,8 @@
     <string name="reenter_passcode">Reingrese la contraseña</string>
     <string name="enter_old_passcode">Ingrese la contraseña vieja</string>
     <string name="passcode_did_not_match">Las contraseñas no son iguales. Por favor, ¡intente de nuevo!</string>
-    <string name="enter_new_passcode">Ingrese la contraseña nueva</string>
-    <string name="reenter_new_passcode">Reingrese la contraseña nueva</string>
+    <string name="enter_new_passcode">Ingrese la nueva contraseña</string>
+    <string name="reenter_new_passcode">Reingrese la nueva contraseña</string>
     <string name="wrong_passcode">Contraseña incorrecta. Por favor, ¡intente de nuevo!</string>
     <string name="exit">Salir</string>
 
@@ -130,7 +135,7 @@
 
 <string name="allow_to_write_to_sd_card">Permitir escribir en la tarjeta SD extraíble</string>
     <string name="delete_recordings_older_then_selected_days">Todas las grabaciones anteriores al período de días seleccionado, se eliminaran de manera automática</string>
-    <string name="delete_recordings_on_uninstall">Se borrarán todas las grabaciones si desinstala la aplicación Call Recorder</string>
+    <string name="delete_recordings_on_uninstall">Se borrará todas las grabaciones si se desinstala la aplicación Call Recorder</string>
     <string name="number_of_days">Número de días</string>
 
     <string name="recording_method">Método de grabación</string>
