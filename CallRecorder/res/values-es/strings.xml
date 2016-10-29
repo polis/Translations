@@ -128,4 +128,12 @@
 
     <string name="write_ext_storage_problem_description">No se puede guardar en almacenamiento externo.</string>
 
+<string name="allow_to_write_to_sd_card">Permitir escribir en la tarjeta SD extraíble</string>
+    <string name="delete_recordings_older_then_selected_days">Todas las grabaciones anteriores al período de días seleccionado, se eliminaran de manera automática</string>
+    <string name="delete_recordings_on_uninstall">Se borrarán todas las grabaciones si desinstala la aplicación Call Recorder</string>
+    <string name="number_of_days">Número de días</string>
+
+    <string name="recording_method">Método de grabación</string>
+    <string name="no_player_app_found">No se encontró aplicación para reproducir este audio</string>
+
 </resources>
