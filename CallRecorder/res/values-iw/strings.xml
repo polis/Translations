@@ -61,4 +61,8 @@
     <string name="recordings">הקלטות</string>
     <string name="help">עזרה</string>
     <string name="hint_tap_on_contact_photo">לחץ על תמונה איש קשר כדי לבחור פריט</string>
+    <string name="importing_recordings">יבוא הקלטות</string>
+
+    <string name="cancel">בטל</string>
+    <string name="faq_title">שאלות נפוצות</string>
     </resources>
