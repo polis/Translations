@@ -135,4 +135,51 @@
     <string name="recording_method">Recording method</string>
     <string name="no_player_app_found">No player app found to play this audio</string>
 
+    <string name="player">Media Player</string>
+    <string name="use_external_player">Use external player</string>
+    <string name="use_external_media_player_to_play_recordings">Use external media player to play recordings</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="not_able_to_import_to_pro">If this option Enabled then it will not be possible to automaticaly import recordings to Pro version. Furthermore, do backup of all important recordings if you decide to uninstall the app, as all they will be deleted.</string>
+    <string name="not_able_to_import">If this option Enabled and you decide to uninstall the app, you have to do backup of all important recordings, as all they will be deleted and it will not be possible to automaticaly import recordings after installing the app again. </string>
+
+    <string name="app_description_free">Simple Call Recorder application that has an ability to:
+- Enable/Disable call recording
+- Records all your phone calls
+- Play/Stop recorded audio by touch on the item
+- Delete recorded items
+- Lock recorded items to prevent from auto-cleaning
+- Share recorded items (only in Pro version)
+- Confirmation dialog: Would you like to keep recorded call that is shown just after the call (only in Pro version).
+
+IF IT DOES NOT WORK ON YOUR PHONE AT ALL
+OR IT DOES NOT RECORD OPPOSITE SIDE VOICE CLEARLY:
+1. Try to mix different recording settings as it described here: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. There is a limitation for some phones that don't support recording from phone line or bluetooth. It’s audio driver problem made by manufacturer of the phone. List of known supported devices and configurations for them is here: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Please, not give bad marks for that. Thank you!
+
+If you have some suggestions or comments, please visit our site http://clevermobile.net and feel free to contact us.</string>
+
+    <string name="app_description_pro">This application does not work for some phones. So,
+please, try our free version before buying this one.
+If free version does not work for your phone - don't waste your money for buying Pro!
+
+*** TURN RECORDING OFF IN FREE VERSION JUST AFTER PRO IS INSTALLED ***
+
+Pro version of Call Recorder without Ads and includes additional features.
+
+Pro version of Call Recorder application has an ability to:
+- Enable/Disable call recording
+- Records all your phone calls
+- Play/Stop recorded audio by touch on the item
+- Delete recorded items
+- Lock recorded items to prevent from auto-cleaning
+- Share selected recordings (Only in Pro)
+- Synchronization with Dropbox and Google Drive (Only in Pro)
+- Confirmation dialog after each call: Save recording? (Only in Pro)
+
+If you want to have it in your language and ready help with translation - you are welcome! Please, visit translation page here: http://translate.clevermobile.net/projects/call-recorder/translations/
+
+If you have some suggestions or comments, please visit our site http://clevermobile.net and feel free to contact us.</string>
+
 </resources>

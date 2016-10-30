@@ -10,6 +10,6 @@
 	<color name="pressed">#718cf2ff</color>
 	<color name="shown">#ecedee</color>
 	<color name="selected">#7171adb4</color>
-
+	<color name="transparent_gray">#78000000</color>
 
 </resources>
