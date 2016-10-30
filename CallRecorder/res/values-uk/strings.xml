@@ -135,4 +135,12 @@
 <string name="recording_method">Метод запису</string>
     <string name="no_player_app_found">Не знайдено програми програвача для відтворення запису</string>
 
+<string name="player">Програвач медіа</string>
+    <string name="use_external_player">Використовувати зовнішній медіа плеєр</string>
+    <string name="use_external_media_player_to_play_recordings">Використовувати зовнішній медіа плеєр для прослуховування записів</string>
+    <string name="play">Грати</string>
+    <string name="pause">Пауза</string>
+    <string name="not_able_to_import_to_pro">Якщо ця опція Увімкнута то записи не будуть автоматично імпортовані до Про версії. Більше того, збережіть усі важливі записи, перед тим як видалити програму, так як вони будуть видалені.</string>
+    <string name="not_able_to_import">"Якщо ця опція Увімкнута і ви вирішите видалити додаток, зробіть копії усіх важливих записів, так як усі вони будуть виличені і не буде можливості автоматично імпортувати їх після установки додатку знову. "</string>
+
 </resources>
