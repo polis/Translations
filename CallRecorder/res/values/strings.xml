@@ -135,4 +135,12 @@
     <string name="recording_method">Recording method</string>
     <string name="no_player_app_found">No player app found to play this audio</string>
 
+    <string name="player">Media Player</string>
+    <string name="use_external_player">Use external player</string>
+    <string name="use_external_media_player_to_play_recordings">Use external media player to play recordings</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="not_able_to_import_to_pro">If this option Enabled then it will not be possible to automaticaly import recordings to Pro version. Furthermore, do backup of all important recordings if you decide to uninstall the app, as all they will be deleted.</string>
+    <string name="not_able_to_import">If this option Enabled and you decide to uninstall the app, you have to do backup of all important recordings, as all they will be deleted and it will not be possible to automaticaly import recordings after installing the app again. </string>
+
 </resources>
