@@ -140,4 +140,9 @@
     <string name="recording_method">شیوه ضبط</string>
     <string name="no_player_app_found">هیچ برنامه پخشی برای پخش این صدا وجود ندارد</string>
 
-</resources>
+<string name="use_external_player">از پلیر خارجی استفاده کن</string>
+    <string name="use_external_media_player_to_play_recordings">از پلیر خارجی برای اجرای پیام های ضبط شده استفاده کن</string>
+    <string name="play">اجرا</string>
+    <string name="pause">مکث</string>
+    <string name="player">پخش کننده</string>
+    </resources>
