@@ -135,7 +135,7 @@
 
 <string name="allow_to_write_to_sd_card">Permitir escribir en la tarjeta SD extraíble</string>
     <string name="delete_recordings_older_then_selected_days">Todas las grabaciones anteriores al período de días seleccionado, se eliminaran de manera automática</string>
-    <string name="delete_recordings_on_uninstall">Se borrará todas las grabaciones si se desinstala la aplicación Call Recorder</string>
+    <string name="delete_recordings_on_uninstall">Se borrarán todas las grabaciones si se desinstala la aplicación Call Recorder</string>
     <string name="number_of_days">Número de días</string>
 
     <string name="recording_method">Método de grabación</string>
@@ -144,7 +144,7 @@
 <string name="player">Reproductor Multimedia</string>
     <string name="use_external_player">Utilizar reproductor externo</string>
     <string name="use_external_media_player_to_play_recordings">Utilizar reproductor de multimedia externo para reproducir grabaciones</string>
-    <string name="play">Play</string>
+    <string name="play">Reproducir</string>
     <string name="pause">Pausar</string>
     <string name="not_able_to_import_to_pro">Si esta opción está habilitada, no será posible importar de forma automática las grabaciones a la versión Pro. Por otra parte, haga una copia de seguridad de todas las grabaciones importantes si es que decide desinstalar la aplicación, ya que todas ellas serán borradas.</string>
     <string name="not_able_to_import">"Si está habilitada esta opción y usted decide desinstalar la aplicación, usted tiene que hacer una copia de seguridad de todas las grabaciones importantes, si no es así todas se eliminarán y no será posible importar de forma automática las grabaciones después de instalar la aplicación de nuevo. "</string>
