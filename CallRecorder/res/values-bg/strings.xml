@@ -1,3 +1,143 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<string name="app_name">Запис на обажданията</string>
+    <string name="sd">Моля, поставете SD карта в телефона си!</string>
+    <string name="contact">Контакти</string>
+    <string name="call_time">Време на обаждането</string>
+    <string name="selected">избрани</string>
+    <string name="settings">Настройки</string>
+    <string name="notifications">Известия</string>
+    <string name="notificationStatus_checkbox_title">Включи известията</string>
+    <string name="notificationStatus_checkbox_summary">Показвай известие горе в бара по време на запис</string>
+    <string name="saveRecordQuestion_checkbox_title">Запис на разговора?</string>
+    <string name="saveRecordQuestion_checkbox_summary">Попитай след запис на разговора</string>
+    <string name="storage">Съхранение</string>
+    <string name="deleteRecord_title">Автоматично почистване</string>
+    <string name="deleteRecord_summary">Изтриване на записи</string>
+    <string name="recording">Настройки на записа</string>
+    <string name="audioSource_title">Аудио формат</string>
+    <string name="audioSource_summary">Избери аудио формат</string>
+    <string name="audioChannel_title">Аудио канал</string>
+    <string name="audioChannel_summary">Избери аудио канал</string>
+    <string name="fileFormat_title">Файлов формат</string>
+    <string name="fileFormat_summary">Избери файлов формат</string>
+    <string name="recordingQuality_title">Качество на запис</string>
+    <string name="recordingQuality_summary">Избери качество на запис</string>    
+    <string name="email_subject">Записани обаждания</string>
+	<string name="buy_category_description">Разширена версия</string>
+	<string name="buy_category_title">Закупи запис на обажданията разширена версия</string>
+	<string name="buy_summary">Без реклами и допълнителни функции</string>
+
+	<string name="rate">Моля, гласувайте за това приложение</string>
+	<string name="rateOk">ОК</string>
+	<string name="rateLater">По-късно</string>
+    <string name="start_notification">Записа на обажданията е стартиран</string>    
+    <string name="stop_notification">Запис на обажданията е спрян</string>
+
+    <string name="save_the_call">Да запиша ли това обаждане?</string>
+    <string name="yes">Да</string>
+    <string name="no">Не</string>
+
+	<string name="unknown">Не знам</string>
+    <string name="hidden">Скрити</string>
+	<string name="start_recording">Записа на обажданията работи!</string>    
+    <string name="start_recording_details">Всички ваши бъдещи обаждания ще бъдат записани.</string>    
+    <string name="stop_recording">Включване на записа!</string>    
+    <string name="stop_recording_details">Текущия запис е изключен.</string>
+
+    <string name="new_call">Новото обаждане беше записано!</string>    
+    <string name="info">Информация</string>       
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Често задавани въпроси</string>
+    <string name="other_app_title">Всички проложения</string>
+    <string name="other_app_summary">от Clever Mobile</string>
+
+    <string name="undo">отмяна</string>
+    <string name="deleted">изтрити</string>
+
+    <string name="lock">Заключено</string>
+    <string name="share">Сподели</string>
+    <string name="delete">Изтриване</string>
+    <string name="select_all">Избери всички</string>
+    <string name="recordings">Записи</string>
+    <string name="help">Помощ</string>
+    <string name="hint_tap_on_contact_photo">Докоснете снимката на контакта за да изберете.</string>
+    <string name="importing_recordings">Добавени записи…</string>
+
+    <string name="buy">Купи</string>
+    <string name="cancel">Отказ</string>
+    <string name="pro_description">Съдържание на разширена версия:
+
+- Споделяне на записи
+
+- Dropbox синхронизация
+
+- Google Drive синхронизация
+
+- Допълнителни известия
+
+- Без повече реклама</string>
+
+    <string name="sd_card">SD карта</string>
+    <string name="call_recorder_folder">Папка \"Записани обаждания\"</string>
+    <string name="sd_card_memory_occupied">Използвана памет</string>
+    <string name="sd_card_free_memory">Свободна памет</string>
+    <string name="total_files">Общо файлове</string>
+    <string name="import_recordings">Добавени записи</string>
+    <string name="run_clean_up">Почисти сега</string>
+    <string name="cleaning">Изчисти стари записи…</string>
+    <string name="share_via">Сподели през…</string>
+
+    <string name="passcode">Парола</string>
+    <string name="enable_passcode">Включи парола</string>
+    <string name="enable_passcode_description">Защити своите записи с парола всеки път като стартираш приложението</string>
+    <string name="change_passcode">Промени парола</string>
+    <string name="passcode_delete_recordings">Изтриване на записи</string>
+    <string name="passcode_delete_recordings_description">Изтриване на всички записи на това устройство, след 10 грешни опита за въвеждане на парола</string>
+    <string name="enter_passcode">Въведи парола</string>
+    <string name="reenter_passcode">Повтори парола</string>
+    <string name="enter_old_passcode">Въведи стара парола</string>
+    <string name="passcode_did_not_match">Паролите не съвпадат. Моля, опитайте отново!</string>
+    <string name="enter_new_passcode">Въведи нова парола</string>
+    <string name="reenter_new_passcode">Повтори новата парола</string>
+    <string name="wrong_passcode">Грешна парола. Моля, опитай отново!</string>
+    <string name="exit">Изход</string>
+
+    <string name="cloud">Синхронизация</string>
+
+    <string name="dropbox">Услуга на Dropbox</string>
+    <string name="dropbox_link">Линк към Dropbox профил</string>
+    <string name="dropbox_unlink">Разкачи връзката към Dropbox акаунт</string>
+
+    <string name="google_drive">Облак на Google Drive</string>
+    <string name="google_drive_link">Връзка към Google Drive акаунт</string>
+    <string name="google_drive_unlink">Разкачи връзката към Google Drive акаунт</string>
+    <string name="connecting_to_google_drive">Свързване към Google Drive</string>
+
+    <string name="login">Влизане</string>
+    <string name="logout">Излизане</string>
+    <string name="sync_title">Синхронизирай сега</string>
+    <string name="sync_summary">Синхронизирай всички записи сега</string>
+    <string name="wifi_only">Само през WiFi</string>
+    <string name="wifi_only_when_sync">Синхронизиране само при връзка с WiFi</string>
+
+    <string name="run_pro_question_dlg_description">Вие опитвате да стартирате безплатна версия на приложението, но вече имате разширена версия. Желаете ли да я запазите?</string>
+    <string name="run_pro_question_dlg_title">Стартирай разширена версия</string>
+    <string name="last_recording">Последни записи</string>
+    <string name="last_recording_problem_description">Изглежда имате проблем по време на последния запис. Ако това съобщение продължи да се появява, моля, сменете аудио формата за съхранение от настройките.</string>
+    <string name="read_instructions">Прочети инструкцийте</string>
+    <string name="about">Относно</string>
+    <string name="translations">Преводи</string>
+    <string name="translate">Превод</string>
+    <string name="help_translate">Помогнете ни с превода на родния си език</string>
+
+    <string name="write_ext_storage_problem_description">Невъзможен е запис на карта за съхранение.</string>
+    <string name="allow_to_write_to_sd_card">Позволи запис на външна SD карта</string>
+    <string name="delete_recordings_older_then_selected_days">Всички записи по-стари от избрания период ще бъдат автоматично изтрити</string>
+    <string name="delete_recordings_on_uninstall">Това ще изтрие всички записи, ако деинсталирате приложението Call Recorder</string>
+    <string name="number_of_days">Брой дни</string>
+
+    <string name="recording_method">Вид на записа</string>
+    <string name="no_player_app_found">Няма открито приложение, за да се изпълни този аудио файл</string>
+
 </resources>
