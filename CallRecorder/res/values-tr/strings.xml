@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Çağrı Kaydedici</string>
     <string name="sd">Lütfen telefona SD kart takın!</string>
@@ -10,7 +10,7 @@
     <string name="notificationStatus_checkbox_title">Bildirimleri etkinleştir</string>
     <string name="notificationStatus_checkbox_summary">Her çağrı kaydından sonra bildirim çubuğunda göster</string>
     <string name="saveRecordQuestion_checkbox_title">Bu çağrı kaydedilsin mi?</string>
-    <string name="saveRecordQuestion_checkbox_summary">Her çağrı kaydından sonra sor</string>
+    <string name="saveRecordQuestion_checkbox_summary">Her çağrıdan sonra kaydedilmesi için sor</string>
     <string name="storage">Depolama</string>
     <string name="deleteRecord_title">Otomatik temizleme</string>
     <string name="deleteRecord_summary">Kayıtları sil</string>
@@ -62,7 +62,7 @@
     <string name="recordings">Kayıtlar</string>
     <string name="help">Yardım</string>
     <string name="hint_tap_on_contact_photo">Bir öğeyi seçmek için kişinin fotoğrafına tıkla.</string>
-    <string name="importing_recordings">Kayıtlar içe aktarılıyor&#8230;</string>
+    <string name="importing_recordings">Kayıtlar içe aktarılıyor…</string>
 
     <string name="buy">Satın al</string>
     <string name="cancel">İptal</string>
@@ -80,8 +80,8 @@
     <string name="total_files">- Toplam dosya</string>
     <string name="import_recordings">Kayıtları içe aktar</string>
     <string name="run_clean_up">Şimdi temizle</string>
-    <string name="cleaning">Eski kayıtları temizliyor&#8230;</string>
-    <string name="share_via">&#8230; ile paylaş</string>
+    <string name="cleaning">Eski kayıtları temizliyor…</string>
+    <string name="share_via">… ile paylaş</string>
 
     <string name="passcode">Parola</string>
     <string name="enable_passcode">Parolayı doğrula</string>
@@ -128,4 +128,11 @@
 
     <string name="write_ext_storage_problem_description">Harici depolamaya yazılamadı.</string>
 
-</resources>
+<string name="allow_to_write_to_sd_card">Çıkarılabilir SD karta yazmak için izin verin.</string>
+    <string name="delete_recordings_older_then_selected_days">Seçilen günlük süreden daha eski tüm kayıtlar otomatik olarak silinecek.</string>
+    <string name="delete_recordings_on_uninstall">Çağrı Kaydedici uygulamasını kaldırmak tüm kayıtların silinmesine sebep olur.</string>
+    <string name="number_of_days">Gün sayısı</string>
+
+    <string name="recording_method">Kayıt yöntemi</string>
+    <string name="player">Media oynatıcı</string>
+    </resources>
