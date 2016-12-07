@@ -133,4 +133,8 @@
     <string name="delete_recordings_on_uninstall">W razie odinstalowania aplikacji wszystkie nagrania zostaną automatycznie usunięte</string>
     <string name="number_of_days">Liczba dni</string>
 
-</resources>
+<string name="recording_method">Metoda nagrywania</string>
+    <string name="no_player_app_found">Nie odnaleziono odtwarzacza do uruchomienia tego dźwięku</string>
+
+    <string name="player">Multimedialny Odtwarzacz</string>
+    </resources>
