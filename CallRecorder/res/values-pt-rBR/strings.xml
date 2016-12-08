@@ -46,4 +46,6 @@
     <string name="translations">Traduções</string>
     <string name="about">Sobre</string>
     <string name="last_recording">Última gravação</string>
-    </resources>
+    <string name="no">Não</string>
+
+	</resources>
