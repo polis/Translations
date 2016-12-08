@@ -47,4 +47,6 @@
 
     <string name="new_call">Nyt opkald er blevet optaget!</string>
 
-</resources>
+<string name="info">Information</string>       
+    <string name="faq_title">Ofte stillede spørgsmål</string>
+    </resources>
