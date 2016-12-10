@@ -70,4 +70,5 @@
     <string name="select_all">全选</string>
     <string name="recordings">记录</string>
     <string name="help">帮助</string>
+    <string name="hint_tap_on_contact_photo">轻点联系人照片选择一个项目。</string>
     </resources>
