@@ -133,6 +133,12 @@
     <string name="number_of_days">Количество дней</string>
 
 <string name="recording_method">Метод записи</string>
-    <string name="no_player_app_found">"Не найдено приложения, для проигрывания этой записи. "</string>
+    <string name="no_player_app_found">"Не найдено приложение, для проигрывания этой записи. "</string>
 
-</resources>
+<string name="player">Медиа плеер</string>
+    <string name="use_external_player">Использовать внешнее приложение для воспроизведения</string>
+    <string name="use_external_media_player_to_play_recordings">Использовать внешнее приложение для воспроизведения записей</string>
+    <string name="play">Воспроизвести</string>
+    <string name="pause">Пауза</string>
+    <string name="not_able_to_import_to_pro">Включение данной опции сделает невозможным автоматической импорт записей в PRO версию. Сохраните все записи перед удалением приложения. Если этого не сделать, все записи будут удалены вместе с приложением.</string>
+    </resources>

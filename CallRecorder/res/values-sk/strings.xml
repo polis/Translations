@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Nahrávač hovorov</string>
     <string name="sd">Vložte prosím SD kartu do telefónu!</string>
@@ -64,4 +64,8 @@
     <string name="sync_title">Synchronizácia</string>
     <string name="sync_summary">Synchronizovať všetky nahrávky teraz</string>
 
-</resources>
+<string name="lock">zamknúť</string>
+    <string name="share">zdíeľať</string>
+    <string name="delete">zmazať</string>
+    <string name="select_all">vybrať všetko</string>
+    </resources>

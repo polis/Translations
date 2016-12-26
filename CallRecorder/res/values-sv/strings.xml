@@ -135,4 +135,6 @@ Inga annonser</string>
     <string name="enable_passcode">"Koppla på lösenord "</string>
     <string name="passcode_delete_recordings_description">Ta bort inspelningar på denna mobil efter 10 misslyckade lösenordsförsök</string>
     <string name="recording_method">Inspelningsmetod</string>
+    <string name="player">Mediaspelare</string>
+    <string name="use_external_player">Använd extern inspelare</string>
     </resources>

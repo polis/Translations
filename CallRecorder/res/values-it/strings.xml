@@ -130,4 +130,18 @@
 
 <string name="allow_to_write_to_sd_card">Permetti di scrivere sulla SD card</string>
     <string name="delete_recordings_older_then_selected_days">Tutte le registrazioni più vecchie dei giorni selezionati saranno cancellate automaticamante</string>
+    <string name="delete_recordings_on_uninstall">Tutte le registrazioni saranno cancellate se disinstalli Call Recorder</string>
+    <string name="number_of_days">Numero di giorni</string>
+
+    <string name="recording_method">Metodo di registrazione</string>
+    <string name="no_player_app_found">Nessun player trovato per ascoltare questo audio</string>
+
+    <string name="player">Media Player</string>
+    <string name="use_external_player">Usa player esterno</string>
+    <string name="use_external_media_player_to_play_recordings">"Usa player esterno per riprodurre le registrazioni "</string>
+    <string name="play">Riproduci</string>
+    <string name="pause">Pausa</string>
+    <string name="not_able_to_import_to_pro">Se questa opzione è abilitata non è possibile importare automaticamente le registrazioni nella versione Pro. Inoltre effettua un backup di tutte le registrazioni importanti se decidi di disinstallare l\'app, poiché saranno tutte eliminate.</string>
+    <string name="not_able_to_import">"Se questa opzione è abilitata  e decidi di disinstallare l\'app devi effettuare un backup di tutte le registrazioni importanti perché saranno eliminate e non sarà possibile importare automaticamente le registrazioni  dopo aver installato di nuovo l\'app."</string>
+
     </resources>

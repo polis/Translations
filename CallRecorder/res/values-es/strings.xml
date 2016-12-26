@@ -135,10 +135,57 @@
 
 <string name="allow_to_write_to_sd_card">Permitir escribir en la tarjeta SD extraíble</string>
     <string name="delete_recordings_older_then_selected_days">Todas las grabaciones anteriores al período de días seleccionado, se eliminaran de manera automática</string>
-    <string name="delete_recordings_on_uninstall">Se borrará todas las grabaciones si se desinstala la aplicación Call Recorder</string>
+    <string name="delete_recordings_on_uninstall">Se borrarán todas las grabaciones si se desinstala la aplicación Call Recorder</string>
     <string name="number_of_days">Número de días</string>
 
     <string name="recording_method">Método de grabación</string>
     <string name="no_player_app_found">No se encontró aplicación para reproducir este audio</string>
+
+<string name="player">Reproductor Multimedia</string>
+    <string name="use_external_player">Utilizar reproductor externo</string>
+    <string name="use_external_media_player_to_play_recordings">Utilizar reproductor de multimedia externo para reproducir grabaciones</string>
+    <string name="play">Reproducir</string>
+    <string name="pause">Pausar</string>
+    <string name="not_able_to_import_to_pro">Si esta opción está habilitada, no será posible importar de forma automática las grabaciones a la versión Pro. Por otra parte, haga una copia de seguridad de todas las grabaciones importantes si es que decide desinstalar la aplicación, ya que todas ellas serán borradas.</string>
+    <string name="not_able_to_import">"Si está habilitada esta opción y usted decide desinstalar la aplicación, usted tiene que hacer una copia de seguridad de todas las grabaciones importantes, si no es así todas se eliminarán y no será posible importar de forma automática las grabaciones después de instalar la aplicación de nuevo. "</string>
+
+    <string name="app_description_free">La aplicación Grabadora de llamadas simple tiene la capacidad de:
+- Activar/desactivar la grabación de llamadas
+- Grabar todas sus llamadas telefónicas
+- Reproducir/Detener el audio grabado pulsando el elemento
+- Eliminar elementos grabados
+- Bloqueo de artículos para evitar que se auto-limpien
+- Compartir elementos grabados (sólo en versión Pro)
+- Diálogo de confirmación: ¿Le gustaría mantener llamada grabada que se muestra justo después de la llamada? (sólo en la versión Pro).
+
+SI NO funciona en su teléfono DEL TODO
+O NO GRABA LA VOZ DEL LADO CONTRARIO:
+1. Trate de mezclar diferentes configuraciones de grabación, se describe aquí: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Hay una limitación para algunos teléfonos que no admiten la grabación de la línea telefónica o bluetooth. Es un problema del controlador de audio realizado por el fabricante del teléfono. Lista de dispositivos y configuraciones para ellos, está aquí: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Por favor, no dar malas notas por eso. ¡Gracias!
+
+Si usted tiene algunas sugerencias o comentarios, por favor visite nuestro sitio http://clevermobile.net y no dude en ponerse en contacto con nosotros.</string>
+
+    <string name="app_description_pro">Esta aplicación no funciona para algunos teléfonos. Así que,
+Por favor, intente nuestra versión gratuita antes de comprar esta.
+Si la versión gratuita no funciona para su teléfono - ¡no pierda su dinero para comprar Pro!
+
+*** APAGA LA GRABACIÓN EN LA VERSIÓN BÁSICA JUSTO DESPUÉS DE INSTALAR PRO***
+
+La versión Pro de Call Recorder sin anuncios incluye características adicionales.
+
+La versión Pro de la aplicación Call Recorder tiene una capacidad de:
+- Activar/Desactivar la grabación de llamadas
+- Grabar todas sus llamadas telefónicas
+- Reproducir/Detener el audio grabado pulsando el elemento
+- Eliminar elementos grabados
+- Bloqueo de artículos para evitar que se auto-limpien
+- Compartir grabaciones seleccionadas (Sólo Pro)
+- Sincronización con Dropbox y Google Drive (Sólo Pro)
+- Diálogo de confirmación después de cada llamada: ¿guardar la grabación? (Sólo Pro)
+
+Si desea tenerlo en su idioma y gusta ayudar con la traducción es bienvenido! Por favor, visita la página de traducción aquí: http://translate.clevermobile.net/projects/call-recorder/translations/
+
+Si usted tiene algunas sugerencias o comentarios, por favor visite nuestro sitio http://clevermobile.net y no dude en ponerse en contacto con nosotros.</string>
 
 </resources>

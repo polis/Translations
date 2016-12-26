@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">电话录音机</string>
     <string name="sd">请在电话中插入存储卡</string>
@@ -63,4 +63,35 @@
     <string name="sync_title">同步</string>
     <string name="sync_summary">现在同步所有录音</string>
 
-</resources>
+<string name="other_app_title">全部应用程序</string>
+    <string name="lock">锁定</string>
+    <string name="share">分享</string>
+    <string name="delete">删除</string>
+    <string name="select_all">全选</string>
+    <string name="recordings">记录</string>
+    <string name="help">帮助</string>
+    <string name="hint_tap_on_contact_photo">轻点联系人照片选择一个项目。</string>
+    <string name="importing_recordings">导入记录…</string>
+
+    <string name="buy">购买</string>
+    <string name="cancel">取消</string>
+    <string name="pro_description">高级版本包括：
+ 
+ - 分享记录
+ 
+ - 与Dropbox同步
+ 
+ - 与Google Drive同步
+ 
+ - 高级通知
+ 
+ - 无广告</string>
+
+    <string name="call_recorder_folder">“CallRecorder”文件夹</string>
+    <string name="sd_card_memory_occupied">已用存储</string>
+    <string name="sd_card_free_memory">剩余存储</string>
+    <string name="total_files">文件总数</string>
+    <string name="import_recordings">导入记录</string>
+    <string name="run_clean_up">立即清理</string>
+    <string name="cleaning">正在清理旧记录…</string>
+    </resources>
