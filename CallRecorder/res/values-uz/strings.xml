@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
-    <string name="app_name">Qo\'ng\'iroq ovchidi</string>
+    <string name="app_name">Qo\'ng\'iroqni yozuvchi</string>
 
-</resources>
+<string name="sd">Iltimos, SD kartani telefonga joylang</string>
+    <string name="selected">belgilangan</string>
+    <string name="settings">sozlamalar</string>
+    <string name="saveRecordQuestion_checkbox_title">Qo\'ng\'iroqni saqlaymi?</string>
+    </resources>
