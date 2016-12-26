@@ -1,3 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="app_name">ضبط الصوت</string>
+    <string name="volume">مستوى الصوت</string>
+    <string name="profile_add">إضافة ملف شخصي</string>
+    <string name="profile_edit">تحديث الملف الشخصي</string>
+    <string name="profiles">المنبع</string>
+    </resources>
