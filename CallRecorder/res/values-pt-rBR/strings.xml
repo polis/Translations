@@ -48,4 +48,10 @@
     <string name="last_recording">Última gravação</string>
     <string name="no">Não</string>
 
-	</resources>
+	<string name="hidden">Escondido</string>
+	<string name="start_recording">Gravador de chamadas está ligado!</string>    
+    <string name="start_recording_details">Todas as suas futuras chamadas serão gravadas.</string>    
+    <string name="stop_recording">Ligue gravação!</string>    
+    <string name="stop_recording_details">Actualmente o gravador está desligado.</string>
+
+    </resources>
