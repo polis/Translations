@@ -187,4 +187,12 @@
 
 اگر شما  پیشنهادات و یا نظراتی دارید، لطفا به سایت ما مراجعه کنید http://clevermobile.net و در صورت تمایل با ما تماس بگیرید."</string>
 
+    <string name="number_of_seconds">تعداد ثانیه</string>
+    <string name="delay_for_incoming_calls">تاخیر برای دریافت تماس ورودی در ثانیه</string>
+    <string name="delay_for_outgoing_calls">تاخیر برای دریافت تماس خروجی در ثانیه</string>
+
+    <string name="enabled">فعال</string>
+    <string name="disabled">غیرفعال</string>
+    <string name="new_recordings">ضبط جدید</string>
+
     </resources>
