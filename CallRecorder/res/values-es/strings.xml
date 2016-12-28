@@ -188,4 +188,12 @@ Si desea tenerlo en su idioma y gusta ayudar con la traducción es bienvenido! P
 
 Si usted tiene algunas sugerencias o comentarios, por favor visite nuestro sitio http://clevermobile.net y no dude en ponerse en contacto con nosotros.</string>
 
-</resources>
+<string name="number_of_seconds">Número de segundos</string>
+    <string name="delay_for_incoming_calls">Retraso de las llamadas entrantes en segundos</string>
+    <string name="delay_for_outgoing_calls">Retraso de las llamadas salientes en segundos</string>
+
+    <string name="enabled">Habilitado</string>
+    <string name="disabled">Deshabilitado</string>
+    <string name="new_recordings">nuevas grabaciones</string>
+
+    </resources>
