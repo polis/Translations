@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">電話錄音機</string>
     <string name="sd">請在電話中插入存儲卡</string>
@@ -60,4 +60,13 @@
     <string name="sync_title">同步</string>
     <string name="sync_summary">現在同步所有錄音</string>
 
-</resources>
+<string name="lock">锁定</string>
+    <string name="share">分享</string>
+    <string name="delete">刪除</string>
+    <string name="select_all">全選</string>
+    <string name="recordings">記錄</string>
+    <string name="help">幫助</string>
+    <string name="hint_tap_on_contact_photo">輕點連絡人照片選擇一個項目</string>
+    <string name="importing_recordings">導入記錄</string>
+
+    </resources>
