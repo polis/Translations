@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Controllo volume</string>
     <string name="volume">Volume</string>
@@ -31,4 +31,5 @@
     <string name="location_select">Seleziona il luogo</string>
     <string name="location_name">Nome del luogo</string>
     <string name="marker_info">Vai qui</string>
-</resources>
+<string name="text_buy_pro">Questa funzione é accessibile nella versione Pro!</string>
+    </resources>
