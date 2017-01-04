@@ -136,5 +136,19 @@ Inga annonser</string>
     <string name="passcode_delete_recordings_description">Ta bort inspelningar på denna mobil efter 10 misslyckade lösenordsförsök</string>
     <string name="recording_method">Inspelningsmetod</string>
     <string name="player">Mediaspelare</string>
-    <string name="use_external_player">Använd extern inspelare</string>
+    <string name="use_external_player">Använd extern spelare</string>
+    <string name="play">"Spela "</string>
+    <string name="pause">Pausa</string>
+    <string name="number_of_seconds">Antal sekunder</string>
+    <string name="delay_for_incoming_calls">Fördröjning för inkommande samtal på några sekunder</string>
+    <string name="delay_for_outgoing_calls">Antal sekunders fördröjning för utgående samtal</string>
+
+    <string name="enabled">Aktiverad</string>
+    <string name="disabled">Inaktivera</string>
+    <string name="new_recordings">nya inspelningar</string>
+
+    <string name="use_external_media_player_to_play_recordings">"Använd extern mediaspelare för att spela upp inspelningar "</string>
+    <string name="not_able_to_import_to_pro">"Om du använder detta valet så kommer det inte gå att automatiskt  föra över dina inspelningar till Pro versionen. Därtill rekommenderas det att du säkerhetskopierar alla viktiga inspelningar ifall du väljer att avinstallera denna appen! Annars kommer dom att raderas"</string>
+    <string name="not_able_to_import">"Om det här alternativet Aktiverad och du väljer att avinstallera programmet, måste du göra backup av alla viktiga inspelningar, eftersom alla de kommer att tas bort och det kommer inte att vara möjligt att automaticaly importera inspelningar efter att ha installerat appen igen. "</string>
+
     </resources>
