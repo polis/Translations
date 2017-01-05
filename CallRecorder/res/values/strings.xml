@@ -151,6 +151,8 @@
     <string name="enabled">Enabled</string>
     <string name="disabled">Disabled</string>
     <string name="new_recordings">new recordings</string>
+    <string name="persistent_notifications">Persistent notifications</string>
+    <string name="enable_persistent_notifications">Enabled persistent notifications</string>
 
     <string name="app_description_free">Simple Call Recorder application that has an ability to:
 - Enable/Disable call recording
