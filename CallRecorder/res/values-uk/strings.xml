@@ -151,4 +151,7 @@
     <string name="disabled">Виключено</string>
     <string name="new_recordings">нових записів</string>
 
+    <string name="persistent_notifications">Стійкі повідомлення</string>
+    <string name="enable_persistent_notifications">Увімкнути стійкі повідомлення</string>
+
     </resources>
