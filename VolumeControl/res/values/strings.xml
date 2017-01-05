@@ -1,87 +1,194 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="en">
+    <string name="app_name">Call Recorder</string>
+    <string name="sd">Please, insert SD card into the phone!</string>
+    <string name="contact">Contacts</string>
+    <string name="call_time">Call time</string>
+    <string name="selected">selected</string>
+    <string name="settings">Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="notificationStatus_checkbox_title">Enable notifications</string>
+    <string name="notificationStatus_checkbox_summary">Show in notification bar after each recorded call</string>
+    <string name="saveRecordQuestion_checkbox_title">Save this call?</string>
+    <string name="saveRecordQuestion_checkbox_summary">Ask after each recorded call</string>
+    <string name="storage">Storage</string>
+    <string name="deleteRecord_title">Automatic cleaning</string>
+    <string name="deleteRecord_summary">Delete recordings</string>
+    <string name="recording">Recording settings</string>
+    <string name="audioSource_title">Audio source</string>
+    <string name="audioSource_summary">Select audio source</string>
+    <string name="audioChannel_title">Audio channel</string>
+    <string name="audioChannel_summary">Select audio channel</string>
+    <string name="fileFormat_title">File format</string>
+    <string name="fileFormat_summary">Select file format</string>
+    <string name="recordingQuality_title">Recording quality</string>
+    <string name="recordingQuality_summary">Select recording quality</string>    
+    <string name="email_subject">Recorded calls</string>
+	<string name="buy_category_description">Pro version</string>
+	<string name="buy_category_title">Buy Call Recorder Pro version</string>
+	<string name="buy_summary">Without Ads and with additional features</string>
 
-    <string name="app_name">Volume Control</string>
-    <string name="volume">Volume</string>
-    <string name="profiles">Profiles</string>
-    <string name="profile_add">Add new profile</string>
-    <string name="profile_edit">Edit profile</string>
-    <string name="toast_enter_profile_name">Please, enter profile name.</string>    
-    <string name="text_create_profile">Please, add profile, first!</string>    
-    <string name="scheduler">Scheduler</string>    
-    <string name="location">Locations</string>          
-    
-    <string name="tap_hint_text">Tap to enter title</string>       
-    <string name="button_Save">Save</string>    
-    <string name="button_Cancel">Cancel</string>       
-    <string name="dialog_button_OK">OK</string>       
-    <string name="dialog_delete_profile_title">Delete profile</string>       
-    <string name="dialog_delete_profile_message">All schedules, locations and WiFi spots assigned to this profile will be deleted. Would you like to proceed?</string>            
-    
-    <string name="ringTitle">Ring</string>
-    <string name="musicTitle">Media</string>
-    <string name="voiceCallTitle">Voice call</string>
-    <string name="alarmTitle">Alarm</string>
-    <string name="notificationTitle">Notification</string>
-    <string name="systemTitle">System</string>
-    
-    <string name="radio_silent">Silent</string>
-    <string name="radio_normal">Normal</string>
-    <string name="radio_vibrate">Vibrate</string>
-    
-    <string name="location_select">Select location</string>
-    <string name="location_name">Location Name</string>
-    <string name="marker_info">Go here</string>
-    <string name="toast_set_location">Please, set marker on the map.</string>
-    <string name="toast_enter_location_name">Please, enter locaion name.</string>
-    <string name="edit">Edit</string>
-
-    <string name="text_buy_pro">This functionality is available in Pro version!</string>
-    <string name="button_buy_pro">Buy Pro</string>
 	<string name="rate">Please, rate this application</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">Later</string>
-    
-    <string name="wifi">WiFi Spots</string>
-    <string name="add_wifi">Select WiFi spot and volume Profile</string>
-    <string name="wifi_connecting">WiFi is turning On!</string>
-    <string name="no_wifi_spots">Please, make sure that:
-        \n 1. WiFi is turned on.
-        \n 2. At least one WiFi spot is stored in WiFi Networks config of your phone.</string>
-    <string name="on_disconnect">On disconnect from WiFi spot</string>
+    <string name="start_notification">Call Recording Started</string>    
+    <string name="stop_notification">Call Recording Stopped</string>
 
-    <string name="help">Help</string>
-    <string name="set">Set</string>
+    <string name="save_the_call">Save this call?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 
-    <string name="buy">Buy</string>
-    <string name="cancel">Cancel</string>
-    <string name="pro_description">Pro version contains:
-        \n - Possibility configure profile on disconnect from WiFi spot
-        \n - No more Ads</string>
-    <string name="buy_category_description">Pro version</string>
-    <string name="buy_category_title">Buy Volume Control Pro version</string>
+	<string name="unknown">Unknown</string>
+    <string name="hidden">Hidden</string>
+	<string name="start_recording">Call Recorder is working!</string>    
+    <string name="start_recording_details">All your further calls will be saved.</string>    
+    <string name="stop_recording">Turn ON recording!</string>    
+    <string name="stop_recording_details">Currently recorder is turned off.</string>
 
-    <string name="info">Information</string>
+    <string name="new_call">New call has been recorded!</string>    
+    <string name="info">Information</string>       
     <string name="faq_title">FAQ</string>
     <string name="faq_summary">Frequently asked questions</string>
     <string name="other_app_title">All applications</string>
     <string name="other_app_summary">From Clever Mobile</string>
+
+    <string name="undo">undo</string>
+    <string name="deleted">deleted</string>
+
+    <string name="lock">Lock</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="select_all">Select all</string>
+    <string name="recordings">Recordings</string>
+    <string name="help">Help</string>
+    <string name="hint_tap_on_contact_photo">Tap on a contact photo to select an item.</string>
+    <string name="importing_recordings">Importing recordings&#8230;</string>
+
+    <string name="buy">Buy</string>
+    <string name="cancel">Cancel</string>
+    <string name="pro_description">Pro version contains:
+        \n - Share recordings
+        \n - Dropbox sync
+        \n - Google Drive sync
+        \n - Advanced notifications
+        \n - No more Ads</string>
+
+    <string name="sd_card">SD card</string>
+    <string name="call_recorder_folder">Folder \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Used memory</string>
+    <string name="sd_card_free_memory">Free memory</string>
+    <string name="total_files">Total files</string>
+    <string name="import_recordings">Import recordings</string>
+    <string name="run_clean_up">Clean up now</string>
+    <string name="cleaning">Cleaning old recordings&#8230;</string>
+    <string name="share_via">Share via&#8230;</string>
+
+    <string name="passcode">Passcode</string>
+    <string name="enable_passcode">Enable passcode</string>
+    <string name="enable_passcode_description">Protect your recordings with passcode authentication every time you start the app</string>
+    <string name="change_passcode">Change passcode</string>
+    <string name="passcode_delete_recordings">Delete recordings</string>
+    <string name="passcode_delete_recordings_description">Delete all recordings from this device after 10 failed passcode attempts</string>
+    <string name="enter_passcode">Enter passcode</string>
+    <string name="reenter_passcode">Re-enter passcode</string>
+    <string name="enter_old_passcode">Enter old passcode</string>
+    <string name="passcode_did_not_match">The passcodes did not match. Please, try again!</string>
+    <string name="enter_new_passcode">Enter new passcode</string>
+    <string name="reenter_new_passcode">Re-enter new passcode</string>
+    <string name="wrong_passcode">Wrong passcode. Please, try again!</string>
+    <string name="exit">Exit</string>
+
+    <string name="cloud">Synchronization</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Link Dropbox account</string>
+    <string name="dropbox_unlink">Unlink Dropbox account</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Link Google Drive account</string>
+    <string name="google_drive_unlink">Unlink Google Drive account</string>
+    <string name="connecting_to_google_drive">Connecting to Google Drive</string>
+
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="sync_title">Synchronize now</string>
+    <string name="sync_summary">Synchronize all records now</string>
+    <string name="wifi_only">WiFi only</string>
+    <string name="wifi_only_when_sync">Synchronize only when connected to WiFi</string>
+
+    <string name="run_pro_question_dlg_description">You are trying to run the Free version of Call Recorder but have already installed the Pro one. Would you like to go with the Pro?</string>
+    <string name="run_pro_question_dlg_title">Run Pro version</string>
+    <string name="last_recording">Last recording</string>
+    <string name="last_recording_problem_description">Looks like some problem occurred during the last recording. If this message appears again then, please, try to change File format or Audio source in the Settings.</string>
+    <string name="read_instructions">Read instructions</string>
     <string name="about">About</string>
     <string name="translations">Translations</string>
     <string name="translate">Translate</string>
     <string name="help_translate">Help us with translation to your native language</string>
-    <string name="description">Volume Control / Manager - application that controls volume for all sound streams in Android phone. It can automatically set the volume of any stream at configured time.
-        Offers features such as::
-        - configure volume for all sound streams in the phone
-        - save configurations into profiles
-        - apply schedule for every profile.
-        - apply profiles for WiFi spots.
-        - apply profiles on disconnect from WiFi spots (Only in Pro version)
-        - Without Ads (Only in Pro version)
-        
-        It's very useful if you have to switch you volume every day between silent at the night, vibrate at the work and normal at the rest of the day. You can schedule any profile to be applied in any time you need. Unlimited number of schedules can be assigned to every profile.
-        
-        If you have some suggestions, comments or would like to help with translation of this application, please contact us by email: polis@clevermobile.net
-    </string>
+
+    <string name="write_ext_storage_problem_description">Unable to write to external storage.</string>
+    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days period will be deleting automatically</string>
+    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
+    <string name="number_of_days">Number of days</string>
+
+    <string name="recording_method">Recording method</string>
+    <string name="no_player_app_found">No player app found to play this audio</string>
+
+    <string name="player">Media Player</string>
+    <string name="use_external_player">Use external player</string>
+    <string name="use_external_media_player_to_play_recordings">Use external media player to play recordings</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="not_able_to_import_to_pro">If this option Enabled then it will not be possible to automaticaly import recordings to Pro version. Furthermore, do backup of all important recordings if you decide to uninstall the app, as all they will be deleted.</string>
+    <string name="not_able_to_import">If this option Enabled and you decide to uninstall the app, you have to do backup of all important recordings, as all they will be deleted and it will not be possible to automaticaly import recordings after installing the app again. </string>
+
+    <string name="number_of_seconds">Number of seconds</string>
+    <string name="delay_for_incoming_calls">Delay for incoming calls in seconds</string>
+    <string name="delay_for_outgoing_calls">Delay for outgoing calls in seconds</string>
+
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="new_recordings">new recordings</string>
+
+    <string name="app_description_free">Simple Call Recorder application that has an ability to:
+- Enable/Disable call recording
+- Records all your phone calls
+- Play/Stop recorded audio by touch on the item
+- Delete recorded items
+- Lock recorded items to prevent from auto-cleaning
+- Share recorded items (only in Pro version)
+- Confirmation dialog: Would you like to keep recorded call that is shown just after the call (only in Pro version).
+
+IF IT DOES NOT WORK ON YOUR PHONE AT ALL
+OR IT DOES NOT RECORD OPPOSITE SIDE VOICE CLEARLY:
+1. Try to mix different recording settings as it described here: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. There is a limitation for some phones that do not support recording from phone line or bluetooth. It is audio driver problem made by manufacturer of the phone. List of known supported devices and configurations for them is here: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Please, not give bad marks for that. Thank you!
+
+If you have some suggestions or comments, please visit our site http://clevermobile.net and feel free to contact us.</string>
+
+    <string name="app_description_pro">This application does not work for some phones. So,
+please, try our free version before buying this one.
+If free version does not work for your phone - do not waste your money for buying Pro!
+
+*** TURN RECORDING OFF IN FREE VERSION JUST AFTER PRO IS INSTALLED ***
+
+Pro version of Call Recorder without Ads and includes additional features.
+
+Pro version of Call Recorder application has an ability to:
+- Enable/Disable call recording
+- Records all your phone calls
+- Play/Stop recorded audio by touch on the item
+- Delete recorded items
+- Lock recorded items to prevent from auto-cleaning
+- Share selected recordings (Only in Pro)
+- Synchronization with Dropbox and Google Drive (Only in Pro)
+- Confirmation dialog after each call: Save recording? (Only in Pro)
+
+If you want to have it in your language and ready help with translation - you are welcome! Please, visit translation page here: http://translate.clevermobile.net/projects/call-recorder/translations/
+
+If you have some suggestions or comments, please visit our site http://clevermobile.net and feel free to contact us.</string>
 
 </resources>
