@@ -69,4 +69,11 @@
     <string name="delete">Smazat</string>
     <string name="buy">Koupit</string>
     <string name="cancel">Zrušit</string>
+    <string name="select_all">Vyber vše</string>
+    <string name="recordings">Záznam</string>
+    <string name="help">Pomoc</string>
+    <string name="sd_card">SD karta</string>
+    <string name="sd_card_memory_occupied">Použitá paměť</string>
+    <string name="sd_card_free_memory">Volná paměť</string>
+    <string name="import_recordings">"Import nahrávek "</string>
     </resources>

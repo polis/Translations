@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="en">
     <string name="app_name">Call Recorder</string>
     <string name="sd">Please, insert SD card into the phone!</string>
     <string name="contact">Contacts</string>
@@ -143,6 +144,16 @@
     <string name="not_able_to_import_to_pro">If this option Enabled then it will not be possible to automaticaly import recordings to Pro version. Furthermore, do backup of all important recordings if you decide to uninstall the app, as all they will be deleted.</string>
     <string name="not_able_to_import">If this option Enabled and you decide to uninstall the app, you have to do backup of all important recordings, as all they will be deleted and it will not be possible to automaticaly import recordings after installing the app again. </string>
 
+    <string name="number_of_seconds">Number of seconds</string>
+    <string name="delay_for_incoming_calls">Delay for incoming calls in seconds</string>
+    <string name="delay_for_outgoing_calls">Delay for outgoing calls in seconds</string>
+
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="new_recordings">new recordings</string>
+    <string name="persistent_notifications">Persistent notifications</string>
+    <string name="enable_persistent_notifications">Enabled persistent notifications</string>
+
     <string name="app_description_free">Simple Call Recorder application that has an ability to:
 - Enable/Disable call recording
 - Records all your phone calls
@@ -155,14 +166,14 @@
 IF IT DOES NOT WORK ON YOUR PHONE AT ALL
 OR IT DOES NOT RECORD OPPOSITE SIDE VOICE CLEARLY:
 1. Try to mix different recording settings as it described here: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
-2. There is a limitation for some phones that don't support recording from phone line or bluetooth. It’s audio driver problem made by manufacturer of the phone. List of known supported devices and configurations for them is here: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+2. There is a limitation for some phones that do not support recording from phone line or bluetooth. It is audio driver problem made by manufacturer of the phone. List of known supported devices and configurations for them is here: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
 Please, not give bad marks for that. Thank you!
 
 If you have some suggestions or comments, please visit our site http://clevermobile.net and feel free to contact us.</string>
 
     <string name="app_description_pro">This application does not work for some phones. So,
 please, try our free version before buying this one.
-If free version does not work for your phone - don't waste your money for buying Pro!
+If free version does not work for your phone - do not waste your money for buying Pro!
 
 *** TURN RECORDING OFF IN FREE VERSION JUST AFTER PRO IS INSTALLED ***
 

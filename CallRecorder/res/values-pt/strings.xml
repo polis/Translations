@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools"
-    tools:locale="en"
-    tools:ignore="ExtraTranslation">
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en" tools:ignore="ExtraTranslation">
     <string name="app_name">Gravador de chamadas</string>
     <string name="sd">Por favor, insira um cartão SD no telefone!</string>
     <string name="contact">Contatos</string>
@@ -11,11 +9,11 @@
     <string name="notifications">Notificações</string>
     <string name="notificationStatus_checkbox_title">Ativar as notificações</string>
     <string name="notificationStatus_checkbox_summary">Mostrar notificação depois de gravar</string>
-    <string name="saveRecordQuestion_checkbox_title">Diálogo de confirmação</string>
+    <string name="saveRecordQuestion_checkbox_title">Guardar esta chamada?</string>
     <string name="saveRecordQuestion_checkbox_summary">Mostrar diálogo depois da ligação</string>
     <string name="storage">Armazenamento</string>
     <string name="deleteRecord_title">Limpeza automática</string>
-    <string name="deleteRecord_summary">Excluir todas gravações</string>
+    <string name="deleteRecord_summary">Apagar todas gravações</string>
     <string name="recording">Configurações de gravação</string>
     <string name="audioSource_title">Fonte de Áudio</string>
     <string name="audioSource_summary">Gravar a partir da linha de telefone ou microfone</string>
@@ -51,19 +49,70 @@
     <string name="info">Informação</string>
     <string name="faq_title">Perguntas mais Frequentes</string>
     <string name="faq_summary">Ir para página de FAQ do Call Recorder</string>
-    <string name="other_app_title">Todos aplicativos móveis inteligentes</string>
-    <string name="other_app_summary">No Market</string>
+    <string name="other_app_title">Todas as aplicações</string>
+    <string name="other_app_summary">De portatil inteligente</string>
 
     <string name="undo">anular</string>
     <string name="deleted">eliminadas</string>
 
     <string name="dropbox">Dropbox</string>
-    <string name="dropbox_link">Linkar na conta do Dropbox</string>
-    <string name="dropbox_unlink">Deslinkar com a conta do Dropbox</string>
+    <string name="dropbox_link">Ligar á conta do Dropbox</string>
+    <string name="dropbox_unlink">Desligar da conta do Dropbox</string>
 
     <string name="login">Logar</string>
     <string name="logout">Sair</string>
     <string name="sync_title">Sincronização</string>
     <string name="sync_summary">Sicronizar todos registros agora</string>
 
-</resources>
+<string name="lock">Bloqueio</string>
+    <string name="share">Partilhar</string>
+    <string name="delete">Apagar</string>
+    <string name="select_all">Selecionar todos</string>
+    <string name="recordings">Gravações</string>
+    <string name="help">Ajuda</string>
+    <string name="hint_tap_on_contact_photo">Toque na foto de contacto para um item.</string>
+    <string name="importing_recordings">Importar gravações…</string>
+
+    <string name="buy">Comprar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="pro_description">Versão Pro contém:
+
+Partilha de gravações 
+
+Sincronização Dropbox 
+
+Sincronização Google Drive
+
+Notificações avançadas 
+
+Sem publicidade</string>
+
+    <string name="sd_card">Cartão SD</string>
+    <string name="call_recorder_folder">Pasta \"Gravador de camadas\"</string>
+    <string name="sd_card_memory_occupied">Memória utilizada</string>
+    <string name="sd_card_free_memory">Memória livre</string>
+    <string name="total_files">Total de pastas</string>
+    <string name="import_recordings">Importar gravações</string>
+    <string name="run_clean_up">Limpar agora</string>
+    <string name="cleaning">Apagar gravações antigas…</string>
+    <string name="share_via">Partilhar via…</string>
+
+    <string name="passcode">Palavra passe</string>
+    <string name="enable_passcode">Activar palavra passe</string>
+    <string name="enable_passcode_description">Proteja as suas gravações com uma palavra passe sempre que abrir a aplicação</string>
+    <string name="change_passcode">Alterar palavra passe</string>
+    <string name="passcode_delete_recordings">Apagar gravações</string>
+    <string name="passcode_delete_recordings_description">Apagar todas as gravações ao fim de 10 tentativas de introduzir a palavra passe falhadas</string>
+    <string name="enter_passcode">Introduzir palavra passe</string>
+    <string name="reenter_passcode">Repetir palavra passe</string>
+    <string name="enter_old_passcode">Introduzir palavra passe antiga</string>
+    <string name="passcode_did_not_match">A palavra passe não corresponde. Por favor, tente de novo!</string>
+    <string name="enter_new_passcode">Introduzir nova palavra passe</string>
+    <string name="reenter_new_passcode">Repita nova palavra passe</string>
+    <string name="wrong_passcode">Palavra passe errada. Por favor, tente de novo!</string>
+    <string name="exit">Terminar</string>
+
+    <string name="cloud">Sincronisação</string>
+
+    <string name="google_drive">Google Drive</string>
+    </resources>

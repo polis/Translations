@@ -129,10 +129,66 @@ Inga annonser</string>
 
     <string name="no_player_app_found">Det finns ingen musikspelare för att spela detta</string>
 
-<string name="app_name">"Samtalsinspelning "</string>
+<string name="app_name">Samtalsinspelning</string>
     <string name="audioChannel_title">"Lagringskanal "</string>
     <string name="audioChannel_summary">"Välj lagringskanal "</string>
     <string name="enable_passcode">"Koppla på lösenord "</string>
     <string name="passcode_delete_recordings_description">Ta bort inspelningar på denna mobil efter 10 misslyckade lösenordsförsök</string>
     <string name="recording_method">Inspelningsmetod</string>
-    </resources>
+    <string name="player">Mediaspelare</string>
+    <string name="use_external_player">Använd extern spelare</string>
+    <string name="play">"Spela "</string>
+    <string name="pause">Pausa</string>
+    <string name="number_of_seconds">Antal sekunder</string>
+    <string name="delay_for_incoming_calls">Fördröjning för inkommande samtal på några sekunder</string>
+    <string name="delay_for_outgoing_calls">Antal sekunders fördröjning för utgående samtal</string>
+
+    <string name="enabled">Aktiverad</string>
+    <string name="disabled">Inaktivera</string>
+    <string name="new_recordings">nya inspelningar</string>
+
+    <string name="use_external_media_player_to_play_recordings">"Använd extern mediaspelare för att spela upp inspelningar "</string>
+    <string name="not_able_to_import_to_pro">"Om du använder detta valet så kommer det inte gå att automatiskt  föra över dina inspelningar till Pro versionen. Därtill rekommenderas det att du säkerhetskopierar alla viktiga inspelningar ifall du väljer att avinstallera denna appen! Annars kommer dom att raderas"</string>
+    <string name="not_able_to_import">"Om det här alternativet Aktiverad och du väljer att avinstallera programmet, måste du göra backup av alla viktiga inspelningar, eftersom alla de kommer att tas bort och det kommer inte att vara möjligt att automaticaly importera inspelningar efter att ha installerat appen igen. "</string>
+
+    <string name="app_description_free">Enkel Call Recorder program som har en förmåga att:
+- Aktivera / inaktivera samtalsinspelning
+- Spelar in alla dina telefonsamtal
+- Start / Stopp inspelat ljud genom beröring på objektet
+- Ta bort inspelade objekt
+- Lås registreras objekt att förhindra automatisk rengöring
+- Dela inspelad poster (endast i Pro-versionen)
+- Dialogrutan Bekräftelse: Vill du hålla inspelad samtal som visas strax efter samtalet (endast i Pro-versionen).
+
+Om det inte fungerar på din telefon ALLS
+Eller det spelar inte in MOTSATT SIDA VOICE KLART:
+1. Försök att blanda olika inspelningsinställningar som beskrivs här: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Det finns en begränsning för vissa telefoner som inte stöder inspelning från telefonlinjen eller bluetooth. Det är ljuddrivrutinen problem som gjorts av tillverkaren av telefonen. Lista över kända enheter som stöds och konfigurationer för dem är här: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Vänligen inte ge dåliga betyg för det. Tack!
+
+Om du har några förslag eller kommentarer, besök vår webbplats http://clevermobile.net och välkommen att kontakta oss.</string>
+
+    <string name="app_description_pro">Denna ansökan fungerar inte för vissa telefoner. Så,
+vänligen prova vår gratisversion innan du köper den här.
+Om fri version inte fungerar för din telefon - inte slösa dina pengar för att köpa Pro!
+
+*** TURN INSPELNING AV I FRI VERSION precis efter PRO INSTALLERAS ***
+
+Pro-versionen av Call Recorder utan annonser och inkluderar ytterligare funktioner.
+
+Pro-versionen av Call Recorder ansökan har en förmåga att:
+- Aktivera / inaktivera samtalsinspelning
+- Spelar in alla dina telefonsamtal
+- Start / Stopp inspelat ljud genom beröring på objektet
+- Ta bort inspelade objekt
+- Lås registreras objekt att förhindra automatisk rengöring
+- Dela utvalda inspelningar (endast i Pro)
+- Synkronisering med Dropbox och Google Drive (endast i Pro)
+- Dialogrutan Bekräftelse efter varje samtal: Spara inspelningen? (Endast i Pro)
+
+Om du vill ha den i ditt språk och redo hjälp med översättning - du är välkommen! Vänligen besök översättnings sida här: http://translate.clevermobile.net/projects/call-recorder/translations/
+
+Om du har några förslag eller kommentarer, besök vår webbplats http://clevermobile.net och välkommen att kontakta oss.
+</string>
+
+</resources>

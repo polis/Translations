@@ -143,4 +143,15 @@
     <string name="not_able_to_import_to_pro">Якщо ця опція Увімкнута то записи не будуть автоматично імпортовані до Про версії. Більше того, збережіть усі важливі записи, перед тим як видалити програму, так як вони будуть видалені.</string>
     <string name="not_able_to_import">"Якщо ця опція Увімкнута і ви вирішите видалити додаток, зробіть копії усіх важливих записів, так як усі вони будуть виличені і не буде можливості автоматично імпортувати їх після установки додатку знову. "</string>
 
-</resources>
+<string name="number_of_seconds">Кількість секунд</string>
+    <string name="delay_for_incoming_calls">Затримка для вхідних дзвінків</string>
+    <string name="delay_for_outgoing_calls">Затримка для вихідних дзвінків</string>
+
+    <string name="enabled">Включено</string>
+    <string name="disabled">Виключено</string>
+    <string name="new_recordings">нових записів</string>
+
+    <string name="persistent_notifications">Стійкі повідомлення</string>
+    <string name="enable_persistent_notifications">Увімкнути стійкі повідомлення</string>
+
+    </resources>
