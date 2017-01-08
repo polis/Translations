@@ -1,3 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<string name="app_name">Stopwatch</string>
+    <string name="settings">Instellingen</string>
+    <string name="start_button">Begin</string>
+    <string name="pause_button">Pauze</string>
+    <string name="lap_button">Rondetijd</string>
+    <string name="reset_button">Opnieuw instellen</string>
+    <string name="days">Dagen</string>
+    <string name="d">d</string>
+    <string name="hours">Uren</string>
+    <string name="lap">Rondetijd</string>
+	<string name="elapsed_time">Verstreken tijd</string>	
+	<string name="lap_time">Ronde tijd</string>	
+    <string name="screen">Scherm</string>
+    <string name="displayMode_checkbox_title">Scherm niet uitschakelen</string>
+    <string name="displayMode_checkbox_summary">Zorg dat de smartphone niet gaat sluimeren</string>
+    <string name="laps">Rondes</string>
+    <string name="lapOnPause_checkbox_title">Pauzeer de rondetijden</string>
+    <string name="lapOnPause_checkbox_summary">Voeg een ronde toe, indien de pauzeknop wordt aangeraakt</string>
+    <string name="haptics">haptische</string>
+    <string name="hapticFeedback_checkbox_title">terugkoppeling door de trilfunctie</string>
+    <string name="hapticFeedback_checkbox_summary">De trilfunctie activeren door de knop aan te raken</string>
+    <string name="send">Verzenden</string>
+    <string name="donate">Doneer</string>
+    <string name="email_subject">Stopwatch - lijst van rondetijden</string>
+	<string name="email">Email</string>
+	<string name="email_title">Voer uw email adres in</string>
+	<string name="email_summary">Geef uw email adres op om de resultaten te verzenden</string>	
+	<string name="buy_category_description">Betaalde versie zonder reclames</string>
+	<string name="buy_category_title">Koop nu de betaalde versie van de Stopwatch App</string>
+	<string name="buy_summary">Zonder advertenties</string>
+
+    <string name="rate">Beoordeel deze app nu</string>
+    <string name="rateOk">Okee</string>
+    <string name="rateLater">Later</string>
+
+    <string name="share">Deel</string>
+
+    <string name="info">Informatie</string>
+    <string name="other_app_title">Alle apps</string>
+    <string name="other_app_summary">Van Clever Mobile</string>
+    <string name="about">Over</string>
+    <string name="translations">Vertaling</string>
+    <string name="translate">Vertaal</string>
+    <string name="help_translate">Ondersteun ons bij het vertalen van deze app naar uw moedertaal</string>
+
+    <string name="app_description">"Stopwatch app met de volgende mogelijkheden:
+- tot op de milli-seconde nauwkeurig
+- legt onbeperkt rondetijden vast
+- pauzeren
+- starten en pauzeren en rondetijden met een druk op de knop
+- deze app blijft duurzaam werken, zelfs na een reset
+- toon de verstreken rondetijden
+- toon uren en dagen
+- installeer de app op uw micro SD kaart
+- geschikt voor alle scherm formaten
+- deel jouw resultaten
+
+Instellingen:
+- Scherm altijd aan laten staan
+- nieuwe ronde na het aanraken van de pauzeerknop
+- feedback door trillen van het toestel
+
+Voor suggesties en commentaar gaat u naar onze website: http://clevermobile.net
+ "</string>
+
 </resources>
