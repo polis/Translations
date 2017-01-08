@@ -196,4 +196,7 @@ Si usted tiene algunas sugerencias o comentarios, por favor visite nuestro sitio
     <string name="disabled">Deshabilitado</string>
     <string name="new_recordings">nuevas grabaciones</string>
 
+    <string name="persistent_notifications">Notificaciones persistentes</string>
+    <string name="enable_persistent_notifications">Notificaciones persistentes habilitadas</string>
+
     </resources>
