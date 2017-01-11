@@ -65,4 +65,6 @@
 
     <string name="cancel">בטל</string>
     <string name="faq_title">שאלות נפוצות</string>
+    <string name="wifi_only_when_sync">סנכרון רק כאשר מחובר לwifi</string>
+
     </resources>
