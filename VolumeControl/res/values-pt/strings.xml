@@ -1,3 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="profiles">Perfis</string>
+    <string name="profile_add">Adicionar novo perfil</string>
+    <string name="app_name">Controle de Volume</string>
+    <string name="volume">Volume</string>
+    <string name="profile_edit">Editar perfil</string>
+    <string name="toast_enter_profile_name">Por favor, entre o nome do perfil.</string>    
+    <string name="text_create_profile">"Por favor,  primeiramente adicione o perfil!"</string>    
+    <string name="scheduler">Agendamento</string>    
+    <string name="location">Locais</string>          
+    
+    <string name="tap_hint_text">Toque para entrar o título</string>       
+    <string name="button_Save">Salvar</string>    
+    <string name="button_Cancel">Cancelar</string>       
+    <string name="dialog_button_OK">OK</string>       
+    <string name="alarmTitle">Alarme</string>
+    <string name="voiceCallTitle">Chamada de voz</string>
+    <string name="notificationTitle">Notificação</string>
+    <string name="systemTitle">Sistema</string>
+    
+    <string name="radio_silent">Silencioso</string>
+    <string name="radio_normal">Normal</string>
+    <string name="radio_vibrate">Vibrar</string>
+    
+    <string name="location_select">Selecionar local</string>
+    <string name="location_name">Nome do local</string>
+    <string name="marker_info">Vá aqui</string>
+    <string name="toast_set_location">"Por favor,  selecione o marcador no mapa."</string>
+    <string name="toast_enter_location_name">Por favor, entre o nome do local.</string>
+    <string name="edit">Editar</string>
+
+    <string name="text_buy_pro">Esta funcionalidade está disponível na versão Pro!</string>
+    <string name="button_buy_pro">Comprar Pro</string>
+	<string name="rate">"Por favor,  avalie esta aplicação"</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">Mais tarde</string>
+    
+    <string name="help">Ajuda</string>
+    <string name="buy">Comprar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="buy_category_description">Versão Pro</string>
+    <string name="buy_category_title">Comprar versão Pro do Controle de Volume</string>
+
+    <string name="info">Informação</string>
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Perguntas mais frequentes</string>
+    <string name="about">Sobre</string>
+    <string name="translations">Traduções</string>
+    <string name="translate">Traduzir</string>
+    <string name="help_translate">Ajude-nos traduzindo para seu idioma local</string>
+    <string name="dialog_delete_profile_title">Apagar perfil</string>       
+    <string name="musicTitle">Mídia</string>
+    <string name="ringTitle">Toque</string>
+    <string name="dialog_delete_profile_message">"Todos os agendamentos,  locais e redes WiFi contidos neste perfil serão apagados. Você confirma isso?"</string>            
+    
+    <string name="wifi">Redes WiFi</string>
+    <string name="add_wifi">Selecione rede WiFi e volume do Perfil</string>
+    <string name="wifi_connecting">WiFi está ligada!</string>
+    <string name="no_wifi_spots">"Por favor,  confira se:
+
+1. WiFi está ligado.
+
+2. Pelo menos uma rede WiFi está armazenada nas configurações de redes WiFi de seu telefone."</string>
+    <string name="on_disconnect">Ligar irá desconectar da rede WiFi</string>
+
+    <string name="set">Selecionar</string>
+
+    <string name="pro_description">Versão Pro contém:
+
+- Possibilidade de configurar perfil que desconecta de sua rede WiFi.
+
+- Sem Anúncios</string>
+    <string name="other_app_title">Todos os aplicativos</string>
+    <string name="other_app_summary">De Clever Mobile</string>
+    </resources>
