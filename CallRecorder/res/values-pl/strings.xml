@@ -13,28 +13,28 @@
     <string name="saveRecordQuestion_checkbox_summary">Pokaż okno po wywołaniu</string>
     <string name="storage">Karta SD</string>
     <string name="deleteRecord_title">Automatyczne usuwanie</string>
-    <string name="deleteRecord_summary">Automatycznie usuwaj stare nagrania</string>
+    <string name="deleteRecord_summary">Skasuj nagrania</string>
     <string name="recording">Ustawienia nagrywania</string>
     <string name="audioSource_title">Źródło dzwięku</string>
     <string name="audioSource_summary">Nagrywaj używając linii telefonicznej lub mikrofonu</string>
-    <string name="audioChannel_title">Kanał auto</string>
-    <string name="audioChannel_summary">Zmień ustawienia kanałów audio</string>
+    <string name="audioChannel_title">Kanał audio</string>
+    <string name="audioChannel_summary">Wybierz kanał audio</string>
     <string name="fileFormat_title">Format pliku</string>
     <string name="fileFormat_summary">Wybierz format pliku</string>
     <string name="recordingQuality_title">Jakość nagrywania</string>
     <string name="recordingQuality_summary">Wybierz jakość nagrywania</string>
     <string name="email_subject">Nagrane rozmowy</string>
     <string name="buy_category_description">Wersija Pro</string>
-    <string name="buy_category_title">Kupić nagrywanie rozmćw Pro wersje</string>
-    <string name="buy_summary">Bez reklamy i z dodatkową funkcjonalnością</string>
+    <string name="buy_category_title">Kup Call Recorder Pro version</string>
+    <string name="buy_summary">Bez reklam i z dodatkową funkcjonalnością</string>
 
     <string name="rate">Proszę oceń tą aplikację</string>
     <string name="rateOk">Ok</string>
     <string name="rateLater">Później</string>
-    <string name="start_notification">Nagranie zaczeło się</string>
-    <string name="stop_notification">Nagranie skończyło się</string>
+    <string name="start_notification">Rozpoczęto nagrywanie</string>
+    <string name="stop_notification">Nagrywanie zakończono</string>
 
-    <string name="save_the_call">Utrzymać rozmowę?</string>
+    <string name="save_the_call">Zapisać tą rozmowę?</string>
     <string name="yes">Tak</string>
     <string name="no">Nie</string>
 
@@ -42,42 +42,47 @@
     <string name="hidden">Ukryty</string>
 
     <string name="start_recording">Nagranie rozmów aktywne!</string>
-    <string name="start_recording_details">Wszystkie następne rozmowy będą nagrani.</string>
-    <string name="stop_recording">Wlączyć nagrywanie!</string>
-    <string name="stop_recording_details">Nagranie rozmów wylączone.</string>
+    <string name="start_recording_details">Wszystkie Twoje następne rozmowy będą nagrane.</string>
+    <string name="stop_recording">Włącz nagrywanie!</string>
+    <string name="stop_recording_details">Aktualnie nagrywanie rozmów wyłączone.</string>
 
-    <string name="new_call">Nowa rozmowa zostala nagrana!</string>
+    <string name="new_call">Nowa rozmowa została nagrana!</string>
     <string name="info">Informacja</string>
     <string name="faq_title">Często zadawane pytania (FAQ)</string>
     <string name="faq_summary"> Idź do strony FAQ </string>
     <string name="other_app_title">Wszystkie aplikacje Clever Mobile</string>
     <string name="other_app_summary">W Markecie</string>
 
-    <string name="undo">anulować</string>
+    <string name="undo">Anuluj</string>
     <string name="deleted">usunięto</string>
 
-    <string name="lock">Blokować</string>
+    <string name="lock">Blokuj</string>
     <string name="share">Udostępnij</string>
-    <string name="delete">Usunąć</string>
-    <string name="select_all">Wybrać wszystko</string>
+    <string name="delete">Usuń</string>
+    <string name="select_all">Zaznacz wszystko</string>
     <string name="recordings">Nagrania</string>
     <string name="help">Pomoc</string>
     <string name="hint_tap_on_contact_photo">Kliknij na zdjęcie kontaktu aby wybrać nagranie.</string>
-    <string name="importing_recordings">Importować nagrania…</string>
+    <string name="importing_recordings">Importowanie nagrań…</string>
 
-    <string name="buy">Kupić</string>
-    <string name="cancel">Wstecz</string>
+    <string name="buy">Kup</string>
+    <string name="cancel">Anuluj</string>
     <string name="pro_description">Wersja Pro:
-        \n - Udostępnienie nagrań
-        \n - Synchronizacja z Dropbox
-        \n - Synchronizacja z Google Drive
-        \n - Dodatkowe zawiadomienia
-        \n - Bez reklamy</string>
+ 
+ - Udostępnianie nagrań
+ 
+ - Synchronizacja z Dropbox
+ 
+ - Synchronizacja z Google Drive
+ 
+ - Zaawansowane powiadomienia
+ 
+ - Brak reklam</string>
 
-    <string name="sd_card">SD karta</string>
+    <string name="sd_card">Karta SD</string>
     <string name="call_recorder_folder">Folder \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">- Użyto pamięci</string>
-    <string name="sd_card_free_memory">- Wolnej pamięci</string>
+    <string name="sd_card_memory_occupied">Użyta pamięć</string>
+    <string name="sd_card_free_memory">Wolna pamięć</string>
     <string name="total_files">- Wszystkich plików</string>
     <string name="import_recordings">Importowanie nagrań</string>
     <string name="run_clean_up">Oczyść teraz</string>
@@ -115,17 +120,17 @@
     <string name="sync_title">Synchronizuj teraz</string>
     <string name="sync_summary">Synchronizuj wszystkie nagrania teraz</string>
     <string name="wifi_only">Tylko WiFi</string>
-    <string name="wifi_only_when_sync">Synchronizować tylko przez WiFi</string>
+    <string name="wifi_only_when_sync">Synchronizuj tylko przez WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Korzystasz z Free wersji Call Recorder ale masz zainstalowaną Pro wersje. Czy chcesz skorzystać z Pro?</string>
-    <string name="run_pro_question_dlg_title">Skorzystaj z Pro wersji</string>
+    <string name="run_pro_question_dlg_description">Korzystasz z darmowej wersji Call Recorder, ale masz zainstalowaną wersje Pro. Czy chcesz z niej skorzystać?</string>
+    <string name="run_pro_question_dlg_title">Skorzystaj z wersji Pro</string>
     <string name="last_recording">Ostatnie nagranie</string>
-    <string name="last_recording_problem_description">Okazało się, ze wyniknął problem przy ostatnim nagraniu. Jak ten message pojawi się ponownie, proszę zmień File format albo Audio source w nastawieniach.</string>
-    <string name="read_instructions">Przeczytać instrukcje</string>
+    <string name="last_recording_problem_description">Wygląda na to, że wyniknął problem przy ostatnim nagraniu. Jeśli ta wiadomość pojawi się ponownie, proszę zmienić Format pliku albo Źródło dźwięku w ustawieniach.</string>
+    <string name="read_instructions">Przeczytaj instrukcje</string>
     <string name="about">O aplikacji</string>
-    <string name="translations">Tłumaczenie</string>
-    <string name="translate">Prszetłumacz</string>
-    <string name="help_translate">Pomóc nam z tłumaczeniem na twój ojczysty język</string>
+    <string name="translations">Tłumaczenia</string>
+    <string name="translate">Przetłumacz</string>
+    <string name="help_translate">Pomóż nam z tłumaczeniem na twój ojczysty język</string>
 
     <string name="write_ext_storage_problem_description">Nie można zapisać w pamięci zewnętrznej.</string>
     <string name="allow_to_write_to_sd_card">Możliwość  zapisania na wymiennej karcie SD</string>
@@ -133,12 +138,22 @@
     <string name="delete_recordings_on_uninstall">W razie odinstalowania aplikacji wszystkie nagrania zostaną automatycznie usunięte</string>
     <string name="number_of_days">Liczba dni</string>
 
-<string name="recording_method">Metoda nagrywania</string>
+<string name="recording_method">Metody nagrywania</string>
     <string name="no_player_app_found">Nie odnaleziono odtwarzacza do uruchomienia tego dźwięku</string>
 
-    <string name="player">Multimedialny Odtwarzacz</string>
+    <string name="player">Odtwarzacz Multimedialny</string>
     <string name="use_external_player">Użyj zewnętrznego odtwarzacza</string>
-    <string name="use_external_media_player_to_play_recordings">Użyj zewnętrznego odtwarzacza, aby odsłuchać nagrania.</string>
+    <string name="use_external_media_player_to_play_recordings">Użyj zewnętrznego odtwarzacza, aby odsłuchać nagrania</string>
     <string name="play">Odtwarzanie</string>
     <string name="pause">Pauza</string>
+    <string name="delay_for_incoming_calls">Opóźnienie dla połączeń przychodzących w sekundach</string>
+    <string name="number_of_seconds">Liczba sekund</string>
+    <string name="enabled">Włączone</string>
+    <string name="disabled">Wyłączone</string>
+    <string name="new_recordings">Nowe nagrania</string>
+    <string name="delay_for_outgoing_calls">Opóźnienie dla połączeń wychodzących w sekundach</string>
+
+    <string name="persistent_notifications">Powadomienia</string>
+    <string name="enable_persistent_notifications">Włącz powiadomienia</string>
+
     </resources>
