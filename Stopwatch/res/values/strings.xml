@@ -46,5 +46,24 @@
     <string name="translate">Translate</string>
     <string name="help_translate">Help us with translation to your native language</string>
 
+    <string name="app_description">Stopwatch application with an ability to:
+        - measure value in millisecond;
+        - pinpoint an unlimited number of laps;
+        - built-in ability to pause;
+        - Lap, Start and Pause are beginning on touch event.
+        - application continues working even after rebooting;
+        - showing the time between laps;
+        - showing hours and days;
+        - supporting installation to SD card;
+        - supporting all screens;
+        - share the results.
+
+        Settings:
+        - keep screen on;
+        - lap on Pause;
+        - haptic feedback.
+
+        If you have some suggestions or comments, please visit our site http://clevermobile.net and feel free to contact us.
+    </string>
 
 </resources>
