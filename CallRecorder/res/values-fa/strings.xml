@@ -195,4 +195,7 @@
     <string name="disabled">غیرفعال</string>
     <string name="new_recordings">ضبط جدید</string>
 
+    <string name="persistent_notifications">اطلاعیه های ماندگار</string>
+    <string name="enable_persistent_notifications">فعال کردن اطلاعیه های ماندگار</string>
+
     </resources>
