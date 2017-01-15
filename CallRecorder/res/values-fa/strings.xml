@@ -129,7 +129,7 @@
     <string name="about">درباره</string>
     <string name="translations">ترجمه</string>
     <string name="translate">ترجمه کردن</string>
-    <string name="help_translate">به ما در ترجمه‌ی زبانهای ناموجود کمک کنید.</string>
+    <string name="help_translate">به ما در ترجمه‌ی زبان های ناموجود کمک کنید</string>
 
     <string name="write_ext_storage_problem_description">قادر به ذخیره در حافظه خارجی نیستید.</string>
     <string name="allow_to_write_to_sd_card">اجازه دادن برای نوشتن در کارت حافظه خارجی قابل حمل</string>
