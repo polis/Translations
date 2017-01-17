@@ -1,3 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="app_name">Shake Me</string>
-    </resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <string name="app_name">Shake Me</string>
+</resources>
+
+
