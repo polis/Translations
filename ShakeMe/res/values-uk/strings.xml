@@ -30,4 +30,33 @@
     <string name="enable_screen_off">Вимкнути екран</string>
     <string name="turn_sreen_on_and_run">Увімкнути екран і запустити додаток</string>
 
+<string name="action_settings">Настройки</string>
+    <string name="information">Інформація</string>
+    <string name="tell_a_friend">Розповісти другу</string>
+    <string name="rate_me">Оцінити</string>
+
+    <string name="faq_summary">Часті запитання</string>
+    <string name="other_app_title">Усі додатки</string>
+    <string name="other_app_summary">Від Clever Mobile</string>
+
+    <string name="translations">Переклади</string>
+    <string name="translate">Перекласти</string>
+    <string name="help_translate">Допоможіть нам з перекладом на вашу рідну мову</string>
+    <string name="camera_permissions_not_granted">Дозволити використовувати камеру для того щоб мати доступ до спалаху!</string>
+
+    <string name="upgrade">Оновлення</string>
+    <string name="upgrade_to_premium">оновитись до преміум</string>
+    <string name="buy_app_and_remove_ads">Виключити рекламу купуючи чи відновлюючи преміум версію</string>
+
+    <string name="thank_you_for_upgrading_to_premium">Дякую, за оновлення до преміум версії!</string>
+    <string name="pro_description">"
+ 
+- Життєва преміум ліцензія
+ 
+- Без реклами
+ "</string>
+    <string name="proceed">Продовжити</string>
+    <string name="cancel">Відміна</string>
+
+
 </resources>
