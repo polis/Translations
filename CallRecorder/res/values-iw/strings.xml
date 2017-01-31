@@ -107,4 +107,16 @@
     <string name="cloud">סנכרון</string>
 
     <string name="login">התחבר</string>
+    <string name="enable_passcode">אפשר סיסמה</string>
+    <string name="dropbox_link">קשר חשבון דרופבוקס</string>
+    <string name="dropbox_unlink">בטל קישור חשבון דרופבוקס</string>
+
+    <string name="google_drive">גוגל דרייב</string>
+    <string name="google_drive_link">קשר חשבון גוגל דרייב</string>
+    <string name="google_drive_unlink">בטל קישור חשבון גוגל דרייב</string>
+    <string name="connecting_to_google_drive">מתחבר לגוגל דרייב</string>
+
+    <string name="logout">התנתק</string>
+    <string name="sync_title">סנכרון כעת</string>
+    <string name="wifi_only">וייפי בלבד</string>
     </resources>
