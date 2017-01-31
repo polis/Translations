@@ -52,8 +52,17 @@
     <string name="help_translate">Help us with translation to your native language</string>
     <string name="camera_permissions_not_granted">Allow the app to use CAMERA in order to access flashligh!</string>
 
-    <string name="support_developer">Support developer</string>
-    <string name="remove_ads">Remove Ads</string>
-    <string name="buy_app_and_remove_ads">Buy the app and remove Ads</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="upgrade_to_premium">Upgrade to premium</string>
+    <string name="buy_app_and_remove_ads">Remove Ads by buying or restoring premium version</string>
+
+    <string name="thank_you_for_upgrading_to_premium">Thank you for upgrading to premium!</string>
+    <string name="pro_description">
+        \n- Lifetime premium license
+        \n- No more Ads
+        </string>
+    <string name="proceed">Proceed</string>
+    <string name="cancel">Cancel</string>
+
 
 </resources>
