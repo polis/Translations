@@ -29,11 +29,6 @@
     <string name="enable_screen_off">Enable Screen Off</string>
     <string name="turn_sreen_on_and_run">Turn screen on and run application</string>
 
-    <string name="n_a">Screenshot interface not (yet) available.</string>
-    <string name="native_n_a">Native service not found.</string>
-    <string name="screenshot_error">Error while taking screenshot.</string>
-    <string name="screenshot_ok">Screenshot taken successfully.</string>
-
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
@@ -64,5 +59,7 @@
     <string name="proceed">Proceed</string>
     <string name="cancel">Cancel</string>
 
+    <string name="usage_terms_and_privacy_policy">Usage Terms and Privacy Policy</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">By using this application you agree with its Usage Terms and Privacy Policy</string>
 
 </resources>
