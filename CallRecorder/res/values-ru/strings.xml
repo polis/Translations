@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">Запись звонков</string>
+    <string name="app_name">Call Recorder</string>
     <string name="sd">Пожалуйста, вставьте SD карту в телефон!</string>
     <string name="contact">Контакты</string>
     <string name="call_time">Время звонка</string>
