@@ -22,7 +22,7 @@
     <string name="fileFormat_title">Dosya biçimi</string>
     <string name="fileFormat_summary">Dosya biçimini seçin</string>
     <string name="recordingQuality_title">Kayıt kalitesi</string>
-    <string name="recordingQuality_summary">Kayıt kalitesini seçin.</string>
+    <string name="recordingQuality_summary">Kayıt kalitesini seçin</string>
     <string name="email_subject">Kayıtlı çağrılar</string>
 	<string name="buy_category_description">Pro sürüm</string>
 	<string name="buy_category_title">Çağrı Kaydedici Pro sürümünü satın al</string>
@@ -92,7 +92,7 @@
     <string name="enter_passcode">Parolayı gir</string>
     <string name="reenter_passcode">Parolayı yeniden gir</string>
     <string name="enter_old_passcode">Eski parolayı gir</string>
-    <string name="passcode_did_not_match">Parolalar uyuşmuyor. Lütfen tekrar dene.</string>
+    <string name="passcode_did_not_match">Parolalar uyuşmuyor. Lütfen tekrar dene!</string>
     <string name="enter_new_passcode">Yeni parolayı gir</string>
     <string name="reenter_new_passcode">Yeni parolayı yeniden gir</string>
     <string name="wrong_passcode">Hatalı parola. Lütfen tekrar dene!</string>
@@ -128,11 +128,41 @@
 
     <string name="write_ext_storage_problem_description">Harici depolamaya yazılamadı.</string>
 
-<string name="allow_to_write_to_sd_card">Çıkarılabilir SD karta yazmak için izin verin.</string>
-    <string name="delete_recordings_older_then_selected_days">Seçilen günlük süreden daha eski tüm kayıtlar otomatik olarak silinecek.</string>
-    <string name="delete_recordings_on_uninstall">Çağrı Kaydedici uygulamasını kaldırmak tüm kayıtların silinmesine sebep olur.</string>
+<string name="allow_to_write_to_sd_card">Çıkarılabilir SD karta yazmak için izin verin</string>
+    <string name="delete_recordings_older_then_selected_days">Seçilen günlük süreden daha eski tüm kayıtlar otomatik olarak silinecek</string>
+    <string name="delete_recordings_on_uninstall">Çağrı Kaydedici uygulamasını kaldırmak tüm kayıtların silinmesine sebep olur</string>
     <string name="number_of_days">Gün sayısı</string>
 
     <string name="recording_method">Kayıt yöntemi</string>
     <string name="player">Media oynatıcı</string>
+    <string name="no_player_app_found">Bu ses dosyasını yürütebilecek oynatıcı bulunamadı</string>
+
+    <string name="use_external_player">Harici bir oynatıcı kullan</string>
+    <string name="use_external_media_player_to_play_recordings">Kayıtları yürütmek için harici bir medya oynatıcısı kullan</string>
+    <string name="play">Yürüt</string>
+    <string name="pause">Durdur</string>
+    <string name="enabled">Aktifleştir</string>
+    <string name="disabled">Pasifleştir</string>
+    <string name="new_recordings">yeni kayıtlar</string>
+    <string name="usage_terms_and_privacy_policy">Kullanım Şartları ve Gizlilik Politikası</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Bu uygulamayı kullanarak, Kullanım Şartları ve Gizlilik Politikası\'nı kabul etmiş olursunuz</string>
+    <string name="supported_phones">Desteklenen telefonlar</string>
+    <string name="app_description_free">"Basit Çağrı Kaydedici uygulaması bu özelliklere sahiptir:
+-  Arama kaydını etkinleştirme/devre dışı bırakma
+- Tüm telefon çağrılarını kaydetme
+- Kaydedilen sesi ögeye basarak oynatma/durdurma
+- Kaydedilen ögeleri silme
+- Otamatik temizlemeyi önlemek için kayıtlı ögeleri kilitleme
+- Kayıtlı ögeleri paylaşın (yalnızca Pro sürümde)
+- Çağrıdan hemen sonra gösterilen doğrulama mesajı: “Bu görüşmeyi kaydetmek ister misiniz?” (yalnızca Pro sürümde)
+
+EĞER TELEFONUNUZDA TAMAMEN ÇALIŞMIYORSA
+VEYA KARŞI TARAFIN SESİNİ ANLAŞILABİLİR BİÇİMDE KAYDETMİYORSA
+1. Burada açıklandığı gibi farklı kayıt seçeneklerini deneyin: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Telefon hattından veya Bluetooth\'dan kayıt yapılmasını desteklemeyen telefonlar için sınırlandırma vardır. Bu telefon üreticisinden kaynaklanan ses sürücüsü problemidir. Bilinen ve desteklenen cihazların ve konfigürasyonlarının listesi: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Lütfen bunun için kötü dereceler vermeyin. Teşekkürler!
+
+Eğer önerileriniz veya yorumlarınız varsa, lütfen sitemizi ziyaret edin http://clevermobile.net ve bizimle iletişime geçmekten çekinmeyin."</string>
+
+    <string name="number_of_seconds">Saniye sayısı</string>
     </resources>
