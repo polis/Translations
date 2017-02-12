@@ -124,7 +124,7 @@
     <string name="run_pro_question_dlg_description">Вы пытаетесь запустить бесплатную версию Call Recorder, но уже установили Pro. Запустить Pro?</string>
     <string name="run_pro_question_dlg_title">Запустить Pro</string>
     <string name="last_recording">Последняя запись</string>
-    <string name="last_recording_problem_description">При последней записи возникла ошибка. Если увидите это сообщение снова, попробуйте изменить формат файла или источник аудио в Настройках.</string>
+    <string name="last_recording_problem_description">При последней записи возникла ошибка. Если увидите это сообщение снова, попробуйте изменить метод записи или источник аудио в Настройках.</string>
     <string name="read_instructions">Читать инструкции</string>
     <string name="about">О программе</string>
     <string name="translations">Перевод</string>
@@ -197,4 +197,9 @@ Pro версия приложения Call Recorder обеспечивает:
 Если у вас есть какие-то предложения или замечания, пожалуйста, посетите наш сайт http://clevermobile.net и не стесняйтесь обращаться к нам.</string>
 
 <string name="delay_for_incoming_calls">Задержка для входящих вызовов в секундах</string>
+    <string name="usage_terms_and_privacy_policy">Условия использования и политика конфиденциальности</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Используя это приложение, вы соглашаетесь с условиями его использования и политикой конфиденциальности</string>
+    <string name="supported_phones">Поддерживаемые телефоны</string>
+    <string name="list_of_known_configurations">Список известных конфигураций</string>
+
     </resources>
