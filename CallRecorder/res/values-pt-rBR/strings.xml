@@ -54,4 +54,63 @@
     <string name="stop_recording">Ligue gravação!</string>    
     <string name="stop_recording_details">Actualmente o gravador está desligado.</string>
 
+    <string name="unknown">Desconhecido</string>
+    <string name="new_call">Uma nova chamada foi gravada!</string>    
+    <string name="info">Informação</string>       
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Perguntas frequentes</string>
+    <string name="other_app_title">Todas as aplicações</string>
+    <string name="other_app_summary">Por Clever Mobile</string>
+
+    <string name="undo">Desfazer</string>
+    <string name="deleted">excluido</string>
+
+    <string name="lock">bloquear</string>
+    <string name="share">Compartilhar</string>
+    <string name="delete">Excluir</string>
+    <string name="select_all">Selecionar tudo</string>
+    <string name="recordings">Gravações</string>
+    <string name="help">Ajuda</string>
+    <string name="hint_tap_on_contact_photo">Toque na foto do contato para selecionar.</string>
+    <string name="importing_recordings">Importando gravações…</string>
+
+    <string name="buy">Comprar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="pro_description">A verão Pro contém:
+
+Compartilhamento de gravações
+
+Sincronismo com Dropbox
+
+Sincronismo com Google Drive
+
+Notificações avançadas
+
+- Sem anúncios</string>
+
+    <string name="sd_card">Cartão SD</string>
+    <string name="call_recorder_folder">Pasta \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Memória usada</string>
+    <string name="sd_card_free_memory">Memória livre</string>
+    <string name="total_files">Total de arquivos</string>
+    <string name="import_recordings">Importar gravações</string>
+    <string name="run_clean_up">Limpar agora</string>
+    <string name="cleaning">Limpando gravações antigas…</string>
+    <string name="share_via">Compartilhar por…</string>
+
+    <string name="passcode">Senha</string>
+    <string name="enable_passcode">Habilitar senha</string>
+    <string name="enable_passcode_description">Proteger suas gravações com senha sempre que iniciar o aplicativo</string>
+    <string name="change_passcode">Alterar senha</string>
+    <string name="passcode_delete_recordings">Excluir gravações</string>
+    <string name="passcode_delete_recordings_description">Excluir todas as gravações neste dispositivo após 10 tentativas erradas da senha</string>
+    <string name="enter_passcode">Enter a senha</string>
+    <string name="reenter_passcode">Informe a senha novamente</string>
+    <string name="enter_old_passcode">Entre a senha anterior</string>
+    <string name="passcode_did_not_match">As senhas não são idênticas. Informe novamente!</string>
+    <string name="enter_new_passcode">Entre a nova senha</string>
+    <string name="reenter_new_passcode">Informe novamente a nova senha</string>
+    <string name="wrong_passcode">Senha incorreta. Tente novamente!</string>
+    <string name="exit">Sair</string>
+
     </resources>
