@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Regjistruesi i Thirrjeve</string>
     <string name="sd">Ju lutemi, vendosni kartën SD në telefon!</string>
@@ -62,7 +62,7 @@
     <string name="recordings">Regjistrimet</string>
     <string name="help">Ndihmë</string>
     <string name="hint_tap_on_contact_photo">Prekni mbi foton e nje kontakti për të zgjedhur një regjistrim.</string>
-    <string name="importing_recordings">Duke importuar regjistrimet&#8230;</string>
+    <string name="importing_recordings">Duke importuar regjistrimet…</string>
 
     <string name="buy">Blini</string>
     <string name="cancel">Anulloni</string>
@@ -80,8 +80,8 @@
     <string name="total_files">- Skedarë në Total</string>
     <string name="import_recordings">Importoni regjistrimet</string>
     <string name="run_clean_up">Pastroni tani</string>
-    <string name="cleaning">Duke pastruar regjistrimet e vjetra&#8230;</string>
-    <string name="share_via">Shpërndani me&#8230;</string>
+    <string name="cleaning">Duke pastruar regjistrimet e vjetra…</string>
+    <string name="share_via">Shpërndani me…</string>
 
     <string name="passcode">Kodkalimi</string>
     <string name="enable_passcode">Aktivizoni kodkalimin</string>
