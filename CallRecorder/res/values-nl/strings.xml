@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Gespreksopnemer</string>
     <string name="sd">Gelieve een SD-kaart in de telefoon te plaatsen!</string>
@@ -62,7 +62,7 @@
     <string name="recordings">Opnames</string>
     <string name="help">Help</string>
     <string name="hint_tap_on_contact_photo">Tik op een contactafbeelding om een item te kiezen.</string>
-    <string name="importing_recordings">Geïmporteerde opnames&#8230;</string>
+    <string name="importing_recordings">Geïmporteerde opnames…</string>
 
     <string name="buy">Kopen</string>
     <string name="cancel">Annuleren</string>
@@ -80,8 +80,8 @@
     <string name="total_files">- Totaal aantal bestanden</string>
     <string name="import_recordings">Opnames importeren</string>
     <string name="run_clean_up">Nu opschonen</string>
-    <string name="cleaning">Oude opnames opschonen&#8230;</string>
-    <string name="share_via">Delen via&#8230;</string>
+    <string name="cleaning">Oude opnames opschonen…</string>
+    <string name="share_via">Delen via…</string>
 
     <string name="passcode">Toegangscode</string>
     <string name="enable_passcode">Toegangscode inschakelen</string>
@@ -128,4 +128,17 @@
 
     <string name="write_ext_storage_problem_description">Opslaan op extern opslagmedium mislukt.</string>
 
-</resources>
+<string name="allow_to_write_to_sd_card">Schrijven naar SD card toestaan</string>
+    <string name="delete_recordings_older_then_selected_days">Alle opnames ouder dan de ingestelde periode worden automatisch verwijderd</string>
+    <string name="delete_recordings_on_uninstall">Alle opnames worden gewist bij het verwijderen van de applicatie</string>
+    <string name="number_of_days">Aantal dagen</string>
+
+    <string name="recording_method">Opname methode</string>
+    <string name="no_player_app_found">Geen afspeel app gevonden voor dit audio type</string>
+
+    <string name="player">Media Speler</string>
+    <string name="use_external_player">Gebruik externe speler</string>
+    <string name="use_external_media_player_to_play_recordings">Gebruik externe Media speler om opnames te beluisteren</string>
+    <string name="play">Afspelen</string>
+    <string name="pause">Pauze</string>
+    </resources>
