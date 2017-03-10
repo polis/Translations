@@ -165,4 +165,6 @@ Lütfen bunun için kötü dereceler vermeyin. Teşekkürler!
 Eğer önerileriniz veya yorumlarınız varsa, lütfen sitemizi ziyaret edin http://clevermobile.net ve bizimle iletişime geçmekten çekinmeyin."</string>
 
     <string name="number_of_seconds">Saniye sayısı</string>
+    <string name="list_of_known_configurations">Bilinen yapılandırmaların listesi</string>
+
     </resources>
