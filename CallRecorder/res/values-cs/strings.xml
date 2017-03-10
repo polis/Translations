@@ -77,4 +77,5 @@
     <string name="sd_card_free_memory">Volná paměť</string>
     <string name="import_recordings">"Import nahrávek "</string>
     <string name="hint_tap_on_contact_photo">Stiskněte obrázek kontaktu pro výběr položky.</string>
+    <string name="call_recorder_folder">Složka \"CallRecorder\"</string>
     </resources>
