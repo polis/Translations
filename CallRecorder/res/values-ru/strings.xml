@@ -124,7 +124,7 @@
     <string name="run_pro_question_dlg_description">Вы пытаетесь запустить бесплатную версию Call Recorder, но уже установили Pro. Запустить Pro?</string>
     <string name="run_pro_question_dlg_title">Запустить Pro</string>
     <string name="last_recording">Последняя запись</string>
-    <string name="last_recording_problem_description">При последней записи возникла ошибка. Если увидите это сообщение снова, попробуйте изменить метод записи или источник аудио в Настройках.</string>
+    <string name="last_recording_problem_description">При последней записи возникла ошибка. Если увидите это сообщение снова, попробуйте изменить Метод записи или Источник аудио в Настройках.</string>
     <string name="read_instructions">Читать инструкции</string>
     <string name="about">О программе</string>
     <string name="translations">Перевод</string>
