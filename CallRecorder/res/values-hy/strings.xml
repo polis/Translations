@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="app_name">Զանգերի Ձայնագրում</string>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+    <string name="app_name">Զանգերի Ձայնագրում</string>
     <string name="sd">Խնդրում ենք տեղադրեք SD քարտ հեռախոսի մեջ!</string>
     <string name="contact">Կոնտակտներ</string>
     <string name="call_time">Զանգի ժամանակ</string>
