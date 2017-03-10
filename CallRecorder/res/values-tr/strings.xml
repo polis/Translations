@@ -135,7 +135,7 @@
 
     <string name="recording_method">Kayıt yöntemi</string>
     <string name="player">Media oynatıcı</string>
-    <string name="no_player_app_found">Bu ses dosyasını yürütebilecek oynatıcı bulunamadı</string>
+    <string name="no_player_app_found">Bu ses dosyasını çalabilecek uygulama bulunamadı.</string>
 
     <string name="use_external_player">Harici bir oynatıcı kullan</string>
     <string name="use_external_media_player_to_play_recordings">Kayıtları yürütmek için harici bir medya oynatıcısı kullan</string>
