@@ -198,4 +198,6 @@
     <string name="persistent_notifications">اطلاعیه های ماندگار</string>
     <string name="enable_persistent_notifications">فعال کردن اطلاعیه های ماندگار</string>
 
+    <string name="list_of_known_configurations">لیست پیکربندی های شناخته شده</string>
+
     </resources>
