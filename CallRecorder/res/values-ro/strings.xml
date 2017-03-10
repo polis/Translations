@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Apel Înregistrator</string>
     <string name="sd">Vă rugăm să introduceți Cardul-MicroSD în telefon!</string>
@@ -62,7 +62,7 @@
     <string name="recordings">Înregistrări</string>
     <string name="help">Ajutor</string>
     <string name="hint_tap_on_contact_photo">Apăsați pe o fotografie de contact pentru a selecta un element.</string>
-    <string name="importing_recordings">Se importă înregistrări&#8230;</string>
+    <string name="importing_recordings">Se importă înregistrări…</string>
 
     <string name="buy">Cumpără</string>
     <string name="cancel">Anulare</string>
@@ -80,8 +80,8 @@
     <string name="total_files">- Fișiere totale</string>
     <string name="import_recordings">Înregistrări importate</string>
     <string name="run_clean_up">Curăță acum</string>
-    <string name="cleaning">Curățare înregistrări vechi&#8230;</string>
-    <string name="share_via">Spune-le prietenilor prin&#8230;</string>
+    <string name="cleaning">Curățare înregistrări vechi…</string>
+    <string name="share_via">Spune-le prietenilor prin…</string>
 
     <string name="passcode">Cod de Acces</string>
     <string name="enable_passcode">Activați Codul de Acces</string>
@@ -119,7 +119,7 @@
     <string name="run_pro_question_dlg_description">ți încercat să rulați softul Call Recorder versiunea Free, dar s-a instalat deja versiunea Pro? Vrei să ai v.Pro?</string>
     <string name="run_pro_question_dlg_title">Rulează versiunea Pro</string>
     <string name="last_recording">Ultima înregistrare</string>
-    <string name="last_recording_problem_description">Se pare că unele probleme au avut loc în timpul ultimei înregistrări. Dacă acest mesaj apare din nou atunci, vă rugăm, încercați să schimbați formatul/tipul de Fișier sau sursa Audio din pagina cu Setări.</string>
+    <string name="last_recording_problem_description">Se pare că unele probleme au avut loc în timpul ultimei înregistrări. Dacă acest mesaj apare din nou, atunci vă rugăm să încercați schimbarea metodei înregistrării sau sursa audio din Setări.</string>
     <string name="read_instructions">Citiți instrucțiunile</string>
     <string name="about">Despre</string>
     <string name="translations">Traduceri</string>
@@ -128,4 +128,18 @@
 
     <string name="write_ext_storage_problem_description">Nu se poate scrie în stocarea externă.</string>
     
-</resources>
+<string name="allow_to_write_to_sd_card">Permiteți înmagazinarea pe cardul SD.</string>
+    <string name="delete_recordings_older_then_selected_days">Toate înregistrările mai vechi de perioada selectată vor fi şterse automat.</string>
+    <string name="delete_recordings_on_uninstall">Aceasta va şterge toate înregistrările dacă dezinstalați aplicația CALL RECORDER.</string>
+    <string name="number_of_days">Numărul de zile.</string>
+
+    <string name="recording_method">Metoda de înregistrare.</string>
+    <string name="no_player_app_found">Nu s-a găsit nici-o aplicație pentru a rula acest fişier audio.</string>
+
+    <string name="player">Player media.</string>
+    <string name="use_external_player">Folosiți un player extern.</string>
+    <string name="use_external_media_player_to_play_recordings">Folosiți un player media extern pentru a rula înregistrările.</string>
+    <string name="play">Rulează.</string>
+    <string name="pause">Pauză.</string>
+    <string name="number_of_seconds">Număr de secunde</string>
+    </resources>
