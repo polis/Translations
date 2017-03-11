@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools"
-    tools:locale="en">
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
     <string name="app_name">مسجل المكالمات</string>
     <string name="sd">الرجاء ادخل بطاقة SD في الهاتف</string>
@@ -128,6 +127,8 @@
     <string name="translate">ترجم</string>
     <string name="help_translate">ساعدنا في ترجمة التطبيق الى لغتك الأم</string>
 
-    <string name="write_ext_storage_problem_description">لا يمكن الوصول للذاكرة الخارجية</string>
+    <string name="write_ext_storage_problem_description">لا يمكن التخزين بالذاكرة الخارجية</string>
 
-</resources>
+<string name="allow_to_write_to_sd_card">السماح بالتخزين في الذاكرة الخارجية</string>
+    <string name="delete_recordings_older_then_selected_days">جميع السجلات الأقدم من عدد الأيام المختارة سيتم مسحها تلقائيا</string>
+    </resources>

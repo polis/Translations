@@ -129,7 +129,7 @@
     <string name="about">درباره</string>
     <string name="translations">ترجمه</string>
     <string name="translate">ترجمه کردن</string>
-    <string name="help_translate">به ما در ترجمه‌ی زبانهای ناموجود کمک کنید.</string>
+    <string name="help_translate">به ما در ترجمه‌ی زبان های ناموجود کمک کنید</string>
 
     <string name="write_ext_storage_problem_description">قادر به ذخیره در حافظه خارجی نیستید.</string>
     <string name="allow_to_write_to_sd_card">اجازه دادن برای نوشتن در کارت حافظه خارجی قابل حمل</string>
@@ -194,5 +194,10 @@
     <string name="enabled">فعال</string>
     <string name="disabled">غیرفعال</string>
     <string name="new_recordings">ضبط جدید</string>
+
+    <string name="persistent_notifications">اطلاعیه های ماندگار</string>
+    <string name="enable_persistent_notifications">فعال کردن اطلاعیه های ماندگار</string>
+
+    <string name="list_of_known_configurations">لیست پیکربندی های شناخته شده</string>
 
     </resources>

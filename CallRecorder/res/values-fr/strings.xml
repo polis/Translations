@@ -128,4 +128,14 @@
 
     <string name="write_ext_storage_problem_description">Impossible d\'écrire sur le stockage externe.</string>
     				
-</resources>
+<string name="allow_to_write_to_sd_card">permettent d’écrire sur carte SD amovible</string>
+    <string name="delete_recordings_older_then_selected_days">Tous les vieux enregistrements seront automatiquement détruits au bout d\'un certain nombre de jours</string>
+    <string name="delete_recordings_on_uninstall">Cela effacera tous les enregistrements si l\'application enregistrement d\'appels n\'est pas installée.</string>
+    <string name="number_of_days">Nombre de jours</string>
+
+    <string name="no_player_app_found">Pas trouvé de lecteur pour passer cet audio</string>
+
+    <string name="player">Media Player</string>
+    <string name="use_external_player">Utiliser lecteur externe</string>
+    <string name="recording_method">Recording method</string>
+    </resources>

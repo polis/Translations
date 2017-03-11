@@ -144,4 +144,11 @@
     <string name="not_able_to_import_to_pro">Si activeu aquesta opció no serà possible importar automàticament les gravacions a la versió Pro. A més, feu còpia de seguretat de totes les gravacions importants si voleu desinstal•lar l\'aplicació, ja que s\'esborraran.</string>
     <string name="not_able_to_import">Si activeu aquesta opció i decidiu desinstal•lar l\'aplicació, haurieu de fer còpia de seguretat de totes les gravacions importants, ja que s\'esborraran i no serà possible tornar-les a importar automàticament si instal•leu un altre cop l\'aplicació.</string>
 
+    <string name="number_of_seconds">Nombre de segons</string>
+    <string name="delay_for_incoming_calls">Retard per trucades entrants en segons</string>
+    <string name="delay_for_outgoing_calls">Retard per trucades sortints en segons</string>
+
+    <string name="enabled">Activat</string>
+    <string name="disabled">Desactivat</string>
+    <string name="new_recordings">noves gravacions</string>
     </resources>

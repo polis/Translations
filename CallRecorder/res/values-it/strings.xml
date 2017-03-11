@@ -144,4 +144,14 @@
     <string name="not_able_to_import_to_pro">Se questa opzione è abilitata non è possibile importare automaticamente le registrazioni nella versione Pro. Inoltre effettua un backup di tutte le registrazioni importanti se decidi di disinstallare l\'app, poiché saranno tutte eliminate.</string>
     <string name="not_able_to_import">"Se questa opzione è abilitata  e decidi di disinstallare l\'app devi effettuare un backup di tutte le registrazioni importanti perché saranno eliminate e non sarà possibile importare automaticamente le registrazioni  dopo aver installato di nuovo l\'app."</string>
 
+    <string name="number_of_seconds">Numero di secondi</string>
+    <string name="delay_for_incoming_calls">Ritardo per chiamate in arrivo in secondi</string>
+    <string name="delay_for_outgoing_calls">Ritardo per chiamate in uscita in secondi</string>
+
+    <string name="enabled">Abilitato</string>
+    <string name="disabled">Disabilitato</string>
+    <string name="persistent_notifications">Notifiche continue</string>
+    <string name="enable_persistent_notifications">Abilita notifiche continue</string>
+
+    <string name="new_recordings">nuove registrazioni</string>
     </resources>

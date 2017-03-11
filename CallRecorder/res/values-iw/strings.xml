@@ -65,4 +65,58 @@
 
     <string name="cancel">בטל</string>
     <string name="faq_title">שאלות נפוצות</string>
+    <string name="wifi_only_when_sync">סנכרון רק כאשר מחובר לwifi</string>
+
+    <string name="sync_summary">סנכרון את כל ההקלטות כעת</string>
+    <string name="buy">קנה</string>
+    <string name="pro_description">גרסת הpro כוללת:
+
+-שתף הקלטות…
+
+-סנכרון עם Dropbox 
+
+סנכרון עם Google Drive
+
+-התראות מתקדמות
+
+-ללא פרסומות</string>
+
+    <string name="sd_card">כרטיס SD</string>
+    <string name="call_recorder_folder">"תקיית  CallRecorder"</string>
+    <string name="sd_card_memory_occupied">זכרון בשימוש</string>
+    <string name="sd_card_free_memory">זכרון פנוי</string>
+    <string name="total_files">סהך קבצים</string>
+    <string name="import_recordings">יבא הקלטות</string>
+    <string name="cleaning">נקה הקלטות ישנות...</string>
+    <string name="share_via">שתף באמצעות...</string>
+
+    <string name="passcode">סיסמה</string>
+    <string name="enable_passcode_description">הגן על ההקלטות עם אימות סיסמה בכל פעם שנכנסים לאפליקציה</string>
+    <string name="change_passcode">שינוי סיסמה</string>
+    <string name="passcode_delete_recordings">מחק הקלטות</string>
+    <string name="passcode_delete_recordings_description">מחק את כל ההקלטות מהמכשיר לאחר 10 נסינות להכנסת הסיסמה</string>
+    <string name="enter_passcode">הכנס סיסמה</string>
+    <string name="reenter_passcode">הכנס סיסמה מחדש</string>
+    <string name="enter_old_passcode">"הכנס סיסמה ישנה "</string>
+    <string name="passcode_did_not_match">הסיסמאות אינן תואמות, נסה שוב</string>
+    <string name="enter_new_passcode">הכנס סיסמה חדשה</string>
+    <string name="reenter_new_passcode">הכנס סיסמה מחדש</string>
+    <string name="wrong_passcode">סיסמה שגויה. אנא נסה שוב</string>
+    <string name="exit">יציאה</string>
+
+    <string name="cloud">סנכרון</string>
+
+    <string name="login">התחבר</string>
+    <string name="enable_passcode">אפשר סיסמה</string>
+    <string name="dropbox_link">קשר חשבון דרופבוקס</string>
+    <string name="dropbox_unlink">בטל קישור חשבון דרופבוקס</string>
+
+    <string name="google_drive">גוגל דרייב</string>
+    <string name="google_drive_link">קשר חשבון גוגל דרייב</string>
+    <string name="google_drive_unlink">בטל קישור חשבון גוגל דרייב</string>
+    <string name="connecting_to_google_drive">מתחבר לגוגל דרייב</string>
+
+    <string name="logout">התנתק</string>
+    <string name="sync_title">סנכרון כעת</string>
+    <string name="wifi_only">וייפי בלבד</string>
     </resources>
