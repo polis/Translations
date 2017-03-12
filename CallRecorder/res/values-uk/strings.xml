@@ -119,7 +119,7 @@
     <string name="run_pro_question_dlg_description">Ви намагаєтесь запустити пробну версію запису дзвінків, коли на телефоні установлено професійну версію. Запустити професійну?</string>
     <string name="run_pro_question_dlg_title">Запустити Про</string>
     <string name="last_recording">Останній запис</string>
-    <string name="last_recording_problem_description">При записі останньої розмови виникла помилка. Якщо це повідомлення появиться знову, то спробуйте зміти формат файлу чи ресурс запису в Налаштуваннях.</string>
+    <string name="last_recording_problem_description">При записі останньої розмови виникла помилка. Якщо це повідомлення появиться знову, то спробуйте зміти метод запису чи ресурс запису в Налаштуваннях.</string>
     <string name="read_instructions">Читати інструкції</string>
     <string name="about">Про програму</string>
     <string name="translations">Переклад</string>
@@ -153,5 +153,10 @@
 
     <string name="persistent_notifications">Стійкі повідомлення</string>
     <string name="enable_persistent_notifications">Увімкнути стійкі повідомлення</string>
+
+    <string name="usage_terms_and_privacy_policy">Правила користування і політика конфіденційності</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Користуючись цим додатком ви погоджуєтесь з правилами користування та політикою конфіденційності</string>
+    <string name="supported_phones">Телефони що підтримуються</string>
+    <string name="list_of_known_configurations">Список відомих конфігурацій</string>
 
     </resources>
