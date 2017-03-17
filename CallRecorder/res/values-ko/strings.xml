@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">통화 녹음</string>
     <string name="sd">SD 카드를 전화기에 장착하십시오!</string>
@@ -64,4 +64,5 @@
     <string name="sync_title">동기화</string>
     <string name="sync_summary">모든 녹음 지금 동기화</string>
 
-</resources>
+<string name="select_all">전부 선택하기</string>
+    </resources>
