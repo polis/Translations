@@ -1,3 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="app_name">Bildirim Seviyesi</string>
+    <string name="volume">Ses</string>
+    <string name="profiles">Profil</string>
+    <string name="profile_add">Yeni Profil Oluştur</string>
+    <string name="profile_edit">Profil Düzenle</string>
+    <string name="toast_enter_profile_name">Lütfen, Profil Adı Girin.</string>    
+    <string name="text_create_profile">Lütfen önce profil ekleyin!</string>    
+    <string name="scheduler">Zamanlayıcı</string>    
+    <string name="location">Konumlarınız</string>          
+    
+    <string name="tap_hint_text">Başlığı girmek için hafifçe dokunun</string>       
+    <string name="button_Save">Kaydet</string>    
+    <string name="button_Cancel">İptal et</string>       
+    <string name="dialog_button_OK">Tamam</string>       
+    <string name="dialog_delete_profile_title">Profili sil</string>       
+    <string name="dialog_delete_profile_message">Bu profile atanan tüm zaman çizelgeleri, konumlar ve WiFi noktaları silinir. Devam etmek ister misiniz?</string>            
+    
+    <string name="ringTitle">Zil Sesi</string>
+    <string name="musicTitle">Medya</string>
+    <string name="voiceCallTitle">Konuşma sesi</string>
+    <string name="alarmTitle">Alarm</string>
+    <string name="notificationTitle">Bildirim</string>
+    <string name="systemTitle">Sistem</string>
+    
+    <string name="radio_silent">Sessiz</string>
+    <string name="radio_normal">Normal</string>
+    <string name="radio_vibrate">Titreşim</string>
+    
+    <string name="location_select">Konum seçin</string>
+    <string name="location_name">Konum ismi</string>
+    <string name="marker_info">Buraya gidin</string>
+    <string name="toast_set_location">Lütfen, haritada işaretleyin.</string>
+    <string name="toast_enter_location_name">Lütfen bölge adı girin.</string>
+    <string name="edit">Düzenle</string>
+
+    <string name="text_buy_pro">Bu işlev Pro versiyonda mevcuttur!</string>
+    <string name="button_buy_pro">Pro\'yu Satın Alın</string>
+	<string name="rate">Lütfen, bu uygulamaya oy verin</string>
+	<string name="rateOk">Tamam</string>
+	<string name="rateLater">Sonra</string>
+    
+    <string name="wifi">WiFi Noktaları</string>
+    <string name="add_wifi">WiFi noktası ve ses Profili\'ni seçin</string>
+    <string name="wifi_connecting">WiFi açılıyor!</string>
+    <string name="no_wifi_spots">Lütfen aşağıdakilerden emin olun:
+1. WiFi açık.
+2. Telefonunuzun WiFi Ağları yapılandırmasında en az bir WiFi noktası kayıtlı olmalıdır.</string>
+    <string name="on_disconnect">WiFi noktasından bağlantı kesildiğinde</string>
+
+    <string name="help">Yardım</string>
+    <string name="set">Ayarla</string>
+
+    <string name="buy">Satın al</string>
+    <string name="cancel">İptal et</string>
+    <string name="pro_description">Pro sürümü şunları içerir:
+- WiFi noktasından bağlantı kesildiğinde profil yapılandırma imkanı
+- Artık reklam olmayacak</string>
+    <string name="buy_category_description">Pro sürümü</string>
+    <string name="buy_category_title">Volume Control Pro sürümünü satın al</string>
+
+    <string name="info">Bilgi</string>
+    <string name="faq_title">SSS</string>
+    <string name="faq_summary">Sık sorulan Sorular</string>
+    <string name="other_app_title">Tüm uygulamalar</string>
+    <string name="other_app_summary">Clever Mobile\'den</string>
+    <string name="about">Hakkında</string>
+    <string name="translations">Çeviriler</string>
+    <string name="translate">Çeviri yap</string>
+    <string name="help_translate">Anadilinize çeviri konusunda bize yardım edin</string>
+    </resources>
