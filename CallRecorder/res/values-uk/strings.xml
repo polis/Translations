@@ -128,7 +128,7 @@
 
     <string name="write_ext_storage_problem_description">Заблоковано запис на вибрану карту пам\'яті.</string>
     <string name="allow_to_write_to_sd_card">Дозволити записувати на зйомну карту пам\'яті</string>
-    <string name="delete_recordings_older_then_selected_days">Усі записи старші ніж вибрана кількість днів будуть видалятись автомвтично</string>
+    <string name="delete_recordings_older_then_selected_days">Усі записи старші ніж вибрана кількість днів будуть видалятись автоматично</string>
     <string name="delete_recordings_on_uninstall">При видаленні аплікації усі записані файли будуть видалені</string>
     <string name="number_of_days">Кількість днів</string>
 
@@ -158,5 +158,24 @@
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Користуючись цим додатком ви погоджуєтесь з правилами користування та політикою конфіденційності</string>
     <string name="supported_phones">Телефони що підтримуються</string>
     <string name="list_of_known_configurations">Список відомих конфігурацій</string>
+
+    <string name="navigation_drawer_open">Відкрити меню</string>
+    <string name="navigation_drawer_close">Закрити меню</string>
+    <string name="tell_a_friend">Розповісти друзям</string>
+    <string name="rate_me">Оцінити</string>
+    <string name="check_out_call_recorder_app_at">Подивись на аплікацю Запису дзвінків на</string>
+    <string name="upgrade_to_premium">Обновитись до Преміум</string>
+    <string name="theme">Тема</string>
+    <string name="use_dark_theme">Використовувати темну тему</string>
+    <string name="call">Набрати</string>
+    <string name="note">Нотатка</string>
+    <string name="add_to_excluded">Добавити до винятків</string>
+    <string name="rec_info">Інфо</string>
+
+    <string name="app_is_not_licensed">Додаток не є ліцензійним</string>
+    <string name="buy_license_in_order_to_use_app">Щоб мати змогу надалі використовувати додаток, будь-ласка, придбайте його через Google Play Market!</string>
+    <string name="pro_version_as_a_license">Запис Дзвінків Про версія більше не буде оновлюватись новими функціями. Цей додаток буде використовуватись для користувачів щоб активувати преміум функціїї в стандартній версії. Більше інформації про це на нашому сайті.</string>
+    <string name="check_again">Перевірити знову</string>
+
 
     </resources>
