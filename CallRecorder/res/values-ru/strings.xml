@@ -202,4 +202,23 @@ Pro версия приложения Call Recorder обеспечивает:
     <string name="supported_phones">Поддерживаемые телефоны</string>
     <string name="list_of_known_configurations">Список известных конфигураций</string>
 
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="tell_a_friend">Рассказать другу</string>
+    <string name="rate_me">Оценить</string>
+    <string name="theme">Тема</string>
+    <string name="use_dark_theme">Темная тема</string>
+    <string name="call">Вызов</string>
+    <string name="note">Комментарий</string>
+    <string name="add_to_excluded">Добавить в исключения</string>
+    <string name="rec_info">Инфо</string>
+
+    <string name="app_is_not_licensed">Приложение не лицензировано</string>
+    <string name="buy_license_in_order_to_use_app">Чтобы использовать это приложение, пожалуйста, купите его через google play маркет!</string>
+    <string name="pro_version_as_a_license">Версия Call Recorder Pro больше не будет обновляться новыми функциями. Она будет использоваться для текущих пользователей в качестве лицензионного ключа для активации премиальных функций в стандартной версии. Больше информации об этом на нашем сайте.</string>
+    <string name="check_again">Проверить снова</string>
+
+
+    <string name="upgrade_to_premium">Обновление до премиум</string>
+    <string name="check_out_call_recorder_app_at">Проверьте приложение Call Recorder на</string>
     </resources>
