@@ -40,10 +40,10 @@
 
 	<string name="unknown">Неизвестный</string>
 	<string name="hidden">Скрытый</string>	    
-    <string name="start_recording">Запись звонков включена!</string>    
+    <string name="start_recording">Call Recorder работает!</string>    
     <string name="start_recording_details">Все последующие вызовы будут записаны.</string>    
-    <string name="stop_recording">Включите запись звонков!</string>    
-    <string name="stop_recording_details">Запись звонков выключена.</string>
+    <string name="stop_recording">Включите записывание!</string>    
+    <string name="stop_recording_details">В настоящий момент записывание выключено.</string>
 
     <string name="new_call">Новый разговор был записан!</string>        
     <string name="info">Информация</string>
@@ -141,9 +141,9 @@
     <string name="no_player_app_found">"Не найдено приложение, для проигрывания этой записи. "</string>
 
 <string name="player">Медиа плеер</string>
-    <string name="use_external_player">Использовать внешнее приложение для воспроизведения</string>
-    <string name="use_external_media_player_to_play_recordings">Использовать внешнее приложение для воспроизведения записей</string>
-    <string name="play">Воспроизвести</string>
+    <string name="use_external_player">Использовать сторонний плеер</string>
+    <string name="use_external_media_player_to_play_recordings">Использовать стороннее приложение для воспроизведения записей</string>
+    <string name="play">Воспроизведение</string>
     <string name="pause">Пауза</string>
     <string name="not_able_to_import_to_pro">Включение данной опции сделает невозможным автоматической импорт записей в PRO версию. Сохраните все записи перед удалением приложения. Если этого не сделать, все записи будут удалены вместе с приложением.</string>
     <string name="not_able_to_import">"Если эта опция включена, и вы решите удалить приложение, сделайте резервную копию всех важных записей, так как все они будут удалены, и будет невозможно импортировать записи автоматически после повторной установки приложения. "</string>
@@ -215,7 +215,7 @@ Pro версия приложения Call Recorder обеспечивает:
 
     <string name="app_is_not_licensed">Приложение не лицензировано</string>
     <string name="buy_license_in_order_to_use_app">Чтобы использовать это приложение, пожалуйста, купите его через google play маркет!</string>
-    <string name="pro_version_as_a_license">Версия Call Recorder Pro больше не будет обновляться новыми функциями. Она будет использоваться для текущих пользователей в качестве лицензионного ключа для активации премиальных функций в стандартной версии. Больше информации об этом на нашем сайте.</string>
+    <string name="pro_version_as_a_license">Версия Call Recorder Pro больше не будет дополняться новыми функциями. Она будет использоваться для текущих пользователей в качестве лицензионного ключа для активации премиальных функций в стандартной версии. Больше информации об этом на нашем сайте.</string>
     <string name="check_again">Проверить снова</string>
 
 
