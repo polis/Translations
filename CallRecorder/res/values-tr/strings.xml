@@ -167,4 +167,26 @@ Eğer önerileriniz veya yorumlarınız varsa, lütfen sitemizi ziyaret edin htt
     <string name="number_of_seconds">Saniye sayısı</string>
     <string name="list_of_known_configurations">Bilinen yapılandırmaların listesi</string>
 
+    <string name="not_able_to_import">"Bu seçenek aktifken uygulamayı kaldırmaya karar verdiğinizde tüm kayıtlar da silineceğinden  önemli kayıtlarınızı yedekleyin. Uygulamayı geri yüklemek kayıtlarınızı otomatik olarak geri getirmez. "</string>
+
+    <string name="delay_for_incoming_calls">Gelen çağrıda anlık gecikme</string>
+    <string name="delay_for_outgoing_calls">Giden aramada anlık gecikme</string>
+
+    <string name="persistent_notifications">Sürekli bildirimler</string>
+    <string name="enable_persistent_notifications">Sürekli bildirimler aktif</string>
+    <string name="navigation_drawer_open">Menüye git</string>
+    <string name="navigation_drawer_close">Menüyü kapat</string>
+    <string name="tell_a_friend">Arkadaşına söyle</string>
+    <string name="rate_me">Oy ver</string>
+    <string name="check_out_call_recorder_app_at">Hey! Call Recorder uygulanmasında kontrol et</string>
+    <string name="upgrade_to_premium">Preminyum Hesaba Yükselt</string>
+    <string name="theme">Tema</string>
+    <string name="use_dark_theme">Koyu tema kullan</string>
+    <string name="call">Çağrı</string>
+    <string name="note">Not</string>
+    <string name="add_to_excluded">Hariçlere ekle</string>
+    <string name="rec_info">Bilgi</string>
+
+    <string name="app_is_not_licensed">Uygulama lisanslı değil</string>
+    <string name="buy_license_in_order_to_use_app">Lütfen uygulamayı sadece Google Play Marketten satın alın!</string>
     </resources>
