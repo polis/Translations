@@ -66,7 +66,7 @@
 
     <string name="buy">Купить</string>
     <string name="cancel">Отмена</string>
-    <string name="pro_description">Pro версия содержит функции:
+    <string name="pro_description">Премиум версия содержит функции:
  
  - Пересылка записей
  
@@ -103,7 +103,7 @@
     <string name="wrong_passcode">Неверный пароль. Попробуйте еще раз!</string>
     <string name="exit">Выход</string>
 
-    <string name="cloud">Синхронизация</string>
+    <string name="cloud">Облако</string>
 
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Подключиться к Dropbox</string>
@@ -221,4 +221,17 @@ Pro версия приложения Call Recorder обеспечивает:
 
     <string name="upgrade_to_premium">Обновление до премиум</string>
     <string name="check_out_call_recorder_app_at">Проверьте приложение Call Recorder на</string>
+    <string name="add_translation">Добавить перевод</string>
+
+    <string name="add">Добавить</string>
+    <string name="save">Сохранить</string>
+    <string name="close">Закрыть</string>
+    <string name="search">Поиск</string>
+    <string name="name">Имя</string>
+    <string name="number">Номер</string>
+    <string name="path">Путь</string>
+    <string name="size">Размер</string>
+    <string name="proceed">Продолжить</string>
+    <string name="restore_license">Возобновить лицензию</string>
+    <string name="restore_for_purchased_users">Вы должны установить Про версию, с Google Play, купленную ранее. Она будет использована как лицензия для активации премиум функций.</string>
     </resources>
