@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-
     <string name="app_name">Call Recorder</string>
     <string name="sd">Please, insert SD card into the phone!</string>
     <string name="contact">Contacts</string>
@@ -15,7 +14,7 @@
     <string name="storage">Storage</string>
     <string name="deleteRecord_title">Automatic cleaning</string>
     <string name="deleteRecord_summary">Delete recordings</string>
-    <string name="recording">Recording settings</string>
+    <string name="recording">Recording</string>
     <string name="audioSource_title">Audio source</string>
     <string name="audioSource_summary">Select audio source</string>
     <string name="audioChannel_title">Audio channel</string>
@@ -67,7 +66,7 @@
 
     <string name="buy">Buy</string>
     <string name="cancel">Cancel</string>
-    <string name="pro_description">Pro version contains:
+    <string name="pro_description">Premium version contains:
         \n - Share recordings
         \n - Dropbox sync
         \n - Google Drive sync
@@ -99,7 +98,7 @@
     <string name="wrong_passcode">Wrong passcode. Please, try again!</string>
     <string name="exit">Exit</string>
 
-    <string name="cloud">Synchronization</string>
+    <string name="cloud">Cloud</string>
 
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Link Dropbox account</string>
@@ -125,7 +124,8 @@
     <string name="about">About</string>
     <string name="translations">Translations</string>
     <string name="translate">Translate</string>
-    <string name="help_translate">Help us with translation to your native language</string>
+    <string name="help_translate">Help us with translation the app labels to your native language by using our website. Would you like to proceed?</string>
+    <string name="add_translation">Add translation</string>
 
     <string name="write_ext_storage_problem_description">Unable to write to external storage.</string>
     <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
@@ -141,8 +141,8 @@
     <string name="use_external_media_player_to_play_recordings">Use external media player to play recordings</string>
     <string name="play">Play</string>
     <string name="pause">Pause</string>
-    <string name="not_able_to_import_to_pro">If this option Enabled then it will not be possible to automaticaly import recordings to Pro version. Furthermore, do backup of all important recordings if you decide to uninstall the app, as all they will be deleted.</string>
-    <string name="not_able_to_import">If this option Enabled and you decide to uninstall the app, you have to do backup of all important recordings, as all they will be deleted and it will not be possible to automaticaly import recordings after installing the app again. </string>
+    <string name="not_able_to_import_to_pro">If this option is Enabled then it will not be possible to automaticaly import recordings to Pro version. Furthermore, do backup of all important recordings if you decide to uninstall the app, as all they will be deleted.</string>
+    <string name="not_able_to_import">If this option is Enabled and you decide to uninstall the app, you have to do backup of all important recordings, as all they will be deleted and it will not be possible to automaticaly import recordings after installing the app again. </string>
 
     <string name="number_of_seconds">Number of seconds</string>
     <string name="delay_for_incoming_calls">Delay for incoming calls in seconds</string>
@@ -170,12 +170,22 @@
     <string name="note">Note</string>
     <string name="add_to_excluded">Add to excluded</string>
     <string name="rec_info">Info</string>
-
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="path">Path</string>
+    <string name="size">Size</string>
+    <string name="thank_you_for_upgrading_to_premium">Thank you for upgrading to premium!</string>
+    <string name="proceed">Proceed</string>
+    <string name="restore_license">Restore license</string>
+    <string name="restore_for_purchased_users">You have to install the Pro version, from Gooogle Play Market, that you purchased before. It will be using as license for activate premium functionality.</string>
     <string name="app_is_not_licensed">Application is not licensed</string>
     <string name="buy_license_in_order_to_use_app">In order to use this app, please, buy it via google play market!</string>
     <string name="pro_version_as_a_license">Call Recorder Pro version will not be updated by new features any more. It will be used for current users as a license key to activate premium functionality in the standart version. More information about it on our website.</string>
     <string name="check_again">Check again</string>
-
 
     <string name="app_description_free">Simple Call Recorder application that has an ability to:
 - Enable/Disable call recording
