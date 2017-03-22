@@ -61,7 +61,7 @@
     <string name="select_all">Выделить все</string>
     <string name="recordings">Записи</string>
     <string name="help">Помощь</string>
-    <string name="hint_tap_on_contact_photo">Нажмите на фото контакта чтобы выделить запись.</string>
+    <string name="hint_tap_on_contact_photo">Нажмите на картинку контакта чтобы выделить запись.</string>
     <string name="importing_recordings">Записи импортируются…</string>
 
     <string name="buy">Купить</string>
