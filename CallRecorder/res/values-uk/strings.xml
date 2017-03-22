@@ -60,7 +60,7 @@
     <string name="select_all">Виділити усе</string>
     <string name="recordings">Записи</string>
     <string name="help">Допомога</string>
-    <string name="hint_tap_on_contact_photo">Натисніть на фото контакту щоб виділити запис.</string>
+    <string name="hint_tap_on_contact_photo">Натисніть на малюнок контакту щоб виділити запис.</string>
     <string name="importing_recordings">Записи імпортуються…</string>
 
     <string name="buy">Купити</string>
