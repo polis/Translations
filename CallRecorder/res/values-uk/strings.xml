@@ -65,13 +65,17 @@
 
     <string name="buy">Купити</string>
     <string name="cancel">Відміна</string>
-    <string name="pro_description">
-        Про версія містить:
-        \n - Поділитись записами
-        \n - Синхронізація з Dropbox
-        \n - Синхронізація з Google Drive
-        \n - Додаткові сповіщення
-        \n - Без реклами</string>
+    <string name="pro_description">Преміум версія містить:
+ 
+ - Поділитись записами
+ 
+ - Синхронізація з Dropbox
+ 
+ - Синхронізація з Google Drive
+ 
+ - Додаткові сповіщення
+ 
+ - Без реклами</string>
 
     <string name="sd_card">SD карта</string>
     <string name="call_recorder_folder">Папка \"CallRecorder\"</string>
@@ -98,7 +102,7 @@
     <string name="wrong_passcode">Невірний пароль. Спробуйте ще раз!</string>
     <string name="exit">Вихід</string>
 
-    <string name="cloud">Синхронізація</string>
+    <string name="cloud">Хмара</string>
 
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Приєднати Dropbox скриньку</string>
@@ -124,7 +128,7 @@
     <string name="about">Про програму</string>
     <string name="translations">Переклад</string>
     <string name="translate">Перекласти</string>
-    <string name="help_translate">Допоможіть нам з перекладом на вашу рідну мову</string>
+    <string name="help_translate">Допоможіть нам з перекладом на вашу рідну мову використовуючи наш сайт. Бажаєте продоажити?</string>
 
     <string name="write_ext_storage_problem_description">Заблоковано запис на вибрану карту пам\'яті.</string>
     <string name="allow_to_write_to_sd_card">Дозволити записувати на зйомну карту пам\'яті</string>
@@ -178,4 +182,18 @@
     <string name="check_again">Перевірити знову</string>
 
 
+    <string name="add_translation">Додати переклад</string>
+
+    <string name="add">Додати</string>
+    <string name="save">Зберегти</string>
+    <string name="close">Закрити</string>
+    <string name="search">Пошук</string>
+    <string name="name">Ім\'я</string>
+    <string name="number">Номер</string>
+    <string name="path">Шлях</string>
+    <string name="size">Розмір</string>
+    <string name="thank_you_for_upgrading_to_premium">Дякую вам, за оновлення до преміум версії!</string>
+    <string name="proceed">Продовжити</string>
+    <string name="restore_license">Відновити ліцензію</string>
+    <string name="restore_for_purchased_users">Ви повинні установити Про версію, з Gooogle Play Market, яку ви придбали раніше. Вона буде використовуватись як ліцензія для активації перміум фукнцій.</string>
     </resources>
