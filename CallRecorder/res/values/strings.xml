@@ -43,7 +43,7 @@
 	<string name="start_recording">Call Recorder is working!</string>    
     <string name="start_recording_details">All your further calls will be saved.</string>    
     <string name="stop_recording">Turn ON recording!</string>    
-    <string name="stop_recording_details">Currently recorder is turned off.</string>
+    <string name="stop_recording_details">Recorder is currently turned off.</string>
 
     <string name="new_call">New call has been recorded!</string>    
     <string name="info">Information</string>       
@@ -61,7 +61,7 @@
     <string name="select_all">Select all</string>
     <string name="recordings">Recordings</string>
     <string name="help">Help</string>
-    <string name="hint_tap_on_contact_photo">Tap on a contact photo to select an item.</string>
+    <string name="hint_tap_on_contact_photo">Tap on a contact image to select the item.</string>
     <string name="importing_recordings">Importing recordings&#8230;</string>
 
     <string name="buy">Buy</string>
@@ -112,7 +112,7 @@
     <string name="login">Log In</string>
     <string name="logout">Log Out</string>
     <string name="sync_title">Synchronize now</string>
-    <string name="sync_summary">Synchronize all records now</string>
+    <string name="sync_summary">Synchronize all recordings now</string>
     <string name="wifi_only">WiFi only</string>
     <string name="wifi_only_when_sync">Synchronize only when connected to WiFi</string>
 
@@ -129,7 +129,7 @@
 
     <string name="write_ext_storage_problem_description">Unable to write to external storage.</string>
     <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
-    <string name="delete_recordings_older_then_selected_days">All recordings older then selected days period will be deleting automatically</string>
+    <string name="delete_recordings_older_then_selected_days">All recordings older than the selected number of days will be deleted automatically</string>
     <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
     <string name="number_of_days">Number of days</string>
 
