@@ -129,7 +129,7 @@
     <string name="about">О программе</string>
     <string name="translations">Перевод</string>
     <string name="translate">Переводить</string>
-    <string name="help_translate">Помогите нам с переводом на ваш родной язык</string>
+    <string name="help_translate">Помогите нам с переводом приложения на ваш родной язык, используя наш веб-сайт. Хотите попробовать?</string>
 
     <string name="write_ext_storage_problem_description">Невозможно записать на внешний накопитель.</string>
     <string name="allow_to_write_to_sd_card">Разрешить запись на съемную SD карту</string>
@@ -234,4 +234,5 @@ Pro версия приложения Call Recorder обеспечивает:
     <string name="proceed">Продолжить</string>
     <string name="restore_license">Возобновить лицензию</string>
     <string name="restore_for_purchased_users">Вы должны установить Про версию, с Google Play, купленную ранее. Она будет использована как лицензия для активации премиум функций.</string>
+    <string name="thank_you_for_upgrading_to_premium">Благодарим вас за обновление до премиум!</string>
     </resources>
