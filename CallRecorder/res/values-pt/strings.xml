@@ -62,7 +62,7 @@
     <string name="login">Logar</string>
     <string name="logout">Sair</string>
     <string name="sync_title">Sincronização</string>
-    <string name="sync_summary">Sicronizar todos registros agora</string>
+    <string name="sync_summary">Sincronizar todos registros agora</string>
 
 <string name="lock">Bloqueio</string>
     <string name="share">Partilhar</string>
@@ -112,7 +112,14 @@ Sem publicidade</string>
     <string name="wrong_passcode">Palavra passe errada. Por favor, tente de novo!</string>
     <string name="exit">Terminar</string>
 
-    <string name="cloud">Sincronisação</string>
+    <string name="cloud">Cloud</string>
 
     <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Ligar à conta do Google Drive</string>
+    <string name="google_drive_unlink">Desligar da conta do Google Drive</string>
+    <string name="connecting_to_google_drive">Conectando ao Google Drive</string>
+
+    <string name="wifi_only">Somente WiFi</string>
+    <string name="wifi_only_when_sync">Sincronizar apenas quando conectado ao WiFi</string>
+
     </resources>
