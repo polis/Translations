@@ -11,12 +11,9 @@
     <string name="saveRecordQuestion_checkbox_summary">Ask after each recorded call</string>
     <string name="storage">Storage</string>
     <string name="deleteRecord_title">Automatic cleaning</string>
-    <string name="deleteRecord_summary">Delete recordings</string>
     <string name="recording">Recording</string>
     <string name="audioSource_title">Audio source</string>
-    <string name="audioChannel_title">Audio channel</string>
     <string name="fileFormat_title">File format</string>
-    <string name="fileFormat_summary">Select file format</string>
     <string name="recordingQuality_title">Recording quality</string>
     <string name="email_subject">Recorded calls</string>
 	<string name="buy_category_description">Pro version</string>
