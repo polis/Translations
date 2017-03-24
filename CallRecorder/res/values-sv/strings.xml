@@ -14,7 +14,6 @@
     <string name="recording">Inställningar för inspelning</string>
     <string name="audioSource_title">Ljudkälla</string>
     <string name="fileFormat_title">Filformat</string>
-    <string name="fileFormat_summary">Välj filformat</string>
     <string name="recordingQuality_title">Inspelningskvalitet</string>
     <string name="email_subject">Inspelade samtal</string>
 	<string name="buy_category_description">Betal version</string>
