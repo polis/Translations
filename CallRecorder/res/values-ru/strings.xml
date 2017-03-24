@@ -47,8 +47,8 @@
 
     <string name="new_call">Новый разговор был записан!</string>        
     <string name="info">Информация</string>
-    <string name="faq_title">Часто задаваемые вопросы (FAQ)</string>       
-    <string name="faq_summary">Перейти к FAQ странице Clever Mobile</string>       
+    <string name="faq_title">Часто задаваемые вопросы</string>       
+    <string name="faq_summary">Посмотреть вопросы и ответы на сайте</string>       
     <string name="other_app_title">Все программы от Clever Mobile</string>       
     <string name="other_app_summary">В Google Play</string>
 
@@ -129,7 +129,7 @@
     <string name="about">О программе</string>
     <string name="translations">Перевод</string>
     <string name="translate">Переводить</string>
-    <string name="help_translate">Помогите нам с переводом приложения на ваш родной язык, используя наш веб-сайт. Хотите попробовать?</string>
+    <string name="help_translate">Помогите нам с переводом приложения на ваш родной язык, используя наш сайт. Хотите продолжить?</string>
 
     <string name="write_ext_storage_problem_description">Невозможно записать на внешний накопитель.</string>
     <string name="allow_to_write_to_sd_card">Разрешить запись на съемную SD карту</string>
@@ -233,6 +233,12 @@ Pro версия приложения Call Recorder обеспечивает:
     <string name="size">Размер</string>
     <string name="proceed">Продолжить</string>
     <string name="restore_license">Возобновить лицензию</string>
-    <string name="restore_for_purchased_users">Вы должны установить Про версию, с Google Play, купленную ранее. Она будет использована как лицензия для активации премиум функций.</string>
+    <string name="restore_for_purchased_users">Вы должны установить последнюю версию Про, с Google Play, купленную ранее. Она будет использована как лицензия для активации премиум функций.</string>
     <string name="thank_you_for_upgrading_to_premium">Благодарим вас за обновление до премиум!</string>
+    <string name="permissions">Права</string>
+    <string name="in_order_to_work_please_grand_permission">Чтобы приложение работало корректно, пожалуйста, дайте следующие права.</string>
+    <string name="read_more">Читать больше</string>
+    <string name="do_not_show_again">Не показывать больше</string>
+
+
     </resources>
