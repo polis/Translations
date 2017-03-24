@@ -3,27 +3,21 @@
     <string name="app_name">Запис дзвінків</string>
     <string name="sd">Будь-ласка, вставте SD карту в телефон!</string>
     <string name="contact">Контакти</string>
-    <string name="call_time">Час дзвінка</string>
-    <string name="selected">відмічено</string>    
+    <string name="selected">відмічено</string>
     <string name="settings">Налаштування</string>
 	<string name="notifications">Сповіщення</string>
     <string name="notificationStatus_checkbox_title">Увімкнути сповіщення</string>
     <string name="notificationStatus_checkbox_summary">Сповіщати про запис розмови</string>
-    <string name="saveRecordQuestion_checkbox_title">Зберегти запис?</string>
     <string name="saveRecordQuestion_checkbox_summary">Запитувати після кожного дзвінка</string>
     <string name="storage">Пам’ять</string>
     <string name="deleteRecord_title">Автоматична очистка</string>
     <string name="deleteRecord_summary">Видалитяти записи</string>
     <string name="recording">Налаштування запису</string>
     <string name="audioSource_title">Ресурс запису</string>
-    <string name="audioSource_summary">Виберіть ресурс для запису розмови</string>
     <string name="audioChannel_title">Аудіо канал</string>
-    <string name="audioChannel_summary">Налаштуйте параметер аудіо каналу</string>
     <string name="fileFormat_title">Формат файлу</string>
-    <string name="fileFormat_summary">Вибір формату файлу</string>    
     <string name="recordingQuality_title">Якість запису</string>
-    <string name="recordingQuality_summary">Виберіть якість запису</string>    
-    <string name="email_subject">Записані розмови</string>   
+    <string name="email_subject">Записані розмови</string>
     <string name="buy_category_description">Повна версія</string>	   
 	<string name="buy_category_title">Купити Запис розмов повну версію</string>	
 	<string name="buy_summary">Без реклами та з додатковими можливостями</string>	
@@ -66,16 +60,11 @@
     <string name="buy">Купити</string>
     <string name="cancel">Відміна</string>
     <string name="pro_description">Преміум версія містить:
- 
- - Поділитись записами
- 
- - Синхронізація з Dropbox
- 
- - Синхронізація з Google Drive
- 
- - Додаткові сповіщення
- 
- - Без реклами</string>
+        \n - Поділитись записами
+        \n - Синхронізація з Dropbox
+        \n - Синхронізація з Google Drive
+        \n - Додаткові сповіщення
+        \n - Без реклами</string>
 
     <string name="sd_card">SD карта</string>
     <string name="call_recorder_folder">Папка \"CallRecorder\"</string>

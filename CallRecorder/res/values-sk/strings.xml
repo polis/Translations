@@ -3,27 +3,21 @@
     <string name="app_name">Nahrávač hovorov</string>
     <string name="sd">Vložte prosím SD kartu do telefónu!</string>
     <string name="contact">Kontakty</string>
-    <string name="call_time">Čas hovoru</string>
     <string name="selected">Vybrané</string>
     <string name="settings">Nastavenia</string>
     <string name="notifications">Upozornenia</string>
     <string name="notificationStatus_checkbox_title">Zapnúť upozornenia</string>
     <string name="notificationStatus_checkbox_summary">Zobraziť v paneli oznámení po skončení hovoru</string>
-    <string name="saveRecordQuestion_checkbox_title">Potvrdzovací dialóg</string>
     <string name="saveRecordQuestion_checkbox_summary">Zobraziť dialóg po skončení hovoru</string>
     <string name="storage">Úložisko</string>
     <string name="deleteRecord_title">Automatické čistenie</string>
     <string name="deleteRecord_summary">Vymazať nahrávky</string>
     <string name="recording">Nastavenie nahrávania</string>
     <string name="audioSource_title">Zdroj zvuku</string>
-    <string name="audioSource_summary">Nahrávať z telefónnej linky alebo mikrofónu</string>
     <string name="audioChannel_title">Audio kanál</string>
-    <string name="audioChannel_summary">Zmeniť informácie audio kanála</string>
     <string name="fileFormat_title">Formát súboru</string>
-    <string name="fileFormat_summary">Zvoliť formát súboru</string>    
     <string name="recordingQuality_title">Kvalita nahrávania</string>
-    <string name="recordingQuality_summary">Zvoľte kvalitu nahrávania</string>    
-    <string name="email_subject">Nahrané hovory</string>    
+    <string name="email_subject">Nahrané hovory</string>
 	<string name="buy_category_description">Verzia Pro</string>	
 	<string name="buy_category_title">Kúpiť verziu Call Redorder Pro</string>	
 	<string name="buy_summary">S doplnkovými funkciami a bez reklám</string>	
@@ -76,16 +70,11 @@
     <string name="buy">Kúp</string>
     <string name="cancel">Zrušiť</string>
     <string name="pro_description">Pro verzia obsahuje:
-
- - zdieľanie nahrávok
-
- - synchronizácia Dropbox
-
- - synchronizácia Google Drive
-
- - pokročilé upozornenia
-
- - už žiadne reklamy</string>
+        \n - zdieľanie nahrávok
+        \n - synchronizácia Dropbox
+        \n - synchronizácia Google Drive
+        \n - pokročilé upozornenia
+        \n - už žiadne reklamy</string>
 
     <string name="sd_card">Karta SD</string>
     <string name="call_recorder_folder">Adresár „CallRecorder“</string>

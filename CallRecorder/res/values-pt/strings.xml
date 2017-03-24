@@ -3,26 +3,20 @@
     <string name="app_name">Gravador de chamadas</string>
     <string name="sd">Por favor, insira um cartão SD no telefone!</string>
     <string name="contact">Contatos</string>
-    <string name="call_time">Tempo de chamada</string>
     <string name="selected">selecionado</string>
     <string name="settings">Configurações</string>
     <string name="notifications">Notificações</string>
     <string name="notificationStatus_checkbox_title">Ativar as notificações</string>
     <string name="notificationStatus_checkbox_summary">Mostrar notificação depois de gravar</string>
-    <string name="saveRecordQuestion_checkbox_title">Guardar esta chamada?</string>
     <string name="saveRecordQuestion_checkbox_summary">Mostrar diálogo depois da ligação</string>
     <string name="storage">Armazenamento</string>
     <string name="deleteRecord_title">Limpeza automática</string>
     <string name="deleteRecord_summary">Apagar todas gravações</string>
     <string name="recording">Configurações de gravação</string>
     <string name="audioSource_title">Fonte de Áudio</string>
-    <string name="audioSource_summary">Gravar a partir da linha de telefone ou microfone</string>
     <string name="audioChannel_title">Canais de áudio</string>
-    <string name="audioChannel_summary">Alterar as informações do canal de áudio</string>
     <string name="fileFormat_title">Formato de arquivo</string>
-    <string name="fileFormat_summary">Selecionar o formato de arquivo</string>
     <string name="recordingQuality_title">Qualidade de gravação</string>
-    <string name="recordingQuality_summary">Selecionar a qualidade de gravação</string>
     <string name="email_subject">Chamadas gravadas</string>
     <string name="buy_category_description">Versão Pro</string>
     <string name="buy_category_title">Comprar o Gravador de Chamadas Pro</string>
@@ -76,16 +70,11 @@
     <string name="buy">Comprar</string>
     <string name="cancel">Cancelar</string>
     <string name="pro_description">Versão Pro contém:
-
-Partilha de gravações 
-
-Sincronização Dropbox 
-
-Sincronização Google Drive
-
-Notificações avançadas 
-
-Sem publicidade</string>
+        \n - Partilha de gravações
+        \n - Sincronização Dropbox
+        \n - Sincronização Google Drive
+        \n - Notificações avançadas
+        \n - Sem publicidade</string>
 
     <string name="sd_card">Cartão SD</string>
     <string name="call_recorder_folder">Pasta \"Gravador de camadas\"</string>

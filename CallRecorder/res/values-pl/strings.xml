@@ -3,26 +3,20 @@
     <string name="app_name">Nagranie Rozmów</string>
     <string name="sd">Proszę włożyć kartę SD do telefonu!</string>
     <string name="contact">Kontakty</string>
-    <string name="call_time">Czas połączenia</string>
     <string name="selected">Wybrane</string>
     <string name="settings">Ustawienia</string>
     <string name="notifications">Powiadomienia</string>
     <string name="notificationStatus_checkbox_title">Włącz powiadomienia</string>
     <string name="notificationStatus_checkbox_summary">Wyświetlaj wyskakujące powiadomienia</string>
-    <string name="saveRecordQuestion_checkbox_title">Zapisać rozmowę?</string>
     <string name="saveRecordQuestion_checkbox_summary">Pokaż okno po wywołaniu</string>
     <string name="storage">Karta SD</string>
     <string name="deleteRecord_title">Automatyczne usuwanie</string>
     <string name="deleteRecord_summary">Skasuj nagrania</string>
     <string name="recording">Ustawienia nagrywania</string>
     <string name="audioSource_title">Źródło dzwięku</string>
-    <string name="audioSource_summary">Nagrywaj używając linii telefonicznej lub mikrofonu</string>
     <string name="audioChannel_title">Kanał audio</string>
-    <string name="audioChannel_summary">Wybierz kanał audio</string>
     <string name="fileFormat_title">Format pliku</string>
-    <string name="fileFormat_summary">Wybierz format pliku</string>
     <string name="recordingQuality_title">Jakość nagrywania</string>
-    <string name="recordingQuality_summary">Wybierz jakość nagrywania</string>
     <string name="email_subject">Nagrane rozmowy</string>
     <string name="buy_category_description">Wersija Pro</string>
     <string name="buy_category_title">Kup Call Recorder Pro version</string>
@@ -68,16 +62,11 @@
     <string name="buy">Kup</string>
     <string name="cancel">Anuluj</string>
     <string name="pro_description">Wersja Pro:
- 
- - Udostępnianie nagrań
- 
- - Synchronizacja z Dropbox
- 
- - Synchronizacja z Google Drive
- 
- - Zaawansowane powiadomienia
- 
- - Brak reklam</string>
+        \n - Udostępnianie nagrań
+        \n - Synchronizacja z Dropbox
+        \n - Synchronizacja z Google Drive
+        \n - Zaawansowane powiadomienia
+        \n - Brak reklam</string>
 
     <string name="sd_card">Karta SD</string>
     <string name="call_recorder_folder">Folder \"CallRecorder\"</string>

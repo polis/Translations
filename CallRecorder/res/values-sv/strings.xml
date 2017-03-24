@@ -2,24 +2,20 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="sd">Sätt i ett minneskort i mobilen tack!</string>
     <string name="contact">Kontakter</string>
-    <string name="call_time">"Samtalstid "</string>
     <string name="selected">utvalda</string>
     <string name="settings">Inställningar</string>
     <string name="notifications">"Meddelande "</string>
     <string name="notificationStatus_checkbox_title">"Aktivera notiser "</string>
     <string name="notificationStatus_checkbox_summary">Visa notis i meddelande-fältet</string>
-    <string name="saveRecordQuestion_checkbox_title">Spara detta samtal?</string>
     <string name="saveRecordQuestion_checkbox_summary">Fråga efter varje inspelat samtal</string>
     <string name="storage">Lagring</string>
     <string name="deleteRecord_title">Automatisk rensning</string>
     <string name="deleteRecord_summary">Ta bort inspelningar</string>
     <string name="recording">Inställningar för inspelning</string>
     <string name="audioSource_title">Ljudkälla</string>
-    <string name="audioSource_summary">Välj ljudkälla</string>
     <string name="fileFormat_title">Filformat</string>
     <string name="fileFormat_summary">Välj filformat</string>
     <string name="recordingQuality_title">Inspelningskvalitet</string>
-    <string name="recordingQuality_summary">Välj inspelningskvalitet</string>    
     <string name="email_subject">Inspelade samtal</string>
 	<string name="buy_category_description">Betal version</string>
 	<string name="buy_category_title">Köp betalversion</string>
@@ -129,9 +125,8 @@ Inga annonser</string>
 
     <string name="no_player_app_found">Det finns ingen musikspelare för att spela detta</string>
 
-<string name="app_name">Samtalsinspelning</string>
+    <string name="app_name">Samtalsinspelning</string>
     <string name="audioChannel_title">"Lagringskanal "</string>
-    <string name="audioChannel_summary">"Välj lagringskanal "</string>
     <string name="enable_passcode">"Koppla på lösenord "</string>
     <string name="passcode_delete_recordings_description">Ta bort inspelningar på denna mobil efter 10 misslyckade lösenordsförsök</string>
     <string name="recording_method">Inspelningsmetod</string>

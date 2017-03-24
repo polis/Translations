@@ -3,26 +3,20 @@
     <string name="app_name">מקליט שיחות</string>
     <string name="sd">אנא, הכנס כרטיס זיכרון חיצוני למכשירך!</string>
     <string name="contact">אנשי קשר</string>
-    <string name="call_time">זמן שיחה</string>
     <string name="selected">נבחרו</string>
     <string name="settings">הגדרות</string>
     <string name="notifications">התראות</string>
     <string name="notificationStatus_checkbox_title">אפשר התראות</string>
     <string name="notificationStatus_checkbox_summary">הצג הודעות חמות</string>
-    <string name="saveRecordQuestion_checkbox_title">הודעת אישור</string>
     <string name="saveRecordQuestion_checkbox_summary">הצג הודעת אישור לאחר השיחה</string>
     <string name="storage">אחסון</string>
     <string name="deleteRecord_title">חיוג אוטומטי</string>
     <string name="deleteRecord_summary">מחק את כל ההקלטות</string>
     <string name="recording">הגדרת הקלטות</string>
     <string name="audioSource_title">מקור שמע</string>
-    <string name="audioSource_summary">הקלט מן הטלפון או מיקרופון</string>
     <string name="audioChannel_title">ערוץ שמע</string>
-    <string name="audioChannel_summary">שנה את מידע ערוץ השמע</string>
     <string name="fileFormat_title">סוג קובץ</string>
-    <string name="fileFormat_summary">בחר סוג קובץ</string>
     <string name="recordingQuality_title">איכות הקלטה</string>
-    <string name="recordingQuality_summary">נסה כל אחד מאלו ע"מ להחליט מי מהם יותר טוב בשביל הטלפון שלך</string>
     <string name="email_subject">שיחות שהוקלטו</string>
     <string name="buy_category_description">גירסה מתקדמת</string>
     <string name="buy_category_title">קנה את מקליט השיחות, בגרסא המתקדמת</string>
@@ -70,10 +64,9 @@
     <string name="sync_summary">סנכרון את כל ההקלטות כעת</string>
     <string name="buy">קנה</string>
     <string name="pro_description">גרסת הpro כוללת:
+        -שתף הקלטות…
 
--שתף הקלטות…
-
--סנכרון עם Dropbox 
+-סנכרון עם Dropbox
 
 סנכרון עם Google Drive
 

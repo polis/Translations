@@ -4,22 +4,18 @@
     <string name="app_name">Զանգերի Ձայնագրում</string>
     <string name="sd">Խնդրում ենք տեղադրեք SD քարտ հեռախոսի մեջ!</string>
     <string name="contact">Կոնտակտներ</string>
-    <string name="call_time">Զանգի ժամանակ</string>
     <string name="selected">Ընտրված է</string>
     <string name="settings">Կարգավորումներ</string>
     <string name="notifications">Ծանուցումներ</string>
     <string name="notificationStatus_checkbox_title">Միացնել ծանուցումները</string>
     <string name="notificationStatus_checkbox_summary">Ցույց տալ ծանուցումների մեջ ամեն զանգից հետո</string>
-    <string name="saveRecordQuestion_checkbox_title">Պահպանե՞լ ձայնագրությունը</string>
     <string name="saveRecordQuestion_checkbox_summary">Հարցնել ամեն զանգից հետո</string>
     <string name="storage">Պահեստ</string>
     <string name="deleteRecord_title">Ավտոմատ մաքրում</string>
     <string name="deleteRecord_summary">Ջնջել ձայնագրություննեը</string>
     <string name="recording">Ձայնագրման կարգավորումներ</string>
     <string name="audioSource_title">Ձայնի աղբյուր</string>
-    <string name="audioSource_summary">Ընտրեք ձայնի աղբյուրը</string>
     <string name="recordingQuality_title">Ձայնագրության որակ</string>
-    <string name="recordingQuality_summary">Ընտրեք ձայնագրության որակը</string>    
     <string name="email_subject">Ձայնագրված զանգեր</string>
 	<string name="buy_category_description">Ամբողջական տարբերակ</string>
 	<string name="buy_category_title">Գնել Զանգերի Ձայնագրում ծրագրի ամբողջական տարբերակը</string>
@@ -96,24 +92,17 @@
     <string name="disabled">Անջատված</string>
     <string name="new_recordings">Նոր ձայնագրություններ</string>
     <string name="audioChannel_title">Ձայնի աղբյուր</string>
-    <string name="audioChannel_summary">Ընտրեք ձայնի աղբյուրը</string>
     <string name="fileFormat_title">Ֆայլի ֆորմատ</string>
-    <string name="fileFormat_summary">Ընտրեք ֆայլի ֆորմատը</string>
     <string name="sd_card">SD քարտ</string>
     <string name="call_recorder_folder">Թղթապանակ \"CallRecorder\"</string>
     <string name="sd_card_memory_occupied">Օգտագործված հիշողություն</string>
     <string name="sd_card_free_memory">Ազատ հիշողություն</string>
     <string name="pro_description">Ամբողջական տարբերակը պարունակում է
- 
- - Կիսվել ձայնագրություններով
- 
- - Dropbox համաժամեցում
- 
- - Google Drive համաժամեցում
- 
- - Լրացուցիչ ծանուցումներ
- 
- - Առանց գովազդների</string>
+        \n - Կիսվել ձայնագրություններով
+        \n - Dropbox համաժամեցում
+        \n - Google Drive համաժամեցում
+        \n - Լրացուցիչ ծանուցումներ
+        \n - Առանց գովազդների</string>
 
     <string name="google_drive_link">Կցել Google Drive պրոֆիլ</string>
     <string name="google_drive_unlink">Հեռացնել Google Drive պրոֆիլը</string>

@@ -3,27 +3,21 @@
     <string name="app_name">電話錄音機</string>
     <string name="sd">請在電話中插入存儲卡</string>
     <string name="contact">連絡人</string>
-    <string name="call_time">通话时间</string>
     <string name="selected">已选中</string>
     <string name="settings">设置</string>
     <string name="notifications">提醒</string>
     <string name="notificationStatus_checkbox_title">打開提醒</string>
     <string name="notificationStatus_checkbox_summary">完成錄音後顯示提醒</string>
-    <string name="saveRecordQuestion_checkbox_title">確認對話方塊</string>
     <string name="saveRecordQuestion_checkbox_summary">通話後顯示確認對話方塊</string>
     <string name="storage">存儲</string>
     <string name="deleteRecord_title">自動清理</string>
     <string name="deleteRecord_summary">刪除所有錄音</string>
     <string name="recording">錄音設置</string>
     <string name="audioSource_title">音訊源</string>
-    <string name="audioSource_summary">從電話線路或者麥克風錄音</string>
     <string name="audioChannel_title">音訊通道</string>
-    <string name="audioChannel_summary">修改音訊通道資訊</string>
     <string name="fileFormat_title">檔案格式</string>
-    <string name="fileFormat_summary">選擇檔案格式</string>    
     <string name="recordingQuality_title">錄音品質</string>
-    <string name="recordingQuality_summary">選擇錄音品質</string>    
-    <string name="email_subject">通話錄音</string>    
+    <string name="email_subject">通話錄音</string>
 	<string name="buy_category_description">高級版</string>	
 	<string name="buy_category_title">購買電話錄音機高級版</string>	
 	<string name="buy_summary">去除廣告，附加額外的特性。</string>	
@@ -60,7 +54,7 @@
     <string name="sync_title">同步</string>
     <string name="sync_summary">現在同步所有錄音</string>
 
-<string name="lock">锁定</string>
+    <string name="lock">锁定</string>
     <string name="share">分享</string>
     <string name="delete">刪除</string>
     <string name="select_all">全選</string>

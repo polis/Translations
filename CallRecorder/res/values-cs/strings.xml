@@ -3,27 +3,21 @@
     <string name="app_name">Záznam Hovoru</string>
     <string name="sd">Prosím, vložte kartu SD do telefonu!</string>
     <string name="contact">Kontakty</string>
-    <string name="call_time">Doba trvání hovoru</string>
     <string name="selected">vybrané</string>
     <string name="settings">Nastavení</string>
     <string name="notifications">Upozornění</string>
     <string name="notificationStatus_checkbox_title">Uprav upozornění</string>
     <string name="notificationStatus_checkbox_summary">Ukaž upozornění po nahrávání</string>
-    <string name="saveRecordQuestion_checkbox_title">Potvrzujcí dialog</string>
     <string name="saveRecordQuestion_checkbox_summary">Ukaž dialog po hovoru</string>
     <string name="storage">Úložiště</string>
     <string name="deleteRecord_title">Automatické čištění</string>
     <string name="deleteRecord_summary">Smaž všechny záznamy</string>
     <string name="recording">Nastavení nahrávání</string>
     <string name="audioSource_title">Zdroj zvuku</string>
-    <string name="audioSource_summary">Nahrávej z telefoní linky nebo mikrofonu</string>
     <string name="audioChannel_title">Audio kanál</string>
-    <string name="audioChannel_summary">Změňit informace o audio kanálu</string>
     <string name="fileFormat_title">Formát souborů</string>
-    <string name="fileFormat_summary">Vyber formát souborů</string>    
     <string name="recordingQuality_title">Kvalita nahrávání</string>
-    <string name="recordingQuality_summary">Zkuste všechny z těchto možností a vyberte lepší možnost pro váš telefon</string>    
-    <string name="email_subject">Nahrané hovory</string>    
+    <string name="email_subject">Nahrané hovory</string>
 	<string name="buy_category_description">Pro verze</string>	
 	<string name="buy_category_title">Kup Záznam Hovorů Pro verzi</string>	
 	<string name="buy_summary">Neobsahuje reklamy a má funkce navíc</string>
@@ -77,5 +71,4 @@
     <string name="sd_card_free_memory">Volná paměť</string>
     <string name="import_recordings">"Import nahrávek "</string>
     <string name="hint_tap_on_contact_photo">Stiskněte obrázek kontaktu pro výběr položky.</string>
-    <string name="call_recorder_folder">Složka \"CallRecorder\"</string>
     </resources>

@@ -3,27 +3,21 @@
     <string name="app_name">Запись звонков</string>
     <string name="sd">Пожалуйста, вставьте SD карту в телефон!</string>
     <string name="contact">Контакты</string>
-    <string name="call_time">Время звонка</string>
-    <string name="selected">выбрано</string>    
+    <string name="selected">выбрано</string>
     <string name="settings">Настройки</string>    
     <string name="notifications">Уведомления</string>
     <string name="notificationStatus_checkbox_title">Включить уведомления</string>
     <string name="notificationStatus_checkbox_summary">Показывать уведомление после записи разговора</string>
-    <string name="saveRecordQuestion_checkbox_title">Сохранить запись?</string>
     <string name="saveRecordQuestion_checkbox_summary">Спрашивать после каждого звонка</string>
     <string name="storage">Память</string>
     <string name="deleteRecord_title">Автоматическая очистка</string>
     <string name="deleteRecord_summary">Удаление записей</string>
     <string name="recording">Настройки записи</string>
     <string name="audioSource_title">Источник записи</string>
-    <string name="audioSource_summary">Выберите источник записи</string>
     <string name="audioChannel_title">Аудио канал</string>
-    <string name="audioChannel_summary">Выберите аудио канал</string>
     <string name="fileFormat_title">Формат файла</string>
-    <string name="fileFormat_summary">Выберите формат файла</string>    
     <string name="recordingQuality_title">Качество записи</string>
-    <string name="recordingQuality_summary">Выберите качество записи</string>    
-    <string name="email_subject">Записанные разговоры</string>      
+    <string name="email_subject">Записанные разговоры</string>
 	<string name="buy_category_description">Полная версия</string>	
 	<string name="buy_category_title">Купить полную версию Call Recorder</string>	
 	<string name="buy_summary">Без рекламы и с дополнительными возможностями</string>
@@ -67,16 +61,11 @@
     <string name="buy">Купить</string>
     <string name="cancel">Отмена</string>
     <string name="pro_description">Премиум версия содержит функции:
- 
- - Пересылка записей
- 
- - Синхронизация с Dropbox
- 
- - Синхронизация с Google Drive
- 
- - Расширенные уведомления
- 
- - Без рекламы</string>
+        \n - Пересылка записей
+        \n - Синхронизация с Dropbox
+        \n - Синхронизация с Google Drive
+        \n - Расширенные уведомления
+        \n - Без рекламы</string>
 
     <string name="sd_card">SD карта</string>
     <string name="call_recorder_folder">Папка \"CallRecorder\"</string>
