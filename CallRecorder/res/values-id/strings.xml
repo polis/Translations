@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Call Recorder</string>
     <string name="sd">Silahkan masukkan SD card ke dalam ponsel!</string>
@@ -50,4 +50,13 @@
     <string name="dropbox_link">Sambungkan dengan akun Dropbox</string>
     <string name="dropbox_unlink">Putuskan sambungan dengan akun Dropbox</string>
         
-</resources>
+<string name="undo">Kembali</string>
+    <string name="deleted">Hapus</string>
+
+    <string name="lock">Kunci</string>
+    <string name="share">Bagikan</string>
+    <string name="delete">Hapus</string>
+    <string name="select_all">Pilih semua</string>
+    <string name="recordings">Rekaman</string>
+    <string name="help">Bantuan</string>
+    </resources>
