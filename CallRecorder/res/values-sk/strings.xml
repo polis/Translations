@@ -49,7 +49,7 @@
     <string name="undo">vrátiť</string>
     <string name="deleted">vymazaný</string>
 
-    <string name="dropbox">Dropbox</string>
+    <string name="dropbox">Dropbox úložisko</string>
     <string name="dropbox_link">Prepojiť Dropbox účet</string>
     <string name="dropbox_unlink">Odpojiť Dropbox účet</string>
 
@@ -101,7 +101,7 @@
     <string name="wrong_passcode">Nesprávne heslo. Skúste znova, prosím!</string>
     <string name="exit">Ukončiť</string>
 
-    <string name="cloud">Cloud</string>
+    <string name="cloud">Cloud úložisko</string>
 
     <string name="google_drive">Disk Google</string>
     <string name="google_drive_link">Pripojiť účet Disku Google</string>
@@ -203,7 +203,7 @@ ALEBO NENAHRÁVA PROTISTRANU ČISTO:
 2. Niektoré telefóny  nepodporujú priame nahrávanie telefónneho hovoru alebo cez bluetooth. Tento problém je spôsobený zvukovým ovládačom od výrobcu telefónu. Zoznam podporovaných zariadení a ich konfigurácie možno nájsť tu: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
 Please, not give bad marks for that. Thank you!
 
-Ak máte nejaké návrhy alebo pripomienky, neváhajte sa na nás obrátiť a prosím navštívte naše stránky http://clevermobile.net"</string>
+Ak máte nejaké návrhy alebo pripomienky, neváhajte sa na nás obrátiť a prosím navštívte naše stránky http://clevermobile.net."</string>
 
     <string name="app_description_pro">Call Recorder Pro (od verzie 6.6) nebude ďalej aktualizovaný o nové funkcie, bude slúžiť ako licenčný kľúč pre aktiváciu prémiových funkcií štandardnej free verzie.
 
