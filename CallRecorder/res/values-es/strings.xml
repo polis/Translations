@@ -55,22 +55,22 @@
     <string name="select_all">Seleccionar todo</string>
     <string name="recordings">Grabaciones</string>
     <string name="help">Ayuda</string>
-    <string name="hint_tap_on_contact_photo">Pulse sobre una foto de contacto para seleccionar un elemento.</string>
+    <string name="hint_tap_on_contact_photo">Pulse sobre la imagen del contacto para seleccionar el elemento.</string>
     <string name="importing_recordings">Importando grabaciones…</string>
 
     <string name="buy">Comprar</string>
     <string name="cancel">Cancelar</string>
     <string name="pro_description">La versión Pro contiene:
  
- - Compartir grabaciones
+- Compartir grabaciones
  
- - Sincronización de Dropbox
+- Sincronización de Dropbox
  
- - Sincronización de Google Drive
+- Sincronización de Google Drive
  
- - Notificaciones avanzadas
+- Notificaciones avanzadas
  
- - No más anuncios</string>
+- No más anuncios</string>
 
     <string name="sd_card">Tarjeta SD</string>
     <string name="call_recorder_folder">Carpeta \"CallRecorder\"</string>
@@ -123,13 +123,12 @@
     <string name="about">Acerca de</string>
     <string name="translations">Traducciones</string>
     <string name="translate">Traduzca</string>
-    <string name="help_translate">Ayúdenos con la traducción a su idioma.
-¿Te gustaría proceder?</string>
+    <string name="help_translate">Ayúdenos con la traducción a su idioma utilizando nuestro sitio web.¿Te gustaría proceder?</string>
 
     <string name="write_ext_storage_problem_description">No se puede guardar en almacenamiento externo.</string>
 
 <string name="allow_to_write_to_sd_card">Permitir escribir en la tarjeta SD extraíble</string>
-    <string name="delete_recordings_older_then_selected_days">Todas las grabaciones anteriores al período de días seleccionado, se eliminaran de manera automática</string>
+    <string name="delete_recordings_older_then_selected_days">Todas las grabaciones anteriores al período de días seleccionado serán eliminadas de manera automática</string>
     <string name="delete_recordings_on_uninstall">Se borrarán todas las grabaciones si se desinstala la aplicación Call Recorder</string>
     <string name="number_of_days">Número de días</string>
 
@@ -141,8 +140,8 @@
     <string name="use_external_media_player_to_play_recordings">Utilizar reproductor de multimedia externo para reproducir grabaciones</string>
     <string name="play">Reproducir</string>
     <string name="pause">Pausar</string>
-    <string name="not_able_to_import_to_pro">Si esta opción está habilitada, no será posible importar de forma automática las grabaciones a la versión Pro. Por otra parte, haga una copia de seguridad de todas las grabaciones importantes si es que decide desinstalar la aplicación, ya que todas ellas serán borradas.</string>
-    <string name="not_able_to_import">"Si está habilitada esta opción y usted decide desinstalar la aplicación, usted tiene que hacer una copia de seguridad de todas las grabaciones importantes, si no es así todas se eliminarán y no será posible importar de forma automática las grabaciones después de instalar la aplicación de nuevo. "</string>
+    <string name="not_able_to_import_to_pro">Si esta opción está habilitada, no será posible importar de forma automática las grabaciones a la versión Pro. Además, haga una copia de seguridad de todas las grabaciones importantes si decide desinstalar la aplicación, ya que todas ellas serán eliminadas.</string>
+    <string name="not_able_to_import">"Si está habilitada esta opción y usted decide desinstalar la aplicación, tiene que hacer una copia de seguridad de todas las grabaciones importantes, ya que, todas se eliminarán y no será posible importar  automáticamente las grabaciones después de instalar la aplicación de nuevo. "</string>
 
     <string name="app_description_free">La aplicación Grabadora de llamadas simple tiene la capacidad de:
 - Activar/desactivar la grabación de llamadas
@@ -153,35 +152,24 @@
 - Compartir elementos grabados (sólo en versión Pro)
 - Diálogo de confirmación: ¿Le gustaría mantener llamada grabada que se muestra justo después de la llamada? (sólo en la versión Pro).
 
-SI NO funciona en su teléfono DEL TODO
+SI NO FUNCIONA EN SU TELEFONO
 O NO GRABA LA VOZ DEL LADO CONTRARIO:
 1. Trate de mezclar diferentes configuraciones de grabación, se describe aquí: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
-2. Hay una limitación para algunos teléfonos que no admiten la grabación de la línea telefónica o bluetooth. Es un problema del controlador de audio realizado por el fabricante del teléfono. Lista de dispositivos y configuraciones para ellos, está aquí: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
-Por favor, no dar malas notas por eso. ¡Gracias!
+2. Hay una limitación para algunos teléfonos que no admiten la grabación de la línea telefónica o bluetooth. Es un problema del controlador de audio realizado por el fabricante del teléfono.La lista de dispositivos y configuraciones soportadas está aquí: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Por favor, no de malas puntuaciones por eso. ¡Gracias!
 
 Si usted tiene algunas sugerencias o comentarios, por favor visite nuestro sitio http://clevermobile.net y no dude en ponerse en contacto con nosotros.</string>
 
-    <string name="app_description_pro">Esta aplicación no funciona para algunos teléfonos. Así que,
-Por favor, intente nuestra versión gratuita antes de comprar esta.
-Si la versión gratuita no funciona para su teléfono - ¡no pierda su dinero para comprar Pro!
+    <string name="app_description_pro">Call Recorder Pro (a partir de la versión 6.6) ya no será actualizado con nuevas funcionalidades, sino que funcionará como un activador de licencia para activar las funciones premium de la versión gratuita.
 
-*** APAGA LA GRABACIÓN EN LA VERSIÓN BÁSICA JUSTO DESPUÉS DE INSTALAR PRO***
+Aún funcionará como antes, pero sin nuevas características como:
 
-La versión Pro de Call Recorder sin anuncios incluye características adicionales.
+- Nueva interfaz de usuario con la posibilidad de cambiar entre temas Claros y Oscuros
+- Notas para grabaciones. Añadir, editar, eliminar notas y buscar por notas.
+- Marcar el número desde la grabación.
+- y más que se agregaran en los próximos lanzamientos.
 
-La versión Pro de la aplicación Call Recorder tiene una capacidad de:
-- Activar/Desactivar la grabación de llamadas
-- Grabar todas sus llamadas telefónicas
-- Reproducir/Detener el audio grabado pulsando el elemento
-- Eliminar elementos grabados
-- Bloqueo de artículos para evitar que se auto-limpien
-- Compartir grabaciones seleccionadas (Sólo Pro)
-- Sincronización con Dropbox y Google Drive (Sólo Pro)
-- Diálogo de confirmación después de cada llamada: ¿guardar la grabación? (Sólo Pro)
-
-Si desea tenerlo en su idioma y gusta ayudar con la traducción es bienvenido! Por favor, visita la página de traducción aquí: http://translate.clevermobile.net/projects/call-recorder/translations/
-
-Si usted tiene algunas sugerencias o comentarios, por favor visite nuestro sitio http://clevermobile.net y no dude en ponerse en contacto con nosotros.</string>
+Por lo tanto, se recomienda instalar la versión gratuita estándar y restaurar su licencia allí</string>
 
 <string name="number_of_seconds">Número de segundos</string>
     <string name="delay_for_incoming_calls">Retraso de las llamadas entrantes en segundos</string>
@@ -223,5 +211,16 @@ Si usted tiene algunas sugerencias o comentarios, por favor visite nuestro sitio
     <string name="pro_version_as_a_license">Call Recorder Pro versión no será actualizado por nuevas características más. Se utilizará para los usuarios actuales como una clave de licencia para activar la funcionalidad premium en la versión standart. Más información sobre ello en nuestro sitio web.</string>
     <string name="permissions">Permisos</string>
     <string name="add_translation">Añadir traducción</string>
+
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+    <string name="tell_a_friend">Contar a un amigo</string>
+    <string name="rate_me">Califícame</string>
+    <string name="path">Ruta</string>
+    <string name="check_again">Comprobar de nuevo</string>
+    <string name="in_order_to_work_please_grand_permission">Para que funcione correctamente, conceda los siguientes permisos para esta aplicación.</string>
+    <string name="read_more">Leer más</string>
+    <string name="do_not_show_again">No mostrar de nuevo</string>
+
 
     </resources>
