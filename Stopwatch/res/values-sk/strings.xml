@@ -1,2 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="app_name">Stopky</string>
+    <string name="settings">Nastavenia</string>
+    <string name="start_button">Štart</string>
+    <string name="pause_button">Pauza</string>
+    <string name="lap_button">Kolo</string>
+    <string name="reset_button">Resetovať</string>
+    <string name="days">Dní</string>
+    <string name="d">d</string>
+    <string name="hours">Hodiny</string>
+    <string name="lap">KOLO</string>
+	<string name="elapsed_time">UPLYNULÝ ČAS</string>	
+	<string name="lap_time">ČAS KOLA</string>	
+    <string name="screen">Obrazovka</string>
+    <string name="displayMode_checkbox_title">Udržať obrazovku zapnutú</string>
+    <string name="displayMode_checkbox_summary">Zabrániť zariadeniu zaspať</string>
+    <string name="laps">Kôl</string>
+    <string name="lapOnPause_checkbox_title">Kolo na Pauzu</string>
+    <string name="lapOnPause_checkbox_summary">Pridajte kolo stlačením tlačidla pauza</string>
+    <string name="haptics">Spätná odozva</string>
+    <string name="hapticFeedback_checkbox_title">Pri dotyku vibrovať</string>
+    <string name="hapticFeedback_checkbox_summary">Vibrovať pri stlačení tlačidla</string>
+    <string name="send">Poslať</string>
+    <string name="donate">Darovať</string>
+    <string name="email_subject">Stopky - Výsledky okruhov</string>
+	<string name="email">Email</string>
+	<string name="email_title">Zadajte váš email</string>
+	<string name="email_summary">Konfigurácia emailu pre odoslanie výsledkov</string>	
+	<string name="buy_category_description">Pro verzia</string>
+	<string name="buy_category_title">Kúpiť Stopwatch Pro verziu</string>
+	<string name="buy_summary">Bez reklám</string>
+
+    <string name="rate">Prosím, ohodnoťte aplikáciu</string>
+    <string name="rateOk">OK</string>
+    <string name="rateLater">Neskôr</string>
+
+    <string name="share">Zdieľať</string>
+
+    <string name="info">Informácie</string>
+    <string name="other_app_title">Všetky aplikácie</string>
+    <string name="other_app_summary">Od Clever Mobile</string>
+    <string name="about">O aplikácii</string>
+    <string name="translations">Preklady</string>
+    <string name="translate">Preložiť</string>
+    <string name="help_translate">Pomôžte nám s prekladom do vášho rodného jazyka</string>
+
+    <string name="app_description">"Vlastnosti aplikácie Stopwatch:
+- meranie v milisekundách;
+- merať neobmedzený počet kôl;
+- zabudovan možnosť pozastavenia;
+- kolá, Štart a Pausa sa spúšťajú dotykom;
+- aplikácia pracuje aj po reštarte;
+- zobrazuje čas medzi kolami;
+- zobrazuje hodiny a dni;
+- podpora inštalácie na SD kartu;
+- podpora všetkých rozmerov obrazoviek;
+- zdieľanie výsledkov.
+
+Nastavenia:
+ - udržanie zapnutej obrazovky;
+ - kolá na Pauzu;
+ - vibračná odozva.
+
+  Ak máte nejaké návrhy alebo pripomienky, prosím navštívte naše stránky http://clevermobile.net a neváhajte nás kontaktovať.
+ "</string>
+
+</resources>
