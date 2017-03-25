@@ -14,7 +14,7 @@
     <string name="button_Save">Uložit</string>    
     <string name="button_Cancel">Zrušit</string>       
     <string name="dialog_button_OK">Ok</string>       
-    <string name="dialog_delete_profile_title">Smazat profile</string>       
+    <string name="dialog_delete_profile_title">Smazat profil</string>       
     <string name="ringTitle">Zvonění</string>
     <string name="musicTitle">Média</string>
     <string name="voiceCallTitle">Hlasové volání</string>
