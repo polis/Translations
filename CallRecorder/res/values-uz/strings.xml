@@ -6,4 +6,118 @@
 <string name="sd">Iltimos, SD kartani telefonga joylang</string>
     <string name="selected">belgilangan</string>
     <string name="settings">Sozlamalar</string>
+    <string name="contact">Kontaktlar</string>
+    <string name="notifications">Eslatmalar</string>
+    <string name="notificationStatus_checkbox_title">Eslatmalarni yoqish</string>
+    <string name="notificationStatus_checkbox_summary">Qo`ng`iroq yozib olingandan kein eslatish</string>
+    <string name="saveRecordQuestion_checkbox_summary">Har bir yozib olingan qo`ng`iroqdan keyin so`rash</string>
+    <string name="storage">Saqlash joyi</string>
+    <string name="deleteRecord_title">Avtomatik o`chirish</string>
+    <string name="deleteRecord_summary">Yozib olingan qo`ng`iroqlarni o`chirish</string>
+    <string name="recording">Yozish</string>
+    <string name="audioSource_title">Ovoz manbai</string>
+    <string name="audioChannel_title">Ovoz kanali</string>
+    <string name="fileFormat_title">Fayl formati</string>
+    <string name="recordingQuality_title">Yozuv sifati</string>
+    <string name="email_subject">Yozib olingan qo`ng`iroqlar</string>
+	<string name="buy_category_description">Pro versiya</string>
+	<string name="buy_category_title">Qo`ng`iroq Yozib Oluvchi Pro versiyani sotib olish</string>
+	<string name="buy_summary">Reklamalarsiz va qo`shimcha funksiyali</string>
+
+	<string name="rate">Iltimos, ushbu dasturni baholang</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">Keyin</string>
+    <string name="start_notification">Qo`ng`iroq yozish boshlandi</string>    
+    <string name="stop_notification">Qo`ng`iroq yozish to`xtatildi</string>
+
+    <string name="save_the_call">Qo`ng`iroqni saqlaymi?</string>
+    <string name="yes">Xa</string>
+    <string name="no">Yo`q</string>
+
+	<string name="unknown">Noma\'lum</string>
+    <string name="hidden">Yashirin</string>
+	<string name="start_recording">Qo`ng`iroq Yozuvchi ishlamoqda!</string>
+    <string name="start_recording_details">Barcha kelgusi qo`ng`iroqlar saqlanadi.</string>
+    <string name="stop_recording">Yozishni YOQISH!</string>
+    <string name="stop_recording_details">Yozib olsih hozirda o`chirilgan.</string>
+
+    <string name="new_call">Yangi qo`ng`iroq yozib olindi!</string>    
+    <string name="info">Ma\'lumot</string>       
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Ko`pincha beriladigan savollar</string>
+    <string name="other_app_title">Barcha dasturlar</string>
+    <string name="other_app_summary">\"Clever Mobile\"dan</string>
+
+    <string name="undo">bekor qilish</string>
+    <string name="deleted">o`chirilgan</string>
+
+    <string name="lock">Qulflash</string>
+    <string name="share">Bo`lishish</string>
+    <string name="delete">O`chirish</string>
+    <string name="select_all">Hammasini belgilash</string>
+    <string name="recordings">Yozuvlar</string>
+    <string name="help">Yordam</string>
+    <string name="hint_tap_on_contact_photo">Belgilash uchun kontakt rasmini bosing</string>
+    <string name="importing_recordings">Yozuvlar tiklanmoqda…</string>
+
+    <string name="buy">Sotib olish</string>
+    <string name="cancel">Bekor</string>
+    <string name="pro_description">Premial versiya ushbularni o`z ichiga oladi:
+ 
+ - Yozuvlarni jo`natish
+ 
+ - Dropbox bilan sinxronizatsiya
+ 
+ - Google Drive bilan sinxronizatsiya
+ 
+ - Yangicha eslatmalar
+ 
+ - Reklamalarsiz</string>
+
+    <string name="sd_card">SD karta</string>
+    <string name="call_recorder_folder">Papka \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Egallangan xotira</string>
+    <string name="sd_card_free_memory">Bo`sh xotira</string>
+    <string name="total_files">Jami fayllar</string>
+    <string name="import_recordings">Yozuvlarni tiklash</string>
+    <string name="run_clean_up">Hozir tozalash</string>
+    <string name="cleaning">Eski yozuvlardan tozalanmoqda…</string>
+    <string name="share_via">Dastur orqali ulashish…</string>
+
+    <string name="passcode">Parol</string>
+    <string name="enable_passcode">Parol qo`yish</string>
+    <string name="enable_passcode_description">Dasturdagi yozuvlaringizni parol bilan himoyalang</string>
+    <string name="change_passcode">Parolni o`zgartirish</string>
+    <string name="passcode_delete_recordings">Yozuvlarni o`chirish</string>
+    <string name="passcode_delete_recordings_description">10 marta xato terilgan paroldan keyin yozuvlarni o`chirib tashlash</string>
+    <string name="enter_passcode">Parolni kiriting</string>
+    <string name="reenter_passcode">Parolni qayta kiriting</string>
+    <string name="enter_old_passcode">Eski parolni kiriting</string>
+    <string name="passcode_did_not_match">Parollar mos emas. Iltimos, qayta tering!</string>
+    <string name="enter_new_passcode">Yangi parolni kiriting</string>
+    <string name="reenter_new_passcode">Yangi parolni qayta kiriting</string>
+    <string name="wrong_passcode">Parol noto`g`ri. Iltimos, qayta urinib ko`ring!</string>
+    <string name="exit">Chiqish</string>
+
+    <string name="cloud">Server</string>
+
+    <string name="dropbox">Dropboks</string>
+    <string name="dropbox_link">Dropboks akkauntiga ulanish</string>
+    <string name="dropbox_unlink">Dropboks akkauntidan uzish</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Google Drive akkauntiga ulash</string>
+    <string name="google_drive_unlink">Google Drive akkauntidan uzish</string>
+    <string name="connecting_to_google_drive">\"Google Drive\"ga ulanish</string>
+
+    <string name="login">Kirish</string>
+    <string name="logout">Logindan chiqish</string>
+    <string name="sync_title">Hozir sinxronizatsiya qilish</string>
+    <string name="sync_summary">Hamma yozuvni hozir sinxronizatsiya qilish</string>
+    <string name="wifi_only">Faqat WiFi</string>
+    <string name="wifi_only_when_sync">faqat WiFi orqali sinxronizatsiya qilish</string>
+
+    <string name="run_pro_question_dlg_description">Siz dasturni Bepul versiyasini ochmoqchisiz, lekin sizda uning Pro versiyasi o`rnatilgan. Pro versiyaga qaytmoqchimisiz?</string>
+    <string name="run_pro_question_dlg_title">Pro versiyani ishlatish</string>
+    <string name="last_recording">So`nggi yozuv</string>
     </resources>
