@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Enregistreur d\'appel</string>
-    <string name="sd">Veuillez, insérer la carte SD dans le téléphone!</string>
+    <string name="sd">Veuillez, ¡insérer la carte SD dans le téléphone!</string>
     <string name="contact">Contacts</string>
     <string name="selected">sélectionné</string>
     <string name="settings">Paramètres</string>
