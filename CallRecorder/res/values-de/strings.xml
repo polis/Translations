@@ -60,15 +60,15 @@
 
     <string name="buy">Kaufen</string>
     <string name="cancel">Abbrechen</string>
-    <string name="pro_description">Die Pro-Version beinhaltet:
+    <string name="pro_description">Die Premium-Version beinhaltet:
  
- - Aufnahmen teilen
+ - Aufzeichnungen teilen
  
- - Dropbox Synchronisation
+ - Dropbox-Synchronisation
  
- - Google Drive Synchronisation
+ - Google Drive-Synchronisation
  
- - Fortgeschrittene Benachrichtigungen
+ - Erweiterte Benachrichtigungen
  
  - Keine Werbung mehr</string>
 
@@ -111,7 +111,7 @@
     <string name="login">Anmelden</string>
     <string name="logout">Abmelden</string>
     <string name="sync_title">Jetzt synchronisieren</string>
-    <string name="sync_summary">Jetzt alle Aufnahmen synchronisieren</string>
+    <string name="sync_summary">Jetzt alle Aufzeichnungen synchronisieren</string>
     <string name="wifi_only">Nur WiFi</string>
     <string name="wifi_only_when_sync">Nur bei einer WiFi-Verbindung synchronisieren</string>
 
@@ -226,6 +226,6 @@ Es wird weiterhin wie bisher arbeiten, jedoch ohne neue Eigenschaften wie:
 - Nummer aus der Aufzeichnungen heraus wählen.
 - und weiteres wird in den kommenden Veröffentlichungen erscheinen.
 
-Es wird daher empfohlen, die kostenlose Standard-Version zu installieren und Ihre Lizenz darin wiederherzustellen.</string>
+Es wird daher empfohlen, die kostenlose Standard-Version zu installieren und Ihre Lizenz darin wiederherzustellen</string>
 
 </resources>
