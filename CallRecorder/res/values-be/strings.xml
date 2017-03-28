@@ -1,3 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="sd">Калі ласка, пастаўце SD картку ў тэлефон!</string>
+    <string name="contact">Кантакты</string>
+    <string name="selected">абрана</string>
+    <string name="settings">Налады</string>
+    <string name="notifications">Нататкі</string>
+    </resources>
