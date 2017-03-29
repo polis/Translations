@@ -3,7 +3,7 @@
 
     <string name="app_name">Qo\'ng\'iroqni yozuvchi</string>
 
-<string name="sd">Iltimos, SD kartani telefonga joylang</string>
+<string name="sd">Iltimos, tashqi xotira kartasini telefonga kiriting</string>
     <string name="selected">belgilangan</string>
     <string name="settings">Sozlamalar</string>
     <string name="contact">Kontaktlar</string>
@@ -120,4 +120,105 @@
     <string name="run_pro_question_dlg_description">Siz dasturni Bepul versiyasini ochmoqchisiz, lekin sizda uning Pro versiyasi o`rnatilgan. Pro versiyaga qaytmoqchimisiz?</string>
     <string name="run_pro_question_dlg_title">Pro versiyani ishlatish</string>
     <string name="last_recording">So`nggi yozuv</string>
-    </resources>
+    <string name="last_recording_problem_description">Huddi shunday xato so`nggi yozuv vaqtida ham kuzatilgan edi. Agar shu habar yana paydo bo`lsa, iltimos, sozlamalarda Ovoz manbaini o`zgartirishga harakat qiling.</string>
+    <string name="read_instructions">Qo`llanmalar bilan tanishish</string>
+    <string name="about">Dastur haqida</string>
+    <string name="translations">Tarjimalar</string>
+    <string name="translate">Tarjima</string>
+    <string name="help_translate">Ushubu dasturni sizning mahalliy tilingizga tarjima qilishda veb saytimizdan foydalanishingiz mumkin. Davom etasizmi?</string>
+    <string name="add_translation">Tarjima kiritish</string>
+
+    <string name="write_ext_storage_problem_description">Tashqi xotira kartasiga ma\'lumot saqlab bo`lmayapti</string>
+    <string name="allow_to_write_to_sd_card">Tashqi xotira kartasiga yozishga ruxsat berish</string>
+    <string name="delete_recordings_older_then_selected_days">Belgilangan kundan avvalgi barcha yozuvlar avtomatik tarzda o`chirib tashlanadi</string>
+    <string name="delete_recordings_on_uninstall">Dasturni o`chirilganda barcha yozuvlarni ham o`chirib tashlash</string>
+    <string name="number_of_days">Kunlar soni</string>
+
+    <string name="recording_method">Yozish uslubi</string>
+    <string name="no_player_app_found">Ushbu audio faylni ochish uchun pleyer topilmadi</string>
+
+    <string name="player">Media Pleyer</string>
+    <string name="use_external_player">Tashqi pleyerdan foydalanish</string>
+    <string name="use_external_media_player_to_play_recordings">Yozuvlarni tinglashda tashqi pleyerdan foydalanish</string>
+    <string name="play">Tinglash</string>
+    <string name="pause">Pauza</string>
+    <string name="not_able_to_import_to_pro">Agar ushbu funksiya yoqilsa, Pro versiyaga avtomatik ko`chirishning iloji yo`q. Bundan tashqari barcha kerakli yozuvlarni olib qo`yishni unutmang, chunki dastur bilan birga barcha yozuvlar ham o`chirib yuboriladi.</string>
+    <string name="not_able_to_import">"Agar bu funksiyani yoqgan holda dastuni o`chirish niyatida bo`lsangingiz, barcha kerakli yozuvlar saqlab qo`yishni unutmang, chunki ularning barchasi o`chirib yuboriladi va ularni dasturni qayta o`rnatrishdan so`ng tiklashning imkoni bo`lmaydi. "</string>
+
+    <string name="number_of_seconds">Soniyalar soni</string>
+    <string name="delay_for_incoming_calls">Kiruvchi qo`ng`iroqlarni yozishdagi ushlab turish soniyada</string>
+    <string name="delay_for_outgoing_calls">Chiquvchi qo`ng`iroqlarni yozishdagi ushlab turish soniyada</string>
+
+    <string name="enabled">Yoqilgan</string>
+    <string name="disabled">O`chirilgan</string>
+    <string name="new_recordings">yangi yozuvlar</string>
+    <string name="persistent_notifications">Doimiy eslatmalar</string>
+    <string name="enable_persistent_notifications">Doimiy eslatmalarni yoqish</string>
+    <string name="usage_terms_and_privacy_policy">Foydalanish shartlari va Shaxsiy ma\'lumotlar siyosati</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Ushbu dasturdan foydalangdan boshlab siz bizning Foydalanish shartlari va Shaxsiy ma\'lumotlar siyosatimizni qabul qilgan bo`lasiz</string>
+    <string name="supported_phones">Qo`llanadigan telefonlar</string>
+    <string name="list_of_known_configurations">Ma\'lum konfiguratsiyalar ro`yhati</string>
+
+    <string name="navigation_drawer_open">Menyuni ochish</string>
+    <string name="navigation_drawer_close">Menyuni yopish</string>
+    <string name="tell_a_friend">Do`stlarga taklif qilish</string>
+    <string name="rate_me">Meni bahola</string>
+    <string name="check_out_call_recorder_app_at">Ey! Qo`ng`iroq yozuvchini be yerda tekshiring</string>
+    <string name="upgrade_to_premium">Premial versiyaga o`tish</string>
+    <string name="theme">Mavzu</string>
+    <string name="use_dark_theme">Qora rangli mavzuni qo`llash</string>
+    <string name="call">Qo`ng`iroq</string>
+    <string name="note">Eslatma</string>
+    <string name="add_to_excluded">Mustasnoga qo`shish</string>
+    <string name="rec_info">Ma\'lumot</string>
+    <string name="add">Qo`shish</string>
+    <string name="save">Saqlash</string>
+    <string name="close">Yopish</string>
+    <string name="search">Izlash</string>
+    <string name="name">Ism</string>
+    <string name="number">Raqam</string>
+    <string name="path">Joylashishi</string>
+    <string name="size">Hajmi</string>
+    <string name="thank_you_for_upgrading_to_premium">Premial versiyaga o`tganingiz uchun rahmat!</string>
+    <string name="proceed">Davom etish</string>
+    <string name="restore_license">Litsenziyani qayta tiklash</string>
+    <string name="restore_for_purchased_users">Siz \"Google Play\"dan so`nggi Pro versiyani o`rnating. Va u premial versiyani ochishda foydalaniladi.</string>
+    <string name="app_is_not_licensed">Dastur litsenziyadan o`tmagan</string>
+    <string name="buy_license_in_order_to_use_app">Iltimos, ushbu dasturdan foydalanish uchun uni \"Google Play\"dan sotib oling!</string>
+    <string name="pro_version_as_a_license">Qo`ng`iroq Yozuvchi Pro versiya endi yangilanmaydi. Endi undan faqat dasturning bepul versiyasini Premial funksiyalarini ochishda foydalanishingiz mumkin. Qo`shimcha ma\'lumotni bizning veb sahifamizda topishingiz mumkin.</string>
+    <string name="check_again">Qayta tekshirish</string>
+    <string name="permissions">Ruxsatlar</string>
+    <string name="in_order_to_work_please_grand_permission">Dastur to`g`ri ishlashi uchun quyidagi ruxsatlarni bering.</string>
+    <string name="read_more">Qo`shimcha ma\'lumot</string>
+    <string name="do_not_show_again">Bo`shqa ko`rsatmaslik</string>
+
+
+    <string name="app_description_free">"Simple Call Recorder quyidagi imkoniyatlarga ega:
+- Qo`ng`iroqlar yozib olishni Yoqish/O`chirish
+- Barcha qo`ng`iroqlarni yozib olish
+- Yozib olingan audio fayllarni bir bosishda Tinglash/To`xtatish
+- Yozuvlarni o`chirish
+- Yozuvlarni o`chirib tashlanishini oldini olish
+- Yozuvlarni jo`natish (faqat Pro versiyada)
+- Qo`ng`iroqni yozib olish/olmaslikni qo`ng`iroq yakunida so`rash (faqat Pro versiyada)
+
+AGAR BU SIZNING TELEFONINGIZDA ISHLAMASA
+YOKI SUHBATDOSHINGIZNING OVOZI ESHITILMASA:
+1. Ovoz yozish manbaini o`zgartirishga bu yerda http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/ yozilgandek urinib ko`ring
+2. Ayrim telefonlar liniyadan yoki Blyutus orqali yoza olmaydi. Chunki bunga telefoningiz ishlab chiqaruvchisi tomonidan ayrim cheklovlar yoki mavjud bo`lmagan drayverlar yo`l qo`ymaydi. Bu yerda http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/ ushbu imkoniyatlarga ega bo`lgan telefonlar ro`yhatini topishingiz mumkin.
+Iltimos buning uchun dasturimizga yomon baho qo`ymang. Tushunganigiz uchun rahmat!
+
+Agar sizda takliflar yoki savollar bo`lsa bemalol veb sahifamizga http://clevermobile.net  murojaat qilishingiz mumkin."</string>
+
+    <string name="app_description_pro">Qo`ng`iroq Yozuvchi Pro (6.6 versiyadan boshlab) endi yangilanmaydi, ammo u endi dasturning Bepul versiyasining Premial funksiyalarini ochishda kalit sifatida foydalaniladi.
+
+U avvalgidek ishlaydi, ammo quyidagi yangiliklar bilan yangilanmaydi:
+
+- Yangi interfeys, qora va oq mavzular
+- Yozuvlarni Qo`shish, O`zgartirish, O`chirish va Izlash
+- Yozuvning o`zidan qo`ng`iroq qilish
+- va bundan boshqa yangiliklar keyingi yangilanishlarda qo`shiladi.
+
+Shunday ekan Bepul versiyani o`rnatib litsenziyangizni tiklab olishingiz mumkin.</string>
+
+</resources>
