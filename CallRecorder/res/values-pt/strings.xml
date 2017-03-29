@@ -64,7 +64,7 @@
     <string name="select_all">Selecionar todos</string>
     <string name="recordings">Gravações</string>
     <string name="help">Ajuda</string>
-    <string name="hint_tap_on_contact_photo">Toque na foto de contacto para um item.</string>
+    <string name="hint_tap_on_contact_photo">Toque na foto de contacto para o item.</string>
     <string name="importing_recordings">Importar gravações…</string>
 
     <string name="buy">Comprar</string>
