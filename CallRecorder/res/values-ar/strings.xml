@@ -125,4 +125,5 @@
 
 <string name="allow_to_write_to_sd_card">السماح بالتخزين في الذاكرة الخارجية</string>
     <string name="delete_recordings_older_then_selected_days">جميع السجلات الأقدم من عدد الأيام المختارة سيتم مسحها تلقائيا</string>
+    <string name="not_able_to_import_to_pro">لو هذا الخيار متاح لن يكون من الممكن استيراد التسجيلات إلي النسخة المتقدمة لذلك اعمل نسخة من تسجيلاتك المهمة لو انت قررت إلغاء البرنامج لانها سوف تلغي كليا</string>
     </resources>
