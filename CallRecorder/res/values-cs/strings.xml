@@ -11,7 +11,7 @@
     <string name="saveRecordQuestion_checkbox_summary">Ukaž dialog po hovoru</string>
     <string name="storage">Úložiště</string>
     <string name="deleteRecord_title">Automatické čištění</string>
-    <string name="deleteRecord_summary">Smaž všechny záznamy</string>
+    <string name="deleteRecord_summary">Smaž všechny nahrávky</string>
     <string name="recording">Nastavení nahrávání</string>
     <string name="audioSource_title">Zdroj zvuku</string>
     <string name="audioChannel_title">Audio kanál</string>
