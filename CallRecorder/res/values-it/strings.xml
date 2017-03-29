@@ -9,7 +9,7 @@
     <string name="notificationStatus_checkbox_title">Abilita notifiche</string>
     <string name="notificationStatus_checkbox_summary">Mostra nella barra delle notifiche ciascuna registrazione di chiamata</string>
     <string name="saveRecordQuestion_checkbox_summary">Chiedi dopo ogni chiamata registrata</string>
-    <string name="storage">Storage</string>
+    <string name="storage">Memoria</string>
     <string name="deleteRecord_title">Pulizia automatica</string>
     <string name="deleteRecord_summary">Elimina registrazioni</string>
     <string name="recording">Impostazioni di registrazione</string>
@@ -37,7 +37,7 @@
 	<string name="start_recording">Call Recorder è in funzione!</string>
     <string name="start_recording_details">Tutte le successive chiamate saranno salvate.</string>
     <string name="stop_recording">Attiva registrazione!</string>
-    <string name="stop_recording_details">Questa registrazione è disattivata.</string>
+    <string name="stop_recording_details">Attualmente il registratore di chiamate è spento</string>
 
 	<string name="new_call">La nuova chiamata è stata registrata!!</string>
 	<string name="info">Informazioni</string>
