@@ -12,7 +12,7 @@
     <string name="storage">Magazina</string>
     <string name="deleteRecord_title">Pastrimi automatik</string>
     <string name="deleteRecord_summary">Fshini regjistrimet</string>
-    <string name="recording">Cilësimet e regjistrimit</string>
+    <string name="recording">Regjistrimet</string>
     <string name="audioSource_title">Burimi audio</string>
     <string name="audioChannel_title">Kanali audio</string>
     <string name="fileFormat_title">Formati i skedarit</string>
