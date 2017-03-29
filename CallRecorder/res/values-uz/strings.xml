@@ -10,8 +10,8 @@
     <string name="notifications">Eslatmalar</string>
     <string name="notificationStatus_checkbox_title">Eslatmalarni yoqish</string>
     <string name="notificationStatus_checkbox_summary">Qo`ng`iroq yozib olingandan kein eslatish</string>
-    <string name="saveRecordQuestion_checkbox_summary">Har bir yozib olingan qo`ng`iroqdan keyin so`rash</string>
-    <string name="storage">Saqlash joyi</string>
+    <string name="saveRecordQuestion_checkbox_summary">Qo`ng`iroq yozib olingandan keyin so`rash</string>
+    <string name="storage">Xotira</string>
     <string name="deleteRecord_title">Avtomatik o`chirish</string>
     <string name="deleteRecord_summary">Yozib olingan qo`ng`iroqlarni o`chirish</string>
     <string name="recording">Yozish</string>
