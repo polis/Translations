@@ -60,12 +60,13 @@
 
     <string name="buy">Kupi</string>
     <string name="cancel">Odustani</string>
-    <string name="pro_description">Profesionalna verzija sadrži:
-        \n - deljenje snimaka
-        \n - sinhronizaciju sa Dropbox nalogom
-        \n - sinhronizaciju sa Google Drive nalogom
-        \n - napredna obaveštenja
-        \n - nema reklama</string>
+
+    <string name="pro_description">Premium verzija sadrži</string>
+    <string name="share_recordings">deljenje snimaka</string>
+    <string name="dropbox_upload">sinhronizaciju sa Dropbox nalogom</string>
+    <string name="google_drive_upload">sinhronizaciju sa Google Drive nalogom</string>
+    <string name="advanced_botifications">napredna obaveštenja</string>
+    <string name="no_more_ads">nema reklama</string>
 
     <string name="sd_card">SD kartica</string>
     <string name="call_recorder_folder">Folder \"CallRecorder\"</string>

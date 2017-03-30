@@ -61,12 +61,13 @@
 
     <string name="buy">شراء</string>
     <string name="cancel">إلغاء</string>
-    <string name="pro_description">الاصدار الكامل يحتوي:
-        \n -	مشاركة التسجيلات
-        \n -	مزامنة الدروب بوكس
-        \n -	مزامنة جوجل درايف
-        \n -	تنبهات متقدمة
-        \n -	لا مزيد من الاعلانات</string>
+
+    <string name="pro_description">الاصدار الكامل يحتوي</string>
+    <string name="share_recordings">مشاركة التسجيلات</string>
+    <string name="dropbox_upload">مزامنة الدروب بوكس</string>
+    <string name="google_drive_upload">مزامنة جوجل درايف</string>
+    <string name="advanced_botifications">تنبهات متقدمة</string>
+    <string name="no_more_ads">لا مزيد من الاعلانات</string>
 
     <string name="sd_card">الذاكرة الخارجية</string>
     <string name="call_recorder_folder">\"CallRecorder\" مجلد </string>

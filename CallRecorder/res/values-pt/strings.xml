@@ -58,7 +58,7 @@
     <string name="sync_title">Sincronização</string>
     <string name="sync_summary">Sincronizar todos registros agora</string>
 
-<string name="lock">Bloqueio</string>
+    <string name="lock">Bloqueio</string>
     <string name="share">Partilhar</string>
     <string name="delete">Apagar</string>
     <string name="select_all">Selecionar todos</string>
@@ -69,12 +69,13 @@
 
     <string name="buy">Comprar</string>
     <string name="cancel">Cancelar</string>
-    <string name="pro_description">Versão Pro contém:
-        \n - Partilha de gravações
-        \n - Sincronização Dropbox
-        \n - Sincronização Google Drive
-        \n - Notificações avançadas
-        \n - Sem publicidade</string>
+
+    <string name="pro_description">Partilha de gravações</string>
+    <string name="share_recordings">Share recordings</string>
+    <string name="dropbox_upload">Sincronização Dropbox</string>
+    <string name="google_drive_upload">Notificações avançadas</string>
+    <string name="advanced_botifications">Advanced notifications</string>
+    <string name="no_more_ads">Sem publicidade</string>
 
     <string name="sd_card">Cartão SD</string>
     <string name="call_recorder_folder">Pasta \"Gravador de camadas\"</string>

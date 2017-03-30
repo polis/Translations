@@ -59,12 +59,13 @@
 
     <string name="buy">Купити</string>
     <string name="cancel">Відміна</string>
-    <string name="pro_description">Преміум версія містить:
-        \n - Поділитись записами
-        \n - Синхронізація з Dropbox
-        \n - Синхронізація з Google Drive
-        \n - Додаткові сповіщення
-        \n - Без реклами</string>
+
+    <string name="pro_description">Преміум версія містить</string>
+    <string name="share_recordings">Поділитись записами</string>
+    <string name="dropbox_upload">Синхронізація з Dropbox</string>
+    <string name="google_drive_upload">Синхронізація з Google Drive</string>
+    <string name="advanced_botifications">Додаткові сповіщення</string>
+    <string name="no_more_ads">Без реклами</string>
 
     <string name="sd_card">SD карта</string>
     <string name="call_recorder_folder">Папка \"CallRecorder\"</string>

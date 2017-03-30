@@ -60,17 +60,13 @@
 
     <string name="buy">Купи</string>
     <string name="cancel">Отказ</string>
-    <string name="pro_description">Съдържание на разширена версия:
 
-- Споделяне на записи
-
-- Dropbox синхронизация
-
-- Google Drive синхронизация
-
-- Допълнителни известия
-
-- Без повече реклама</string>
+    <string name="pro_description">Съдържание на разширена версия</string>
+    <string name="share_recordings">Споделяне на записи</string>
+    <string name="dropbox_upload">Dropbox синхронизация</string>
+    <string name="google_drive_upload">Google Drive синхронизация</string>
+    <string name="advanced_botifications">Допълнителни известия</string>
+    <string name="no_more_ads">Без повече реклама</string>
 
     <string name="sd_card">SD карта</string>
     <string name="call_recorder_folder">Папка \"Записани обаждания\"</string>

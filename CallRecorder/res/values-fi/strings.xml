@@ -61,17 +61,13 @@
 
     <string name="buy">Osta</string>
     <string name="cancel">Peru</string>
-    <string name="pro_description">Pro-version ominaisuuksia:
 
-- tallenteiden jakaminen
-
-- Dropboxiin synkronointi
-
-- Google Driveen synkronointi
-
-- kehittyneet ilmoitukset
-
-- ei enää mainoksia</string>
+    <string name="pro_description">Pro-version ominaisuuksia</string>
+    <string name="share_recordings">tallenteiden jakaminen</string>
+    <string name="dropbox_upload">Dropboxiin synkronointi</string>
+    <string name="google_drive_upload">Google Driveen synkronointi</string>
+    <string name="advanced_botifications">kehittyneet ilmoitukset</string>
+    <string name="no_more_ads">ei enää mainoksias</string>
 
     <string name="sd_card">SD-kortti</string>
     <string name="call_recorder_folder">Hakemisto \"CallRecorder\"</string>

@@ -60,12 +60,13 @@
 
     <string name="buy">Acheter</string>
     <string name="cancel">Annuler</string>
-    <string name="pro_description">Contenu de la version Pro:
-        \n - Partagez vos enregistrements
-        \n - Synchronisation Dropbox
-        \n - Synchronisation Google Drive
-        \n - Notifications avancée
-        \n - Pas de pub</string>
+
+    <string name="pro_description">Contenu de la version Premium</string>
+    <string name="share_recordings">Partagez vos enregistrements</string>
+    <string name="dropbox_upload">Synchronisation Google Drive</string>
+    <string name="google_drive_upload">Notifications avancée</string>
+    <string name="advanced_botifications">Pas de pub</string>
+    <string name="no_more_ads">No more Ads</string>
 
     <string name="sd_card">Carte SD</string>
     <string name="call_recorder_folder">Dossier \"CallRecorder\"</string>
@@ -122,7 +123,7 @@
 
     <string name="write_ext_storage_problem_description">Impossible d\'écrire sur le stockage externe.</string>
     				
-<string name="allow_to_write_to_sd_card">permettent d’écrire sur carte SD amovible</string>
+    <string name="allow_to_write_to_sd_card">permettent d’écrire sur carte SD amovible</string>
     <string name="delete_recordings_older_then_selected_days">Tous les vieux enregistrements seront automatiquement détruits au bout d\'un certain nombre de jours</string>
     <string name="delete_recordings_on_uninstall">Désinstaller l\'application Call Recorder supprime tous les enregistrements</string>
     <string name="number_of_days">Nombre de jours</string>

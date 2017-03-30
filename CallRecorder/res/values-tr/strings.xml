@@ -60,12 +60,13 @@
 
     <string name="buy">Satın al</string>
     <string name="cancel">İptal</string>
-    <string name="pro_description">Pro sürümün içerdikleri:
-        \n - Kayıtları paylaşma
-        \n - Dropbox eşitlemesi
-        \n - Google Drive eşitlemesi
-        \n - Gelişmiş bildirimler
-        \n - Reklam yok</string>
+
+    <string name="pro_description">Premium sürümün içerdikleri</string>
+    <string name="share_recordings">Kayıtları paylaşma</string>
+    <string name="dropbox_upload">Dropbox eşitlemesi</string>
+    <string name="google_drive_upload">Google Drive eşitlemesi</string>
+    <string name="advanced_botifications">Gelişmiş bildirimler</string>
+    <string name="no_more_ads">Reklam yok</string>
 
     <string name="sd_card">SD kart</string>
     <string name="call_recorder_folder">\"CallRecorder\" dizini</string>

@@ -60,12 +60,13 @@
 
     <string name="buy">Kopen</string>
     <string name="cancel">Annuleren</string>
-    <string name="pro_description">Pro versie bevat:
-        \n - Opnames delen
-        \n - Dropbox syncronisatie
-        \n - Google Drive synchronisatie
-        \n - Geavanceerde notificaties
-        \n – Geen reclame</string>
+
+    <string name="pro_description">Premium versie bevat</string>
+    <string name="share_recordings">Opnames delen</string>
+    <string name="dropbox_upload">Dropbox syncronisatie</string>
+    <string name="google_drive_upload">Google Drive synchronisatie</string>
+    <string name="advanced_botifications">Geavanceerde notificaties</string>
+    <string name="no_more_ads">Geen reclame</string>
 
     <string name="sd_card">SD-kaart</string>
     <string name="call_recorder_folder">\"CallRecorder\" map</string>

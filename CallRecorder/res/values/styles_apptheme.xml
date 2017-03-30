@@ -3,7 +3,7 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="preferenceTheme">@style/PreferenceFragment</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
 
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
@@ -17,7 +17,8 @@
 
     <!-- Base application theme. -->
     <style name="AppThemeDark" parent="Theme.AppCompat.NoActionBar">
-        <item name="preferenceTheme">@style/PreferenceFragment</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
+        <item name="android:switchPreferenceStyle">@style/Preference.SwitchPreferenceCompat</item>
 
         <!--item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item-->

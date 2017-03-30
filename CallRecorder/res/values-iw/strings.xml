@@ -63,16 +63,13 @@
 
     <string name="sync_summary">סנכרון את כל ההקלטות כעת</string>
     <string name="buy">קנה</string>
-    <string name="pro_description">גרסת הpro כוללת:
-        -שתף הקלטות…
 
--סנכרון עם Dropbox
-
-סנכרון עם Google Drive
-
--התראות מתקדמות
-
--ללא פרסומות</string>
+    <string name="pro_description">גרסת הpro כוללת</string>
+    <string name="share_recordings">שתף הקלטות…</string>
+    <string name="dropbox_upload">Dropbox סנכרון עם</string>
+    <string name="google_drive_upload">Google Drive סנכרון עם</string>
+    <string name="advanced_botifications">התראות מתקדמות</string>
+    <string name="no_more_ads">ללא פרסומות</string>
 
     <string name="sd_card">כרטיס SD</string>
     <string name="call_recorder_folder">"תקיית  CallRecorder"</string>

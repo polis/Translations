@@ -57,7 +57,7 @@
     <string name="sync_title">同步</string>
     <string name="sync_summary">现在同步所有录音</string>
 
-<string name="other_app_title">全部应用程序</string>
+    <string name="other_app_title">全部应用程序</string>
     <string name="lock">锁定</string>
     <string name="share">分享</string>
     <string name="delete">删除</string>
@@ -69,17 +69,13 @@
 
     <string name="buy">购买</string>
     <string name="cancel">取消</string>
-    <string name="pro_description">高级版本包括：
- 
- - 分享记录
- 
- - 与Dropbox同步
- 
- - 与Google Drive同步
- 
- - 高级通知
- 
- - 无广告</string>
+
+    <string name="pro_description">高级版本包括</string>
+    <string name="share_recordings">分享记录</string>
+    <string name="dropbox_upload">与Dropbox同步</string>
+    <string name="google_drive_upload">与Google Drive同步</string>
+    <string name="advanced_botifications">高级通知</string>
+    <string name="no_more_ads">无广告</string>
 
     <string name="call_recorder_folder">“CallRecorder”文件夹</string>
     <string name="sd_card_memory_occupied">已用存储</string>

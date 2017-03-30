@@ -61,12 +61,13 @@
 
     <string name="buy">Kup</string>
     <string name="cancel">Anuluj</string>
-    <string name="pro_description">Wersja Pro:
-        \n - Udostępnianie nagrań
-        \n - Synchronizacja z Dropbox
-        \n - Synchronizacja z Google Drive
-        \n - Zaawansowane powiadomienia
-        \n - Brak reklam</string>
+
+    <string name="pro_description">Wersja Premium</string>
+    <string name="share_recordings">Udostępnianie nagrań</string>
+    <string name="dropbox_upload">Synchronizacja z Dropbox</string>
+    <string name="google_drive_upload">Synchronizacja z Google Drive</string>
+    <string name="advanced_botifications">Zaawansowane powiadomienia</string>
+    <string name="no_more_ads">Brak reklam</string>
 
     <string name="sd_card">Karta SD</string>
     <string name="call_recorder_folder">Folder \"CallRecorder\"</string>

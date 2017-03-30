@@ -60,12 +60,13 @@
 
     <string name="buy">Cumpără</string>
     <string name="cancel">Anulare</string>
-    <string name="pro_description">Versiunea Pro conține:
-        \n - Partajarea înregistrărilor
-        \n - Sincronizarea cu DropBox
-        \n - Sincronizarea cu GoogleDrive
-        \n - Notificări avansate
-        \n - Fără reclame</string>
+
+    <string name="pro_description">Versiunea Premium conține</string>
+    <string name="share_recordings">Partajarea înregistrărilor</string>
+    <string name="dropbox_upload">Sincronizarea cu Dropbox</string>
+    <string name="google_drive_upload">Sincronizarea cu GoogleDrive</string>
+    <string name="advanced_botifications">Notificări avansate</string>
+    <string name="no_more_ads">Fără reclame</string>
 
     <string name="sd_card">Card MicroSD</string>
     <string name="call_recorder_folder">"Fisierul  \"CallRecorder\""</string>

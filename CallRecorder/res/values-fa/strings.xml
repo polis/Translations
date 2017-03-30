@@ -60,17 +60,13 @@
 
     <string name="buy">خرید</string>
     <string name="cancel">لغو</string>
-    <string name="pro_description">امکانات نسخه حرفه‌ای:
- 
- - اشتراک گذاری ضبط ها
- 
- - همگام سازی با دارپ باکس
- 
- - همگام سازی با گوگل درایو
- 
- - اعلانات پیشرفته
- 
- - بدون تبلیغات</string>
+
+    <string name="pro_description">امکانات نسخه حرفه‌ای</string>
+    <string name="share_recordings">اشتراک گذاری ضبط ها</string>
+    <string name="dropbox_upload">همگام سازی با دارپ باکس</string>
+    <string name="google_drive_upload">همگام سازی با گوگل درایو</string>
+    <string name="advanced_botifications">اعلانات پیشرفته</string>
+    <string name="no_more_ads">بدون تبلیغات</string>
 
     <string name="sd_card">کارت حافظه</string>
     <string name="call_recorder_folder">پوشه \"CallRecorder\"</string>

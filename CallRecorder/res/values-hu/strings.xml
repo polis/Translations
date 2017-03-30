@@ -60,7 +60,7 @@
     <string name="wifi_only">WiFi only</string>
     <string name="wifi_only_when_sync">Synchronize only when connected to WiFi</string>
 
-<string name="lock">Zár</string>
+    <string name="lock">Zár</string>
     <string name="share">Megosztás</string>
     <string name="delete">Törlés</string>
     <string name="select_all">Mind kijelöli</string>

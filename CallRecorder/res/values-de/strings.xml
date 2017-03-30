@@ -60,17 +60,13 @@
 
     <string name="buy">Kaufen</string>
     <string name="cancel">Abbrechen</string>
-    <string name="pro_description">Die Premium-Version beinhaltet:
- 
- - Aufzeichnungen teilen
- 
- - Dropbox-Synchronisation
- 
- - Google Drive-Synchronisation
- 
- - Erweiterte Benachrichtigungen
- 
- - Keine Werbung mehr</string>
+
+    <string name="pro_description">Die Premium-Version beinhaltet</string>
+    <string name="share_recordings">Aufzeichnungen teilen</string>
+    <string name="dropbox_upload">Dropbox-Synchronisation</string>
+    <string name="google_drive_upload">Google Drive-Synchronisation</string>
+    <string name="advanced_botifications">Erweiterte Benachrichtigungen</string>
+    <string name="no_more_ads">Keine Werbung mehr</string>
 
     <string name="sd_card">SD-Karte</string>
     <string name="call_recorder_folder">Ordner \"CallRecorder\"</string>

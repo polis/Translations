@@ -58,12 +58,13 @@
 
     <string name="buy">Köp</string>
     <string name="cancel">Annulera</string>
-    <string name="pro_description">Köpversionen innehåller 
-Dela inspelning 
-Dropbox synk 
-Google Drive synk 
-Avancerade notiser
-Inga annonser</string>
+
+    <string name="pro_description">Köpversionen innehåller</string>
+    <string name="share_recordings">Dela inspelning</string>
+    <string name="dropbox_upload">Dropbox synk</string>
+    <string name="google_drive_upload">Google Drive synk</string>
+    <string name="advanced_botifications">Avancerade notiser</string>
+    <string name="no_more_ads">Inga annonser</string>
 
     <string name="sd_card">Minneskort</string>
     <string name="call_recorder_folder">Mapp \"Callrecorder\"</string>

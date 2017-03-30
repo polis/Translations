@@ -2,8 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
     <string name="app_name">Qo\'ng\'iroqni yozuvchi</string>
-
-<string name="sd">Iltimos, tashqi xotira kartasini telefonga kiriting!</string>
+    <string name="sd">Iltimos, tashqi xotira kartasini telefonga kiriting!</string>
     <string name="selected">belgilangan</string>
     <string name="settings">Sozlamalar</string>
     <string name="contact">Kontaktlar</string>
@@ -62,17 +61,13 @@
 
     <string name="buy">Sotib olish</string>
     <string name="cancel">Bekor</string>
-    <string name="pro_description">Premial versiya ushbularni o`z ichiga oladi:
- 
- - Yozuvlarni jo`natish
- 
- - Dropbox bilan sinxronizatsiya
- 
- - Google Drive bilan sinxronizatsiya
- 
- - Yangicha eslatmalar
- 
- - Reklamalarsiz</string>
+
+    <string name="pro_description">Premial versiya ushbularni o`z ichiga oladi</string>
+    <string name="share_recordings">Yozuvlarni jo`natish</string>
+    <string name="dropbox_upload">Dropbox bilan sinxronizatsiya</string>
+    <string name="google_drive_upload">Google Drive bilan sinxronizatsiya</string>
+    <string name="advanced_botifications">Yangicha eslatmalar</string>
+    <string name="no_more_ads">Reklamalarsiz</string>
 
     <string name="sd_card">SD karta</string>
     <string name="call_recorder_folder">Papka \"CallRecorder\"</string>

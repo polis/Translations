@@ -58,7 +58,7 @@
     <string name="sync_title">Synchronizovať teraz</string>
     <string name="sync_summary">Synchronizovať všetky nahrávky teraz</string>
 
-<string name="lock">zamknúť</string>
+    <string name="lock">zamknúť</string>
     <string name="share">Zdieľať</string>
     <string name="delete">zmazať</string>
     <string name="select_all">vybrať všetko</string>
@@ -69,12 +69,13 @@
 
     <string name="buy">Kúp</string>
     <string name="cancel">Zrušiť</string>
-    <string name="pro_description">Pro verzia obsahuje:
-        \n - zdieľanie nahrávok
-        \n - synchronizácia Dropbox
-        \n - synchronizácia Google Drive
-        \n - pokročilé upozornenia
-        \n - už žiadne reklamy</string>
+
+    <string name="pro_description">Premium verzia obsahuje</string>
+    <string name="share_recordings">zdieľanie nahrávok</string>
+    <string name="dropbox_upload">synchronizácia Dropbox</string>
+    <string name="google_drive_upload">synchronizácia Google Drive</string>
+    <string name="advanced_botifications">pokročilé upozornenia</string>
+    <string name="no_more_ads">už žiadne reklamy</string>
 
     <string name="sd_card">Karta SD</string>
     <string name="call_recorder_folder">Adresár „CallRecorder“</string>

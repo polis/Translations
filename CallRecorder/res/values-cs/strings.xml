@@ -43,7 +43,7 @@
     <string name="info">Informace</string>       
     <string name="faq_title">Často kladené dotazy</string>       
     <string name="faq_summary">Přejděte na stránku FAQ Záznamníku hovorů</string>       
-    <string name="other_app_title">Další programy od Clever mobile</string>       
+    <string name="other_app_title">Další programy od Clever Mobile</string>
     <string name="other_app_summary">V Marketu</string>
 
     <string name="undo">vrátit zpět</string>
@@ -58,7 +58,7 @@
     <string name="sync_title">Synchronizace</string>
     <string name="sync_summary">Synchronizovat všechny nahrávky nyní</string>
 
-<string name="lock">Zámek</string>
+    <string name="lock">Zámek</string>
     <string name="share">Sdílet</string>
     <string name="delete">Smazat</string>
     <string name="buy">Koupit</string>

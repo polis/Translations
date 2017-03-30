@@ -60,12 +60,13 @@
 
     <string name="buy">Купить</string>
     <string name="cancel">Отмена</string>
-    <string name="pro_description">Премиум версия содержит функции:
-        \n - Пересылка записей
-        \n - Синхронизация с Dropbox
-        \n - Синхронизация с Google Drive
-        \n - Расширенные уведомления
-        \n - Без рекламы</string>
+
+    <string name="pro_description">Премиум версия содержит функции</string>
+    <string name="share_recordings">Пересылка записей</string>
+    <string name="dropbox_upload">Синхронизация с Dropbox</string>
+    <string name="google_drive_upload">Синхронизация с Google Drive</string>
+    <string name="advanced_botifications">Расширенные уведомления</string>
+    <string name="no_more_ads">Без рекламы</string>
 
     <string name="sd_card">SD карта</string>
     <string name="call_recorder_folder">Папка \"CallRecorder\"</string>

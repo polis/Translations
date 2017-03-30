@@ -60,12 +60,13 @@
 
     <string name="buy">Αγορά</string>
     <string name="cancel">Άκυρο</string>
-    <string name="pro_description">Η Pro έκδοση περιλαμβάνει:
-        \n - Μοιραστείτε τις εγγραφές
-        \n - Συγχρονισμός Dropbox
-        \n - Google Drive συγχρονισμός
-        \n - Προηγμένες ειδοποιήσεις
-        \n - Χωρίς διαφημίσεις</string>
+
+    <string name="pro_description">Η Premium έκδοση περιλαμβάνει</string>
+    <string name="share_recordings">Μοιραστείτε τις εγγραφές</string>
+    <string name="dropbox_upload">Συγχρονισμός Dropbox</string>
+    <string name="google_drive_upload">Google Drive συγχρονισμός</string>
+    <string name="advanced_botifications">Προηγμένες ειδοποιήσεις</string>
+    <string name="no_more_ads">Χωρίς διαφημίσεις</string>
 
     <string name="sd_card">SD κάρτα</string>
     <string name="call_recorder_folder">Φάκελος \"CallRecorder\"</string>

@@ -60,12 +60,13 @@
 
     <string name="buy">Blini</string>
     <string name="cancel">Anulloni</string>
-    <string name="pro_description">Versioni Pro përmban:
-        \n - Shpërndarjen e regjistrimeve
-        \n - Sinkron me Dropbox
-        \n - Sinkron me Google Drive
-        \n - Njoftime të avancuara
-        \n - Jo më reklama</string>
+
+    <string name="pro_description">Versioni Premium përmban</string>
+    <string name="share_recordings">Shpërndarjen e regjistrimeve</string>
+    <string name="dropbox_upload">Sinkron me Dropbox</string>
+    <string name="google_drive_upload">Sinkron me Google Drive</string>
+    <string name="advanced_botifications">Njoftime të avancuara</string>
+    <string name="no_more_ads">Jo më reklama</string>
 
     <string name="sd_card">Karta SD</string>
     <string name="call_recorder_folder">Dosja \"CallRecorder\"</string>

@@ -60,12 +60,13 @@
 
     <string name="buy">Acquista</string>
     <string name="cancel">Cancella</string>
-    <string name="pro_description">La versione Pro contiene:
-        \n - Condivisone registrazioni
-        \n - Sincronizzazione Dropbox
-        \n - Sincronizzazione Google Drive
-        \n - Notifiche avanzate
-        \n - Nessuna pubblicità</string>
+
+    <string name="pro_description">La versione Pro contiene</string>
+    <string name="share_recordings">Condivisone registrazioni</string>
+    <string name="dropbox_upload">Sincronizzazione Dropbox</string>
+    <string name="google_drive_upload">Sincronizzazione Google Drive</string>
+    <string name="advanced_botifications">Notifiche avanzate</string>
+    <string name="no_more_ads">Nessuna pubblicità</string>
 
     <string name="sd_card">SD card</string>
     <string name="call_recorder_folder">Cartella \"CallRecorder\"</string>

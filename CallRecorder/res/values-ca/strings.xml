@@ -60,17 +60,13 @@
 
     <string name="buy">Compra</string>
     <string name="cancel">Cancel·la</string>
-    <string name="pro_description">La versió Pro permet:
- 
-- Compartir gravacions
- 
-- Sincronitzar amb Dropbox
- 
-- Sincronitzar amb Google Drive
- 
-- Obtenir notificacions avançades
- 
-- Eliminar els anuncis</string>
+
+    <string name="pro_description">La versió Pro permet</string>
+    <string name="share_recordings">Compartir gravacions</string>
+    <string name="dropbox_upload">Sincronitzar amb Dropbox</string>
+    <string name="google_drive_upload">Sincronitzar amb Google Drive</string>
+    <string name="advanced_botifications">Obtenir notificacions avançades</string>
+    <string name="no_more_ads">Eliminar els anuncis</string>
 
     <string name="sd_card">Tarja SD</string>
     <string name="call_recorder_folder">Carpeta \"CallRecorder\"</string>
@@ -127,7 +123,7 @@
 
     <string name="write_ext_storage_problem_description">No es pot escriure en l\'emmagatzematge extern.</string>
 
-<string name="allow_to_write_to_sd_card">Permetre escriure en targeta SD externa</string>
+    <string name="allow_to_write_to_sd_card">Permetre escriure en targeta SD externa</string>
     <string name="delete_recordings_older_then_selected_days">Tots els enregistraments anteriors al nombre de dies seleccionat s\'eliminaran de forma automàtica</string>
     <string name="delete_recordings_on_uninstall">S\'esborraran totes les gravacions si desinstaleu l\'aplicació</string>
     <string name="number_of_days">Nombre de dies</string>

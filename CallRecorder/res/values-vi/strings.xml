@@ -60,12 +60,13 @@
 
     <string name="buy">Mua</string>
     <string name="cancel">Hủy bỏ</string>
-    <string name="pro_description">Phiên bản Pro bao gồm:
-        \n - Chia sẻ bản ghi
-        \n - Đồng bộ lên Dropbox
-        \n - Đồng bộ lên Google Drive
-        \n - Thông báo nâng cao
-        \n - Không có quảng cáo</string>
+
+    <string name="pro_description">Phiên bản Premium bao gồm</string>
+    <string name="share_recordings">Chia sẻ bản ghi</string>
+    <string name="dropbox_upload">Đồng bộ lên Dropbox</string>
+    <string name="google_drive_upload">Uploading to Google Drive</string>
+    <string name="advanced_botifications">Thông báo nâng cao</string>
+    <string name="no_more_ads">Không có quảng cáo</string>
 
     <string name="sd_card">Thẻ nhớ SD</string>
     <string name="call_recorder_folder">Thư mục \"CallRecorder\"</string>

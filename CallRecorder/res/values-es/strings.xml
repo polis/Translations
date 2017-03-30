@@ -60,17 +60,13 @@
 
     <string name="buy">Comprar</string>
     <string name="cancel">Cancelar</string>
-    <string name="pro_description">La versión Pro contiene:
- 
-- Compartir grabaciones
- 
-- Sincronización de Dropbox
- 
-- Sincronización de Google Drive
- 
-- Notificaciones avanzadas
- 
-- No más anuncios</string>
+
+    <string name="pro_description">La versión Premium contiene</string>
+    <string name="share_recordings">Compartir grabaciones</string>
+    <string name="dropbox_upload">Sincronización de Dropbox</string>
+    <string name="google_drive_upload">Sincronización de Google Drive</string>
+    <string name="advanced_botifications">Notificaciones avanzadas</string>
+    <string name="no_more_ads">No más anuncios</string>
 
     <string name="sd_card">Tarjeta SD</string>
     <string name="call_recorder_folder">Carpeta \"CallRecorder\"</string>
@@ -127,7 +123,7 @@
 
     <string name="write_ext_storage_problem_description">No se puede guardar en almacenamiento externo.</string>
 
-<string name="allow_to_write_to_sd_card">Permitir escribir en la tarjeta SD extraíble</string>
+    <string name="allow_to_write_to_sd_card">Permitir escribir en la tarjeta SD extraíble</string>
     <string name="delete_recordings_older_then_selected_days">Todas las grabaciones anteriores al período de días seleccionado serán eliminadas de manera automática</string>
     <string name="delete_recordings_on_uninstall">Se borrarán todas las grabaciones si se desinstala la aplicación Call Recorder</string>
     <string name="number_of_days">Número de días</string>
@@ -135,7 +131,7 @@
     <string name="recording_method">Método de grabación</string>
     <string name="no_player_app_found">No se encontró aplicación para reproducir este audio</string>
 
-<string name="player">Reproductor Multimedia</string>
+    <string name="player">Reproductor Multimedia</string>
     <string name="use_external_player">Utilizar reproductor externo</string>
     <string name="use_external_media_player_to_play_recordings">Utilizar reproductor de multimedia externo para reproducir grabaciones</string>
     <string name="play">Reproducir</string>

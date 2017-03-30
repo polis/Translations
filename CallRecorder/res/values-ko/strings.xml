@@ -58,5 +58,5 @@
     <string name="sync_title">동기화</string>
     <string name="sync_summary">모든 녹음 지금 동기화</string>
 
-<string name="select_all">전부 선택하기</string>
-    </resources>
+    <string name="select_all">전부 선택하기</string>
+</resources>

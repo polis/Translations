@@ -60,12 +60,13 @@
 
     <string name="buy">Buy</string>
     <string name="cancel">Cancel</string>
-    <string name="pro_description">Premium version contains:
-        \n - Share recordings
-        \n - Dropbox sync
-        \n - Google Drive sync
-        \n - Advanced notifications
-        \n - No more Ads</string>
+
+    <string name="pro_description">Premium version contains</string>
+    <string name="share_recordings">Share recordings</string>
+    <string name="dropbox_upload">Uploading to Dropbox</string>
+    <string name="google_drive_upload">Uploading to Google Drive</string>
+    <string name="advanced_botifications">Advanced notifications</string>
+    <string name="no_more_ads">No more Ads</string>
 
     <string name="sd_card">SD card</string>
     <string name="call_recorder_folder">Folder \"CallRecorder\"</string>
