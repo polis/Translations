@@ -3,7 +3,7 @@
 
     <string name="app_name">Qo\'ng\'iroqni yozuvchi</string>
 
-<string name="sd">Iltimos, tashqi xotira kartasini telefonga kiriting</string>
+<string name="sd">Iltimos, tashqi xotira kartasini telefonga kiriting!</string>
     <string name="selected">belgilangan</string>
     <string name="settings">Sozlamalar</string>
     <string name="contact">Kontaktlar</string>
@@ -57,7 +57,7 @@
     <string name="select_all">Hammasini belgilash</string>
     <string name="recordings">Yozuvlar</string>
     <string name="help">Yordam</string>
-    <string name="hint_tap_on_contact_photo">Belgilash uchun kontakt rasmini bosing</string>
+    <string name="hint_tap_on_contact_photo">Belgilash uchun kontakt suratini bosing.</string>
     <string name="importing_recordings">Yozuvlar tiklanmoqda…</string>
 
     <string name="buy">Sotib olish</string>
@@ -105,7 +105,7 @@
     <string name="dropbox_link">Dropboks akkauntiga ulanish</string>
     <string name="dropbox_unlink">Dropboks akkauntidan uzish</string>
 
-    <string name="google_drive">Google Drive</string>
+    <string name="google_drive">Gugl Drayv</string>
     <string name="google_drive_link">Google Drive akkauntiga ulash</string>
     <string name="google_drive_unlink">Google Drive akkauntidan uzish</string>
     <string name="connecting_to_google_drive">\"Google Drive\"ga ulanish</string>
@@ -128,7 +128,7 @@
     <string name="help_translate">Ushubu dasturni sizning mahalliy tilingizga tarjima qilishda veb saytimizdan foydalanishingiz mumkin. Davom etasizmi?</string>
     <string name="add_translation">Tarjima kiritish</string>
 
-    <string name="write_ext_storage_problem_description">Tashqi xotira kartasiga ma\'lumot saqlab bo`lmayapti</string>
+    <string name="write_ext_storage_problem_description">Tashqi xotira kartasiga ma\'lumot saqlab bo`lmayapti.</string>
     <string name="allow_to_write_to_sd_card">Tashqi xotira kartasiga yozishga ruxsat berish</string>
     <string name="delete_recordings_older_then_selected_days">Belgilangan kundan avvalgi barcha yozuvlar avtomatik tarzda o`chirib tashlanadi</string>
     <string name="delete_recordings_on_uninstall">Dasturni o`chirilganda barcha yozuvlarni ham o`chirib tashlash</string>
@@ -214,11 +214,11 @@ Agar sizda takliflar yoki savollar bo`lsa bemalol veb sahifamizga http://cleverm
 
 U avvalgidek ishlaydi, ammo quyidagi yangiliklar bilan yangilanmaydi:
 
-- Yangi interfeys, qora va oq mavzular
-- Yozuvlarni Qo`shish, O`zgartirish, O`chirish va Izlash
-- Yozuvning o`zidan qo`ng`iroq qilish
+- Yangi interfeys, qora va oq mavzular.
+- Yozuvlarni Qo`shish, O`zgartirish, O`chirish va Izlash.
+- Yozuvning o`zidan qo`ng`iroq qilish.
 - va bundan boshqa yangiliklar keyingi yangilanishlarda qo`shiladi.
 
-Shunday ekan Bepul versiyani o`rnatib litsenziyangizni tiklab olishingiz mumkin.</string>
+Shunday ekan Bepul versiyani o`rnatib litsenziyangizni tiklab olishingiz mumkin</string>
 
 </resources>
