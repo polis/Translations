@@ -43,7 +43,7 @@
     <string name="faq_title">Часті запитання (FAQ)</string>       
     <string name="faq_summary">Перейти до FAQ сторінки Запису дзвінків</string>       
     <string name="other_app_title">Усі аплікаціїї від Clever Mobile</string>       
-    <string name="other_app_summary">У Goodle Play маркеті</string>
+    <string name="other_app_summary">У Google Play маркеті</string>
 
     <string name="undo">відмінити</string>
     <string name="deleted">видалено</string>
@@ -212,6 +212,6 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
 
 Якщо у Вас є зауваження чи пропозиції, ласкаво просимо на наш сайт http://clevermobile.net ти заохочуємо звертитися до нас."</string>
 
-    <string name="app_description_pro"></string>
+    <string name="app_description_pro"/>
 
 </resources>
