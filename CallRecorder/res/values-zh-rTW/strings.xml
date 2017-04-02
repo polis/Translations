@@ -67,4 +67,8 @@
     <string name="cancel">取消</string>
 
 
-</resources>
+<string name="sd_card">SD記憶卡</string>
+    <string name="change_passcode">變更密碼</string>
+    <string name="exit">離開</string>
+
+    </resources>
