@@ -1,3 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="app_name">Tawag Rekorder</string>
+    <string name="sd">Mangyaring, ipasok ang SD card sa telepono!</string>
+    <string name="contact">Mga Contact</string>
+    <string name="selected">pili</string>
+    <string name="settings">Mga Settings</string>
+    <string name="notifications">Mga abiso</string>
+    </resources>
