@@ -139,4 +139,14 @@
     <string name="player">وسيط تشغيل ملفات صوتية</string>
     <string name="play">تشغيل</string>
     <string name="pause">توقف</string>
+    <string name="recording_method">طريقة التسجيل</string>
+    <string name="not_able_to_import">إذا تم تمكين هذا الخيار وعليك أن تقرر لإلغاء التطبيق، ما عليك القيام به نسخة احتياطية من جميع التسجيلات الهامة، كما كل ما سيتم حذف وأنه لن يكون من الممكن استيراد التسجيلات بالعمل تلقائيا بعد تثبيت التطبيق مرة أخرى</string>
+
+    <string name="number_of_seconds">عدد الثواني</string>
+    <string name="delay_for_incoming_calls">تاخير تسجل المكالمات الوارده</string>
+    <string name="delay_for_outgoing_calls">تأخير تسجيل المكالمات الصادره</string>
+
+    <string name="enabled">تمكين</string>
+    <string name="disabled"/>
+    <string name="new_recordings">تسجيلات جديده</string>
     </resources>
