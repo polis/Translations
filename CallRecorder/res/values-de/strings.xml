@@ -6,7 +6,7 @@
     <string name="selected">ausgewählt</string>
     <string name="settings">Einstellungen</string>
     <string name="notifications">Benachrichtigungen</string>
-    <string name="notificationStatus_checkbox_title">Benachrichtigungen aktivieren</string>
+    <string name="notificationStatus_checkbox_title">Benachrichtigungen zulassen</string>
     <string name="notificationStatus_checkbox_summary">Nach jeder Aufnahme in der Benachrichtigungsleiste anzeigen</string>
     <string name="saveRecordQuestion_checkbox_summary">Nach jeder Aufnahme nachfragen</string>
     <string name="storage">Speicher</string>
@@ -150,8 +150,8 @@ Erstellen Sie außerdem Sicherungkopien aller wichtigen Aufnahmen, da sie ansons
     <string name="enabled">Eingeschaltet</string>
     <string name="disabled">Ausgeschaltet</string>
     <string name="new_recordings">Neue Aufzeichnungen</string>
-    <string name="persistent_notifications">Benachrichtigungsleiste</string>
-    <string name="enable_persistent_notifications">Benachrichtigungen erlauben</string>
+    <string name="persistent_notifications">Dauerhafte Benachrichtigungen</string>
+    <string name="enable_persistent_notifications">Benachrichtigungen immer anzeigen (unabhängig von Anrufen)</string>
     <string name="usage_terms_and_privacy_policy">Nutzungsbedingungen und Datenschutzbestimmungen</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Durch die Verwendung dieser Applikation stimmen Sie den Nutzungsbedingungen und Datenschutzbestimmungen zu</string>
     <string name="supported_phones">Unterstützte Telefone</string>
@@ -215,12 +215,12 @@ http://clevermobile.net and feel free to contact us.</string>
 
     <string name="app_description_pro">\"Call Recorder Pro\" (ab Version 6.6) wird zukünftig keine neuen Funktionen mehr erhalten, sondern lediglich als Lizenzschlüssel für Premium-Funktionen in der kostenlosen Standard-Version fungieren.
 
-Es wird weiterhin wie bisher arbeiten, jedoch ohne neue Eigenschaften wie:
+Alle vorhandenen Funktionen bleiben erhalten, jedoch fehlen neue Eigenschaften wie:
 
 - Neue Oberfläche mit der möglichen Option, zwischen einem \"Light Theme\" und einem \"Dark Theme\" umzuschalten.
-- Bemerkungen zu Aufzeichnungen. Hinzufügen, Bearbeiten und entfernen von Bemerkungen oder auch Suche danach.
-- Nummer aus der Aufzeichnungen heraus wählen.
-- und weiteres wird in den kommenden Veröffentlichungen erscheinen.
+- Bemerkungen zu Aufzeichnungen. Hinzufügen, bearbeiten und entfernen von Bemerkungen oder auch eine Suche danach.
+- Nummer aus den Aufzeichnungen heraus wählen.
+- und weiteres, das in den kommenden Veröffentlichungen erscheinen wird.
 
 Es wird daher empfohlen, die kostenlose Standard-Version zu installieren und Ihre Lizenz darin wiederherzustellen</string>
 
