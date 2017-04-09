@@ -115,7 +115,7 @@
     <string name="run_pro_question_dlg_description">تحاول تثبيت النسخة المجانية لكن لديك مثبت النسخة الكاملة.هل تريد تبقى مع النسخة الكاملة؟</string>
     <string name="run_pro_question_dlg_title">تشغيل النسخة الكاملة</string>
     <string name="last_recording">التسجيل الاخير</string>
-    <string name="last_recording_problem_description">يبدو انه هناك مشكلة في التسجيل الاخير. لو ظهرت هذه المشكلة مرة اخرى ، فحاول تغير نوعية تنسيق الملفات من الاعدادات.</string>
+    <string name="last_recording_problem_description">يبدو انه هناك مشكلة في التسجيل الاخير. لو ظهرت هذه المشكلة مرة اخرى ، فحاول تغير نوعية تنسيق الملفات او مصدر الصوت من الاعدادات.</string>
     <string name="read_instructions">اقرأ التعليمات</string>
     <string name="about">حول</string>
     <string name="translations">الترجمة</string>
@@ -147,6 +147,7 @@
     <string name="delay_for_outgoing_calls">تأخير تسجيل المكالمات الصادره</string>
 
     <string name="enabled">تمكين</string>
-    <string name="disabled"/>
+    <string name="disabled">يبدو انه هناك مشكلة في التسجيل الاخير. لو ظهرت هذه المشكلة مرة اخرى ، فحاول تغير نوعية تنسيق الملفات او مصدر الصوت من الاعدادات.</string>
     <string name="new_recordings">تسجيلات جديده</string>
+    <string name="persistent_notifications">يبدو انه هناك مشكلة في التسجيل الاخير. لو ظهرت هذه المشكلة مرة اخرى ، فحاول تغير نوعية تنسيق الملفات او مصدر الصوت من الاعدادات.</string>
     </resources>
