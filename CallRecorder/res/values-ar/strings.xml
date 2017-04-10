@@ -150,4 +150,69 @@
     <string name="disabled">يبدو انه هناك مشكلة في التسجيل الاخير. لو ظهرت هذه المشكلة مرة اخرى ، فحاول تغير نوعية تنسيق الملفات او مصدر الصوت من الاعدادات.</string>
     <string name="new_recordings">تسجيلات جديده</string>
     <string name="persistent_notifications">يبدو انه هناك مشكلة في التسجيل الاخير. لو ظهرت هذه المشكلة مرة اخرى ، فحاول تغير نوعية تنسيق الملفات او مصدر الصوت من الاعدادات.</string>
+    <string name="enable_persistent_notifications">تمكين الاخطارات المستمره</string>
+    <string name="usage_terms_and_privacy_policy">استخدام شروط وسياسات الخصوصيه</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">باستخدام هذا التطبيق فأنت توافق على شروط الاستخدام وسياسة الخصوصية</string>
+    <string name="supported_phones">الهواتف المدعومة</string>
+    <string name="list_of_known_configurations">قائمة تشكيلات معروفه</string>
+
+    <string name="navigation_drawer_open">القائمه المفتوحه</string>
+    <string name="navigation_drawer_close">اغلاق القائمه</string>
+    <string name="tell_a_friend">اخبر صديق</string>
+    <string name="rate_me">قيم البرنامج</string>
+    <string name="check_out_call_recorder_app_at">"مهلا! تحقق من التطبيق تسجيل المكالمات "</string>
+    <string name="upgrade_to_premium">الترقيه للنسخه المدفوعه</string>
+    <string name="theme">المقدمه</string>
+    <string name="use_dark_theme">استخدام وضت الظلام</string>
+    <string name="call">مكالمة</string>
+    <string name="note">ملحوظة</string>
+    <string name="add_to_excluded">اضافة الي استبعاد</string>
+    <string name="rec_info">معلومات</string>
+    <string name="add">اضافة</string>
+    <string name="save"/>
+    <string name="search">بحث</string>
+    <string name="name">الاسم</string>
+    <string name="path">مسار</string>
+    <string name="size">بحجم</string>
+    <string name="thank_you_for_upgrading_to_premium">شكرا لك علي الترقيه</string>
+    <string name="restore_license">استعادة الرخصة</string>
+    <string name="app_is_not_licensed">التطبيق غير مرخص</string>
+    <string name="check_again">تحقق مرة اخري</string>
+    <string name="permissions">أذونات</string>
+    <string name="in_order_to_work_please_grand_permission">من أجل العمل بشكل صحيح، من فضلك، منح الأذونات التالية لهذا التطبيق</string>
+    <string name="read_more">اقرأ أكثر</string>
+    <string name="do_not_show_again">لا تظهر مرة أخري</string>
+
+
+    <string name="app_description_free">تطبيق تسجيل المكالمات بسيط هو أن لديها القدرة على:
+- تمكين / تعطيل تسجيل المكالمات
+- محاضر جميع المكالمات الهاتفية الخاصة بك
+- تشغيل / إيقاف تسجيل الصوت عن طريق اللمس على البند
+- حذف العناصر المسجلة
+- سجلت قفل العناصر لمنع من السيارات التنظيف
+- مشاركة عناصر سجلت (فقط في النسخة برو)
+- الحوار تأكيد: هل تريد أن تبقي دعوة المسجلة التي تظهر بعد المكالمة (فقط في النسخة برو).
+
+IF IT لا يعمل على هاتفك AT ALL
+أو أنه لا يسجل المعاكس VOICE SIDE بوضوح:
+1. محاولة لخلط إعدادات التسجيل المختلفة كما هو موضح هنا: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. ليس هناك قيود على بعض الهواتف التي لا تدعم التسجيل من خط الهاتف أو بلوتوث. فمن مشكلة برنامج تشغيل الصوت الذي أدلى به الصانع من الهاتف. قائمة أجهزة وتكوينات لهم بدعم المعروف هنا هو: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+من فضلك، لا تعطي علامات سيئة لذلك. شكرا!
+
+إذا كان لديك بعض اقتراحات أو تعليقات، يرجى زيارة موقعنا http://clevermobile.net وتتردد في الاتصال بنا</string>
+
+    <string name="app_description_pro">استدعاء تسجيل برو (بدءا من النسخة 6.6) لن يتم تحديثه من قبل وظائف جديدة ولكن سيتم العمل مثل منشط ترخيص لتمكين ميزات قسط نسخة مجانية قياسي.
+
+لا يزال سوف تعمل كما كان من قبل، ولكن من دون ميزات جديدة مثل:
+
+- واجهة مستخدم جديدة مع إمكانية التبديل بين الضوء والظلام المواضيع
+- ملاحظات للتسجيلات. إضافة، تعديل، وإزالة الملاحظات والبحث عن طريق الملاحظات.
+- طلب عدد من التسجيل.
+- وأكثر من ذلك أنه سيتم مضيفا في الإصدارات القادمة.
+
+لذلك فمن المستحسن لتثبيت نسخة مجانية القياسية واستعادة الترخيص الخاص بك هناك</string>
+
+<string name="restore_for_purchased_users">لديك لتثبيت أحدث إصدار برو، من Google Play، التي يمكنك شراؤها من قبل. وسوف يكون استخدام مثل رخصة حصول على وظائف تفعيل متميزة.</string>
+    <string name="pro_version_as_a_license">لن يتم تحديث تسجيل المكالمات Pro الإصدار من الميزات الجديدة أكثر من ذلك. سيتم استخدامها للمستخدمين الحالي باعتباره مفتاح الترخيص لتنشيط وظائف مميزة في النسخة القياسية. مزيد من المعلومات حول هذا الموضوع على موقعنا</string>
+    <string name="buy_license_in_order_to_use_app">من أجل استخدام هذا التطبيق، الرجاء، وشرائه عن طريق السوق جوجل</string>
     </resources>
