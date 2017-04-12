@@ -45,4 +45,10 @@
     <string name="faq_title">Ofte stillede spørgsmål</string>
     <string name="undo">Fortryd</string>
     <string name="faq_summary">Ofte stillede spørgsmål</string>
+    <string name="lock">Låst</string>
+    <string name="delete">Slettet</string>
+    <string name="select_all">Vælg alle</string>
+    <string name="recordings">Optagelser</string>
+    <string name="help">Hjælp</string>
+    <string name="share">Del</string>
     </resources>
