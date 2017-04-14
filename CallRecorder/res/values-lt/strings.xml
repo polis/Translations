@@ -1,3 +1,152 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="app_name">Skambučių įrašytojas</string>
+    <string name="sd">Prašau, įdėk SD kortele į telefoną</string>
+    <string name="contact">Kontaktai</string>
+    <string name="selected">Pasirinkite</string>
+    <string name="settings">Nustatymai</string>
+    <string name="notifications">Pranešimai</string>
+    <string name="notificationStatus_checkbox_title">Įjungti pranešimus</string>
+    <string name="notificationStatus_checkbox_summary">Parodyti į pranešimų dėžute prieš paskambinant</string>
+    <string name="saveRecordQuestion_checkbox_summary">Paklausti prieš gaunant įrašyta skambutį</string>
+    <string name="storage">Atmintis</string>
+    <string name="deleteRecord_title">Automatinis valytojas</string>
+    <string name="deleteRecord_summary">Ištrinti skambučiai</string>
+    <string name="recording">Įrašoma</string>
+    <string name="audioSource_title">Garso papildai</string>
+    <string name="audioChannel_title">Garso kanalas</string>
+    <string name="fileFormat_title">Failo formatas</string>
+    <string name="recordingQuality_title">Įrašymo kokybė</string>
+    <string name="email_subject">Įrašyti skambučiai</string>
+	<string name="buy_category_description">Pro versija</string>
+	<string name="buy_category_title">Nusipirk skambučių įrašytoja Pro versija</string>
+	<string name="buy_summary">Be reklamų ir su geresniais įrankiais</string>
+
+	<string name="rate">Prašau , įvertinkite šia programa</string>
+	<string name="rateOk">Gerai</string>
+	<string name="rateLater">Vėliau</string>
+    <string name="start_notification">Skambutis įrašomas</string>    
+    <string name="stop_notification">Skambutis baigėsi</string>
+
+    <string name="save_the_call">Įrašyti šitą skambutį ?</string>
+    <string name="yes">Taip</string>
+    <string name="no">Ne</string>
+
+	<string name="unknown">Nežinomas</string>
+    <string name="hidden">Paslėptas</string>
+	<string name="start_recording">Skambučių įrašytojas jau dirba !</string>
+    <string name="start_recording_details">Visi tavo skambučiai bus įrašyti.</string>
+    <string name="stop_recording">Įjungtas įrašytojas !</string>
+    <string name="stop_recording_details">Įrašytojas išjungtas.</string>
+
+    <string name="new_call">Naujas skambutis įraštas !</string>    
+    <string name="info">Informacija</string>       
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Neseniai klausti klausimai</string>
+    <string name="other_app_title">Visos programos</string>
+    <string name="other_app_summary">Iš „Clever Mobile“</string>
+
+    <string name="undo">Atgal</string>
+    <string name="deleted">Ištrintas</string>
+
+    <string name="lock">Užraktas</string>
+    <string name="share">Dalytis</string>
+    <string name="delete">Ištrinta</string>
+    <string name="select_all">Pasirinkti viską</string>
+    <string name="recordings">Įrašyti skambučiai</string>
+    <string name="help">Pagalba</string>
+    <string name="hint_tap_on_contact_photo">Paspausk ant kontakto paveikslo ,kad pasirinktum jį.</string>
+    <string name="importing_recordings">Svarbūs įrašai …</string>
+
+    <string name="buy">Pirkti</string>
+    <string name="cancel">Atšaukti</string>
+
+    <string name="pro_description">Pro versijoje yra</string>
+    <string name="share_recordings">Pasidalyk įrašymus</string>
+    <string name="dropbox_upload">Įsiunčiama į „Dropbox“</string>
+    <string name="google_drive_upload">Įsiunčiama į „Google Drive“</string>
+    <string name="advanced_botifications">Numatyti pranešimai</string>
+    <string name="no_more_ads">Nera daugiau reklamų</string>
+
+    <string name="sd_card">SD kortelė</string>
+    <string name="call_recorder_folder">Aplankas „CallRecorder“</string>
+    <string name="sd_card_memory_occupied">Panaudota atmintis</string>
+    <string name="sd_card_free_memory">Laisva atmintis</string>
+    <string name="total_files">Išviso failų</string>
+    <string name="import_recordings">Atkeliaujantys įrašymai</string>
+    <string name="run_clean_up">Viską išvalyti</string>
+    <string name="cleaning">Išvalomi seni įrašymai…</string>
+    <string name="share_via">Pasidalyti via…</string>
+
+    <string name="passcode">Slaptažodis</string>
+    <string name="enable_passcode">Įjungtas slaptažodis</string>
+    <string name="enable_passcode_description">Apsaugok savo įrašymus su slaptažodžiu kai įeisi į programa tavo slaptažodį išmes</string>
+    <string name="change_passcode">Pakeisk slaptažodį</string>
+    <string name="passcode_delete_recordings">"Ištrinti  įrašymai"</string>
+    <string name="passcode_delete_recordings_description">Jeigu 10 kartų bus neatspėtas slaptažodis iš tavo įrenginio bus ištrinti visi įrašymai</string>
+    <string name="enter_passcode">Įvesk slaptažodį</string>
+    <string name="reenter_passcode">Per nauja parašyk slaptažodį</string>
+    <string name="enter_old_passcode">Įvesk sena slaptažodį</string>
+    <string name="passcode_did_not_match">Slaptažodis nesutampa 
+Prašau, pabandyk dar karta!</string>
+    <string name="enter_new_passcode">Įrašyk naują slaptažodį</string>
+    <string name="reenter_new_passcode">Įrašyk pernauja naują slaptažodį</string>
+    <string name="wrong_passcode">Neteisingas slaptažodis. Prašau, pabandyk dar kartą !</string>
+    <string name="exit">Išėjimas</string>
+
+    <string name="cloud">Debesis</string>
+
+    <string name="dropbox">„Dropbox“</string>
+    <string name="dropbox_link">Nurodyk „Dropbox“ acounta</string>
+    <string name="dropbox_unlink">Ištrinti „Dropbox“ acounta</string>
+
+    <string name="google_drive">„Google Drive“</string>
+    <string name="google_drive_link">Nurodyk „Google Drive“ acounta</string>
+    <string name="google_drive_unlink">Ištrink „Google Drive“ acounta</string>
+    <string name="connecting_to_google_drive">Jungiamasi su „Google Drive“</string>
+
+    <string name="login">Prisiregistruok</string>
+    <string name="logout">Išsiregistruok</string>
+    <string name="sync_title">Synchronize dabar</string>
+    <string name="sync_summary">Synchronize visua įrašymus dabar</string>
+    <string name="wifi_only">WiFi tik</string>
+    <string name="wifi_only_when_sync">Synchronize ti kai prisijunktas WiFi</string>
+
+    <string name="run_pro_question_dlg_description">Tu bandai paleisti nemokama versiją skambučiu įrašytojo ,bet jau tu turi Pro versija. Ar tu norėtai paleisti Pro?</string>
+    <string name="run_pro_question_dlg_title">Paleisti Pro versija</string>
+    <string name="last_recording">Praeitas įrašymas</string>
+    <string name="last_recording_problem_description">Atrodo jog yra probliama darant praeita irašymą. Jai ši žinute kartojasi nueik į nustatymus ir pakoreguok Audio papildymus .</string>
+    <string name="read_instructions">Perskaityk instrukcija</string>
+    <string name="about">Apie</string>
+    <string name="translations">Vertimas</string>
+    <string name="translate">Vertimai</string>
+    <string name="help_translate">Padek mums išversti programa į kitas kalbas. Ar tu nori padėti?</string>
+    <string name="add_translation">Pridek vertima</string>
+
+    <string name="write_ext_storage_problem_description">Neįmanoma įrašyti į atmintį.</string>
+    <string name="allow_to_write_to_sd_card">Pasirink kur įrašyti SD kortelėje</string>
+    <string name="delete_recordings_older_then_selected_days">Visi įrašymai bus ištrinti jai jie bus senesni</string>
+    <string name="delete_recordings_on_uninstall">Visi įrašymai bus ištrinti jai ištrinsi „Skambučiu įrašytoje“</string>
+    <string name="number_of_days">Numeris dienų</string>
+
+    <string name="recording_method">Įrašoma</string>
+    <string name="no_player_app_found">Nera player programos kuri galėtų perskaityti garsa</string>
+
+    <string name="player">Media Player</string>
+    <string name="use_external_player">Naudok atsarginį player</string>
+    <string name="use_external_media_player_to_play_recordings">Naudok atsarginį media player kad galėtai girdeti</string>
+    <string name="play">Pradėti</string>
+    <string name="pause">Pauzė</string>
+    <string name="not_able_to_import_to_pro">Jeigu nori tai mirk skersas arba pisiu slopa kaka masala dieka jasa</string>
+    <string name="not_able_to_import">"Kiek kartu marau tai pats nesamaoningoausaias dalykas koky esu matoes tuo pasiu as nezinau ka as isviso rasau. "</string>
+
+    <string name="number_of_seconds">Numeris sekundžiu</string>
+    <string name="delay_for_incoming_calls">Kaskart ateina skamburi sekundes</string>
+    <string name="delay_for_outgoing_calls">Kasdien iškeliaujantis skambuti sekundes</string>
+
+    <string name="enabled">Įjungta</string>
+    <string name="disabled">Neįjungta</string>
+    <string name="new_recordings">Naujas įrašymas</string>
+    <string name="persistent_notifications">Pranešimas</string>
+    <string name="enable_persistent_notifications">Įjungti persistent pranešimus</string>
+    </resources>
