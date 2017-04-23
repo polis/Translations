@@ -112,4 +112,24 @@
     <string name="wifi_only">Somente WiFi</string>
     <string name="wifi_only_when_sync">Sincronizar apenas quando conectado ao WiFi</string>
 
+    <string name="run_pro_question_dlg_title">Executar a versão Pro</string>
+    <string name="last_recording">Última gravação</string>
+    <string name="last_recording_problem_description">Parece que ocorreu um problema durante a última gravação. Se está mensagem aparecer de novo, por favor, tente mudar o método de gravação ou á fonte do áudio nas definições.</string>
+    <string name="read_instructions">Leia as instruções</string>
+    <string name="translations">Traduções</string>
+    <string name="translate">Traduzir</string>
+    <string name="help_translate">Ajude nos a traduzir as opcoes para a sua língua nativa. Gostaria de continuar?</string>
+    <string name="add_translation">Adicionar tradução</string>
+
+    <string name="write_ext_storage_problem_description">Não foi possível gravar dar a memória externa</string>
+    <string name="allow_to_write_to_sd_card">Permitir a gravação para o cartão de memória externo</string>
+    <string name="delete_recordings_older_then_selected_days">Todas as gravações com mais do que os dias selecionados serão removidas automaticamente</string>
+    <string name="delete_recordings_on_uninstall">Todas as gravações serão apagadas se a aplicação Call Record for removida</string>
+    <string name="number_of_days">Número de dias</string>
+
+    <string name="recording_method">Método de gravação</string>
+    <string name="no_player_app_found">Nenhuma App de reprodução encontrada para este tipo de audio</string>
+
+    <string name="use_external_player">Por favor utilize um player externo</string>
+    <string name="pause">Pausa</string>
     </resources>
