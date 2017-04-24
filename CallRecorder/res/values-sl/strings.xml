@@ -187,32 +187,8 @@
 
 
     <string name="pro_version_as_a_license">Call Recorder Pro version will not be updated by new features any more. It will be used for current users as a license key to activate premium functionality in the standart version. More information about it on our website.</string>
-    <string name="app_description_free">Simple Call Recorder application that has an ability to:
-- Enable/Disable call recording
-- Records all your phone calls
-- Play/Stop recorded audio by touch on the item
-- Delete recorded items
-- Lock recorded items to prevent from auto-cleaning
-- Share recorded items (only in Pro version)
-- Confirmation dialog: Would you like to keep recorded call that is shown just after the call (only in Pro version).
+    <string name="app_description_free"></string>
 
-IF IT DOES NOT WORK ON YOUR PHONE AT ALL
-OR IT DOES NOT RECORD OPPOSITE SIDE VOICE CLEARLY:
-1. Try to mix different recording settings as it described here: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
-2. There is a limitation for some phones that do not support recording from phone line or bluetooth. It is audio driver problem made by manufacturer of the phone. List of known supported devices and configurations for them is here: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
-Please, not give bad marks for that. Thank you!
-
-If you have some suggestions or comments, please visit our site http://clevermobile.net and feel free to contact us.</string>
-
-    <string name="app_description_pro">Call Recorder Pro (starting from ver 6.6) will no longer be updated by new functionality but will be working like a license activator to enable premium features for standard Free version.
-
-It still will be working as before, but without new features like:
-
-- New UI with possibility to switch between Light and Dark themes
-- Notes for recordings. Add, edit, remove notes and search by notes.
-- Dial number from recording.
-- and more that will be adding in the next releases.
-
-So it is recommended to install standard free version and restore your license there</string>
+    <string name="app_description_pro"/>
 
 </resources>
