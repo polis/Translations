@@ -169,7 +169,7 @@
     <string name="add_to_excluded">اضافة الي استبعاد</string>
     <string name="rec_info">معلومات</string>
     <string name="add">اضافة</string>
-    <string name="save"/>
+    <string name="save">حفظ</string>
     <string name="search">بحث</string>
     <string name="name">الاسم</string>
     <string name="path">مسار</string>
@@ -215,4 +215,5 @@ IF IT لا يعمل على هاتفك AT ALL
 <string name="restore_for_purchased_users">لديك لتثبيت أحدث إصدار برو، من Google Play، التي يمكنك شراؤها من قبل. وسوف يكون استخدام مثل رخصة حصول على وظائف تفعيل متميزة.</string>
     <string name="pro_version_as_a_license">لن يتم تحديث تسجيل المكالمات Pro الإصدار من الميزات الجديدة أكثر من ذلك. سيتم استخدامها للمستخدمين الحالي باعتباره مفتاح الترخيص لتنشيط وظائف مميزة في النسخة القياسية. مزيد من المعلومات حول هذا الموضوع على موقعنا</string>
     <string name="buy_license_in_order_to_use_app">من أجل استخدام هذا التطبيق، الرجاء، وشرائه عن طريق السوق جوجل</string>
+    <string name="close">اغلاق</string>
     </resources>
