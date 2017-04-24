@@ -71,4 +71,27 @@
     <string name="sd_card_free_memory">Volná paměť</string>
     <string name="import_recordings">"Import nahrávek "</string>
     <string name="hint_tap_on_contact_photo">Stiskněte obrázek kontaktu pro výběr položky.</string>
+    <string name="pro_description">Placená verze obsahuje</string>
+    <string name="share_recordings">Sdílet záznamy</string>
+    <string name="no_more_ads">Bez reklam</string>
+
+    <string name="call_recorder_folder">Složka \"CallRecorder\"</string>
+    <string name="cleaning">Mazání starých záznamů</string>
+    <string name="share_via">Sdílet pomocí…</string>
+
+    <string name="passcode">Heslo</string>
+    <string name="enable_passcode">Použít heslo</string>
+    <string name="enable_passcode_description">Chraňte své záznamy heslem při každém spuštění aplikace</string>
+    <string name="change_passcode">Změna hesla</string>
+    <string name="passcode_delete_recordings">Smazat záznamy</string>
+    <string name="passcode_delete_recordings_description">"Smazat všechny záznamy z tohoto zařízení po 10 neúspěšných zadání hesla "</string>
+    <string name="enter_passcode">"Zadej heslo "</string>
+    <string name="reenter_passcode">Opakuj zadání hesla</string>
+    <string name="enter_old_passcode">Zadej původní heslo</string>
+    <string name="passcode_did_not_match">Zadaná hesla se neshodují, opakuj zafání</string>
+    <string name="enter_new_passcode">Zadej nové heslo</string>
+    <string name="reenter_new_passcode">Opakuj zadání nového hesla</string>
+    <string name="wrong_passcode">Chybné heslo, opakuj zadání</string>
+    <string name="exit">Ukončit</string>
+
     </resources>
