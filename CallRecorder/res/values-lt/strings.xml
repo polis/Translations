@@ -150,6 +150,8 @@ Prašau, pabandyk dar karta!</string>
     <string name="persistent_notifications">Pranešimas</string>
     <string name="enable_persistent_notifications">Įjungti persistent pranešimus</string>
     <string name="usage_terms_and_privacy_policy">Naudojimo sąlygos ir privatumo politika</string>
-    <string name="list_of_known_configurations">Žinomų nustatytų sąrašas</string>
+    <string name="list_of_known_configurations">Sąrašas žinomų nustatymų</string>
 
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Naudodami šią programą Jūs sutinkate su naudojimo sąlygomis ir privatumo politika</string>
+    <string name="supported_phones">Palaikomi telefonai</string>
     </resources>
