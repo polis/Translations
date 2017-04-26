@@ -93,7 +93,7 @@
     <string name="wrong_passcode">Kodkalim i gabuar. Ju lutemi, provoni përsëri!</string>
     <string name="exit">Dilni</string>
 
-    <string name="cloud">Sinkronizimi</string>
+    <string name="cloud"></string>
 
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Lidhni llogarinë e Dropbox</string>
