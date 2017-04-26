@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-<string name="app_name">Skambučių įrašytojas</string>
+<string name="app_name">Call Recorder</string>
     <string name="sd">Prašau, įdėk SD kortele į telefoną</string>
     <string name="contact">Kontaktai</string>
     <string name="selected">Pasirinkite</string>
