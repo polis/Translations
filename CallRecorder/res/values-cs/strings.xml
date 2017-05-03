@@ -94,4 +94,7 @@
     <string name="wrong_passcode">Chybné heslo, opakuj zadání</string>
     <string name="exit">Ukončit</string>
 
+    <string name="importing_recordings">Import záznamů</string>
+
+    <string name="google_drive_upload">Uložit na disk Google</string>
     </resources>
