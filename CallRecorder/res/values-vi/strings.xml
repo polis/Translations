@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Ghi âm cuộc gọi</string>
     <string name="sd">Hãy cài thẻ nhớ SD vào điện thoại</string>
@@ -56,7 +56,7 @@
     <string name="recordings">Bản ghi âm</string>
     <string name="help">Trợ giúp</string>
     <string name="hint_tap_on_contact_photo">Chạm vào ảnh liên hệ để chọn bản ghi.</string>
-    <string name="importing_recordings">Đang nhập bản ghi&#8230;</string>
+    <string name="importing_recordings">Đang nhập bản ghi…</string>
 
     <string name="buy">Mua</string>
     <string name="cancel">Hủy bỏ</string>
@@ -75,8 +75,8 @@
     <string name="total_files">Tổng số tệp</string>
     <string name="import_recordings">Nhập bản ghi âm</string>
     <string name="run_clean_up">Xóa ngay bây giờ</string>
-    <string name="cleaning">Xóa bản ghi cũ&#8230;</string>
-    <string name="share_via">Chia sẻ qua&#8230;</string>
+    <string name="cleaning">Xóa bản ghi cũ…</string>
+    <string name="share_via">Chia sẻ qua…</string>
 
     <string name="passcode">Mật mã</string>
     <string name="enable_passcode">BẬT mật mã</string>
@@ -127,4 +127,14 @@
     <string name="delete_recordings_on_uninstall">Xóa tất cả bản ghi nếu gỡ bỏ ứng dụng Ghi Âm Cuộc Gọi</string>
     <string name="number_of_days">Tổng số ngày</string>
 
-</resources>
+<string name="add_translation">Thêm bản dịch</string>
+
+    <string name="recording_method">Phương pháp ghi âm</string>
+    <string name="no_player_app_found">Không có trình chơi nhạc nào để mở âm ghi này</string>
+
+    <string name="player">Chơi đa phương tiện</string>
+    <string name="use_external_player">Sử dụng trình chơi khác</string>
+    <string name="use_external_media_player_to_play_recordings">Sử dụng trình chơi ngoài để mở bản ghi này</string>
+    <string name="play">Chơi</string>
+    <string name="pause">Tạm dừng</string>
+    </resources>
