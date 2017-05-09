@@ -1,3 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="contact">Kontakti</string>
+    <string name="selected">iezīmēts</string>
+    <string name="settings">Iestatījumi</string>
+    <string name="notifications">Paziņojumi</string>
+    <string name="notificationStatus_checkbox_title">Ieslēgt paziņojumus</string>
+    <string name="notificationStatus_checkbox_summary">Rādīt paziņojumu joslā pēc katra ierakstītā zvana</string>
+    <string name="saveRecordQuestion_checkbox_summary">Jautāt pēc katra ierakstītā zvana</string>
+    <string name="storage">Glabātuve</string>
+    <string name="deleteRecord_title">Automātiskā tīrīšana</string>
+    <string name="deleteRecord_summary">Izdzēst ierakstus</string>
+    <string name="recording">Ieraksti</string>
+    <string name="audioSource_title">Skaņas avots</string>
+    <string name="audioChannel_title">Skaņas kanāls</string>
+    <string name="fileFormat_title">Faila formāts</string>
+    <string name="recordingQuality_title">Ierakstīšanas kvalitāte</string>
+    <string name="email_subject">Ierakstītie zvani</string>
+	<string name="buy_category_description">Pro versija</string>
+	<string name="buy_category_title">Nopirkt Zvanu Ierakstītāja Pro versiju</string>
+	<string name="app_name">Zvanu Ierakstītājs</string>
+    <string name="sd">Lūdzu, ievietojiet SD karti telefonā!</string>
+    <string name="buy_summary">Bez Reklāmām un ar papildus iespējām</string>
+
+	<string name="rate">Lūdzu, novērtējiet šo aplikāciju</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">Vēlāk</string>
+    <string name="start_notification">Zvanu Ierakstītājs Darbojas</string>    
+    <string name="stop_notification">Zvanu Ierakstītājs Apstādināts</string>
+
+    <string name="save_the_call">Saglabāt šo zvanu?</string>
+    <string name="yes">Jā</string>
+    <string name="no">Nē</string>
+
+	<string name="unknown">Nezināms</string>
+    <string name="hidden">Paslēpts</string>
+	<string name="start_recording">Zvanu Ierakstītājs darbojas!</string>
+    <string name="start_recording_details">Visi jūsu turpmākie zvani tiks saglabāti.</string>
+    <string name="stop_recording">Ieslēdz rakstītāju!</string>
+    <string name="stop_recording_details">Ierakstītājs pašlaik ir izslēgts.</string>
+
+    <string name="new_call">Jauns zvans ir ierakstīts!</string>    
+    <string name="info">Informācija</string>       
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Biežāk uzdotie jautājumi</string>
+    <string name="other_app_title">Visas aplikācijas</string>
+    <string name="other_app_summary">No “Clever Mobile”</string>
+
+    <string name="undo">atsaukt</string>
+    <string name="deleted">izdzēst</string>
+
+    <string name="share">Kopīgot</string>
+    <string name="delete">Izdzēst</string>
+    <string name="select_all">Iezīmēt visu</string>
+    <string name="recordings">Ieraksti</string>
+    <string name="help">Palīdzība</string>
+    </resources>
