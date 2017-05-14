@@ -132,4 +132,6 @@
 
     <string name="use_external_player">Por favor utilize um player externo</string>
     <string name="pause">Pausa</string>
+    <string name="run_pro_question_dlg_description"/>
+    <string name="about">Sobre</string>
     </resources>
