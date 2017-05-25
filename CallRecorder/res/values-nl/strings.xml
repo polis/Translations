@@ -114,12 +114,12 @@
     <string name="run_pro_question_dlg_description">Je probeert de gratis versie van Call Recorder (Gespreksopnemer) te starten, maar je hebt de Pro-versie al geïnstalleerd. Wilt u de Pro-versie gebruiken?</string>
     <string name="run_pro_question_dlg_title">Pro-versie starten</string>
     <string name="last_recording">Laatste opname</string>
-    <string name="last_recording_problem_description">Er deed zich een problem voor bij de laatste opname. Als dit bericht blijft verschijnen, probeer dan het Bestandstype of Audiobron te wijzigen in de Instellingen.</string>
+    <string name="last_recording_problem_description">Er deed zich een probleem voor bij de laatste opname. Als dit bericht blijft verschijnen, probeer dan de Opneem methode of Audiobron te wijzigen in de Instellingen.</string>
     <string name="read_instructions">Instructies lezen</string>
     <string name="about">Over</string>
     <string name="translations">Vertalingen</string>
     <string name="translate">Vertalen</string>
-    <string name="help_translate">Help ons naar jouw moedertaal te vertalen</string>
+    <string name="help_translate">Help ons met het vertalen van de app naar jouw moedertaal door middel van onze website. Weet je zeker dat je dit wilt voortzetten?</string>
 
     <string name="write_ext_storage_problem_description">Opslaan op extern opslagmedium mislukt.</string>
 
@@ -136,4 +136,6 @@
     <string name="use_external_media_player_to_play_recordings">Gebruik externe Media speler om opnames te beluisteren</string>
     <string name="play">Afspelen</string>
     <string name="pause">Pauze</string>
+    <string name="add_translation">Vertaling toevoegen</string>
+
     </resources>
