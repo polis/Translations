@@ -216,4 +216,5 @@ IF IT لا يعمل على هاتفك AT ALL
     <string name="pro_version_as_a_license">لن يتم تحديث تسجيل المكالمات Pro الإصدار من الميزات الجديدة أكثر من ذلك. سيتم استخدامها للمستخدمين الحالي باعتباره مفتاح الترخيص لتنشيط وظائف مميزة في النسخة القياسية. مزيد من المعلومات حول هذا الموضوع على موقعنا</string>
     <string name="buy_license_in_order_to_use_app">من أجل استخدام هذا التطبيق، الرجاء، وشرائه عن طريق السوق جوجل</string>
     <string name="close">اغلاق</string>
+    <string name="number">الرقم</string>
     </resources>
