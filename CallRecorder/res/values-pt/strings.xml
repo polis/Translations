@@ -132,6 +132,13 @@
 
     <string name="use_external_player">Por favor utilize um player externo</string>
     <string name="pause">Pausa</string>
-    <string name="run_pro_question_dlg_description"/>
+    <string name="run_pro_question_dlg_description">Está a tentar abrir a versão gratuita de Call Recorder mas já tem instalada a versão profissional. Prefere ficar com a versão profissional?</string>
     <string name="about">Sobre</string>
+    <string name="player">Leitor de Media</string>
+    <string name="use_external_media_player_to_play_recordings">Usar um leitor multimédia externo para reproduzir as gravações</string>
+    <string name="play">Reproduzir</string>
+    <string name="not_able_to_import_to_pro">Se esta opção estiver Activada, então não será possível importar automaticamente gravações para a versão Pro. Além disso, faça cópias de segurança de todas as suas gravações importantes caso decida desinstalar a aplicação, uma vez que serão todas apagadas.</string>
+    <string name="not_able_to_import">Se esta opção estiver ativada e você decidir desinstalar o aplicativo, faça backup de todas as gravações importantes, pois todas elas serão excluídas e não será possível importar automaticamente gravações depois de instalar o aplicativo novamente.</string>
+
+    <string name="number_of_seconds">Número de segundos</string>
     </resources>
