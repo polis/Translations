@@ -93,7 +93,7 @@
     <string name="wrong_passcode">Грешна парола. Моля, опитай отново!</string>
     <string name="exit">Изход</string>
 
-    <string name="cloud">Синхронизация</string>
+    <string name="cloud">Облак</string>
 
     <string name="dropbox">Услуга на Dropbox</string>
     <string name="dropbox_link">Линк към Dropbox профил</string>
