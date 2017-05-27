@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-<string name="app_name">Запис на обажданията</string>
+<string name="app_name">Call Recorder</string>
     <string name="sd">Моля, поставете SD карта в телефона си!</string>
     <string name="contact">Контакти</string>
     <string name="selected">избрани</string>
@@ -119,7 +119,7 @@
     <string name="about">Относно</string>
     <string name="translations">Преводи</string>
     <string name="translate">Превод</string>
-    <string name="help_translate">Помогнете ни с превода на родния си език</string>
+    <string name="help_translate">Помогнете ни с превода на родния си език Като използвате нашия уебсаит .</string>
 
     <string name="write_ext_storage_problem_description">Невъзможен е запис на карта за съхранение.</string>
     <string name="allow_to_write_to_sd_card">Позволи запис на външна SD карта</string>
@@ -179,4 +179,6 @@ Pro версия на Call Recorder приложение има способно
 
 <string name="add_translation">Въведете превод</string>
 
+    <string name="number_of_seconds">1</string>
+    <string name="delay_for_incoming_calls">Delay for incoming calls in seconds</string>
     </resources>
