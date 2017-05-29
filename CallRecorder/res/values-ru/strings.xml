@@ -106,10 +106,10 @@
 
     <string name="login">Войти</string>
     <string name="logout">Выйти</string>
-    <string name="sync_title">Синхронизировать</string>
-    <string name="sync_summary">Синхронизировать все записи</string>
+    <string name="sync_title">Загрузить сейчас</string>
+    <string name="sync_summary">Загрузить все записи в облако</string>
     <string name="wifi_only">Только WiFi</string>
-    <string name="wifi_only_when_sync">Синхронизировать только при подключении через WiFi</string>
+    <string name="wifi_only_when_sync">Загружать только при подключении к WiFi</string>
 
     <string name="run_pro_question_dlg_description">Вы пытаетесь запустить бесплатную версию Call Recorder, но уже установили Pro. Запустить Pro?</string>
     <string name="run_pro_question_dlg_title">Запустить Pro</string>
@@ -219,5 +219,8 @@
     <string name="read_more">Читать больше</string>
     <string name="do_not_show_again">Не показывать больше</string>
 
+
+    <string name="delete_uploaded">Удалить загруженные</string>
+    <string name="delete_after_upload_to_cloud">Автоматически уделять загруженные записи с телефона</string>
 
     </resources>
