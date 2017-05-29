@@ -93,7 +93,7 @@
     <string name="wrong_passcode">Password errata. Per favore, prova ancora!</string>
     <string name="exit">Esci</string>
 
-    <string name="cloud">Nube</string>
+    <string name="cloud">Nuvola</string>
 
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Collega ad account Dropbox</string>
