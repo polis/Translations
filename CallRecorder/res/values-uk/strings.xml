@@ -105,10 +105,10 @@
 
     <string name="login">Увійти</string>
     <string name="logout">Вийти</string>
-    <string name="sync_title">Синхронізація</string>
-    <string name="sync_summary">Синхронізувати зараз</string>
+    <string name="sync_title">Відвантажити зараз</string>
+    <string name="sync_summary">Відвантажити усі записи в хмару</string>
     <string name="wifi_only">Тільки WiFi</string>
-    <string name="wifi_only_when_sync">Синхронізовувати тільки при підключенні через WiFi</string>
+    <string name="wifi_only_when_sync">Відвантажувати тільки при підключенні через WiFi</string>
 
     <string name="run_pro_question_dlg_description">Ви намагаєтесь запустити пробну версію запису дзвінків, коли на телефоні установлено професійну версію. Запустити професійну?</string>
     <string name="run_pro_question_dlg_title">Запустити Про</string>
@@ -217,4 +217,7 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
 Додаток буде працювати як і раніше але без нових функції які є в безкоштовній версії.
 Тому рекомендується встановити стандартну безкоштовну версію і відновити ліцензію там.</string>
 
-</resources>
+<string name="delete_uploaded">Видалити завантажені</string>
+    <string name="delete_after_upload_to_cloud">Автоматично видаляти завантажені записи з телефону</string>
+
+    </resources>
