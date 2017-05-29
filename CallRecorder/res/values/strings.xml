@@ -106,10 +106,10 @@
 
     <string name="login">Log In</string>
     <string name="logout">Log Out</string>
-    <string name="sync_title">Synchronize now</string>
-    <string name="sync_summary">Synchronize all recordings now</string>
+    <string name="sync_title">Upload now</string>
+    <string name="sync_summary">Upload all recordings now</string>
     <string name="wifi_only">WiFi only</string>
-    <string name="wifi_only_when_sync">Synchronize only when connected to WiFi</string>
+    <string name="wifi_only_when_sync">Upload only when connected to WiFi</string>
 
     <string name="run_pro_question_dlg_description">You are trying to run the Free version of Call Recorder but have already installed the Pro one. Would you like to go with the Pro?</string>
     <string name="run_pro_question_dlg_title">Run Pro version</string>
@@ -185,7 +185,8 @@
     <string name="in_order_to_work_please_grand_permission">In order to work properly, please, grant following permissions for this application.</string>
     <string name="read_more">Read more</string>
     <string name="do_not_show_again">Do not show again</string>
-
+    <string name="delete_uploaded">Delete uploaded</string>
+    <string name="delete_after_upload_to_cloud">Automatically delete uploded recording from the phone</string>
 
     <string name="app_description_free">Simple Call Recorder application that has an ability to:
 - Enable/Disable call recording
