@@ -106,7 +106,7 @@
 
     <string name="login">Connexion</string>
     <string name="logout">Déconnexion</string>
-    <string name="sync_title">Synchroniser maintenant</string>
+    <string name="sync_title"></string>
     <string name="sync_summary">Synchroniser tous les enregistrements maintenant</string>
     <string name="wifi_only">Seulement par Wifi</string>
     <string name="wifi_only_when_sync">Synchroniser uniquement par WiFi</string>
@@ -114,7 +114,7 @@
     <string name="run_pro_question_dlg_description">Vous essayez d\'exécuter la version gratuite de Call Recorder, mais vous avez déjà installé la Pro. Voulez-vous continuez avec la version Pro?</string>
     <string name="run_pro_question_dlg_title">Exécuter la version Pro</string>
     <string name="last_recording">Dernier enregistrement</string>
-    <string name="last_recording_problem_description"></string>
+    <string name="last_recording_problem_description"/>
     <string name="read_instructions">Lisez les instructions</string>
     <string name="about">À propos</string>
     <string name="translations">Traductions</string>
