@@ -187,6 +187,10 @@
     <string name="do_not_show_again">Do not show again</string>
     <string name="delete_uploaded">Delete uploaded</string>
     <string name="delete_after_upload_to_cloud">Automatically delete uploded recording from the phone</string>
+    <string name="call_is_recording_now">Call is recording now</string>
+    <string name="error_during_recording">Error during recording</string>
+    <string name="tap_here_to_troubleshoot">Tap here to troubleshoot</string>
+    <string name="recording_problem">Recording problem?</string>
 
     <string name="app_description_free">Simple Call Recorder application that has an ability to:
 - Enable/Disable call recording
