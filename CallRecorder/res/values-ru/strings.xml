@@ -223,4 +223,9 @@
     <string name="delete_uploaded">Удалить загруженные</string>
     <string name="delete_after_upload_to_cloud">Автоматически уделять загруженные записи с телефона</string>
 
+    <string name="call_is_recording_now">Звонок записывается</string>
+    <string name="error_during_recording">Ошибка записи</string>
+    <string name="tap_here_to_troubleshoot">Нажмите здесь чтобы устранить неполадки</string>
+    <string name="recording_problem">Проблема с записью?</string>
+
     </resources>
