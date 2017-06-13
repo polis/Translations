@@ -220,4 +220,9 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
 <string name="delete_uploaded">Видалити завантажені</string>
     <string name="delete_after_upload_to_cloud">Автоматично видаляти завантажені записи з телефону</string>
 
+    <string name="call_is_recording_now">Дзвінок записується</string>
+    <string name="error_during_recording">Помилка під час запису</string>
+    <string name="tap_here_to_troubleshoot">Натисніть тут щоб усунути несправності</string>
+    <string name="recording_problem">Проблема з записом?</string>
+
     </resources>
