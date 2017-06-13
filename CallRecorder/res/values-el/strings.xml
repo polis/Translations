@@ -7,29 +7,29 @@
     <string name="settings">Ρυθμίσεις</string>
     <string name="notifications">Ειδοποιήσεις</string>
     <string name="notificationStatus_checkbox_title">Ενεργοποίηση ειδοποιήσεων</string>
-    <string name="notificationStatus_checkbox_summary">Εμφάνιση κοινοποίησης στη γραμμή εργασιών μετά από κάθε κλήση που καταγράφεται</string>
+    <string name="notificationStatus_checkbox_summary">Εμφάνιση στη μπάρα ειδοποιήσεων μετά από κάθε κλήση που καταγράφεται</string>
     <string name="saveRecordQuestion_checkbox_summary">Ερώτηση μετά από κάθε κλήση που καταγράφεται</string>
     <string name="storage">Αποθήκη</string>
     <string name="deleteRecord_title">Αυτόματος καθαρισμός</string>
     <string name="deleteRecord_summary">Διαγραφή εγγραφών</string>
-    <string name="recording">Ρυθμίσεις εγγραφής</string>
+    <string name="recording">Εγγραφή</string>
     <string name="audioSource_title">Πηγή ήχου</string>
     <string name="audioChannel_title">Κανάλι ήχου</string>
     <string name="fileFormat_title">Μορφή αρχείου</string>
     <string name="recordingQuality_title">Ποιότητα εγγραφής</string>
-    <string name="email_subject">Καταγεγραμμένες κλήσης</string>
+    <string name="email_subject">Καταγεγραμμένες κλήσεις</string>
 	<string name="buy_category_description">Pro έκδοση</string>
-	<string name="buy_category_title">Αγορά της έκδοσης Call Recorder Pro</string>
+	<string name="buy_category_title">Αγόρασε την Pro έκδοση του Call Recorder</string>
 	<string name="buy_summary">Χωρίς διαφημίσεις και με επιπλέον χαρακτηριστικά</string>
 
-	<string name="rate">Παρακαλούμε, βαθμολογήστε αυτή την εφαρμογή</string>
+	<string name="rate">Παρακαλώ, βαθμολογήστε αυτή την εφαρμογή</string>
 	<string name="rateOk">Εντάξει</string>
 	<string name="rateLater">Αργότερα</string>
     <string name="start_notification">Η ηχογράφηση ξεκίνησε</string>
     <string name="stop_notification">Η ηχογράφηση σταμάτησε</string>
 
     <string name="save_the_call">Αποθήκευση αυτής της κλήσης;</string>
-    <string name="yes">Ναί</string>
+    <string name="yes">Ναι</string>
     <string name="no">Όχι</string>
 
 	<string name="unknown">Άγνωστο</string>
@@ -50,7 +50,7 @@
     <string name="deleted">Διαγραμμένα</string>
 
     <string name="lock">Κλείδωμα</string>
-    <string name="share">Μοιράσου το</string>
+    <string name="share">Κοινοποίηση</string>
     <string name="delete">Διαγραφή</string>
     <string name="select_all">Επιλογή όλων</string>
     <string name="recordings">Ηχογραφήσεις</string>
@@ -70,9 +70,9 @@
 
     <string name="sd_card">SD κάρτα</string>
     <string name="call_recorder_folder">Φάκελος \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">- Μνήμη σε χρήση</string>
-    <string name="sd_card_free_memory">- Ελεύθερη μνήμη</string>
-    <string name="total_files">- Συνολικά αρχεία</string>
+    <string name="sd_card_memory_occupied">Μνήμη σε χρήση</string>
+    <string name="sd_card_free_memory">Ελεύθερη μνήμη</string>
+    <string name="total_files">Συνολικά αρχεία</string>
     <string name="import_recordings">Εισαγωγή ηχογραφήσεων</string>
     <string name="run_clean_up">Καθαρισμός τώρα</string>
     <string name="cleaning">Καθαρισμός παλιών ηχογραφήσεων…</string>
@@ -80,7 +80,7 @@
 
     <string name="passcode">Κωδικός πρόσβασης</string>
     <string name="enable_passcode">Ενεργοποίηση κωδικού πρόσβασης</string>
-    <string name="enable_passcode_description">Προστατέψτε τις εγγραφές σας με τον έλεγχο ταυτότητας κωδικό πρόσβασης κάθε φορά που ξεκινάτε την εφαρμογή</string>
+    <string name="enable_passcode_description">Προστατέψτε τις εγγραφές σας με τον κωδικό πρόσβασης κάθε φορά που ξεκινάτε την εφαρμογή</string>
     <string name="change_passcode">Αλλαγή κωδικού πρόσβασης</string>
     <string name="passcode_delete_recordings">Διαγραφή των εγγραφών</string>
     <string name="passcode_delete_recordings_description">Διαγραφή όλων των εγγραφών από αυτή τη συσκευή μετά από 10 αποτυχημένες προσπάθειες του κωδικού πρόσβασης</string>
@@ -90,7 +90,7 @@
     <string name="passcode_did_not_match">Οι κωδικοί πρόσβασης δεν ταιριάζουν. Παρακαλώ προσπάθησε ξανά!</string>
     <string name="enter_new_passcode">Πληκτρολογήστε τον νέο κωδικό πρόσβασης</string>
     <string name="reenter_new_passcode">Εισάγετε ξανά το νέο κωδικό πρόσβασης</string>
-    <string name="wrong_passcode">Λάθος κωδικός. Παρακαλώ προσπάθησε ξανά!</string>
+    <string name="wrong_passcode">Λάθος κωδικός. Παρακαλώ, προσπάθησε ξανά!</string>
     <string name="exit">Έξοδος</string>
 
     <string name="cloud">Συγχρονισμός</string>
@@ -148,7 +148,7 @@
     <string name="navigation_drawer_close">Κλείσε το μενού</string>
     <string name="tell_a_friend">Πές το σε ένα φίλο</string>
     <string name="rate_me">Αξιολόγησέ με</string>
-    <string name="check_out_call_recorder_app_at">Γειά! Ρίξε μια ματιά στο Call Recorder στο</string>
+    <string name="check_out_call_recorder_app_at">Γεια! Ρίξε μια ματιά στο Call Recorder στο</string>
     <string name="upgrade_to_premium">Αναβάθμισε σε Premium</string>
     <string name="theme">Φόντο</string>
     <string name="use_dark_theme">Χρησιμοποίησε το σκοτεινό φόντο</string>
