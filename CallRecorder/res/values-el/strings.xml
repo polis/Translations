@@ -207,4 +207,9 @@
 
 Αν έχεις κάποιες προτάσεις ή σχόλια, παρακαλώ επισκέψου την ιστοσελίδα μας http://clevermobile.net και επικοινώνησε μαζί μας.</string>
 
+    <string name="call_is_recording_now">Η κλήση καταγράφεται τώρα</string>
+    <string name="error_during_recording">Σφάλμα κατά την καταγραφή</string>
+    <string name="tap_here_to_troubleshoot">Πάτα εδώ για διάγνωση προβλημάτων</string>
+    <string name="recording_problem">Πρόβλημα καταγραφής;</string>
+
     </resources>
