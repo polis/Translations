@@ -141,4 +141,56 @@
     <string name="not_able_to_import">Se esta opção estiver ativada e você decidir desinstalar o aplicativo, faça backup de todas as gravações importantes, pois todas elas serão excluídas e não será possível importar automaticamente gravações depois de instalar o aplicativo novamente.</string>
 
     <string name="number_of_seconds">Número de segundos</string>
+    <string name="disabled">Desativado</string>
+    <string name="new_recordings">Novas gravações</string>
+    <string name="delay_for_incoming_calls">Atraso para chamadas recebidas (em segundos)</string>
+    <string name="delay_for_outgoing_calls">Atraso para chamadas efetuadas (em segundos)</string>
+
+    <string name="enabled">Ativado</string>
+    <string name="persistent_notifications">Notificações recorrentes</string>
+    <string name="enable_persistent_notifications">Notificações recorrentes ativadas</string>
+    <string name="usage_terms_and_privacy_policy">Termos de Uso e Política de Privacidade</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Ao utilizar esse aplicativo você concorda com os Termos de Uso e com a Política de Privacidade</string>
+    <string name="supported_phones">Aparelhos suportados</string>
+    <string name="list_of_known_configurations">Lista de configurações salvas</string>
+
+    <string name="navigation_drawer_open">Abrir o Menu</string>
+    <string name="navigation_drawer_close">Fechar o Menu</string>
+    <string name="tell_a_friend">Compartilhar</string>
+    <string name="rate_me">Avalie-nos</string>
+    <string name="check_out_call_recorder_app_at">Hey! Conheça O Gravador de Chamadas em</string>
+    <string name="upgrade_to_premium">Atualize para a versão Premium</string>
+    <string name="theme">Tema</string>
+    <string name="use_dark_theme">Usar o Tema Escuro</string>
+    <string name="call">Ligação</string>
+    <string name="note">Nota</string>
+    <string name="add_to_excluded">Adicionar aos Itens Excluídos</string>
+    <string name="rec_info">Informações sobre Gravações</string>
+    <string name="add">Adicionar</string>
+    <string name="save">Salvar</string>
+    <string name="close">Fechar</string>
+    <string name="search">Buscar</string>
+    <string name="name">Nome</string>
+    <string name="number">Número</string>
+    <string name="path">Caminho</string>
+    <string name="size">Tamanho</string>
+    <string name="thank_you_for_upgrading_to_premium">Obrigado por atualizar para a Versão Premium!</string>
+    <string name="proceed">Avançar</string>
+    <string name="restore_license">Utilizar licença anterior</string>
+    <string name="restore_for_purchased_users">Você precisa instalar a última versão Pro, a partir do Google Play, a qual você comprou anteriormente. Ela será utilizada como a licença para ativar as funcionalidades Premium.</string>
+    <string name="app_is_not_licensed">O aplicativo não está licenciado.</string>
+    <string name="buy_license_in_order_to_use_app">Para usar o aplicativo, adquira-o no Google Play!</string>
+    <string name="pro_version_as_a_license">O Call Recorder Pro não será mais atualizado. Ele será utilizado pelos atuais usuários como uma chave de licença para ativar as funcionalidades Premium na versão Standard. Mais informações no nosso site.</string>
+    <string name="check_again">Verificar novamente</string>
+    <string name="permissions">Permissões</string>
+    <string name="in_order_to_work_please_grand_permission">Para o aplicativo funcionar adequadamente, por favor dê as seguintes permissões.</string>
+    <string name="read_more">Mais informações</string>
+    <string name="do_not_show_again">Não mostrar novamente</string>
+    <string name="delete_uploaded">Excluir sincronizados</string>
+    <string name="delete_after_upload_to_cloud">Deletar as gravações do telefone automaticamente</string>
+    <string name="call_is_recording_now">A chamada está sendo gravada</string>
+    <string name="error_during_recording">Erro durante a gravação</string>
+    <string name="tap_here_to_troubleshoot">Clique aqui para solução de problemas</string>
+    <string name="recording_problem">Problemas na gravação?</string>
+
     </resources>
