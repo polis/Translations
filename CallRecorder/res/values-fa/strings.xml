@@ -106,10 +106,10 @@
 
     <string name="login">ورود</string>
     <string name="logout">خروج از حساب</string>
-    <string name="sync_title">همگام سازی</string>
-    <string name="sync_summary">همگام سازی ضبط‌ها هم اکنون</string>
+    <string name="sync_title">بارگذاری اکنون</string>
+    <string name="sync_summary">بارگذازی کردن همه ضبط‌ها هم اکنون</string>
     <string name="wifi_only">فقط وای فای</string>
-    <string name="wifi_only_when_sync">همگام سازی فقط هنگامی که به وای فای متصل شدید</string>
+    <string name="wifi_only_when_sync">بارگذاری فقط هنگامی که به وای فای متصل شدید</string>
 
     <string name="run_pro_question_dlg_description">شما درحال حاظر از نسخه رایگان استفاده می کنید در حالی که یک نسخه‌ی غیر حرفه ای روی دستگاه شما نصب شده است. آیا نسخه‌‌ی حرفه ای این برنامه را می خواهید؟</string>
     <string name="run_pro_question_dlg_title">اجرای نسخه حرفه‌ای</string>
@@ -217,5 +217,12 @@
     <string name="read_more">ادامه مطلب</string>
     <string name="do_not_show_again">دیگر نشان داده نشود</string>
 
+
+    <string name="delete_uploaded">حذف بارگزاری شده ها</string>
+    <string name="delete_after_upload_to_cloud">حذف به صورت خودکار ضبط های بارگزاری شده از تلفن</string>
+    <string name="call_is_recording_now">تماس در حال ضبط شدن است</string>
+    <string name="error_during_recording">خطا در حین ضبط</string>
+    <string name="tap_here_to_troubleshoot">برای عیب یابی اینجا را ضربه بزنید</string>
+    <string name="recording_problem">مشکل در ضبط؟</string>
 
     </resources>
