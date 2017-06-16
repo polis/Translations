@@ -104,7 +104,7 @@
     <string name="google_drive_unlink">Google Drive hesap bağlantısını kaldır</string>
     <string name="connecting_to_google_drive">Google Drive\'a bağlanıyor</string>
 
-    <string name="login">Giriş Yap</string>
+    <string name="login">Log In</string>
     <string name="logout">Çıkış Yap</string>
     <string name="sync_title">Şimdi eşitle</string>
     <string name="sync_summary">Tüm kayıtları şimdi eşitle</string>
