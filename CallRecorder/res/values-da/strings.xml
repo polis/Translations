@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Opkalds Optager</string>
-    <string name="sd">Indsæt venligst et SD kort i telefonen!</string>
+    <string name="sd">Du mangler at sætte et SD kort i mobilen!</string>
     <string name="contact">Kontakter</string>
     <string name="selected">markerede</string>
     <string name="settings">Indstillinger</string>
@@ -20,35 +20,114 @@
     <string name="email_subject">Optagede opkald</string>
 	<string name="buy_category_description">Pro version</string>	
 	<string name="buy_category_title">Køb Call Recorder Pro version</string>	
-	<string name="buy_summary">Uden reklamer og med ekstra funktioner </string>
+	<string name="buy_summary">Uden reklamer og med flere funktioner</string>
 
-	<string name="rate">Giv venligst denne app karakter</string>
-	<string name="rateOk">OK</string>
+	<string name="rate">Giv venligst denne app en karakter</string>
+	<string name="rateOk">OKAY</string>
 	<string name="rateLater">Senere</string>
     <string name="start_notification">Call Recording Startet</string>    
-    <string name="stop_notification">Call Recording Stoppet</string>
+    <string name="stop_notification">Opkaldsoptager er Stoppet</string>
 
-    <string name="save_the_call">Gem dette opkald?</string>    
+    <string name="save_the_call">Vil du gemme dette opkald?</string>    
     <string name="yes">Ja</string>    
     <string name="no">Nej</string>
 
 	<string name="unknown">Ukendt</string>
 	<string name="hidden">Gemt</string>	
-	<string name="start_recording">Call Recorder virker!</string>    
+	<string name="start_recording">Opkaldsoptager virker!</string>    
     <string name="start_recording_details">Alle fremtidige opkald bliver gemt.</string>    
     <string name="stop_recording">Slå optagelse til!</string>    
     <string name="stop_recording_details">Optagelse er slået fra i øjeblikket.</string>
 
     <string name="new_call">Nyt opkald er blevet optaget!</string>
 
-    <string name="info">Information</string>
-    <string name="faq_title">Ofte stillede spørgsmål</string>
+    <string name="info">Oplysning</string>
+    <string name="faq_title">Ofte Stillede Spørgsmål</string>
     <string name="undo">Fortryd</string>
-    <string name="faq_summary">Ofte stillede spørgsmål</string>
+    <string name="faq_summary">Ofte Stillede Spørgsmål</string>
     <string name="lock">Låst</string>
     <string name="delete">Slettet</string>
     <string name="select_all">Vælg alle</string>
     <string name="recordings">Optagelser</string>
     <string name="help">Hjælp</string>
     <string name="share">Del</string>
+    <string name="other_app_title">Alle egenskaber</string>
+    <string name="other_app_summary">Fra \"Clever Mobile\"</string>
+
+    <string name="deleted">Slettede</string>
+
+    <string name="hint_tap_on_contact_photo">Tryk på et kontakt billede for at vælge.</string>
+    <string name="buy">Køb</string>
+    <string name="cancel">Avbryd</string>
+
+    <string name="pro_description">Pro versionen indeholder</string>
+    <string name="share_recordings">Del optagelser</string>
+    <string name="dropbox_upload">Flytter til \"Dropbox\"</string>
+    <string name="google_drive_upload">Flytter til \"Google Drive\"</string>
+    <string name="advanced_botifications">Videregående meddelelser</string>
+    <string name="no_more_ads">Ikke flere Reklamer</string>
+
+    <string name="sd_card">Hukommelseskort</string>
+    <string name="call_recorder_folder">Mappen \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Brugt hukommelse</string>
+    <string name="sd_card_free_memory">Ledig plads</string>
+    <string name="total_files">Filer i alt</string>
+    <string name="import_recordings"/>
+    <string name="run_clean_up">Slet nu</string>
+    <string name="cleaning">At slette gamle optagelser…</string>
+    <string name="share_via">Del med…</string>
+
+    <string name="passcode">Adgangskode</string>
+    <string name="enable_passcode">Aktivér adgangskode</string>
+    <string name="enable_passcode_description">Beskyt dine optagelser med adgangskode hver eneste gang du åbner \"opkaldsoptager\"</string>
+    <string name="change_passcode">Ændre adgangskoden</string>
+    <string name="passcode_delete_recordings">Slet optagelser</string>
+    <string name="passcode_delete_recordings_description">Slet alle optagelser fra dette apparat efter 10 forkerte adgangskode forsøg</string>
+    <string name="enter_passcode">Skriv adgangskode</string>
+    <string name="reenter_passcode">Gør det igen</string>
+    <string name="enter_old_passcode">Skriv den gamle adgangskode</string>
+    <string name="passcode_did_not_match">Adgangskoden passede ikke. Men prøv igen!</string>
+    <string name="enter_new_passcode">Skriv en ny adgangskode</string>
+    <string name="reenter_new_passcode">Skriv den nye adgangskode</string>
+    <string name="wrong_passcode">Forkert adgangskode. Men prøv igen!</string>
+    <string name="exit">Gå ud</string>
+
+    <string name="cloud">Sky</string>
+
+    <string name="dropbox">\"Dropbox\"</string>
+    <string name="dropbox_link">Forbind \"Dropbox\" konto</string>
+    <string name="dropbox_unlink">Fjern \"Dropbox\" konto</string>
+
+    <string name="google_drive">\"Google Drev\"</string>
+    <string name="call_is_recording_now">Opkald bliver nu optaget</string>
+    <string name="read_more">Læs mere</string>
+    <string name="do_not_show_again">Vis ikke dette igen</string>
+    <string name="delete_uploaded">Slet det du lige uploadede</string>
+    <string name="delete_after_upload_to_cloud">Slet automatisk uploadede optagelser fra mobil</string>
+    <string name="error_during_recording">Fejl under optagelse</string>
+    <string name="tap_here_to_troubleshoot">Tryk her for at fejlfinde</string>
+    <string name="recording_problem">Var der optagelsesproblemer?</string>
+
+    <string name="app_description_free">En enkelt Opkaldsoptager app, der har evnen til at:
+- Slå til / Slå fra Opkaldsoptager
+- Optage alle dine opkald
+- Afspille / Stoppe optaget lyd ved tryk på dem
+- Slette gamle optagelser
+- Låse optagelser for at forhindre auto-sletningen
+- Videregive optagelser (kun med Pro versionen)
+- Bekræftelses dialog: Vil du gerne beholde det optagede opkald, som er vist lige efter et opkald (kun med Pro versionen)
+
+HVIS DET SLET IKKE VIRKER PÅ DIN MOBIL
+ELLER HVIS DET IKKE OPTAGER DEN ANDENS STEMME KLART:
+1. Prøv at kombinere forskellige optagelses indstillinger som beskrevet her: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Der er en begrænsning på i nogle telefoner, så den ikke kan optage fra telefon-linie eller bluetooth.
+Det er lyd driveren, der giver problemer, som i givet fald er lavet af fabrikken til mobilen.
+En liste over kendte dimsedutter/apparater samt sammensætningen af dem, er her:
+http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Venligst, giv dog ikke dårlige anmeldelser bare på grund af det. Tak!
+
+Hvis du har nogle forslag eller kommentarer, 
+så må du endelig besøge vores hjemmeside: http://clevermobile.net
+og du er velkommen til at kontakte os.</string>
+
     </resources>
