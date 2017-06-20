@@ -5,8 +5,8 @@
     <string name="contact">Kontakter</string>
     <string name="selected">markerede</string>
     <string name="settings">Indstillinger</string>
-    <string name="notifications">Notifikationer</string>
-    <string name="notificationStatus_checkbox_title">Slå notifikationer til</string>
+    <string name="notifications">Underretninger</string>
+    <string name="notificationStatus_checkbox_title">Aktivér underretninger</string>
     <string name="notificationStatus_checkbox_summary">Vis notifikation efter optagelse</string>
     <string name="saveRecordQuestion_checkbox_summary">Vis dialog efter opkald</string>
     <string name="storage">Lager</string>
