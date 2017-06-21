@@ -35,7 +35,7 @@
 	<string name="unknown">Nežinomas</string>
     <string name="hidden">Paslėpta</string>
 	<string name="start_recording">Skambučių įrašytojas veikia!</string>
-    <string name="start_recording_details">Visi tavo skambučiai bus įrašyti.</string>
+    <string name="start_recording_details">Visi jūsų skambučiai bus įrašyti.</string>
     <string name="stop_recording">Įjunkite įrašymą!</string>
     <string name="stop_recording_details">Įrašytojas išjungtas.</string>
 
@@ -80,7 +80,7 @@
 
     <string name="passcode">Slaptažodis</string>
     <string name="enable_passcode">Įjungti slaptažodį</string>
-    <string name="enable_passcode_description">Apsaugok savo įrašus slaptažodžiu, jo bus prašoma kaskart atvėrus programą</string>
+    <string name="enable_passcode_description">Apsaugokite savo įrašus slaptažodžiu, jo bus prašoma kaskart atvėrus programą</string>
     <string name="change_passcode">Keisti slaptažodį</string>
     <string name="passcode_delete_recordings">Pašalinti įrašus</string>
     <string name="passcode_delete_recordings_description">10 kartų neteisingai įvedus slaptažodį pašalinti visus įrašus</string>
@@ -147,7 +147,7 @@
     <string name="disabled">Išjungta</string>
     <string name="new_recordings">nauji įrašymai</string>
     <string name="persistent_notifications">Nuolatiniai pranešimai</string>
-    <string name="enable_persistent_notifications">Įjungti persistent pranešimus</string>
+    <string name="enable_persistent_notifications">Įjungti nuolatinius pranešimus</string>
     <string name="usage_terms_and_privacy_policy">Naudojimo sąlygos ir privatumo politika</string>
     <string name="list_of_known_configurations">Žinomų konfigūracijų sąrašas</string>
 
@@ -155,8 +155,8 @@
     <string name="supported_phones">Palaikomi telefonai</string>
     <string name="navigation_drawer_open">Atverti meniu</string>
     <string name="navigation_drawer_close">Užverti meniu</string>
-    <string name="tell_a_friend">Pasakyk draugui</string>
-    <string name="rate_me">Įvertink</string>
+    <string name="tell_a_friend">Pasakykite draugui</string>
+    <string name="rate_me">Įvertinkite</string>
     <string name="check_out_call_recorder_app_at">Ei! Išbandykite mūsų Call Recorder programą</string>
     <string name="upgrade_to_premium">Atnaujinti į premium</string>
     <string name="theme">Tema</string>
