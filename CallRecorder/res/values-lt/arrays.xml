@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+    <string-array name="recording_method">
+        <item name="media">Media</item>
+        <item name="audio">Garsas</item>
+    </string-array>
+
+    <string-array name="recording_method_values">
+        <item name="media">media</item>
+        <item name="audio">garsas</item>
+    </string-array>
+
+    <string-array name="audioSource">
+        <item name="line">Telefono linija</item>
+        <item name="mic">Mikrofonas</item>
+        <item name="uplink">Jūsų balsas</item>
+        <item name="downlink">Pašnekovo balsas</item>
+        <item name="communication">Pokalbis</item>
+    </string-array>
+
+    <string-array name="audioSourceValues">
+        <item name="line">linija</item>
+        <item name="mic">mikrofonas</item>
+        <item name="uplink">išeinantis</item>
+        <item name="downlink">įeinantis</item>
+        <item name="communication">pokalbis</item>
+    </string-array>
+
+    <string-array name="audioChannel">
+        <item name="stereo">Stereo</item>
+        <item name="mono">Mono</item>
+    </string-array>
+    <string-array name="audioChannelValues">
+        <item name="stereo">stereo</item>
+        <item name="mono">mono</item>
+    </string-array>
+
+    <string-array name="fileAudioFormat">
+        <item name="amr">amr</item>
+        <item name="m4a">m4a</item>
+        <item name="mp3">mp3</item>
+        <item name="wav">wav</item>
+
+    </string-array>
+    <string-array name="fileAudioFormatValues">
+        <item name="amr">amr</item>
+        <item name="m4a">m4a</item>
+        <item name="mp3">mp3</item>
+        <item name="wav">wav</item>
+    </string-array>
+
+    <string-array name="fileMediaFormat">
+        <item name="3gp">3gp</item>
+        <item name="mp4">mp4</item>
+
+    </string-array>
+    <string-array name="fileMediaFormatValues">
+        <item name="3gp">3gp</item>
+        <item name="mp4">mp4</item>
+    </string-array>
+    
+</resources>
