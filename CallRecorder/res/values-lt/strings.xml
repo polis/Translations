@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-<string name="app_name">Call Recorder</string>
+<string name="app_name">Skambučių įrašytojas</string>
     <string name="sd">Įdėkite SD kortelę!</string>
     <string name="contact">Kontaktai</string>
     <string name="selected">pasirinkta</string>
@@ -147,7 +147,7 @@
     <string name="disabled">Išjungta</string>
     <string name="new_recordings">nauji įrašymai</string>
     <string name="persistent_notifications">Nuolatiniai pranešimai</string>
-    <string name="enable_persistent_notifications">Įjungti nuolatinius pranešimus</string>
+    <string name="enable_persistent_notifications">Įjungti persistent pranešimus</string>
     <string name="usage_terms_and_privacy_policy">Naudojimo sąlygos ir privatumo politika</string>
     <string name="list_of_known_configurations">Žinomų konfigūracijų sąrašas</string>
 
