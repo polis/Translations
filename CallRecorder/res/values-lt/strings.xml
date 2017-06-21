@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-<string name="app_name">Call Recorder</string>
+<string name="app_name">„Call Recorder“</string>
     <string name="sd">Įdėkite SD kortelę!</string>
     <string name="contact">Kontaktai</string>
     <string name="selected">pasirinkta</string>
@@ -83,7 +83,7 @@
     <string name="enable_passcode_description">Apsaugok savo įrašus slaptažodžiu, jo bus prašoma kaskart atvėrus programą</string>
     <string name="change_passcode">Keisti slaptažodį</string>
     <string name="passcode_delete_recordings">Pašalinti įrašus</string>
-    <string name="passcode_delete_recordings_description">10kartų neteisingai įvedus slaptažodį pašalinti visus įrašus</string>
+    <string name="passcode_delete_recordings_description">10 kartų neteisingai įvedus slaptažodį pašalinti visus įrašus</string>
     <string name="enter_passcode">Įveskite slaptažodį</string>
     <string name="reenter_passcode">Pakartokite slaptažodį</string>
     <string name="enter_old_passcode">Įveskite seną slaptažodį</string>
@@ -106,10 +106,10 @@
 
     <string name="login">Prisijungti</string>
     <string name="logout">Atsijungti</string>
-    <string name="sync_title">Synchronize now</string>
+    <string name="sync_title">Įkelti dabar</string>
     <string name="sync_summary">Įkelti visus įrašus dabar</string>
     <string name="wifi_only">Tik WiFi</string>
-    <string name="wifi_only_when_sync">Synchronize only when connected to WiFi</string>
+    <string name="wifi_only_when_sync">Įkelti tik kai prisijungta prie WiFi</string>
 
     <string name="run_pro_question_dlg_description">Jūs bandote paleisti nemokamą „Call recorder“ versiją, bet jau turite įdiegę Pro versiją. Ar norite paleisti Pro?</string>
     <string name="run_pro_question_dlg_title">Paleisti Pro versiją</string>
@@ -185,9 +185,32 @@
     <string name="in_order_to_work_please_grand_permission">Norint jog programa tinkamai veiktų, suteikite reikalingus leidimus.</string>
     <string name="read_more">Skaityti daugiau</string>
     <string name="do_not_show_again">Daugiau neberodyti</string>
-    <string name="app_description_free">Simple Call Recorder application that has an ability to: - Enable/Disable call recording - Records all your phone calls - Play/Stop recorded audio by touch on the item - Delete recorded items - Lock recorded items to prevent from auto-cleaning - Share recorded items (only in Pro version) - Confirmation dialog: Would you like to keep recorded call that is shown just after the call (only in Pro version). IF IT DOES NOT WORK ON YOUR PHONE AT ALL OR IT DOES NOT RECORD OPPOSITE SIDE VOICE CLEARLY: 1. Try to mix different recording settings as it described here: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/ 2. There is a limitation for some phones that do not support recording from phone line or bluetooth. It is audio driver problem made by manufacturer of the phone. List of known supported devices and configurations for them is here: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/ Please, not give bad marks for that. Thank you! If you have some suggestions or comments, please visit our site http://clevermobile.net and feel free to contact us.</string>
+    <string name="app_description_free">Paprasta programa „Call Recorder“ suteikia galimybę: 
+- Įjungti/Išjungti pokalbio įrašymą 
+- Įrašyti visus jūsų pokalbius telefonu
+- Atkurti/Sustabdyti audio vienu palietimu
+- Pašalinti įrašytus pokalbius
+- Užrakinti įrašymus, kad jie nebūtų automatiškai pašalinti
+- Dalintis įrašais(tik pro versija)
+- Patvirtinimo dialogą: Ar norėtumėte išsaugoti pokalbį iškart po pokalbio (tik pro versija).
+JEI JŪSŲ TELEFONE IŠVIS NEVEIKIA
+ARBA NEAIŠKIAI ĮRAŠO PAŠNEKOVO BALSĄ:
+1. Pabandykite skirtingus įrašymo būdus aprašytus čia: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Kai kurie telefonai turi apribojimus ir nepalaiko įrašymo iš telefono linijos ar bluetooth. Tai yra audio tvarkyklė sukurta telefono gamintojo. Palaikomų telefonų žinomos konfigūracijos surašytos čia: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/ 
+Nepalikite prasto atsiliepimo tik dėl tos priežasties. Dėkui! 
 
-    <string name="app_description_pro">Call Recorder Pro (starting from ver 6.6) will no longer be updated by new functionality but will be working like a license activator to enable premium features for standard Free version. It still will be working as before, but without new features like: - New UI with possibility to switch between Light and Dark themes - Notes for recordings. Add, edit, remove notes and search by notes. - Dial number from recording. - and more that will be adding in the next releases. So it is recommended to install standard free version and restore your license there</string>
+Jei turite pasiūlymų ar komentarų, aplankykite mūsų tinklapį http://clevermobile.net ir susisiekite su mumis.</string>
+
+    <string name="app_description_pro">Call Recorder Pro (pradedant v6.6) nebebus atnaujinamas su naujomis galimybėmis, bet veiks kaip licencijos aktyvacijos priemonė įjungianti premium galimybes standartinėje nemokamoje versijoje.
+
+Ji veiks kaip ir anksčiau, bet be naujų galimybių tokių kaip:
+
+- Nauja naudotojo sąsaja su galimybe perjungti tarp šviesios ir tamsios temos
+- Pastabos įrašams. Pridėti, redaguoti, pašalinti pastabas bei ieškoti tarp jų.
+- Rinkti numerį iš įrašo.
+- ir daug kitų kurios bus pridėtos vėlesnėse versijose.
+
+Rekomenduojama įdiegti standartinę nemokamą versiją ir atstatyti licenciją ten</string>
 
 <string name="delete_uploaded">Pašalinti įkeltą</string>
     <string name="delete_after_upload_to_cloud">Automatiškai pašalinti įkeltus įrašus iš telefono</string>
