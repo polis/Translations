@@ -137,7 +137,7 @@
     <string name="play">Atkurti</string>
     <string name="pause">Pauzė</string>
     <string name="not_able_to_import_to_pro">Jei ši parinktis įjungta negalėsite automatiškai importuoti įrašų į Pro versiją. Be to padarykite svarbių įrašų kopiją, nes jei pašalinsite programą negalėsite jų atkurti.</string>
-    <string name="not_able_to_import"/>
+    <string name="not_able_to_import">"Jei ši parinktis įjungta ir jūs nuspręsite pašalinti programą, turite padaryti svarbių įrašų atsargines kopijas, nes jie bus pašalinti ir negalėsite jų importuoti kitą kart įdiegę programą. "</string>
 
     <string name="number_of_seconds">Sekundės</string>
     <string name="delay_for_incoming_calls">Įeinančių skambučių delsa sekundėmis</string>
@@ -190,4 +190,10 @@
     <string name="app_description_pro">Call Recorder Pro (starting from ver 6.6) will no longer be updated by new functionality but will be working like a license activator to enable premium features for standard Free version. It still will be working as before, but without new features like: - New UI with possibility to switch between Light and Dark themes - Notes for recordings. Add, edit, remove notes and search by notes. - Dial number from recording. - and more that will be adding in the next releases. So it is recommended to install standard free version and restore your license there</string>
 
 <string name="delete_uploaded">Pašalinti įkeltą</string>
+    <string name="delete_after_upload_to_cloud">Automatiškai pašalinti įkeltus įrašus iš telefono</string>
+    <string name="call_is_recording_now">Pokalbis įrašomas</string>
+    <string name="error_during_recording">Klaida įrašant</string>
+    <string name="tap_here_to_troubleshoot">Paspauskite čia norėdami spręsti bėdas</string>
+    <string name="recording_problem">Įrašymo problema?</string>
+
     </resources>
