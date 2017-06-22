@@ -141,7 +141,7 @@
     <string name="number_of_seconds">Количество секунд</string>
     <string name="enabled">Включено</string>
     <string name="disabled">Выключено</string>
-    <string name="new_recordings">новые записи</string>
+    <string name="new_recordings">Новые записи</string>
     <string name="delay_for_outgoing_calls">Задержка для исходящих вызовов в секундах</string>
 
     <string name="persistent_notifications">Постоянное уведомление</string>
