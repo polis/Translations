@@ -5,9 +5,9 @@
     <string name="contact">Контакти</string>
     <string name="selected">відмічено</string>
     <string name="settings">Налаштування</string>
-	<string name="notifications">Сповіщення</string>
-    <string name="notificationStatus_checkbox_title">Увімкнути сповіщення</string>
-    <string name="notificationStatus_checkbox_summary">Сповіщати про запис розмови</string>
+	<string name="notifications">Повідомлення</string>
+    <string name="notificationStatus_checkbox_title">Увімкнути повідомлення</string>
+    <string name="notificationStatus_checkbox_summary">Повідомляти про записану розмову</string>
     <string name="saveRecordQuestion_checkbox_summary">Запитувати після кожного дзвінка</string>
     <string name="storage">Пам’ять</string>
     <string name="deleteRecord_title">Автоматична очистка</string>
@@ -226,6 +226,6 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
     <string name="recording_problem">Проблема з записом?</string>
 
     <string name="recording_notification">Повідомлення про запис</string>
-    <string name="show_notification_during_recording">Показувати повідомлення під час запису розмов</string>
+    <string name="show_notification_during_recording">Показувати повідомлення під час запису розмови</string>
 
     </resources>
