@@ -143,7 +143,7 @@
 
     <string name="enabled">Включено</string>
     <string name="disabled">Виключено</string>
-    <string name="new_recordings">нових записів</string>
+    <string name="new_recordings">Нові записи</string>
 
     <string name="persistent_notifications">Стійкі повідомлення</string>
     <string name="enable_persistent_notifications">Увімкнути стійкі повідомлення</string>
@@ -224,5 +224,8 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
     <string name="error_during_recording">Помилка під час запису</string>
     <string name="tap_here_to_troubleshoot">Натисніть тут щоб усунути несправності</string>
     <string name="recording_problem">Проблема з записом?</string>
+
+    <string name="recording_notification">Повідомлення про запис</string>
+    <string name="show_notification_during_recording">Показувати повідомлення під час запису розмов</string>
 
     </resources>
