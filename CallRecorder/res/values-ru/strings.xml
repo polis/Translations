@@ -228,4 +228,7 @@
     <string name="tap_here_to_troubleshoot">Нажмите здесь чтобы устранить неполадки</string>
     <string name="recording_problem">Проблема с записью?</string>
 
+    <string name="show_notification_during_recording">Показывать уведомление о текущей записи</string>
+
+    <string name="recording_notification">Уведомление о записи звонка</string>
     </resources>
