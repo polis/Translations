@@ -145,7 +145,7 @@
 
     <string name="enabled">Įjungta</string>
     <string name="disabled">Išjungta</string>
-    <string name="new_recordings">nauji įrašymai</string>
+    <string name="new_recordings">Nauji įrašymai</string>
     <string name="persistent_notifications">Nuolatiniai pranešimai</string>
     <string name="enable_persistent_notifications">Įjungti nuolatinius pranešimus</string>
     <string name="usage_terms_and_privacy_policy">Naudojimo sąlygos ir privatumo politika</string>
@@ -218,5 +218,8 @@ Rekomenduojama įdiegti standartinę nemokamą versiją ir atstatyti licenciją 
     <string name="error_during_recording">Klaida įrašant</string>
     <string name="tap_here_to_troubleshoot">Paspauskite čia norėdami spręsti bėdas</string>
     <string name="recording_problem">Įrašymo problema?</string>
+
+    <string name="recording_notification">Įrašymo pranešimas</string>
+    <string name="show_notification_during_recording">Įrašymo metu rodyti pranešimą</string>
 
     </resources>
