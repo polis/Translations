@@ -7,7 +7,7 @@
     <string name="settings">Indstillinger</string>
     <string name="notifications">Underretninger</string>
     <string name="notificationStatus_checkbox_title">Aktivér underretninger</string>
-    <string name="notificationStatus_checkbox_summary">Vis notifikation efter optagelse</string>
+    <string name="notificationStatus_checkbox_summary">Vis underretning om optagelse</string>
     <string name="saveRecordQuestion_checkbox_summary">Vis dialog efter opkald</string>
     <string name="storage">Lager</string>
     <string name="deleteRecord_title">Automatisk sletning</string>
@@ -19,13 +19,13 @@
     <string name="recordingQuality_title">Optagelseskvalitet</string>
     <string name="email_subject">Optagede opkald</string>
 	<string name="buy_category_description">Pro version</string>	
-	<string name="buy_category_title">Køb Call Recorder Pro version</string>	
+	<string name="buy_category_title">Køb Opkaldsoptager Pro versionen</string>	
 	<string name="buy_summary">Uden reklamer og med flere funktioner</string>
 
 	<string name="rate">Giv venligst denne app en karakter</string>
 	<string name="rateOk">OKAY</string>
 	<string name="rateLater">Senere</string>
-    <string name="start_notification">Call Recording Startet</string>    
+    <string name="start_notification">Opkaldsoptager er Startet</string>    
     <string name="stop_notification">Opkaldsoptager er Stoppet</string>
 
     <string name="save_the_call">Vil du gemme dette opkald?</string>    
@@ -33,11 +33,11 @@
     <string name="no">Nej</string>
 
 	<string name="unknown">Ukendt</string>
-	<string name="hidden">Gemt</string>	
+	<string name="hidden">Skjult</string>	
 	<string name="start_recording">Opkaldsoptager virker!</string>    
     <string name="start_recording_details">Alle fremtidige opkald bliver gemt.</string>    
-    <string name="stop_recording">Slå optagelse til!</string>    
-    <string name="stop_recording_details">Optagelse er slået fra i øjeblikket.</string>
+    <string name="stop_recording">Slå optager TIL!</string>    
+    <string name="stop_recording_details">Optager er ligenu slået FRA.</string>
 
     <string name="new_call">Nyt opkald er blevet optaget!</string>
 
