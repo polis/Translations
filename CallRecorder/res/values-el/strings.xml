@@ -223,4 +223,7 @@
 
 Έτσι προτείνεται να εγκαταστήσεις την κανονική δωρεάν έκδοση και να επαναφέρεις την άδειά σου εδώ</string>
 
-</resources>
+<string name="recording_notification">Ειδοποίηση εγγραφής</string>
+    <string name="show_notification_during_recording">Εμφάνισε ειδοποίηση κατά την εγγραφή</string>
+
+    </resources>
