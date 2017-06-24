@@ -64,13 +64,13 @@
 
     <string name="pro_description">Wersja Premium</string>
     <string name="share_recordings">Udostępnianie nagrań</string>
-    <string name="dropbox_upload">Synchronizacja z Dropbox</string>
+    <string name="dropbox_upload">Wyślij do Dropboxa</string>
     <string name="google_drive_upload">Synchronizacja z Google Drive</string>
     <string name="advanced_botifications">Zaawansowane powiadomienia</string>
     <string name="no_more_ads">Brak reklam</string>
 
     <string name="sd_card">Karta SD</string>
-    <string name="call_recorder_folder">Folder \"CallRecorder\"</string>
+    <string name="call_recorder_folder">Folder „CallRecorder”</string>
     <string name="sd_card_memory_occupied">Użyta pamięć</string>
     <string name="sd_card_free_memory">Wolna pamięć</string>
     <string name="total_files">- Wszystkich plików</string>
@@ -96,11 +96,11 @@
 
     <string name="cloud">Chmura</string>
 
-    <string name="dropbox">Dropbox</string>
+    <string name="dropbox">Dysk Dropbox</string>
     <string name="dropbox_link">Połączyć się z Dropbox</string>
     <string name="dropbox_unlink">Odlączyć się od Dropbox</string>
 
-    <string name="google_drive">Google Drive</string>
+    <string name="google_drive">Dysk Google</string>
     <string name="google_drive_link">Połączyć się z Google Drive</string>
     <string name="google_drive_unlink">Odlączyć się od Google Drive</string>
     <string name="connecting_to_google_drive">Podłączanie do Google Drive</string>
