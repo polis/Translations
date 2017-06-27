@@ -107,10 +107,10 @@
 
     <string name="login">تسجيل الدخول</string>
     <string name="logout">تسجيل الخروج</string>
-    <string name="sync_title">مزامنة الآن</string>
-    <string name="sync_summary">مزامنة كل التسجيلات الان</string>
+    <string name="sync_title">"تحميل  الآن"</string>
+    <string name="sync_summary">تحميل كل التسجيلات الان</string>
     <string name="wifi_only">WiFi فقط</string>
-    <string name="wifi_only_when_sync">المزامنة عند الاتصال بالـ WiFi فقط</string>
+    <string name="wifi_only_when_sync">تحميل عند الاتصال بالـ WiFi فقط</string>
 
     <string name="run_pro_question_dlg_description">تحاول تثبيت النسخة المجانية لكن لديك مثبت النسخة الكاملة.هل تريد تبقى مع النسخة الكاملة؟</string>
     <string name="run_pro_question_dlg_title">تشغيل النسخة الكاملة</string>
