@@ -97,4 +97,5 @@
     <string name="importing_recordings">Import záznamů</string>
 
     <string name="google_drive_upload">Uložit na disk Google</string>
+    <string name="dropbox_upload">Uložit do Dropboxu</string>
     </resources>
