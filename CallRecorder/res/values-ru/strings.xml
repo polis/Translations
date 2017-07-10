@@ -231,4 +231,16 @@
     <string name="show_notification_during_recording">Показывать уведомление о текущей записи</string>
 
     <string name="recording_notification">Уведомление о записи звонка</string>
+    <string name="recording_filter">Фильтрация записи</string>
+    <string name="filter">Фильтр</string>
+    <string name="use_filtering_by_phone_numbers">Использовать фильтрацию по номеру телефона</string>
+    <string name="filtering_method">Метод фильтрации</string>
+    <string name="switch_filtering">Изменить фильтрацию</string>
+    <string name="record_all_phone_numbers_exept_excluded">Не записывать разговоры с списка ниже</string>
+    <string name="record_only_included_phone_numbers">Записывать только разговоры из списка ниже</string>
+    <string name="add_contact">Добавить контакт</string>
+    <string name="add_phone_number">Добавить номер телефона</string>
+    <string name="add_to_filter">Добавить фильтр</string>
+    <string name="another_call_recording_app_is_running">"Другая программа записи запущенна на телефоне. Пожалуйста, удалите ее чтобы Запись звонков могла работать исправно. "</string>
+
     </resources>
