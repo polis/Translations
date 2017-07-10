@@ -211,7 +211,7 @@
     <string name="path">Путь</string>
     <string name="size">Размер</string>
     <string name="proceed">Продолжить</string>
-    <string name="restore_license">Возобновить лицензию</string>
+    <string name="restore_license">Возобновить с Про</string>
     <string name="restore_for_purchased_users">Вы должны установить последнюю версию Про, с Google Play, купленную ранее. Она будет использована как лицензия для активации премиум функций.</string>
     <string name="thank_you_for_upgrading_to_premium">Благодарим вас за обновление до премиум!</string>
     <string name="permissions">Права</string>
