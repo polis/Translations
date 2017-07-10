@@ -228,4 +228,16 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
     <string name="recording_notification">Повідомлення про запис</string>
     <string name="show_notification_during_recording">Показувати повідомлення під час запису розмови</string>
 
+    <string name="recording_filter">Фільтрація записів</string>
+    <string name="filter">Фільтр</string>
+    <string name="use_filtering_by_phone_numbers">Використовувати фільтрацію записів по номеру телефона</string>
+    <string name="filtering_method">Метод фільтру</string>
+    <string name="switch_filtering">Змінити фільтрування</string>
+    <string name="record_all_phone_numbers_exept_excluded">Не записувати телефонні розмови з списку нижче</string>
+    <string name="record_only_included_phone_numbers">Записувати тільки телефонні розмови для списку нижче</string>
+    <string name="add_contact">Добавити контакт</string>
+    <string name="add_phone_number">Добавити телефонний номер</string>
+    <string name="add_to_filter">Додати до фільтру</string>
+    <string name="another_call_recording_app_is_running">"Інша програма запису дзвінків запущена. Будь ласка, видаліть її щоб Запис дзвінків працював коректно. "</string>
+
     </resources>
