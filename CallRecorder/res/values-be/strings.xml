@@ -2,7 +2,16 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="sd">Калі ласка, пастаўце SD картку ў тэлефон!</string>
     <string name="contact">Кантакты</string>
-    <string name="selected">абрана</string>
+    <string name="selected">выбрана</string>
     <string name="settings">Налады</string>
     <string name="notifications">Нататкі</string>
+    <string name="notificationStatus_checkbox_title">Ўключыць апавяшчэннi</string>
+    <string name="notificationStatus_checkbox_summary">Паказываць у панэлі апавяшчэнняў пасля кожнага запісанага выкліку</string>
+    <string name="saveRecordQuestion_checkbox_summary">Запытаць пасля кожнага запісанага выкліку</string>
+    <string name="storage">Cховішча</string>
+    <string name="deleteRecord_title">Аўтаматычная ачыстка</string>
+    <string name="deleteRecord_summary">Выдаленне запісаў</string>
+    <string name="recording">Запіс</string>
+    <string name="audioSource_title">Крыніца аўдыё</string>
+    <string name="app_name">Запіс Выклікаў</string>
     </resources>
