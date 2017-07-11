@@ -138,7 +138,7 @@
     <string name="pause">Durdur</string>
     <string name="enabled">Aktifleştir</string>
     <string name="disabled">Pasifleştir</string>
-    <string name="new_recordings">yeni kayıtlar</string>
+    <string name="new_recordings">Yeni kayıtlar</string>
     <string name="usage_terms_and_privacy_policy">Kullanım Şartları ve Gizlilik Politikası</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Bu uygulamayı kullanarak, Kullanım Şartları ve Gizlilik Politikası\'nı kabul etmiş olursunuz</string>
     <string name="supported_phones">Desteklenen telefonlar</string>
@@ -224,4 +224,12 @@ Kendi dilinizde sahip olmak ve çeviri ile ilgili hazır yardım istiyorsanız, 
 
 Bazı önerileriniz veya yorumlarınız varsa, lütfen http://clevermobile.net sitemizi ziyaret edin ve bizimle iletişime geçmekten çekinmeyin.</string>
 
-</resources>
+<string name="permissions">İzinler</string>
+    <string name="in_order_to_work_please_grand_permission">Uygulamanın düzgün çalışması için lütfen gerekli izinleri kontrol edin</string>
+    <string name="read_more">Daha fazla oku</string>
+    <string name="do_not_show_again">Tekrar gösterme</string>
+    <string name="delete_uploaded">Yüklenmiş olanları sil</string>
+    <string name="delete_after_upload_to_cloud">Bulut yükleme tamamlandıktan sonra kayıtları telefondan otomatik olarak sil</string>
+    <string name="call_is_recording_now">Çağrı şu an kaydediliyor</string>
+    <string name="error_during_recording">Kayıt sırasında bir hata oluştu</string>
+    </resources>
