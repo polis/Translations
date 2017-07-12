@@ -138,4 +138,6 @@
     <string name="pause">Pauze</string>
     <string name="add_translation">Vertaling toevoegen</string>
 
+    <string name="not_able_to_import_to_pro">Is deze optie niet geactiveerd, dan zal het niet mogelijk zijn om de opnames automatisch te importeren naar de Pro versie. Verder nog, doe een back-up van alle belangrijke opnames als je beslist om de applicatie te verwijderen, doordat deze ook verwijderd worden.</string>
+    <string name="number_of_seconds">Aantal seconden</string>
     </resources>
