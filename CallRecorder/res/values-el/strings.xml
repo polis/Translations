@@ -226,4 +226,7 @@
 <string name="recording_notification">Ειδοποίηση εγγραφής</string>
     <string name="show_notification_during_recording">Εμφάνισε ειδοποίηση κατά την εγγραφή</string>
 
+    <string name="recording_filter">Φίλτρο εγγραφής</string>
+    <string name="filter">Φίλτρο</string>
+    <string name="filtering_method">Μέθοδος φιλτραρίσματος</string>
     </resources>
