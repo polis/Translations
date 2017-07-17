@@ -185,7 +185,7 @@
     <string name="thank_you_for_upgrading_to_premium">Дякую вам, за оновлення до преміум версії!</string>
     <string name="proceed">Продовжити</string>
     <string name="restore_license">Відновити ліцензію</string>
-    <string name="restore_for_purchased_users">Ви повинні установити Про версію, з Google Play, яку ви придбали раніше. Вона буде використовуватись як ліцензія для активації перміум фукнцій.</string>
+    <string name="restore_for_purchased_users">Ви повинні установити Про версію, з Google Play, яку ви придбали раніше. Вона буде використовуватись як ліцензія для активації преміум функцій.</string>
     <string name="permissions">Дозволи</string>
     <string name="in_order_to_work_please_grand_permission">Для того щоб коректно працювати, будь ласка, надайте наступні дозволи для дотатку.</string>
     <string name="read_more">Читати більше</string>
