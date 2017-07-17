@@ -13,7 +13,7 @@
     <string name="deleteRecord_summary">Выдаленне запісаў</string>
     <string name="recording">Налады запісу</string>
     <string name="audioSource_title">Крыніца аўдыё</string>
-    <string name="app_name">Запіс званкоў</string>
+    <string name="app_name">Cамапісец званкоў</string>
     <string name="audioChannel_title">Канал аўдыё</string>
     <string name="fileFormat_title">Фармат файла</string>
     <string name="recordingQuality_title">Якасць запісу</string>
@@ -99,10 +99,10 @@
     <string name="dropbox_link">Далучыцца да Dropbox</string>
     <string name="dropbox_unlink">Адлучыцца ад Dropbox</string>
 
-    <string name="google_drive">Google Дыск</string>
-    <string name="google_drive_link">Далучыцца да Google Дыск</string>
-    <string name="google_drive_unlink">Адлучыцца ад Google Дыск</string>
-    <string name="connecting_to_google_drive">Падключэнне да Google Дыск</string>
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Далучыцца да Google Drive</string>
+    <string name="google_drive_unlink">Адлучыцца ад Google Drive</string>
+    <string name="connecting_to_google_drive">Падключэнне да Google Drive</string>
 
     <string name="login">Увайсці</string>
     <string name="logout">Выйсці</string>
@@ -139,7 +139,7 @@
     <string name="use_external_media_player_to_play_recordings">Выкарыстоўваць знешні медыя-плэер для прайгравання запісаў</string>
     <string name="number_of_seconds">Колькасць секунд</string>
     <string name="not_able_to_import_to_pro">Уключэнне гэтай опцыі робіць немагчымым аўтаматычны імпарт запісаў у Pro версію. Зрабіце рэзервовую копію ўсіх важных запісаў, калі Вы вырашыце выдаліць прыкладанне, альбо ўсе яны будуць знішчаны.</string>
-    <string name="not_able_to_import">"Калі гэтая опцыя ўключана і Вы вырашылі выдаліць прыкладанне, Вам трэба зрабіць рэзервовую копію ўсіх важных запісаў, бо яны будуць знішчаны і ў Вас не будзе магчымасці імпартаваць іх пры паўторнам ўсталяванні. "</string>
+    <string name="not_able_to_import">"Калі гэтая опцыя ўключана і Вы вырашылі выдаліць прыкладанне, Вам неабходна зрабіць рэзервовую копію ўсіх важных запісаў, бо яны будуць знішчаны і ў Вас не будзе магчымасці імпартаваць іх пры паўторнам ўсталяванні. "</string>
 
     <string name="delay_for_incoming_calls">Затрымка для ўваходных званкоў у секундах</string>
     <string name="delay_for_outgoing_calls">Затрымка для выходных званкоў у секундах</string>
@@ -179,4 +179,47 @@
     <string name="restore_license">Узнавіць ліцэнзію</string>
     <string name="restore_for_purchased_users">Вы павінны ўсталяваць апошнюю Pro версію з Google Play, якую Вы набылі раней. Яна будзе выкарыстоўвацца ў якасці ліцэнзіі для актывацыі прэміўм функцый.</string>
     <string name="app_is_not_licensed">Прыкладанне не ліцэнзавана</string>
+    <string name="buy_license_in_order_to_use_app">Каб выкарыстоўваць гэта прыкладанне, неабходна набыць яго ў Google Play!</string>
+    <string name="pro_version_as_a_license">Версія Call Recorder Pro больш не будзе абнаўляцца новымі функцыямі. Яна будзе выкарыстоўвацца для цяперашніх карыстальнікаў у якасці ліцэнзійнага ключа для актывацыі прэміўм функцый у стандартнай версіі. Больш падрабязная інфармацыя аб гэтым на нашым сайце.</string>
+    <string name="check_again">Праверыць яшчэ раз</string>
+    <string name="permissions">Дазволы</string>
+    <string name="in_order_to_work_please_grand_permission">Каб прыкладанне працавала належным чынам, неабходна даць наступныя дазволы.</string>
+    <string name="read_more">Чытаць больш</string>
+    <string name="do_not_show_again">Не паказваць зноў</string>
+    <string name="delete_uploaded">Выдаліць загружаныя</string>
+    <string name="delete_after_upload_to_cloud">Аўтаматычна выдаляць загружаныя запісы з тэлефона</string>
+    <string name="call_is_recording_now">Званок запісваецца</string>
+    <string name="error_during_recording">Памылка падчас запісу</string>
+    <string name="tap_here_to_troubleshoot">Націсніце тут, каб ліквідаваць непаладкі</string>
+    <string name="recording_problem">Праблемы запісу?</string>
+    <string name="recording_notification">Паведамленне аб запісу</string>
+    <string name="show_notification_during_recording">Паказваць паведамленне падчас запісу</string>
+    <string name="recording_filter">Фільтрацыя запісу</string>
+    <string name="filter">Фільтр</string>
+    <string name="use_filtering_by_phone_numbers">Выкарыстоўваць фільтрацыю па нумару тэлефона</string>
+    <string name="switch_filtering">Змяніць фільтрацыю</string>
+    <string name="record_all_phone_numbers_exept_excluded">Не запісваць тэлефонныя званкі з спісу ніжэй</string>
+    <string name="record_only_included_phone_numbers">Запісваць толькі тэлефонныя званкі з спісу ніжэй</string>
+    <string name="add_contact">Дадаць кантакт</string>
+    <string name="add_phone_number">Дадаць нумар тэлефона</string>
+    <string name="add_to_filter">Дадаць у фільтр</string>
+    <string name="another_call_recording_app_is_running">"Іншае прыкладанне для запісу званкоў працуе на тэлефоне. Неабходна спыніць яго, каб Call Recorder мог працаваць спраўна. "</string>
+
+    <string name="app_description_free">Просты Cамапісец званкоў, які дазваляе:
+- Уключаць/Выключаць запіс званкоў
+- Запісваць усе вашы званкі
+- Граць/Спыняць зробленыя запісы па націску на файл
+- Выдаляць зробленыя запісы
+- Блакаваць запісы каб ахаваць іх ад аўтаматычнай ачысткі
+- Падзяліцца зробленымі запісамі (толькі ў Pro версіі)
+- Дыялог пацверджання: Ці жадаеце Вы захаваць запісаны званок?, які з\'яўляецца адразу пасля званка (толькі ў Pro версіі).
+
+КАЛІ ПРАГРАМА НАОГУЛ НЕ ПРАЦУЕ НА ВАШЫМ ТЭЛЕФОНЕ
+АЛЬБО ЗАПІСВАЕ ГОЛАС СУРАЗМОЎНІКА НЕВЫРАЗНА:
+1. Паспрабуйце камбінаваць розныя параметры запісу, як гэта апісана тут: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Існуюць абмежаванні для некаторых тэлефонаў, якія не падтрымліваюць запіс з тэлефоннай лініі або bluetooth. Гэта праблема канфігурацыі аўдыё драйвераў, якую можа вырашыць толькі вытворца тэлефона. Спіс падтрымліваемых тэлефонаў і канфігурацый для іх тут: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Калі ласка, не стаўце дрэнныя адзнакі з-за гэтага. Шчыры дзякуй!
+
+Калі ў вас ёсць прапановы ці заўвагі, калі ласка, наведайце наш сайт http://clevermobile.net і свабодна звяжыцеся з намі.</string>
+
     </resources>
