@@ -18,8 +18,8 @@
     <string name="fileFormat_title">Фармат файла</string>
     <string name="recordingQuality_title">Якасць запісу</string>
     <string name="email_subject">Запісаныя званкі</string>
-	<string name="buy_category_description">Версія Pro</string>
-	<string name="buy_category_title">Набыць поўную версію Call Recorder</string>
+	<string name="buy_category_description">Pro версія</string>
+	<string name="buy_category_title">Набыць Pro версію Call Recorder</string>
 	<string name="buy_summary">Без рэкламы і з дадатковымі магчымасцямі</string>
 
 	<string name="rate">Калі ласка, ацаніце гэта прыкладанне</string>
@@ -61,7 +61,7 @@
     <string name="hint_tap_on_contact_photo">Націсніце на малюнак кантакту каб выдзеліць запіс.</string>
     <string name="importing_recordings">Запісы імпартуюцца…</string>
 
-    <string name="pro_description">Прэміум версія змяшчае</string>
+    <string name="pro_description">Прэміўм версія змяшчае</string>
     <string name="share_recordings">Падзяліцца запісамі</string>
     <string name="dropbox_upload">Сінхранізацыя з Dropbox</string>
     <string name="google_drive_upload">Сінхранізацыя з Google Drive</string>
@@ -111,8 +111,8 @@
     <string name="wifi_only">Толькі WiFi</string>
     <string name="wifi_only_when_sync">Загружаць толькі пры падключенні праз WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Вы спрабуеце запусціць бясплатную версію Call Recorder, але ў Вас таксама ўсталявана поўная версія. Жадаеце запусціць поўную?</string>
-    <string name="run_pro_question_dlg_title">Запусціць поўную версію</string>
+    <string name="run_pro_question_dlg_description">Вы спрабуеце запусціць бясплатную версію Call Recorder, але ў Вас таксама ўсталявана Pro версія. Жадаеце запусціць Pro?</string>
+    <string name="run_pro_question_dlg_title">Запусціць Pro версію</string>
     <string name="last_recording">Апошні запіс</string>
     <string name="read_instructions">Чытаць інструкцыі</string>
     <string name="translations">Пераклады</string>
@@ -138,7 +138,7 @@
     <string name="use_external_player">Выкарыстоўваць знешні плэер</string>
     <string name="use_external_media_player_to_play_recordings">Выкарыстоўваць знешні медыя-плэер для прайгравання запісаў</string>
     <string name="number_of_seconds">Колькасць секунд</string>
-    <string name="not_able_to_import_to_pro">Уключэнне гэтай опцыі робіць немагчымым аўтаматычны імпарт запісаў у поўную версію. Зрабіце рэзервовую копію ўсіх важных запісаў, калі Вы вырашыце выдаліць прыкладанне, альбо ўсе яны будуць знішчаны.</string>
+    <string name="not_able_to_import_to_pro">Уключэнне гэтай опцыі робіць немагчымым аўтаматычны імпарт запісаў у Pro версію. Зрабіце рэзервовую копію ўсіх важных запісаў, калі Вы вырашыце выдаліць прыкладанне, альбо ўсе яны будуць знішчаны.</string>
     <string name="not_able_to_import">"Калі гэтая опцыя ўключана і Вы вырашылі выдаліць прыкладанне, Вам трэба зрабіць рэзервовую копію ўсіх важных запісаў, бо яны будуць знішчаны і ў Вас не будзе магчымасці імпартаваць іх пры паўторнам ўсталяванні. "</string>
 
     <string name="delay_for_incoming_calls">Затрымка для ўваходных званкоў у секундах</string>
@@ -159,7 +159,7 @@
     <string name="tell_a_friend">Расказаць сябру</string>
     <string name="rate_me">Ацаніць</string>
     <string name="check_out_call_recorder_app_at">Паглядзіце на прыкладанне Call Recorder на</string>
-    <string name="upgrade_to_premium">Абнавіць да Прэміум</string>
+    <string name="upgrade_to_premium">Абнавіць да прэміўм</string>
     <string name="theme">Тэма</string>
     <string name="use_dark_theme">Выкарыстоўваць цёмную тэму</string>
     <string name="call">Званок</string>
@@ -174,8 +174,9 @@
     <string name="number">Нумар</string>
     <string name="path">Шлях</string>
     <string name="size">Памер</string>
-    <string name="thank_you_for_upgrading_to_premium">Дзякуем за абнаўленне да прэміум!</string>
+    <string name="thank_you_for_upgrading_to_premium">Дзякуем за абнаўленне да прэміўм!</string>
     <string name="proceed">Прадоўжыць</string>
     <string name="restore_license">Узнавіць ліцэнзію</string>
-    <string name="restore_for_purchased_users">Вы павінны ўсталяваць апошнюю версію Pro з Google Play, якую Вы набылі раней. Яна будзе выкарыстоўвацца ў якасці ліцэнзіі для актывацыі прэміўм функцый.</string>
+    <string name="restore_for_purchased_users">Вы павінны ўсталяваць апошнюю Pro версію з Google Play, якую Вы набылі раней. Яна будзе выкарыстоўвацца ў якасці ліцэнзіі для актывацыі прэміўм функцый.</string>
+    <string name="app_is_not_licensed">Прыкладанне не ліцэнзавана</string>
     </resources>
