@@ -1,17 +1,181 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-<string name="sd">Калі ласка, пастаўце SD картку ў тэлефон!</string>
+<string name="sd">Калі ласка, пастаўце SD карту ў тэлефон!</string>
     <string name="contact">Кантакты</string>
-    <string name="selected">выбрана</string>
+    <string name="selected">адзначана</string>
     <string name="settings">Налады</string>
-    <string name="notifications">Нататкі</string>
-    <string name="notificationStatus_checkbox_title">Ўключыць апавяшчэннi</string>
-    <string name="notificationStatus_checkbox_summary">Паказываць у панэлі апавяшчэнняў пасля кожнага запісанага выкліку</string>
-    <string name="saveRecordQuestion_checkbox_summary">Запытаць пасля кожнага запісанага выкліку</string>
+    <string name="notifications">Паведамленні</string>
+    <string name="notificationStatus_checkbox_title">Уключыць паведамленні</string>
+    <string name="notificationStatus_checkbox_summary">Паказваць у панэлі паведамленняў пасля кожнага запісанага званка</string>
+    <string name="saveRecordQuestion_checkbox_summary">Запытаць пасля кожнага запісанага званка</string>
     <string name="storage">Cховішча</string>
     <string name="deleteRecord_title">Аўтаматычная ачыстка</string>
     <string name="deleteRecord_summary">Выдаленне запісаў</string>
-    <string name="recording">Запіс</string>
+    <string name="recording">Налады запісу</string>
     <string name="audioSource_title">Крыніца аўдыё</string>
-    <string name="app_name">Запіс Выклікаў</string>
+    <string name="app_name">Запіс званкоў</string>
+    <string name="audioChannel_title">Канал аўдыё</string>
+    <string name="fileFormat_title">Фармат файла</string>
+    <string name="recordingQuality_title">Якасць запісу</string>
+    <string name="email_subject">Запісаныя званкі</string>
+	<string name="buy_category_description">Версія Pro</string>
+	<string name="buy_category_title">Набыць поўную версію Call Recorder</string>
+	<string name="buy_summary">Без рэкламы і з дадатковымі магчымасцямі</string>
+
+	<string name="rate">Калі ласка, ацаніце гэта прыкладанне</string>
+	<string name="rateOk">Добра</string>
+	<string name="rateLater">Пазней</string>
+    <string name="save_the_call">Захаваць гэты званок?</string>
+    <string name="start_notification">Запіс званкоў распачаты</string>    
+    <string name="stop_notification">Запіс званкоў спынены</string>
+
+    <string name="yes">Так</string>
+    <string name="no">Не</string>
+
+	<string name="unknown">Невядомы</string>
+    <string name="hidden">Скрыты</string>
+	<string name="start_recording">Call Recorder працуе!</string>
+    <string name="start_recording_details">Усе наступныя званкі будуць запісаныя.</string>
+    <string name="stop_recording">Уключыце запіс!</string>
+    <string name="stop_recording_details">Запіс у сучасны момант выключаны.</string>
+
+    <string name="new_call">Новы званок быў запісаны!</string>    
+    <string name="info">Інфармацыя</string>       
+    <string name="faq_title">Часта задаюць пытанні</string>
+    <string name="faq_summary">Паглядзець пытанні і адказы на сайце</string>
+    <string name="other_app_title">Усе прыкладанні ад Clever Mobile</string>
+    <string name="other_app_summary">У Google Play</string>
+
+    <string name="undo">адмяніць</string>
+    <string name="deleted">выдалена</string>
+
+    <string name="lock">Заблакіраваць</string>
+    <string name="share">Падзяліцца</string>
+    <string name="delete">Выдаліць</string>
+    <string name="select_all">Выдзеліць усё</string>
+    <string name="recordings">Запісы</string>
+    <string name="help">Дапамога</string>
+    <string name="buy">Набыць</string>
+    <string name="cancel">Адмена</string>
+
+    <string name="hint_tap_on_contact_photo">Націсніце на малюнак кантакту каб выдзеліць запіс.</string>
+    <string name="importing_recordings">Запісы імпартуюцца…</string>
+
+    <string name="pro_description">Прэміум версія змяшчае</string>
+    <string name="share_recordings">Падзяліцца запісамі</string>
+    <string name="dropbox_upload">Сінхранізацыя з Dropbox</string>
+    <string name="google_drive_upload">Сінхранізацыя з Google Drive</string>
+    <string name="advanced_botifications">Пашыраныя паведамленні</string>
+    <string name="no_more_ads">Без рэкламы</string>
+
+    <string name="sd_card">SD карта</string>
+    <string name="call_recorder_folder">Папка \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Выкарыстана памяці</string>
+    <string name="sd_card_free_memory">Свабодна памяці</string>
+    <string name="total_files">Колькасць файлаў</string>
+    <string name="import_recordings">Імпартаваць запісы</string>
+    <string name="run_clean_up">Ачысціць зараз</string>
+    <string name="cleaning">Ачыстка старых запісаў…</string>
+    <string name="share_via">Падзяліцца праз…</string>
+
+    <string name="passcode">Пароль</string>
+    <string name="enable_passcode">Уключыць пароль</string>
+    <string name="enable_passcode_description">Запытваць пароль пры кожным запуску</string>
+    <string name="change_passcode">Змяніць пароль</string>
+    <string name="passcode_delete_recordings">Выдаліць запісы</string>
+    <string name="passcode_delete_recordings_description">Выдаліць усе запісы з тэлефона пасля 10 памылковых спроб увода пароля</string>
+    <string name="enter_passcode">Увядзіце пароль</string>
+    <string name="reenter_passcode">Пацвердзіце пароль</string>
+    <string name="enter_old_passcode">Увядзіце стары пароль</string>
+    <string name="passcode_did_not_match">Паролі не супадаюць. Паспрабуйце яшчэ раз!</string>
+    <string name="enter_new_passcode">Увядзіце новы пароль</string>
+    <string name="reenter_new_passcode">Пацвердзіце новы пароль</string>
+    <string name="wrong_passcode">Памылковы пароль. Паспрабуйце яшчэ раз!</string>
+    <string name="exit">Выхад</string>
+
+    <string name="cloud">Воблака</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Далучыцца да Dropbox</string>
+    <string name="dropbox_unlink">Адлучыцца ад Dropbox</string>
+
+    <string name="google_drive">Google Дыск</string>
+    <string name="google_drive_link">Далучыцца да Google Дыск</string>
+    <string name="google_drive_unlink">Адлучыцца ад Google Дыск</string>
+    <string name="connecting_to_google_drive">Падключэнне да Google Дыск</string>
+
+    <string name="login">Увайсці</string>
+    <string name="logout">Выйсці</string>
+    <string name="sync_title">Загрузіць зараз</string>
+    <string name="sync_summary">Загрузіць усе запісы ў воблака</string>
+    <string name="wifi_only">Толькі WiFi</string>
+    <string name="wifi_only_when_sync">Загружаць толькі пры падключенні праз WiFi</string>
+
+    <string name="run_pro_question_dlg_description">Вы спрабуеце запусціць бясплатную версію Call Recorder, але ў Вас таксама ўсталявана поўная версія. Жадаеце запусціць поўную?</string>
+    <string name="run_pro_question_dlg_title">Запусціць поўную версію</string>
+    <string name="last_recording">Апошні запіс</string>
+    <string name="read_instructions">Чытаць інструкцыі</string>
+    <string name="translations">Пераклады</string>
+    <string name="translate">Перакласці</string>
+    <string name="recording_method">Спосаб запісу</string>
+    <string name="filtering_method">Спосаб фільтрацыі</string>
+    <string name="last_recording_problem_description">Падчас апошняга запісу адбылася памылка. Калі гэта паведамленне з\'явіцца зноў, калі ласка пасбрабуйце змяніць Спосаб запісу або Крыніцу аўдыё ў Прыладах.</string>
+    <string name="about">Аб праграме</string>
+    <string name="add_translation">Дадаць пераклад</string>
+
+    <string name="number_of_days">Колькасць дзён</string>
+
+    <string name="play">Граць</string>
+    <string name="pause">Паўза</string>
+    <string name="write_ext_storage_problem_description">Немагчыма запісаць на знешняе сховішча.</string>
+    <string name="help_translate">Дапамажыце нам з перакладам на Вашу родную мову, выкарыстоўваючы наш сайт. Жадаеце прадоўжыць?</string>
+    <string name="allow_to_write_to_sd_card">Дазволіць запіс на здымную карту памяці</string>
+    <string name="delete_recordings_older_then_selected_days">Усе запісы старэй абранай колькасці дзён будуць выдалены аўтаматычна</string>
+    <string name="delete_recordings_on_uninstall">Пры высталяванні Call Recorder усе запісы будуць выдалены</string>
+    <string name="no_player_app_found">Не знойдзен ніякі плэер каб прайграць гэтае аўдыё</string>
+
+    <string name="player">Медыя-плэер</string>
+    <string name="use_external_player">Выкарыстоўваць знешні плэер</string>
+    <string name="use_external_media_player_to_play_recordings">Выкарыстоўваць знешні медыя-плэер для прайгравання запісаў</string>
+    <string name="number_of_seconds">Колькасць секунд</string>
+    <string name="not_able_to_import_to_pro">Уключэнне гэтай опцыі робіць немагчымым аўтаматычны імпарт запісаў у поўную версію. Зрабіце рэзервовую копію ўсіх важных запісаў, калі Вы вырашыце выдаліць прыкладанне, альбо ўсе яны будуць знішчаны.</string>
+    <string name="not_able_to_import">"Калі гэтая опцыя ўключана і Вы вырашылі выдаліць прыкладанне, Вам трэба зрабіць рэзервовую копію ўсіх важных запісаў, бо яны будуць знішчаны і ў Вас не будзе магчымасці імпартаваць іх пры паўторнам ўсталяванні. "</string>
+
+    <string name="delay_for_incoming_calls">Затрымка для ўваходных званкоў у секундах</string>
+    <string name="delay_for_outgoing_calls">Затрымка для выходных званкоў у секундах</string>
+
+    <string name="enabled">Уключана</string>
+    <string name="disabled">Выключана</string>
+    <string name="new_recordings">Новыя запісы</string>
+    <string name="persistent_notifications">Пастаянныя паведамленні</string>
+    <string name="enable_persistent_notifications">Уключаны пастаянныя паведамленні</string>
+    <string name="usage_terms_and_privacy_policy">Умовы выкарыстання і палітыка прыватнасці</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Карыстуючыся гэтым прыкладаннем Вы згодны з яго умовамі выкарыстання і палітыкай прыватнасці</string>
+    <string name="supported_phones">Падтрымліваемыя тэлефоны</string>
+    <string name="list_of_known_configurations">Спіс вядомых канфігурацый</string>
+
+    <string name="navigation_drawer_open">Адкрыць меню</string>
+    <string name="navigation_drawer_close">Закрыць меню</string>
+    <string name="tell_a_friend">Расказаць сябру</string>
+    <string name="rate_me">Ацаніць</string>
+    <string name="check_out_call_recorder_app_at">Паглядзіце на прыкладанне Call Recorder на</string>
+    <string name="upgrade_to_premium">Абнавіць да Прэміум</string>
+    <string name="theme">Тэма</string>
+    <string name="use_dark_theme">Выкарыстоўваць цёмную тэму</string>
+    <string name="call">Званок</string>
+    <string name="note">Нататка</string>
+    <string name="add_to_excluded">Дадаць у выключэння</string>
+    <string name="rec_info">Інфа</string>
+    <string name="add">Дадаць</string>
+    <string name="save">Захаваць</string>
+    <string name="close">Закрыць</string>
+    <string name="search">Пошук</string>
+    <string name="name">Імя</string>
+    <string name="number">Нумар</string>
+    <string name="path">Шлях</string>
+    <string name="size">Памер</string>
+    <string name="thank_you_for_upgrading_to_premium">Дзякуем за абнаўленне да прэміум!</string>
+    <string name="proceed">Прадоўжыць</string>
+    <string name="restore_license">Узнавіць ліцэнзію</string>
+    <string name="restore_for_purchased_users">Вы павінны ўсталяваць апошнюю версію Pro з Google Play, якую Вы набылі раней. Яна будзе выкарыстоўвацца ў якасці ліцэнзіі для актывацыі прэміўм функцый.</string>
     </resources>
