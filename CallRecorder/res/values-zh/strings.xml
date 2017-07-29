@@ -23,4 +23,7 @@
 	<string name="save_the_call">儲存此通話？</string>
     <string name="buy_summary">無廣告並且增加更多的功能</string>
 
+	<string name="rate">請評價此程式</string>
+	<string name="rateLater">稍後</string>
+    <string name="hidden">隱藏</string>
 	</resources>
