@@ -55,8 +55,8 @@
 
     <string name="login">Logar</string>
     <string name="logout">Sair</string>
-    <string name="sync_title">Sincronização</string>
-    <string name="sync_summary">Sincronizar todos registros agora</string>
+    <string name="sync_title">Enviar agora</string>
+    <string name="sync_summary">Enviar todas as gravações agora</string>
 
     <string name="lock">Bloqueio</string>
     <string name="share">Partilhar</string>
@@ -110,7 +110,7 @@
     <string name="connecting_to_google_drive">Conectando ao Google Drive</string>
 
     <string name="wifi_only">Somente WiFi</string>
-    <string name="wifi_only_when_sync">Sincronizar apenas quando conectado ao WiFi</string>
+    <string name="wifi_only_when_sync">Enviar apenas quando conectado ao WiFi</string>
 
     <string name="run_pro_question_dlg_title">Executar a versão Pro</string>
     <string name="last_recording">Última gravação</string>
@@ -176,7 +176,7 @@
     <string name="size">Tamanho</string>
     <string name="thank_you_for_upgrading_to_premium">Obrigado por atualizar para a Versão Premium!</string>
     <string name="proceed">Avançar</string>
-    <string name="restore_license">Utilizar licença anterior</string>
+    <string name="restore_license">Restaurar do Pro</string>
     <string name="restore_for_purchased_users">Você precisa instalar a última versão Pro, a partir do Google Play, a qual você comprou anteriormente. Ela será utilizada como a licença para ativar as funcionalidades Premium.</string>
     <string name="app_is_not_licensed">O aplicativo não está licenciado.</string>
     <string name="buy_license_in_order_to_use_app">Para usar o aplicativo, adquira-o no Google Play!</string>
@@ -192,5 +192,19 @@
     <string name="error_during_recording">Erro durante a gravação</string>
     <string name="tap_here_to_troubleshoot">Clique aqui para solução de problemas</string>
     <string name="recording_problem">Problemas na gravação?</string>
+
+    <string name="recording_notification">Notificação de gravação</string>
+    <string name="show_notification_during_recording">Mostrar notificação durante a gravação</string>
+    <string name="recording_filter">Filtro de gravação</string>
+    <string name="filter">Filtro</string>
+    <string name="use_filtering_by_phone_numbers">Usar filtragem por número de telefone</string>
+    <string name="filtering_method">método de filtragem</string>
+    <string name="switch_filtering">Alternar filtragem</string>
+    <string name="record_all_phone_numbers_exept_excluded">Não gravar chamadas da lista abaixo</string>
+    <string name="record_only_included_phone_numbers">Gravar chamadas apenas da lista abaixo</string>
+    <string name="add_contact">Acrescentar contato</string>
+    <string name="add_phone_number">Acrescentar número de telefone</string>
+    <string name="add_to_filter">Acrescentar ao filtro</string>
+    <string name="another_call_recording_app_is_running">"Outro app de gravação de chamadas está sendo executado.  Por favor, remova-o para que o Gravador de chamadas funcione corretamente "</string>
 
     </resources>
