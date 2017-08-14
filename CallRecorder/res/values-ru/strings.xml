@@ -241,6 +241,7 @@
     <string name="add_contact">Добавить контакт</string>
     <string name="add_phone_number">Добавить номер телефона</string>
     <string name="add_to_filter">Добавить фильтр</string>
-    <string name="another_call_recording_app_is_running">"Другая программа записи запущенна на телефоне. Пожалуйста, удалите ее чтобы Запись звонков могла работать исправно. "</string>
+    <string name="another_call_recording_app_is_running">Другая программа записи запущенна на телефоне. Пожалуйста, удалите ее чтобы Запись звонков могла работать исправно.</string>
 
+    <string name="android_can_stop_recording_if_this_notification_disabled">Если эта опция выключена то Андроид может остановить работу приложения и некоторые разговоры не будут записаны вообще или будут записаны не полностью. Все еще хотите выключить эту опцию?</string>
     </resources>
