@@ -238,7 +238,7 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
     <string name="add_contact">Добавити контакт</string>
     <string name="add_phone_number">Добавити телефонний номер</string>
     <string name="add_to_filter">Додати до фільтру</string>
-    <string name="another_call_recording_app_is_running">"Інша програма запису дзвінків запущена. Будь ласка, видаліть її щоб Запис дзвінків працював коректно. "</string>
+    <string name="another_call_recording_app_is_running">Інша програма запису дзвінків запущена. Будь ласка, видаліть її щоб Запис дзвінків працював коректно.</string>
 
     <string name="android_can_stop_recording_if_this_notification_disabled">Якщо ця опція виключена то Андроїд може зупинити роботу додатку і деякі розмови не будуть записані взагалі, або записані не повністю. Все ще хочете виключити цю опцію?</string>
 
