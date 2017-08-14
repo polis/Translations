@@ -244,4 +244,7 @@
     <string name="another_call_recording_app_is_running">Другая программа записи запущенна на телефоне. Пожалуйста, удалите ее чтобы Запись звонков могла работать исправно.</string>
 
     <string name="android_can_stop_recording_if_this_notification_disabled">Если эта опция выключена то Андроид может остановить работу приложения и некоторые разговоры не будут записаны вообще или будут записаны не полностью. Все еще хотите выключить эту опцию?</string>
+    <string name="finished">Завершено</string>
+
+
     </resources>
