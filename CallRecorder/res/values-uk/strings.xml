@@ -242,4 +242,7 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
 
     <string name="android_can_stop_recording_if_this_notification_disabled">Якщо ця опція виключена то Андроїд може зупинити роботу додатку і деякі розмови не будуть записані взагалі, або записані не повністю. Все ще хочете виключити цю опцію?</string>
 
+    <string name="finished">Завершено</string>
+
+
     </resources>
