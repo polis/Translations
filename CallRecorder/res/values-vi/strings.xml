@@ -1,28 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Ghi âm cuộc gọi</string>
     <string name="sd">Hãy cài thẻ nhớ SD vào điện thoại</string>
     <string name="contact">Liên lạc</string>
-    <string name="call_time">Thời gian cuộc gọi</string>
     <string name="selected">đã chọn</string>
     <string name="settings">Cài đặt</string>
     <string name="notifications">Thông báo</string>
     <string name="notificationStatus_checkbox_title">Bật thông báo</string>
     <string name="notificationStatus_checkbox_summary">Hiển thị thanh thông báo sau mỗi lần ghi âm cuộc gọi</string>
-    <string name="saveRecordQuestion_checkbox_title">Lưu cuộc gọi này ?</string>
     <string name="saveRecordQuestion_checkbox_summary">Hỏi sau mỗi lần ghi âm cuộc gọi</string>
     <string name="storage">Bộ nhớ</string>
     <string name="deleteRecord_title">Tự động dọn dẹp</string>
     <string name="deleteRecord_summary">Xóa bản ghi âm</string>
     <string name="recording">Cài đặt ghi âm</string>
     <string name="audioSource_title">Nguôn âm thanh</string>
-    <string name="audioSource_summary">Chọn nguồn âm thanh</string>
     <string name="audioChannel_title">Kênh âm thanh</string>
-    <string name="audioChannel_summary">Chọn kênh âm thanh</string>
     <string name="fileFormat_title">Định dạng tệp tin</string>
-    <string name="fileFormat_summary">Chọn định dạng tệp</string>
     <string name="recordingQuality_title">Chất lượng ghi âm</string>
-    <string name="recordingQuality_summary">Chọn chất lượng ghi âm</string>
     <string name="email_subject">Những bản ghi âm</string>
 	<string name="buy_category_description">Phiên bản Pro</string>
 	<string name="buy_category_title">Mua Call Recorder phiên bản Proo</string>
@@ -62,16 +56,17 @@
     <string name="recordings">Bản ghi âm</string>
     <string name="help">Trợ giúp</string>
     <string name="hint_tap_on_contact_photo">Chạm vào ảnh liên hệ để chọn bản ghi.</string>
-    <string name="importing_recordings">Đang nhập bản ghi&#8230;</string>
+    <string name="importing_recordings">Đang nhập bản ghi…</string>
 
     <string name="buy">Mua</string>
     <string name="cancel">Hủy bỏ</string>
-    <string name="pro_description">Phiên bản Pro bao gồm:
-        \n - Chia sẻ bản ghi
-        \n - Đồng bộ lên Dropbox
-        \n - Đồng bộ lên Google Drive
-        \n - Thông báo nâng cao
-        \n - Không có quảng cáo</string>
+
+    <string name="pro_description">Phiên bản Premium bao gồm</string>
+    <string name="share_recordings">Chia sẻ bản ghi</string>
+    <string name="dropbox_upload">Đồng bộ lên Dropbox</string>
+    <string name="google_drive_upload">Uploading to Google Drive</string>
+    <string name="advanced_botifications">Thông báo nâng cao</string>
+    <string name="no_more_ads">Không có quảng cáo</string>
 
     <string name="sd_card">Thẻ nhớ SD</string>
     <string name="call_recorder_folder">Thư mục \"CallRecorder\"</string>
@@ -80,8 +75,8 @@
     <string name="total_files">Tổng số tệp</string>
     <string name="import_recordings">Nhập bản ghi âm</string>
     <string name="run_clean_up">Xóa ngay bây giờ</string>
-    <string name="cleaning">Xóa bản ghi cũ&#8230;</string>
-    <string name="share_via">Chia sẻ qua&#8230;</string>
+    <string name="cleaning">Xóa bản ghi cũ…</string>
+    <string name="share_via">Chia sẻ qua…</string>
 
     <string name="passcode">Mật mã</string>
     <string name="enable_passcode">BẬT mật mã</string>
@@ -132,4 +127,14 @@
     <string name="delete_recordings_on_uninstall">Xóa tất cả bản ghi nếu gỡ bỏ ứng dụng Ghi Âm Cuộc Gọi</string>
     <string name="number_of_days">Tổng số ngày</string>
 
-</resources>
+<string name="add_translation">Thêm bản dịch</string>
+
+    <string name="recording_method">Phương pháp ghi âm</string>
+    <string name="no_player_app_found">Không có trình chơi nhạc nào để mở âm ghi này</string>
+
+    <string name="player">Chơi đa phương tiện</string>
+    <string name="use_external_player">Sử dụng trình chơi khác</string>
+    <string name="use_external_media_player_to_play_recordings">Sử dụng trình chơi ngoài để mở bản ghi này</string>
+    <string name="play">Chơi</string>
+    <string name="pause">Tạm dừng</string>
+    </resources>

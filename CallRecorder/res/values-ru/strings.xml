@@ -3,29 +3,23 @@
     <string name="app_name">Запись звонков</string>
     <string name="sd">Пожалуйста, вставьте SD карту в телефон!</string>
     <string name="contact">Контакты</string>
-    <string name="call_time">Время звонка</string>
-    <string name="selected">отмечено</string>    
+    <string name="selected">выбрано</string>
     <string name="settings">Настройки</string>    
     <string name="notifications">Уведомления</string>
     <string name="notificationStatus_checkbox_title">Включить уведомления</string>
     <string name="notificationStatus_checkbox_summary">Показывать уведомление после записи разговора</string>
-    <string name="saveRecordQuestion_checkbox_title">Сохранить запись?</string>
     <string name="saveRecordQuestion_checkbox_summary">Спрашивать после каждого звонка</string>
     <string name="storage">Память</string>
     <string name="deleteRecord_title">Автоматическая очистка</string>
-    <string name="deleteRecord_summary">Удалять записи</string>
+    <string name="deleteRecord_summary">Удаление записей</string>
     <string name="recording">Настройки записи</string>
     <string name="audioSource_title">Источник записи</string>
-    <string name="audioSource_summary">Выберите источник записи</string>
     <string name="audioChannel_title">Аудио канал</string>
-    <string name="audioChannel_summary">Выберите режим аудио канала</string>
     <string name="fileFormat_title">Формат файла</string>
-    <string name="fileFormat_summary">Выбор формата файла</string>    
     <string name="recordingQuality_title">Качество записи</string>
-    <string name="recordingQuality_summary">Выберите качество записи</string>    
-    <string name="email_subject">Записанные разговоры</string>      
+    <string name="email_subject">Записанные разговоры</string>
 	<string name="buy_category_description">Полная версия</string>	
-	<string name="buy_category_title">Купить Запись Звонков полную версию</string>	
+	<string name="buy_category_title">Купить полную версию Call Recorder</string>	
 	<string name="buy_summary">Без рекламы и с дополнительными возможностями</string>
 
 	<string name="rate">Пожалуйста, оцените это приложение</string>
@@ -40,15 +34,15 @@
 
 	<string name="unknown">Неизвестный</string>
 	<string name="hidden">Скрытый</string>	    
-    <string name="start_recording">Запись звонков включена!</string>    
-    <string name="start_recording_details">Все следующие разговоры будут записаны.</string>    
-    <string name="stop_recording">Включите запись звонков!</string>    
-    <string name="stop_recording_details">Запись звонков выключена.</string>
+    <string name="start_recording">Call Recorder работает!</string>    
+    <string name="start_recording_details">Все последующие вызовы будут записаны.</string>    
+    <string name="stop_recording">Включите записывание!</string>    
+    <string name="stop_recording_details">В настоящий момент записывание выключено.</string>
 
     <string name="new_call">Новый разговор был записан!</string>        
-    <string name="info">Інформация</string>
-    <string name="faq_title">Часто задаваемые вопросы (FAQ)</string>       
-    <string name="faq_summary">Перейти к FAQ странице для Записи звонков</string>       
+    <string name="info">Информация</string>
+    <string name="faq_title">Часто задаваемые вопросы</string>       
+    <string name="faq_summary">Посмотреть вопросы и ответы на сайте</string>       
     <string name="other_app_title">Все программы от Clever Mobile</string>       
     <string name="other_app_summary">В Google Play</string>
 
@@ -56,22 +50,23 @@
     <string name="deleted">удалено</string>
 
     <string name="lock">Заблокировать</string>
-    <string name="share">Поделиться</string>
+    <string name="share">Переслать</string>
     <string name="delete">Удалить</string>
     <string name="select_all">Выделить все</string>
     <string name="recordings">Записи</string>
     <string name="help">Помощь</string>
-    <string name="hint_tap_on_contact_photo">Нажмите на фото контакта чтобы выделить запись.</string>
+    <string name="hint_tap_on_contact_photo">Нажмите на картинку контакта чтобы выделить запись.</string>
     <string name="importing_recordings">Записи импортируются…</string>
 
     <string name="buy">Купить</string>
     <string name="cancel">Отмена</string>
-    <string name="pro_description">Про версия содержит функции:
-        \n - Поделится записами
-        \n - Синхронизация с Dropbox
-        \n - Синхронизация с Google Drive
-        \n - Дополнителные уведомления
-        \n - Без рекламы</string>
+
+    <string name="pro_description">Премиум версия содержит функции</string>
+    <string name="share_recordings">Пересылка записей</string>
+    <string name="dropbox_upload">Синхронизация с Dropbox</string>
+    <string name="google_drive_upload">Синхронизация с Google Drive</string>
+    <string name="advanced_botifications">Расширенные уведомления</string>
+    <string name="no_more_ads">Без рекламы</string>
 
     <string name="sd_card">SD карта</string>
     <string name="call_recorder_folder">Папка \"CallRecorder\"</string>
@@ -80,55 +75,55 @@
     <string name="total_files">Количество файлов</string>
     <string name="import_recordings">Импортировать записи</string>
     <string name="run_clean_up">Очистить сейчас</string>
-    <string name="cleaning">Очистка старых записей…</string>
-    <string name="share_via">Поделиться через…</string>
+    <string name="cleaning">Удаление старых записей…</string>
+    <string name="share_via">Отправить к…</string>
 
     <string name="passcode">Пароль</string>
     <string name="enable_passcode">Включить пароль</string>
     <string name="enable_passcode_description">Справшивать пароль каждый раз при запуске приложения</string>
     <string name="change_passcode">Сменить пароль</string>
     <string name="passcode_delete_recordings">Удалить записи</string>
-    <string name="passcode_delete_recordings_description">Удалить все записи с телефона после 10 неверыих попыток введения пароля</string>
+    <string name="passcode_delete_recordings_description">Удалить все записи с этого устройства после 10 неудачных попыток введения пароля</string>
     <string name="enter_passcode">Введите пароль</string>
-    <string name="reenter_passcode">Повторите пароль</string>
+    <string name="reenter_passcode">Подтвердите пароль</string>
     <string name="enter_old_passcode">Введите старый пароль</string>
     <string name="passcode_did_not_match">Пароли не совпадают. Попробуйте еще раз!</string>
     <string name="enter_new_passcode">Введите новый пароль</string>
-    <string name="reenter_new_passcode">Повторите новый пароль</string>
-    <string name="wrong_passcode">Неправильный пароль. Попробуйте еще раз!</string>
+    <string name="reenter_new_passcode">Подтвердите новый пароль</string>
+    <string name="wrong_passcode">Неверный пароль. Попробуйте еще раз!</string>
     <string name="exit">Выход</string>
 
-    <string name="cloud">Синхронизация</string>
+    <string name="cloud">Облако</string>
 
     <string name="dropbox">Dropbox</string>
-    <string name="dropbox_link">Присоединить Dropbox</string>
-    <string name="dropbox_unlink">Отсоединить Dropbox</string>
+    <string name="dropbox_link">Подключиться к Dropbox</string>
+    <string name="dropbox_unlink">Отключиться от Dropbox</string>
 
     <string name="google_drive">Google Drive</string>
-    <string name="google_drive_link">Присоединить Google Drive</string>
-    <string name="google_drive_unlink">Отсоединить Google Drive</string>
+    <string name="google_drive_link">Подключиться к Google Drive</string>
+    <string name="google_drive_unlink">Отключиться от Google Drive</string>
     <string name="connecting_to_google_drive">Подключение к Google Drive</string>
 
     <string name="login">Войти</string>
     <string name="logout">Выйти</string>
-    <string name="sync_title">Синхронизация</string>
-    <string name="sync_summary">Синхронизировать сейчас</string>
+    <string name="sync_title">Загрузить сейчас</string>
+    <string name="sync_summary">Загрузить все записи в облако</string>
     <string name="wifi_only">Только WiFi</string>
-    <string name="wifi_only_when_sync">Синхронизировать только при подключении через WiFi</string>
+    <string name="wifi_only_when_sync">Загружать только при подключении к WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Вы пытаетесь запустить пробную версию но на телефоне есть установленна професиональная. Запустить професиональную?</string>
-    <string name="run_pro_question_dlg_title">Запустить Про</string>
+    <string name="run_pro_question_dlg_description">Вы пытаетесь запустить бесплатную версию Call Recorder, но уже установили Pro. Запустить Pro?</string>
+    <string name="run_pro_question_dlg_title">Запустить Pro</string>
     <string name="last_recording">Последняя запись</string>
-    <string name="last_recording_problem_description">При последней записи возникла ошибка. Если увидите это сообщение снова, попробуйте изменить формат файла или источник аудио в Настройках.</string>
+    <string name="last_recording_problem_description">При последней записи возникла ошибка. Если увидите это сообщение снова, попробуйте изменить Метод записи или Источник аудио в Настройках.</string>
     <string name="read_instructions">Читать инструкции</string>
     <string name="about">О программе</string>
     <string name="translations">Перевод</string>
-    <string name="translate">Перевод</string>
-    <string name="help_translate">Помогите нам с переводом на ваш родной язык</string>
+    <string name="translate">Переводить</string>
+    <string name="help_translate">Помогите нам с переводом строк приложения на ваш родной язык, используя наш сайт. Хотите продолжить?</string>
 
-    <string name="write_ext_storage_problem_description">Невозможно записать на карту памяти.</string>
-    <string name="allow_to_write_to_sd_card">Записывать на съемную SD карту</string>
-    <string name="delete_recordings_older_then_selected_days">Записи старше чем выбрано дней будут удаляться автоматически</string>
+    <string name="write_ext_storage_problem_description">Невозможно записать на внешний накопитель.</string>
+    <string name="allow_to_write_to_sd_card">Разрешить запись на съемную SD карту</string>
+    <string name="delete_recordings_older_then_selected_days">Все записи старше выбранного временного периода будут удаляться автоматически</string>
     <string name="delete_recordings_on_uninstall">Все записи будут удалены при удалении приложения</string>
     <string name="number_of_days">Количество дней</string>
 
@@ -136,15 +131,117 @@
     <string name="no_player_app_found">"Не найдено приложение, для проигрывания этой записи. "</string>
 
 <string name="player">Медиа плеер</string>
-    <string name="use_external_player">Использовать внешнее приложение для воспроизведения</string>
-    <string name="use_external_media_player_to_play_recordings">Использовать внешнее приложение для воспроизведения записей</string>
-    <string name="play">Воспроизвести</string>
+    <string name="use_external_player">Использовать сторонний плеер</string>
+    <string name="use_external_media_player_to_play_recordings">Использовать стороннее приложение для воспроизведения записей</string>
+    <string name="play">Воспроизведение</string>
     <string name="pause">Пауза</string>
     <string name="not_able_to_import_to_pro">Включение данной опции сделает невозможным автоматической импорт записей в PRO версию. Сохраните все записи перед удалением приложения. Если этого не сделать, все записи будут удалены вместе с приложением.</string>
-    <string name="not_able_to_import">"Если эта опция включена, и вы решите удалить приложение, сделайте резервную копию всех важных записей, так как все они будут удалены, и не будет возможно импортировать записи автоматически после повторной установки приложения. "</string>
+    <string name="not_able_to_import">"Если эта опция включена, и вы решите удалить приложение, сделайте резервную копию всех важных записей, так как все они будут удалены, и будет невозможно импортировать записи автоматически после повторной установки приложения. "</string>
 
     <string name="number_of_seconds">Количество секунд</string>
     <string name="enabled">Включено</string>
     <string name="disabled">Выключено</string>
-    <string name="new_recordings">новые записи</string>
+    <string name="new_recordings">Новые записи</string>
+    <string name="delay_for_outgoing_calls">Задержка для исходящих вызовов в секундах</string>
+
+    <string name="persistent_notifications">Постоянное уведомление</string>
+    <string name="enable_persistent_notifications">Включено неудаляемое уведомление</string>
+
+    <string name="app_description_free">Простое приложение записи вызовов, которое обеспечивает:
+-Включение/выключение записи разговора
+-Записывание всех ваших телефоных звонков
+-Воспроизведение/остановку записанных звонков по нажатию на файл
+-Удаление записанных файлов
+-Блокировку записанных файлов для предотвращения от автоматической очистки
+-Пересылку записанных элементов (только в Pro версии)
+-Диалог подтверждения: Вы хотите сохранить записанный вызов?, который отображается сразу после вызова (только в Pro версии).
+
+ЕСЛИ ПРИЛОЖЕНИЕ НЕ РАБОТАЕТ НА ВАШЕМ ТЕЛЕФОНЕ СОВСЕМ
+ИЛИ ОНО НЕ ЗАПИСЫВАЕТ ГОЛОС ОППОНЕНТА:
+1. Попробуйте комбинировать различные параметры записи, как описано здесь: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Существует ограничение для некоторых телефонов, которые не поддерживают запись с телефонной линии или bluetooth. Это проблема аудио драйвера от производителя телефона. Список известных поддерживаемых устройств и конфигураций для них находится здесь: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Пожалуйста, не давайте плохие оценки из-за этого. Спасибо!
+
+Если у вас есть какие-то предложения или замечания, пожалуйста, посетите наш сайт http://clevermobile.net и не стесняйтесь обращаться к нам.</string>
+
+    <string name="app_description_pro">Call Recorder Pro (начиная с версии 6.6) больше не будет обновляться новыми функциями, но будет работать как активатор лицензии, чтобы включить премиальные функции для стандартной бесплатной версии.
+
+Он по-прежнему будет работать, но без новых функций, таких как:
+
+- Новый пользовательский интерфейс с возможностью переключения между светлой и темной темами.
+- Примечания к записям. Добавление, изменение, удаление заметок и поиск по заметкам.
+- Набор номера от записи.
+- и многое другое, которое будет добавлено в следующих выпусках.
+
+Поэтому рекомендуется установить стандартную бесплатную версию и восстановить свою лицензию</string>
+
+<string name="delay_for_incoming_calls">Задержка для входящих вызовов в секундах</string>
+    <string name="usage_terms_and_privacy_policy">Условия использования и политика конфиденциальности</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Используя это приложение, вы соглашаетесь с условиями его использования и политикой конфиденциальности</string>
+    <string name="supported_phones">Поддерживаемые телефоны</string>
+    <string name="list_of_known_configurations">Список известных конфигураций</string>
+
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="tell_a_friend">Рассказать другу</string>
+    <string name="rate_me">Оценить</string>
+    <string name="theme">Тема</string>
+    <string name="use_dark_theme">Темная тема</string>
+    <string name="call">Вызов</string>
+    <string name="note">Комментарий</string>
+    <string name="add_to_excluded">Добавить в исключения</string>
+    <string name="rec_info">Инфо</string>
+
+    <string name="app_is_not_licensed">Приложение не лицензировано</string>
+    <string name="buy_license_in_order_to_use_app">Чтобы использовать это приложение, пожалуйста, купите его через google play маркет!</string>
+    <string name="pro_version_as_a_license">Версия Call Recorder Pro больше не будет дополняться новыми функциями. Она будет использоваться для текущих пользователей в качестве лицензионного ключа для активации премиальных функций в стандартной версии. Больше информации об этом на нашем сайте.</string>
+    <string name="check_again">Проверить снова</string>
+
+
+    <string name="upgrade_to_premium">Обновление до премиум</string>
+    <string name="check_out_call_recorder_app_at">Проверьте приложение Call Recorder на</string>
+    <string name="add_translation">Добавить перевод</string>
+
+    <string name="add">Добавить</string>
+    <string name="save">Сохранить</string>
+    <string name="close">Закрыть</string>
+    <string name="search">Поиск</string>
+    <string name="name">Имя</string>
+    <string name="number">Номер</string>
+    <string name="path">Путь</string>
+    <string name="size">Размер</string>
+    <string name="proceed">Продолжить</string>
+    <string name="restore_license">Возобновить с Про</string>
+    <string name="restore_for_purchased_users">Вы должны установить последнюю версию Про, с Google Play, купленную ранее. Она будет использована как лицензия для активации премиум функций.</string>
+    <string name="thank_you_for_upgrading_to_premium">Благодарим вас за обновление до премиум!</string>
+    <string name="permissions">Права</string>
+    <string name="in_order_to_work_please_grand_permission">Чтобы приложение работало корректно, пожалуйста, дайте следующие права.</string>
+    <string name="read_more">Читать больше</string>
+    <string name="do_not_show_again">Не показывать больше</string>
+
+
+    <string name="delete_uploaded">Удалить загруженные</string>
+    <string name="delete_after_upload_to_cloud">Автоматически уделять загруженные записи с телефона</string>
+
+    <string name="call_is_recording_now">Звонок записывается</string>
+    <string name="error_during_recording">Ошибка записи</string>
+    <string name="tap_here_to_troubleshoot">Нажмите здесь чтобы устранить неполадки</string>
+    <string name="recording_problem">Проблема с записью?</string>
+
+    <string name="show_notification_during_recording">Показывать уведомление о текущей записи</string>
+
+    <string name="recording_notification">Уведомление о записи звонка</string>
+    <string name="recording_filter">Фильтрация записи</string>
+    <string name="filter">Фильтр</string>
+    <string name="use_filtering_by_phone_numbers">Использовать фильтрацию по номеру телефона</string>
+    <string name="filtering_method">Метод фильтрации</string>
+    <string name="switch_filtering">Изменить фильтрацию</string>
+    <string name="record_all_phone_numbers_exept_excluded">Не записывать разговоры с списка ниже</string>
+    <string name="record_only_included_phone_numbers">Записывать только разговоры из списка ниже</string>
+    <string name="add_contact">Добавить контакт</string>
+    <string name="add_phone_number">Добавить номер телефона</string>
+    <string name="add_to_filter">Добавить фильтр</string>
+    <string name="another_call_recording_app_is_running">Другая программа записи запущенна на телефоне. Пожалуйста, удалите ее чтобы Запись звонков могла работать исправно.</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">Если эта опция выключена то Андроид может остановить работу приложения и некоторые разговоры не будут записаны вообще или будут записаны не полностью. Все еще хотите выключить эту опцию?</string>
     </resources>

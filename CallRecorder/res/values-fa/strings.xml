@@ -3,26 +3,20 @@
     <string name="app_name">ضبط تماس</string>
     <string name="sd">لطفاً کارت حافظه را وارد کنید!</string>
     <string name="contact">مخاطبین</string>
-    <string name="call_time">زمان تماس</string>
     <string name="selected">انتخاب شد</string>
     <string name="settings">تنظیمات</string>
     <string name="notifications">اعلانات</string>
     <string name="notificationStatus_checkbox_title">فعالسازی اعلانات</string>
     <string name="notificationStatus_checkbox_summary">نمایش در نوار اعلانات پس از هر تماس ضبط شده</string>
-    <string name="saveRecordQuestion_checkbox_title">تماس ذخیره شود؟</string>
     <string name="saveRecordQuestion_checkbox_summary">بعد از هر تماس ضبط شده پرسیده شود</string>
     <string name="storage">حافظه</string>
     <string name="deleteRecord_title">پاک کردن خودکار</string>
     <string name="deleteRecord_summary">پاک کردن ضبط شده‌ها</string>
     <string name="recording">تنظیمات ضبط</string>
     <string name="audioSource_title">منبع صدا</string>
-    <string name="audioSource_summary">انتخاب منبع صدا</string>
     <string name="audioChannel_title">کانال صدا</string>
-    <string name="audioChannel_summary">انتخاب کانال صدا</string>
     <string name="fileFormat_title">فرمت فایل</string>
-    <string name="fileFormat_summary">انتخاب فرمت فایل</string>
     <string name="recordingQuality_title">کیفیت ضبط</string>
-    <string name="recordingQuality_summary">انتخاب کیفیت ضبط</string>
     <string name="email_subject">تماس‌های ضبط ‌شده</string>
 	<string name="buy_category_description">نسخه حرفه‌ای</string>
 	<string name="buy_category_title">خرید نسخه‌ی حرفه‌ای ضبط صدا</string>
@@ -66,17 +60,13 @@
 
     <string name="buy">خرید</string>
     <string name="cancel">لغو</string>
-    <string name="pro_description">امکانات نسخه حرفه‌ای:
- 
- - اشتراک گذاری ضبط ها
- 
- - همگام سازی با دارپ باکس
- 
- - همگام سازی با گوگل درایو
- 
- - اعلانات پیشرفته
- 
- - بدون تبلیغات</string>
+
+    <string name="pro_description">امکانات نسخه حرفه‌ای</string>
+    <string name="share_recordings">اشتراک گذاری ضبط ها</string>
+    <string name="dropbox_upload">همگام سازی با دارپ باکس</string>
+    <string name="google_drive_upload">همگام سازی با گوگل درایو</string>
+    <string name="advanced_botifications">اعلانات پیشرفته</string>
+    <string name="no_more_ads">بدون تبلیغات</string>
 
     <string name="sd_card">کارت حافظه</string>
     <string name="call_recorder_folder">پوشه \"CallRecorder\"</string>
@@ -103,7 +93,7 @@
     <string name="wrong_passcode">رمزعبور اشتباه است. لطفا، دوباره تلاش کنید!</string>
     <string name="exit">خروج</string>
 
-    <string name="cloud">همگام سازی</string>
+    <string name="cloud">ابر</string>
 
     <string name="dropbox">دراپ باکس</string>
     <string name="dropbox_link">اتصال حساب دراپ باکس</string>
@@ -116,20 +106,20 @@
 
     <string name="login">ورود</string>
     <string name="logout">خروج از حساب</string>
-    <string name="sync_title">همگام سازی</string>
-    <string name="sync_summary">همگام سازی ضبط‌ها هم اکنون</string>
+    <string name="sync_title">بارگذاری اکنون</string>
+    <string name="sync_summary">بارگذازی کردن همه ضبط‌ها هم اکنون</string>
     <string name="wifi_only">فقط وای فای</string>
-    <string name="wifi_only_when_sync">همگام سازی فقط هنگامی که به وای فای متصل شدید</string>
+    <string name="wifi_only_when_sync">بارگذاری فقط هنگامی که به وای فای متصل شدید</string>
 
     <string name="run_pro_question_dlg_description">شما درحال حاظر از نسخه رایگان استفاده می کنید در حالی که یک نسخه‌ی غیر حرفه ای روی دستگاه شما نصب شده است. آیا نسخه‌‌ی حرفه ای این برنامه را می خواهید؟</string>
     <string name="run_pro_question_dlg_title">اجرای نسخه حرفه‌ای</string>
     <string name="last_recording">آخرین ضبط</string>
-    <string name="last_recording_problem_description">به نظر میرسد مشکلی در آخرین ضبط پیش آمده. اگر دوباره این پیام را مشاهده کردید، لطفاً فرمت فایل را تغییر دهید و یا به تنظیمات منبع صدا مراجعه کنید.</string>
+    <string name="last_recording_problem_description">به نظر میرسد مشکلی در آخرین ضبط پیش آمده است. اگر دوباره این پیام را مشاهده کردید، لطفاً فرمت فایل را تغییر دهید و یا به تنظیمات منبع صدا مراجعه کنید.</string>
     <string name="read_instructions">خواندن دستورالعمل ها</string>
     <string name="about">درباره</string>
     <string name="translations">ترجمه</string>
     <string name="translate">ترجمه کردن</string>
-    <string name="help_translate">به ما در ترجمه‌ی زبان های ناموجود کمک کنید</string>
+    <string name="help_translate">به ما در ترجمه‌ی زبان های ناموجود کمک کنید، با استفاده از وب سایت ما. آیا مایل به ادامه هستید؟</string>
 
     <string name="write_ext_storage_problem_description">قادر به ذخیره در حافظه خارجی نیستید.</string>
     <string name="allow_to_write_to_sd_card">اجازه دادن برای نوشتن در کارت حافظه خارجی قابل حمل</string>
@@ -148,27 +138,16 @@
     <string name="not_able_to_import_to_pro">اگر این گزینه فعال باشد سپس این امکان وجود نخواهد داشت برای وارد کردن خودکار به نسخه حرفه ای. علاوه بر این، انجام پشتیبان گیری از تمام ضبط مهم است اگر شما تصمیم به حذف این برنامه دارید همه آنها حذف خواهد شد.</string>
     <string name="not_able_to_import">"اگر این گزینه فعال باشد و شما تصمیم به حذف نرم افزار داشته باشید، شما باید تهیه پشتیبان از تمام ضبط های مهم را  انجام دهید، همه آنها حذف خواهند شد و آن ممکن نخواهد بود به طور خودکار ضبط ها بعد از نصب برنامه دوباره وارد شوند. "</string>
 
-    <string name="app_description_pro">این نرم افزار برای برخی از گوشی کار نمی کند. بنابراین،
-لطفا، قبل از خرید ان نسخه رایگان ما را امتحان کنید.
-اگر نسخه رایگان برای گوشی شما کار نمی کند - پول خود را برای خرید نرم افزارهدر ندهید!
+    <string name="app_description_pro">ضبط تماس حرفه ای (با شروع از نسخه 6.6) دیگر توسط قابلیت های جدید به روز خواهد شد اما مثل یک فعال ساز مجوز کار خواهد کرد برای فعال کردن ویژگی های نسخه حرفه ای ، نسخه رایگان است.
 
-***خاموش کردن ضبط در نسخه رایگان فقط بعد از نصب نسخه حرفه ای است ***
+آن هنوز هم کار خواهد کرد به مانند قبل، اما بدون ویژگی های جدید مانند:
 
-نسخه حرفه ای ضبط تماس ، بدون تبلیغات و شامل ویژگی های اضافی می باشد.
+- رابط کاربری جدید با امکان به سوئیچ بین نور و تاریکی تم
+- یادداشت برای ضبط. اضافه کردن، ویرایش، حذف یادداشت ها و جستجو بر اساس یادداشت ها.
+- شماره گیری شماره از ضبط.
+- و بیشتر خواهد شد در نسخه های بعدی اضافه کردن.
 
-نسخه حرفه ای نرم افزار ضبط تماس دارای قابلیت های:
-- فعال / غیر فعال کردن ضبط تماس
-- سوابق تمام تماس های تلفنی خود
-- پخش / توقف صوتی با لمس بر روی آیتم ثبت شده
-- حذف آیتم های ثبت شده
-- قفل کردن آیتم ها ثبت شده برای جلوگیری از تمیز کردن خودکار 
-- به اشتراک گذشتن ضبط (فقط در نرم افزار نسخه حرفه ای)
-- همگام سازی با دراپ باکس و و گوگل درایو (فقط در نرم افزار نسخه حرفه ای)
-- تایید گفت و گو بعد از هر تماس: ذخیره ضبط؟ (فقط در نرم افزار نسخه حرفه ای)
-
-اگر شما می خواهید داشته باشید زبان خود را و آماده کمک کردن با ترجمه هستید - خوش آمدید ! لطفا، صفحه ترجمه سایت را از اینجا بازدید کنید: http://translate.clevermobile.net/projects/call-recorder/translations/
-
-اگر شما پیشنهادات و یا نظراتی دارید، لطفا به سایت ما مراجعه کنید http://clevermobile.net و در صورت تمایل با ما تماس بگیرید.</string>
+بنابراین توصیه می شود به نصب نسخه رایگان استاندارد و بازگرداندن مجوز خود که وجود دارد</string>
 
 <string name="app_description_free">"نرم افزار ساده ضبط تماس که دارای قابلیت های:
 - فعال / غیر فعال کردن ضبط تماس
@@ -197,5 +176,53 @@
 
     <string name="persistent_notifications">اطلاعیه های ماندگار</string>
     <string name="enable_persistent_notifications">فعال کردن اطلاعیه های ماندگار</string>
+
+    <string name="list_of_known_configurations">لیست پیکربندی های شناخته شده</string>
+
+    <string name="add_translation">اضافه کردن ترجمه</string>
+
+    <string name="usage_terms_and_privacy_policy">شرایط استفاده و سیاست حفظ حریم</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">با استفاده از این نرم افزار شما با شرایط استفاده از سیاست حفظ حریم شخصی موافق هستید</string>
+    <string name="supported_phones">تلفنهای پشتیبانی شده</string>
+    <string name="navigation_drawer_open">باز کردن منو</string>
+    <string name="navigation_drawer_close">بستن منو</string>
+    <string name="tell_a_friend">به دوستت بگو</string>
+    <string name="rate_me">امتیاز دادن به من</string>
+    <string name="check_out_call_recorder_app_at">هی! بررسی از برنامه ضبط تماس در</string>
+    <string name="upgrade_to_premium">ارتقا دادن به نسخه حرفه ای</string>
+    <string name="theme">تم</string>
+    <string name="use_dark_theme">استفاده از تم تیره</string>
+    <string name="call">تماس</string>
+    <string name="note">یادداشت</string>
+    <string name="add_to_excluded">اضافه کردن به حذف شده</string>
+    <string name="rec_info">اطلاعات</string>
+    <string name="add">اضافه کردن</string>
+    <string name="save">ذخیره</string>
+    <string name="close">بستن</string>
+    <string name="search">جستجو</string>
+    <string name="name">نام</string>
+    <string name="number">شماره</string>
+    <string name="path">مسیر</string>
+    <string name="size">سایز</string>
+    <string name="thank_you_for_upgrading_to_premium">تشکر از شما برای ارتقاء به نسخه حرفه ای!</string>
+    <string name="proceed">ادامه</string>
+    <string name="restore_license">بازگرداندن مجوز</string>
+    <string name="restore_for_purchased_users">شما نسخه حرفه ای قبلی را نصب دارید، از گوگل پلی، که شما قبلا خریداری کردید، با استفاده از آن به عنوان مجوز برای قابلیت فعال حرفه ای.</string>
+    <string name="app_is_not_licensed">برنامه مجوز ندارد</string>
+    <string name="buy_license_in_order_to_use_app">به منظور استفاده از این برنامه، لطفا، آن را خریداری کنید از طریق مارکت گوگل پلی !</string>
+    <string name="pro_version_as_a_license">ضبط تماس نسخه حرفه ای از ویژگی های جدید به روز نخواهد شد. استفاده خواهد شد برای کاربران فعلی به عنوان یک کلید مجوز به فعال کردن قابلیت های نسخه حرفه ای در نسخه استاندارد است. اطلاعات بیشتر در مورد آن در وب سایت ما.</string>
+    <string name="check_again">دوباره بررسی کن</string>
+    <string name="permissions">مجوز</string>
+    <string name="in_order_to_work_please_grand_permission">به منظور درست کار کردن، لطفا، دنبال کنید اعطای مجوز برای این نرم افزار.</string>
+    <string name="read_more">ادامه مطلب</string>
+    <string name="do_not_show_again">دیگر نشان داده نشود</string>
+
+
+    <string name="delete_uploaded">حذف بارگزاری شده ها</string>
+    <string name="delete_after_upload_to_cloud">حذف به صورت خودکار ضبط های بارگزاری شده از تلفن</string>
+    <string name="call_is_recording_now">تماس در حال ضبط شدن است</string>
+    <string name="error_during_recording">خطا در حین ضبط</string>
+    <string name="tap_here_to_troubleshoot">برای عیب یابی اینجا را ضربه بزنید</string>
+    <string name="recording_problem">مشکل در ضبط؟</string>
 
     </resources>

@@ -1,28 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-<string name="app_name">Запис на обажданията</string>
+<string name="app_name">Call Recorder</string>
     <string name="sd">Моля, поставете SD карта в телефона си!</string>
     <string name="contact">Контакти</string>
-    <string name="call_time">Време на обаждането</string>
     <string name="selected">избрани</string>
     <string name="settings">Настройки</string>
     <string name="notifications">Известия</string>
     <string name="notificationStatus_checkbox_title">Включи известията</string>
     <string name="notificationStatus_checkbox_summary">Показвай известие горе в бара по време на запис</string>
-    <string name="saveRecordQuestion_checkbox_title">Запис на разговора?</string>
     <string name="saveRecordQuestion_checkbox_summary">Попитай след запис на разговора</string>
     <string name="storage">Съхранение</string>
     <string name="deleteRecord_title">Автоматично почистване</string>
     <string name="deleteRecord_summary">Изтриване на записи</string>
     <string name="recording">Настройки на записа</string>
     <string name="audioSource_title">Аудио формат</string>
-    <string name="audioSource_summary">Избери аудио формат</string>
     <string name="audioChannel_title">Аудио канал</string>
-    <string name="audioChannel_summary">Избери аудио канал</string>
     <string name="fileFormat_title">Файлов формат</string>
-    <string name="fileFormat_summary">Избери файлов формат</string>
     <string name="recordingQuality_title">Качество на запис</string>
-    <string name="recordingQuality_summary">Избери качество на запис</string>    
     <string name="email_subject">Записани обаждания</string>
 	<string name="buy_category_description">Разширена версия</string>
 	<string name="buy_category_title">Закупи запис на обажданията разширена версия</string>
@@ -66,17 +60,13 @@
 
     <string name="buy">Купи</string>
     <string name="cancel">Отказ</string>
-    <string name="pro_description">Съдържание на разширена версия:
 
-- Споделяне на записи
-
-- Dropbox синхронизация
-
-- Google Drive синхронизация
-
-- Допълнителни известия
-
-- Без повече реклама</string>
+    <string name="pro_description">Съдържание на разширена версия</string>
+    <string name="share_recordings">Споделяне на записи</string>
+    <string name="dropbox_upload">Dropbox синхронизация</string>
+    <string name="google_drive_upload">Google Drive синхронизация</string>
+    <string name="advanced_botifications">Допълнителни известия</string>
+    <string name="no_more_ads">Без повече реклама</string>
 
     <string name="sd_card">SD карта</string>
     <string name="call_recorder_folder">Папка \"Записани обаждания\"</string>
@@ -103,7 +93,7 @@
     <string name="wrong_passcode">Грешна парола. Моля, опитай отново!</string>
     <string name="exit">Изход</string>
 
-    <string name="cloud">Синхронизация</string>
+    <string name="cloud">Облак</string>
 
     <string name="dropbox">Услуга на Dropbox</string>
     <string name="dropbox_link">Линк към Dropbox профил</string>
@@ -129,7 +119,7 @@
     <string name="about">Относно</string>
     <string name="translations">Преводи</string>
     <string name="translate">Превод</string>
-    <string name="help_translate">Помогнете ни с превода на родния си език</string>
+    <string name="help_translate">Помогнете ни с превода на родния си език Като използвате нашия уебсаит .</string>
 
     <string name="write_ext_storage_problem_description">Невъзможен е запис на карта за съхранение.</string>
     <string name="allow_to_write_to_sd_card">Позволи запис на външна SD карта</string>
@@ -187,4 +177,8 @@ Pro версия на Call Recorder приложение има способно
 
 Ако имате предложения или коментари, моля посетете нашия сайт http://clevermobile.net и не се колебайте да се свържете с нас."</string>
 
-</resources>
+<string name="add_translation">Въведете превод</string>
+
+    <string name="number_of_seconds">1</string>
+    <string name="delay_for_incoming_calls">Delay for incoming calls in seconds</string>
+    </resources>

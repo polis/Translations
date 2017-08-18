@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="sd">Ole hyvä ja aseta SD-kortti puhelimeesi!</string>
     <string name="contact">Yhteystiedot</string>
-    <string name="call_time">Puhelun aika</string>
     <string name="app_name">Call Recorder</string>
     <string name="selected">valittu</string>
     <string name="settings">Asetukset</string>
@@ -11,19 +10,14 @@
     <string name="notifications">Ilmoitukset</string>
     <string name="notificationStatus_checkbox_title">Salli ilmoitukset</string>
     <string name="notificationStatus_checkbox_summary">Näytä ilmoituksena kunkin tallennetun puhelun jälkeen</string>
-    <string name="saveRecordQuestion_checkbox_title">Tallennetaanko tämä puhelu?</string>
     <string name="saveRecordQuestion_checkbox_summary">Kysy kunkin puhelun jälkeen</string>
     <string name="deleteRecord_title">Automaattinen poisto</string>
     <string name="deleteRecord_summary">Poista tallenteet</string>
     <string name="recording">Tallennusasetukset</string>
     <string name="audioSource_title">Äänilähde</string>
-    <string name="audioSource_summary">Valitse äänilähde</string>
     <string name="audioChannel_title">Äänikanava</string>
-    <string name="audioChannel_summary">Valitse äänikanava</string>
     <string name="fileFormat_title">Tiedostomuoto</string>
-    <string name="fileFormat_summary">Valitse tiedostomuoto</string>
     <string name="recordingQuality_title">Tallennuslaatu</string>
-    <string name="recordingQuality_summary">Valitse tallennuslaatu</string>    
     <string name="email_subject">Tallennetut puhelut</string>
 	<string name="buy_category_description">Pro-versio</string>
 	<string name="buy_category_title">Osta Call Recorderin Pro-versio</string>
@@ -67,17 +61,13 @@
 
     <string name="buy">Osta</string>
     <string name="cancel">Peru</string>
-    <string name="pro_description">Pro-version ominaisuuksia:
 
-- tallenteiden jakaminen
-
-- Dropboxiin synkronointi
-
-- Google Driveen synkronointi
-
-- kehittyneet ilmoitukset
-
-- ei enää mainoksia</string>
+    <string name="pro_description">Pro-version ominaisuuksia</string>
+    <string name="share_recordings">tallenteiden jakaminen</string>
+    <string name="dropbox_upload">Dropboxiin synkronointi</string>
+    <string name="google_drive_upload">Google Driveen synkronointi</string>
+    <string name="advanced_botifications">kehittyneet ilmoitukset</string>
+    <string name="no_more_ads">ei enää mainoksias</string>
 
     <string name="sd_card">SD-kortti</string>
     <string name="call_recorder_folder">Hakemisto \"CallRecorder\"</string>

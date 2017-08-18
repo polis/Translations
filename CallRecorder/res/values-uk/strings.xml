@@ -3,27 +3,21 @@
     <string name="app_name">Запис дзвінків</string>
     <string name="sd">Будь-ласка, вставте SD карту в телефон!</string>
     <string name="contact">Контакти</string>
-    <string name="call_time">Час дзвінка</string>
-    <string name="selected">відмічено</string>    
+    <string name="selected">відмічено</string>
     <string name="settings">Налаштування</string>
-	<string name="notifications">Сповіщення</string>
-    <string name="notificationStatus_checkbox_title">Увімкнути сповіщення</string>
-    <string name="notificationStatus_checkbox_summary">Сповіщати про запис розмови</string>
-    <string name="saveRecordQuestion_checkbox_title">Зберегти запис?</string>
+	<string name="notifications">Повідомлення</string>
+    <string name="notificationStatus_checkbox_title">Увімкнути повідомлення</string>
+    <string name="notificationStatus_checkbox_summary">Повідомляти про записану розмову</string>
     <string name="saveRecordQuestion_checkbox_summary">Запитувати після кожного дзвінка</string>
     <string name="storage">Пам’ять</string>
     <string name="deleteRecord_title">Автоматична очистка</string>
     <string name="deleteRecord_summary">Видалитяти записи</string>
     <string name="recording">Налаштування запису</string>
     <string name="audioSource_title">Ресурс запису</string>
-    <string name="audioSource_summary">Виберіть ресурс для запису розмови</string>
     <string name="audioChannel_title">Аудіо канал</string>
-    <string name="audioChannel_summary">Налаштуйте параметер аудіо каналу</string>
     <string name="fileFormat_title">Формат файлу</string>
-    <string name="fileFormat_summary">Вибір формату файлу</string>    
     <string name="recordingQuality_title">Якість запису</string>
-    <string name="recordingQuality_summary">Виберіть якість запису</string>    
-    <string name="email_subject">Записані розмови</string>   
+    <string name="email_subject">Записані розмови</string>
     <string name="buy_category_description">Повна версія</string>	   
 	<string name="buy_category_title">Купити Запис розмов повну версію</string>	
 	<string name="buy_summary">Без реклами та з додатковими можливостями</string>	
@@ -49,7 +43,7 @@
     <string name="faq_title">Часті запитання (FAQ)</string>       
     <string name="faq_summary">Перейти до FAQ сторінки Запису дзвінків</string>       
     <string name="other_app_title">Усі аплікаціїї від Clever Mobile</string>       
-    <string name="other_app_summary">У Goodle Play маркеті</string>
+    <string name="other_app_summary">У Google Play маркеті</string>
 
     <string name="undo">відмінити</string>
     <string name="deleted">видалено</string>
@@ -60,18 +54,18 @@
     <string name="select_all">Виділити усе</string>
     <string name="recordings">Записи</string>
     <string name="help">Допомога</string>
-    <string name="hint_tap_on_contact_photo">Натисніть на фото контакту щоб виділити запис.</string>
+    <string name="hint_tap_on_contact_photo">Натисніть на малюнок контакту щоб виділити запис.</string>
     <string name="importing_recordings">Записи імпортуються…</string>
 
     <string name="buy">Купити</string>
     <string name="cancel">Відміна</string>
-    <string name="pro_description">
-        Про версія містить:
-        \n - Поділитись записами
-        \n - Синхронізація з Dropbox
-        \n - Синхронізація з Google Drive
-        \n - Додаткові сповіщення
-        \n - Без реклами</string>
+
+    <string name="pro_description">Преміум версія містить</string>
+    <string name="share_recordings">Поділитись записами</string>
+    <string name="dropbox_upload">Синхронізація з Dropbox</string>
+    <string name="google_drive_upload">Синхронізація з Google Drive</string>
+    <string name="advanced_botifications">Додаткові сповіщення</string>
+    <string name="no_more_ads">Без реклами</string>
 
     <string name="sd_card">SD карта</string>
     <string name="call_recorder_folder">Папка \"CallRecorder\"</string>
@@ -98,7 +92,7 @@
     <string name="wrong_passcode">Невірний пароль. Спробуйте ще раз!</string>
     <string name="exit">Вихід</string>
 
-    <string name="cloud">Синхронізація</string>
+    <string name="cloud">Хмара</string>
 
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Приєднати Dropbox скриньку</string>
@@ -111,24 +105,24 @@
 
     <string name="login">Увійти</string>
     <string name="logout">Вийти</string>
-    <string name="sync_title">Синхронізація</string>
-    <string name="sync_summary">Синхронізувати зараз</string>
+    <string name="sync_title">Відвантажити зараз</string>
+    <string name="sync_summary">Відвантажити усі записи в хмару</string>
     <string name="wifi_only">Тільки WiFi</string>
-    <string name="wifi_only_when_sync">Синхронізовувати тільки при підключенні через WiFi</string>
+    <string name="wifi_only_when_sync">Відвантажувати тільки при підключенні через WiFi</string>
 
     <string name="run_pro_question_dlg_description">Ви намагаєтесь запустити пробну версію запису дзвінків, коли на телефоні установлено професійну версію. Запустити професійну?</string>
     <string name="run_pro_question_dlg_title">Запустити Про</string>
     <string name="last_recording">Останній запис</string>
-    <string name="last_recording_problem_description">При записі останньої розмови виникла помилка. Якщо це повідомлення появиться знову, то спробуйте зміти формат файлу чи ресурс запису в Налаштуваннях.</string>
+    <string name="last_recording_problem_description">При записі останньої розмови виникла помилка. Якщо це повідомлення появиться знову, то спробуйте зміти метод запису чи ресурс запису в Налаштуваннях.</string>
     <string name="read_instructions">Читати інструкції</string>
     <string name="about">Про програму</string>
     <string name="translations">Переклад</string>
     <string name="translate">Перекласти</string>
-    <string name="help_translate">Допоможіть нам з перекладом на вашу рідну мову</string>
+    <string name="help_translate">Допоможіть нам з перекладом на вашу рідну мову використовуючи наш сайт. Бажаєте продовжити?</string>
 
     <string name="write_ext_storage_problem_description">Заблоковано запис на вибрану карту пам\'яті.</string>
     <string name="allow_to_write_to_sd_card">Дозволити записувати на зйомну карту пам\'яті</string>
-    <string name="delete_recordings_older_then_selected_days">Усі записи старші ніж вибрана кількість днів будуть видалятись автомвтично</string>
+    <string name="delete_recordings_older_then_selected_days">Усі записи старші ніж вибрана кількість днів будуть видалятись автоматично</string>
     <string name="delete_recordings_on_uninstall">При видаленні аплікації усі записані файли будуть видалені</string>
     <string name="number_of_days">Кількість днів</string>
 
@@ -140,8 +134,8 @@
     <string name="use_external_media_player_to_play_recordings">Використовувати зовнішній медіа плеєр для прослуховування записів</string>
     <string name="play">Грати</string>
     <string name="pause">Пауза</string>
-    <string name="not_able_to_import_to_pro">Якщо ця опція Увімкнута то записи не будуть автоматично імпортовані до Про версії. Більше того, збережіть усі важливі записи, перед тим як видалити програму, так як вони будуть видалені.</string>
-    <string name="not_able_to_import">"Якщо ця опція Увімкнута і ви вирішите видалити додаток, зробіть копії усіх важливих записів, так як усі вони будуть виличені і не буде можливості автоматично імпортувати їх після установки додатку знову. "</string>
+    <string name="not_able_to_import_to_pro">Якщо ця опція Включена то збережіть усі важливі записи, перед тим як видалити програму, так як вони будуть видалені.</string>
+    <string name="not_able_to_import">"Якщо ця опція Включена і ви вирішите видалити додаток, зробіть копії усіх важливих записів, так як усі вони будуть видалені і не буде можливості автоматично імпортувати їх після установки додатку знову. "</string>
 
 <string name="number_of_seconds">Кількість секунд</string>
     <string name="delay_for_incoming_calls">Затримка для вхідних дзвінків</string>
@@ -149,9 +143,103 @@
 
     <string name="enabled">Включено</string>
     <string name="disabled">Виключено</string>
-    <string name="new_recordings">нових записів</string>
+    <string name="new_recordings">Нові записи</string>
 
     <string name="persistent_notifications">Стійкі повідомлення</string>
     <string name="enable_persistent_notifications">Увімкнути стійкі повідомлення</string>
+
+    <string name="usage_terms_and_privacy_policy">Правила користування і політика конфіденційності</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Користуючись цим додатком ви погоджуєтесь з правилами користування та політикою конфіденційності</string>
+    <string name="supported_phones">Телефони що підтримуються</string>
+    <string name="list_of_known_configurations">Список відомих конфігурацій</string>
+
+    <string name="navigation_drawer_open">Відкрити меню</string>
+    <string name="navigation_drawer_close">Закрити меню</string>
+    <string name="tell_a_friend">Розповісти друзям</string>
+    <string name="rate_me">Оцінити</string>
+    <string name="check_out_call_recorder_app_at">Подивись на аплікацю Запису дзвінків на</string>
+    <string name="upgrade_to_premium">Обновитись до Преміум</string>
+    <string name="theme">Тема</string>
+    <string name="use_dark_theme">Використовувати темну тему</string>
+    <string name="call">Набрати</string>
+    <string name="note">Нотатка</string>
+    <string name="add_to_excluded">Добавити до винятків</string>
+    <string name="rec_info">Інфо</string>
+
+    <string name="app_is_not_licensed">Додаток не є ліцензійним</string>
+    <string name="buy_license_in_order_to_use_app">Щоб мати змогу надалі використовувати додаток, будь-ласка, придбайте його через Google Play Market!</string>
+    <string name="pro_version_as_a_license">Запис Дзвінків Про версія більше не буде оновлюватись новими функціями. Цей додаток буде використовуватись для користувачів щоб активувати преміум функціїї в стандартній версії. Більше інформації про це на нашому сайті.</string>
+    <string name="check_again">Перевірити знову</string>
+
+
+    <string name="add_translation">Додати переклад</string>
+
+    <string name="add">Додати</string>
+    <string name="save">Зберегти</string>
+    <string name="close">Закрити</string>
+    <string name="search">Пошук</string>
+    <string name="name">Ім\'я</string>
+    <string name="number">Номер</string>
+    <string name="path">Шлях</string>
+    <string name="size">Розмір</string>
+    <string name="thank_you_for_upgrading_to_premium">Дякую вам, за оновлення до преміум версії!</string>
+    <string name="proceed">Продовжити</string>
+    <string name="restore_license">Відновити з Про</string>
+    <string name="restore_for_purchased_users">Ви повинні установити Про версію, з Google Play, яку ви придбали раніше. Вона буде використовуватись як ліцензія для активації преміум функцій.</string>
+    <string name="permissions">Дозволи</string>
+    <string name="in_order_to_work_please_grand_permission">Для того щоб коректно працювати, будь ласка, надайте наступні дозволи для дотатку.</string>
+    <string name="read_more">Читати більше</string>
+    <string name="do_not_show_again">Не показувати більше</string>
+
+
+    <string name="app_description_free">"Проста програма запису дзвінків, що дозволяє:
+- Вмикати/Вимикати запис дзвінків
+- Записувати усі Ваші дзвінки
+- Вмикати/Вимикати прослуховування запису шляхом натискання на запис
+- Видаляти записи
+- Блокувати записи для запобігання автоматичному видаленню
+- Поділитися записами (у версії Преміум)
+- Зберегти запис?: питання, що з\'являється одразу по завершенню дзвінка (у версії Преміум)
+- Синхронізація з  Dropbox та Google Drive (у версії Преміум)
+
+ЯКЩО ПРОГРАМА ЗОВСІМ НЕ ПРАЦЮЄ НА ВАШОМУ ТЕЛЕФОНІ
+АБО ЗАПИС ГОЛОСУ СПІВРОЗМОВНИКА НЕ Є ЧІТКИМ:
+1. Спробуйте поєднувати різні налаштування запису, як описано тут:
+http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Список девайсів що підтримуються та конфігурацій до них можна побачити за цим лінком http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+3. Деякі моделі телефонів не підтримують запис з телефонної лінії. Це проблема конфігурації звукових драйверів які можливо змінити лише будучи виробником телефона. Для таких телефонів єдиний спосіб налаштуванти Ресурсу запису = Мікрофон і вмикати гучномовець під час розмови.
+Щиро просимо не ставити негативні оцінки за це. Щиро вдячні!
+
+Якщо у Вас є зауваження чи пропозиції, ласкаво просимо на наш сайт http://clevermobile.net ти заохочуємо звертитися до нас."</string>
+
+    <string name="app_description_pro">Запис дзвінків Про (від версїї 6.6) не буде оновлюватись новим функціоналом, але буде працювати як активатор ліцензії преміум функцій для стандартної безкоштовної версії.
+
+Додаток буде працювати як і раніше але без нових функції які є в безкоштовній версії.
+Тому рекомендується встановити стандартну безкоштовну версію і відновити ліцензію там.</string>
+
+<string name="delete_uploaded">Видалити завантажені</string>
+    <string name="delete_after_upload_to_cloud">Автоматично видаляти завантажені записи з телефону</string>
+
+    <string name="call_is_recording_now">Дзвінок записується</string>
+    <string name="error_during_recording">Помилка під час запису</string>
+    <string name="tap_here_to_troubleshoot">Натисніть тут щоб усунути несправності</string>
+    <string name="recording_problem">Проблема з записом?</string>
+
+    <string name="recording_notification">Повідомлення про запис</string>
+    <string name="show_notification_during_recording">Показувати повідомлення під час запису розмови</string>
+
+    <string name="recording_filter">Фільтрація записів</string>
+    <string name="filter">Фільтр</string>
+    <string name="use_filtering_by_phone_numbers">Використовувати фільтрацію записів по номеру телефона</string>
+    <string name="filtering_method">Метод фільтру</string>
+    <string name="switch_filtering">Змінити фільтрування</string>
+    <string name="record_all_phone_numbers_exept_excluded">Не записувати телефонні розмови з списку нижче</string>
+    <string name="record_only_included_phone_numbers">Записувати тільки телефонні розмови для списку нижче</string>
+    <string name="add_contact">Добавити контакт</string>
+    <string name="add_phone_number">Добавити телефонний номер</string>
+    <string name="add_to_filter">Додати до фільтру</string>
+    <string name="another_call_recording_app_is_running">Інша програма запису дзвінків запущена. Будь ласка, видаліть її щоб Запис дзвінків працював коректно.</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">Якщо ця опція виключена то Андроїд може зупинити роботу додатку і деякі розмови не будуть записані взагалі, або записані не повністю. Все ще хочете виключити цю опцію?</string>
 
     </resources>

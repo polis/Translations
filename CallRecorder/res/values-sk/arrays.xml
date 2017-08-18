@@ -25,25 +25,4 @@
         <item name="mono">mono</item>
     </string-array>
 
-    <string-array name="fileAudioFormat">
-        <item name="amr">amr</item>
-        <item name="mp3">mp3</item>
-        <item name="wav">wav</item>
-    </string-array>
-    <string-array name="fileAudioFormatValues">
-        <item name="amr">amr</item>
-        <item name="mp3">mp3</item>
-        <item name="wav">wav</item>
-    </string-array>
-
-    <string-array name="fileMediaFormat">
-        <item name="3gp">3gp</item>
-        <item name="mp4">mp4</item>
-
-    </string-array>
-    <string-array name="fileMediaFormatValues">
-        <item name="3gp">3gp</item>
-        <item name="mp4">mp4</item>
-    </string-array>
-    
 </resources>

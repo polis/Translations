@@ -1,3 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="settings">設定</string>
+    <string name="notifications">通知</string>
+    <string name="selected">選択された</string>
+    <string name="notificationStatus_checkbox_title">通知を有効にする</string>
+    <string name="notificationStatus_checkbox_summary">記録されたコールごとに通知バーに表示</string>
+    <string name="saveRecordQuestion_checkbox_summary">記録された各コール後に尋ねる</string>
+    <string name="storage">ストレージ</string>
+    <string name="deleteRecord_title">自動クリーニング</string>
+    </resources>

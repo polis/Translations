@@ -1,3 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="app_name">Hangerő szabályozó</string>
+    <string name="volume">Hangerő</string>
+    <string name="profiles">Profilok</string>
+    <string name="profile_add">Új profilt hozzáad</string>
+    <string name="profile_edit">Profil szerkesztés</string>
+    <string name="toast_enter_profile_name">Add meg a profil nevét.</string>    
+    <string name="text_create_profile">Adj hozzá profilt először!</string>    
+    <string name="scheduler">Ütemező</string>    
+    <string name="location">Földrajzi hely</string>          
+    
+    <string name="button_Save">Mentés</string>    
+    <string name="button_Cancel">Mégsem</string>       
+    <string name="dialog_button_OK">Rendben</string>       
+    <string name="dialog_delete_profile_title">Profil törlés</string>       
+    <string name="ringTitle">Csengetés</string>
+    <string name="voiceCallTitle">Hang hívás</string>
+    <string name="alarmTitle">Ébresztő</string>
+    <string name="notificationTitle">Figyelmeztetés</string>
+    <string name="systemTitle">Rendszer</string>
+    
+    <string name="radio_silent">Csendes</string>
+    <string name="radio_normal">Normál</string>
+    <string name="radio_vibrate">Rezgő</string>
+    
+    <string name="location_select">Hely választás</string>
+    <string name="location_name">Hely név</string>
+    <string name="edit">Szerkesztés</string>
+
+    <string name="rateOk">Rendben</string>
+	<string name="rateLater">Később</string>
+    
+    <string name="help">Segítség</string>
+    <string name="cancel">Mégsem</string>
+    </resources>

@@ -3,26 +3,20 @@
     <string name="app_name">Registratore di Chiamata</string>
     <string name="sd">Per favore, inserisci la SD card nel telefono!</string>
     <string name="contact">Contatti</string>
-    <string name="call_time">Tempo chiamata</string>
     <string name="selected">selezionato</string>
     <string name="settings">Impostazioni</string>
     <string name="notifications">Notifiche</string>
     <string name="notificationStatus_checkbox_title">Abilita notifiche</string>
     <string name="notificationStatus_checkbox_summary">Mostra nella barra delle notifiche ciascuna registrazione di chiamata</string>
-    <string name="saveRecordQuestion_checkbox_title">Salvare questa chiamata?</string>
     <string name="saveRecordQuestion_checkbox_summary">Chiedi dopo ogni chiamata registrata</string>
-    <string name="storage">Storage</string>
+    <string name="storage">Memoria</string>
     <string name="deleteRecord_title">Pulizia automatica</string>
     <string name="deleteRecord_summary">Elimina registrazioni</string>
     <string name="recording">Impostazioni di registrazione</string>
     <string name="audioSource_title">Fonte audio</string>
-    <string name="audioSource_summary">Seleziona fonte audio</string>
     <string name="audioChannel_title">Canale audio</string>
-    <string name="audioChannel_summary">Seleziona canale audio</string>
     <string name="fileFormat_title">Formato File</string>
-    <string name="fileFormat_summary">Seleziona formato file</string>
     <string name="recordingQuality_title">Qualità di registrazione</string>
-    <string name="recordingQuality_summary">Seleziona qualità di registrazione</string>
     <string name="email_subject">Chiamate registrate</string>
     <string name="buy_category_description">Versione Pro</string>
 	<string name="buy_category_title">Acquista versione Pro di Call Recorder</string>
@@ -43,7 +37,7 @@
 	<string name="start_recording">Call Recorder è in funzione!</string>
     <string name="start_recording_details">Tutte le successive chiamate saranno salvate.</string>
     <string name="stop_recording">Attiva registrazione!</string>
-    <string name="stop_recording_details">Questa registrazione è disattivata.</string>
+    <string name="stop_recording_details">Attualmente il registratore di chiamate è spento</string>
 
 	<string name="new_call">La nuova chiamata è stata registrata!!</string>
 	<string name="info">Informazioni</string>
@@ -66,12 +60,13 @@
 
     <string name="buy">Acquista</string>
     <string name="cancel">Cancella</string>
-    <string name="pro_description">La versione Pro contiene:
-        \n - Condivisone registrazioni
-        \n - Sincronizzazione Dropbox
-        \n - Sincronizzazione Google Drive
-        \n - Notifiche avanzate
-        \n - Nessuna pubblicità</string>
+
+    <string name="pro_description">La versione Pro contiene</string>
+    <string name="share_recordings">Condivisone registrazioni</string>
+    <string name="dropbox_upload">Sincronizzazione Dropbox</string>
+    <string name="google_drive_upload">Sincronizzazione Google Drive</string>
+    <string name="advanced_botifications">Notifiche avanzate</string>
+    <string name="no_more_ads">Nessuna pubblicità</string>
 
     <string name="sd_card">SD card</string>
     <string name="call_recorder_folder">Cartella \"CallRecorder\"</string>
@@ -98,7 +93,7 @@
     <string name="wrong_passcode">Password errata. Per favore, prova ancora!</string>
     <string name="exit">Esci</string>
 
-    <string name="cloud">Sincronizzazione</string>
+    <string name="cloud">Nuvola</string>
 
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Collega ad account Dropbox</string>
@@ -154,4 +149,6 @@
     <string name="enable_persistent_notifications">Abilita notifiche continue</string>
 
     <string name="new_recordings">nuove registrazioni</string>
+    <string name="add_translation">Aggiungi traduzione</string>
+
     </resources>

@@ -3,13 +3,19 @@
 
 	<color name="colorPrimary">#05b5cd</color>
 	<color name="colorPrimaryDark">#0598cd</color>
+	<!--color name="colorPrimaryDark">#1ec789</color-->
+
+
+    <!--color name="colorAccent">#3f5fff</color-->
 	<color name="colorAccent">#05b5cd</color>
 	<color name="colorActionMode">#187580</color>
 
+	<color name="yellow">#ffe900</color>
+	<color name="red">#ff0d00</color>
 
-	<color name="pressed">#718cf2ff</color>
+	<color name="pressed">#71829a9e</color>
 	<color name="shown">#ecedee</color>
-	<color name="selected">#7171adb4</color>
+	<color name="selected">#71b2cfd2</color>
 	<color name="transparent_gray">#78000000</color>
 
 

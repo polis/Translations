@@ -1,28 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Call Recorder</string>
-    <string name="sd">Bitte stecken Sie eine SD Karte in Ihr Handy!</string>
+    <string name="sd">Bitte setzen Sie eine SD-Karte in das Telefon ein!</string>
     <string name="contact">Kontakte</string>
-    <string name="call_time">Anfrufzeit</string>
     <string name="selected">ausgewählt</string>
     <string name="settings">Einstellungen</string>
     <string name="notifications">Benachrichtigungen</string>
-    <string name="notificationStatus_checkbox_title">Benachrichtigungen aktivieren</string>
-    <string name="notificationStatus_checkbox_summary">Nach jeder Aufnahme in Benachrichtigungsleiste anzeigen</string>
-    <string name="saveRecordQuestion_checkbox_title">Diesen Anruf speichern?</string>
+    <string name="notificationStatus_checkbox_title">Benachrichtigungen zulassen</string>
+    <string name="notificationStatus_checkbox_summary">Nach jeder Aufnahme in der Benachrichtigungsleiste anzeigen</string>
     <string name="saveRecordQuestion_checkbox_summary">Nach jeder Aufnahme nachfragen</string>
     <string name="storage">Speicher</string>
     <string name="deleteRecord_title">Automatische Bereinigung</string>
     <string name="deleteRecord_summary">Aufnahmen löschen</string>
-    <string name="recording">Aufnahmeeinstellungen</string>
+    <string name="recording">Aufnahme</string>
     <string name="audioSource_title">Audio-Quelle</string>
-    <string name="audioSource_summary">Audio-Quelle auswählen</string>
     <string name="audioChannel_title">Audio-Kanal</string>
-    <string name="audioChannel_summary">Audio-Kanal auswählen</string>
     <string name="fileFormat_title">Dateiformat</string>
-    <string name="fileFormat_summary">Dateiformat auswählen</string>
     <string name="recordingQuality_title">Aufnahmequalität</string>
-    <string name="recordingQuality_summary">Aufnahmequalität auswählen</string>
     <string name="email_subject">Aufgenommene Anrufe</string>
 	<string name="buy_category_description">Pro-Version</string>
 	<string name="buy_category_title">\"Call Recorder\" Pro-Version kaufen</string>
@@ -40,13 +34,13 @@
 
 	<string name="unknown">Unbekannt</string>
     <string name="hidden">Versteckt</string>
-	<string name="start_recording">\"Call Recorder\" arbeitet!!</string>
+	<string name="start_recording">\"Call Recorder\" läuft!</string>
     <string name="start_recording_details">Alle zukünftigen Anrufe werden gespeichert.</string>
     <string name="stop_recording">Aufnahme einschalten!</string>
-    <string name="stop_recording_details">Derzeit ist der Rekorder ausgeschalten.</string>
+    <string name="stop_recording_details">Die Aufzeichnung ist derzeit ausgeschaltet.</string>
 
-    <string name="new_call">Neuer Anruf wurde aufgenommen!</string>
-    <string name="info">Information</string>
+    <string name="new_call">Neuer Anruf wurde aufgezeichnet!</string>
+    <string name="info">Weitere Informationen</string>
     <string name="faq_title">FAQ (Häufig gestellte Fragen)</string>
     <string name="faq_summary">Häufig gestellte Fragen</string>
     <string name="other_app_title">Alle Applikationen</string>
@@ -61,23 +55,24 @@
     <string name="select_all">Alle auswählen</string>
     <string name="recordings">Aufnahmen</string>
     <string name="help">Hilfe</string>
-    <string name="hint_tap_on_contact_photo">Tippen Sie auf ein Kontaktfoto um einen Eintrag auszuwählen.</string>
+    <string name="hint_tap_on_contact_photo">Tippen Sie auf ein Kontaktfoto, um einen Eintrag auszuwählen.</string>
     <string name="importing_recordings">Importiere Aufnahmen…</string>
 
     <string name="buy">Kaufen</string>
     <string name="cancel">Abbrechen</string>
-    <string name="pro_description">Die Pro-Version beinhaltet:
-        \n - Aufnahmen teilen
-        \n - Dropbox Synchronisation
-        \n - Google Drive Synchronisation
-        \n - Fortgeschrittene Benachrichtigungen
-        \n - Keine Werbung mehr</string>
 
-    <string name="sd_card">SD Karte</string>
+    <string name="pro_description">Die Premium-Version beinhaltet</string>
+    <string name="share_recordings">Aufzeichnungen teilen</string>
+    <string name="dropbox_upload">Dropbox-Synchronisation</string>
+    <string name="google_drive_upload">Google Drive-Synchronisation</string>
+    <string name="advanced_botifications">Erweiterte Benachrichtigungen</string>
+    <string name="no_more_ads">Keine Werbung mehr</string>
+
+    <string name="sd_card">SD-Karte</string>
     <string name="call_recorder_folder">Ordner \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">- Belegter Speicher</string>
-    <string name="sd_card_free_memory">- Freier Speicher</string>
-    <string name="total_files">- Gesamtanzahl Dateien</string>
+    <string name="sd_card_memory_occupied">Belegter Speicher</string>
+    <string name="sd_card_free_memory">Freier Speicher</string>
+    <string name="total_files">Gesamtanzahl Dateien</string>
     <string name="import_recordings">Aufnahmen importieren</string>
     <string name="run_clean_up">Jetzt bereinigen</string>
     <string name="cleaning">Alte Aufnahmen bereinigen…</string>
@@ -98,7 +93,7 @@
     <string name="wrong_passcode">Falscher Sicherheitscode. Bitte wiederholen Sie die Eingabe!</string>
     <string name="exit">Beenden</string>
 
-    <string name="cloud">Synchronisation</string>
+    <string name="cloud">Cloud</string>
 
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Dropbox-Konto verknüpfen</string>
@@ -112,28 +107,121 @@
     <string name="login">Anmelden</string>
     <string name="logout">Abmelden</string>
     <string name="sync_title">Jetzt synchronisieren</string>
-    <string name="sync_summary">Jetzt alle Aufnahmen synchronisieren</string>
+    <string name="sync_summary">Jetzt alle Aufzeichnungen synchronisieren</string>
     <string name="wifi_only">Nur WiFi</string>
-    <string name="wifi_only_when_sync">Nur bei einer WiFi Verbindung synchronisieren</string>
+    <string name="wifi_only_when_sync">Nur bei einer WiFi-Verbindung synchronisieren</string>
 
     <string name="run_pro_question_dlg_description">Sie versuchen die kostenlose Version von “Call Recorder” zu starten, haben aber bereits die Pro-Version installiert. Wollen Sie mit der Pro-Version fortsetzen?</string>
     <string name="run_pro_question_dlg_title">Pro-Version starten</string>
     <string name="last_recording">Letzte Aufnahme</string>
-    <string name="last_recording_problem_description">Bei der letzten Aufnahme kam es zu einem Problem. Sollten Sie diese Meldung wiederholt erhalten, benutzen Sie bitte ein anderes Dateiformat oder einer anderen Ton-Quelle in den Einstellungen.</string>
+    <string name="last_recording_problem_description">Bei der letzten Aufnahme kam es zu einem Problem. Sollten Sie diese Meldung wiederholt erhalten, benutzen Sie bitte ein anderes Dateiformat oder eine andere Audio-Quelle in den Einstellungen.</string>
     <string name="read_instructions">Anleitung lesen</string>
     <string name="about">Über</string>
     <string name="translations">Übersetzungen</string>
     <string name="translate">Übersetzen</string>
-    <string name="help_translate">Helfen Sie uns in Ihre Muttersprache zu übersetzen</string>
+    <string name="help_translate">Helfen Sie uns auf unserer Website, diese App in Ihre Muttersprache zu übersetzen.
+Möchten Sie fortfahren?</string>
 
     <string name="write_ext_storage_problem_description">Schreiben auf externen Speicher nicht möglich.</string>
 
-<string name="allow_to_write_to_sd_card">Erlauben auf wechselbare SD Karte zu schreiben</string>
-    <string name="delete_recordings_older_then_selected_days">Alle Aufnahmen älter als die gewählte Tages-Spanne werden automatisch gelöscht</string>
-    <string name="delete_recordings_on_uninstall">Es werden alle Aufnahmen gelöscht wenn die Call Recorder Anwendung deinstalliert wird</string>
+<string name="allow_to_write_to_sd_card">Schreiben auf wechselbare SD-Karte zulassen</string>
+    <string name="delete_recordings_older_then_selected_days">Alle Aufnahmen, die älter als die gewählte Anzahl von Tagen sind, werden automatisch gelöscht</string>
+    <string name="delete_recordings_on_uninstall">Alle Aufnahmen werden gelöscht, wenn \"Call Recorder\" deinstalliert wird</string>
     <string name="number_of_days">Anzahl der Tage</string>
 
-    <string name="recording_method">Aufnahme Methode</string>
-    <string name="no_player_app_found">Keine app gefunden um dieses audio abzuspielen.</string>
+    <string name="recording_method">Aufnahme-Methode</string>
+    <string name="no_player_app_found">Keine App zum Abspielen gefunden</string>
+
+<string name="add_translation">Übersetzung hinzufügen</string>
+
+    <string name="player">Media-Player</string>
+    <string name="use_external_player">Externen Player verwenden</string>
+    <string name="use_external_media_player_to_play_recordings">Externen Media-Player zum Abspielen der Aufzeichnungen verwenden</string>
+    <string name="play">Abspielen</string>
+    <string name="pause">Pause</string>
+    <string name="not_able_to_import_to_pro">Wenn diese Option aktiv ist, kann kein automatischer Import der Aufzeichnungen in die Pro-Version erfolgen.
+Erstellen Sie außerdem Sicherungkopien aller wichtigen Aufnahmen, da sie ansonsten gelöscht werden.</string>
+    <string name="not_able_to_import">"Wenn diese Option aktiv ist und Sie sich entschließen, diese App zu deinstallieren, müssen Sie Backups aller wichtigen Aufzeichnungen erstellen, da sie ansonsten alle gelöscht werden und es wird nicht möglich sein, Aufzeichnungen zu importieren, wenn die App wieder installiert worden ist. "</string>
+
+    <string name="number_of_seconds">Aufnahmeverzögerung in Sekunden</string>
+    <string name="delay_for_incoming_calls">Verzögerung für eingehende Anrufe in Sekunden</string>
+    <string name="delay_for_outgoing_calls">Verzögerung für ausgehende Anrufe in Sekunden</string>
+
+    <string name="enabled">Eingeschaltet</string>
+    <string name="disabled">Ausgeschaltet</string>
+    <string name="new_recordings">Neue Aufzeichnungen</string>
+    <string name="persistent_notifications">Dauerhafte Benachrichtigungen</string>
+    <string name="enable_persistent_notifications">Benachrichtigungen immer anzeigen (unabhängig von Anrufen)</string>
+    <string name="usage_terms_and_privacy_policy">Nutzungsbedingungen und Datenschutzbestimmungen</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Durch die Verwendung dieser Applikation stimmen Sie den Nutzungsbedingungen und Datenschutzbestimmungen zu</string>
+    <string name="supported_phones">Unterstützte Telefone</string>
+    <string name="list_of_known_configurations">Liste bekannter Konfigurationen</string>
+
+    <string name="navigation_drawer_open">Menü öffnen</string>
+    <string name="navigation_drawer_close">Menü schließen</string>
+    <string name="tell_a_friend">Empfehlen</string>
+    <string name="rate_me">Bewerten</string>
+    <string name="check_out_call_recorder_app_at">Hey! Schauen Sie sich die \"Call Recorder\"-App an auf</string>
+    <string name="upgrade_to_premium">Auf Premium upgraden</string>
+    <string name="theme">Theme</string>
+    <string name="use_dark_theme">\"Dark Theme\" verwenden</string>
+    <string name="call">Anrufen</string>
+    <string name="note">Bemerkung</string>
+    <string name="add_to_excluded">Zu ausgeschlossenen hinzufügen</string>
+    <string name="rec_info">Details</string>
+    <string name="add">Hinzufügen</string>
+    <string name="save">Speichern</string>
+    <string name="close">Schließen</string>
+    <string name="search">Suchen</string>
+    <string name="name">Name</string>
+    <string name="number">Nummer</string>
+    <string name="path">Pfad</string>
+    <string name="size">Größe</string>
+    <string name="thank_you_for_upgrading_to_premium">Vielen Dank für Ihr Upgrade auf Premium!</string>
+    <string name="proceed">Fortfahren</string>
+    <string name="restore_license">Lizenz wiederherstellen</string>
+    <string name="restore_for_purchased_users">Sie müssen die neuste Pro-Version von Google Play installieren, die Sie zuvor gekauft haben. Diese fungiert als Lizenz zum Aktivieren der Premium-Funktionen.</string>
+    <string name="app_is_not_licensed">Applikation ist nicht lizenziert</string>
+    <string name="buy_license_in_order_to_use_app">Um diese App zu verwenden, kaufen Sie sie bitte bei Google Play!</string>
+    <string name="pro_version_as_a_license">\"Call Recorder Pro\" wird keine neuen Eigenschaften mehr erhalten. Die App fungiert lediglich als Lizenzschlüssel für derzeitige Anwender, um Premium-Funktionen in der Standard-Version freizuschalten.
+Weitere Informationen darüber erhalten Sie auf unserer Website.</string>
+    <string name="check_again">Erneut prüfen</string>
+    <string name="permissions">Berechtigungen</string>
+    <string name="in_order_to_work_please_grand_permission">Für einen reibungslosen Betrieb, geben Sie bitte die folgenden Berechtigungen für diese Applikation frei.</string>
+    <string name="read_more">Mehr erfahren</string>
+    <string name="do_not_show_again">Nicht erneut anzeigen</string>
+
+
+    <string name="app_description_free">Einfache Applikation zur Aufzeichnungen von Telefonaten mit diesen Merkmalen:
+- Aufzeichnung ein-/ausschalten
+- Alle Telefonate aufzeichnen
+- Wiedergabe der Aufzeichnung starten/beenden durch Berührung des Eintrags
+- Aufzeichnungen löschen
+- Sperren von Aufzeichnungen, um automatisches Löschen (\"auto-cleanig\") zu vermeiden
+- Aufzeichnungen teilen (nur Pro-Version)
+- Bestätigungs-Dialog: Speichern des aufgezeichneten Telefonats gleich nach Beendigung des Anrufs (nur Pro-Version)
+
+FALLS ES AUF IHREM TELEFON ABSOLUT NICHT FUNKTIONIERT ODER DER ANRUFER NICHT DEUTLICH AUFGEZEICHNET WIRD:
+1. Versuchen Sie unterschiedliche Aufnahme-Einstellungen zu kombinieren, so wie hier beschrieben:
+http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Einige Telefone haben die Einschränkung, nicht von der Telefonleitung oder über Bluetooth aufzeichnen zu können. Es handelt sich um ein Audio-Treiber-Problem des Telefonherstellers. Eine Liste unterstützter Geräte und Konfigurationen dazu, finden Sie hier:
+http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+
+Bitte geben Sie uns dafür keine schlechte Bewertung.
+Vielen Dank!
+
+Für Anregungen oder Kommentare besuchen Sie bitte unsere Website:
+http://clevermobile.net and feel free to contact us.</string>
+
+    <string name="app_description_pro">\"Call Recorder Pro\" (ab Version 6.6) wird zukünftig keine neuen Funktionen mehr erhalten, sondern lediglich als Lizenzschlüssel für Premium-Funktionen in der kostenlosen Standard-Version fungieren.
+
+Alle vorhandenen Funktionen bleiben erhalten, jedoch fehlen neue Eigenschaften wie:
+
+- Neue Oberfläche mit der möglichen Option, zwischen einem \"Light Theme\" und einem \"Dark Theme\" umzuschalten.
+- Bemerkungen zu Aufzeichnungen. Hinzufügen, bearbeiten und entfernen von Bemerkungen oder auch eine Suche danach.
+- Nummer aus den Aufzeichnungen heraus wählen.
+- und weiteres, das in den kommenden Veröffentlichungen erscheinen wird.
+
+Es wird daher empfohlen, die kostenlose Standard-Version zu installieren und Ihre Lizenz darin wiederherzustellen</string>
 
 </resources>
