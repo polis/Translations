@@ -8,4 +8,79 @@
     <string name="saveRecordQuestion_checkbox_summary">記録された各コール後に尋ねる</string>
     <string name="storage">ストレージ</string>
     <string name="deleteRecord_title">自動クリーニング</string>
+    <string name="app_name">Call Recorder</string>
+    <string name="sd">スマートフォンに SD カードを挿入してください！</string>
+    <string name="contact">連絡先</string>
+    <string name="deleteRecord_summary">録音を削除する</string>
+    <string name="recording">録音</string>
+    <string name="audioSource_title">音源</string>
+    <string name="audioChannel_title">音源チャンネル</string>
+    <string name="fileFormat_title">ファイルフォーマット</string>
+    <string name="recordingQuality_title">録音品質</string>
+    <string name="email_subject">録音した通話</string>
+	<string name="buy_category_description">プロバージョン</string>
+	<string name="buy_category_title">Call Recorder プロバージョンをご購入ください</string>
+	<string name="buy_summary">広告の非表示と追加機能</string>
+
+	<string name="rate">このアプリケーションを評価してください</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">あとで</string>
+    <string name="start_notification">通話録音を開始しました</string>    
+    <string name="stop_notification">通話録音を停止しました</string>
+
+    <string name="save_the_call">通話を保存しますか？</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+
+	<string name="unknown">不明な</string>
+    <string name="hidden">不可視な</string>
+	<string name="start_recording">Call Recorder は起動しています！</string>
+    <string name="start_recording_details">以降の全ての通話は保存されます。</string>
+    <string name="stop_recording">録音可能にします！</string>
+    <string name="stop_recording_details">録音機能を不可にしました。</string>
+
+    <string name="new_call">新たな通話を録音しました！</string>    
+    <string name="info">情報</string>       
+    <string name="faq_title">よくある質問(FAQ)</string>
+    <string name="faq_summary">よくある質問</string>
+    <string name="other_app_title">全てのアプリケーション</string>
+    <string name="other_app_summary">Clever Mobile から</string>
+
+    <string name="undo">やり直す</string>
+    <string name="deleted">削除した</string>
+
+    <string name="lock">ロック</string>
+    <string name="share">共有</string>
+    <string name="delete">削除</string>
+    <string name="select_all">全てを選択</string>
+    <string name="recordings">録音</string>
+    <string name="help">ヘルプ</string>
+    <string name="hint_tap_on_contact_photo">連絡先の画像をタップして項目を選択してください。</string>
+    <string name="importing_recordings">録音をインポートしています…</string>
+
+    <string name="buy">購入</string>
+    <string name="cancel">キャンセル</string>
+
+    <string name="pro_description">プレミアム・バージョンの内容</string>
+    <string name="share_recordings">録音を共有する</string>
+    <string name="dropbox_upload">Dropbox にアップロード</string>
+    <string name="google_drive_upload">Google ドライブにアップロード</string>
+    <string name="advanced_botifications">拡張された通知</string>
+    <string name="no_more_ads">広告は結構</string>
+
+    <string name="sd_card">SD カード</string>
+    <string name="call_recorder_folder">CallRecorder フォルダ</string>
+    <string name="sd_card_memory_occupied">使用メモリ</string>
+    <string name="sd_card_free_memory">空きメモリ</string>
+    <string name="total_files">総ファイル数</string>
+    <string name="import_recordings">録音をインポートする</string>
+    <string name="run_clean_up">今すぐ消去する</string>
+    <string name="cleaning">古い録音を消去しています…</string>
+    <string name="share_via">共有…</string>
+
+    <string name="passcode">パスコード</string>
+    <string name="enable_passcode">パスコードを利用可能にする</string>
+    <string name="enable_passcode_description">録音を保護する為にパスコードによる認証がアプリの起動の度に必要です</string>
+    <string name="change_passcode">パスコードの変換</string>
+    <string name="passcode_delete_recordings">録音の削除</string>
     </resources>
