@@ -1,3 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="app_name">استاپ‌واچ</string>
+    <string name="settings">تنظیمات</string>
+    <string name="start_button">شروع</string>
+    <string name="pause_button">مکث</string>
+    <string name="lap_button">رکورد</string>
+    <string name="reset_button">ریست</string>
+    <string name="days">روز</string>
+    <string name="d">روز</string>
+    <string name="hours">ساعت</string>
+    <string name="lap">رکورد</string>
+	<string name="elapsed_time">زمان سپری شده</string>	
+	<string name="lap_time">زمان رکورد</string>	
+    <string name="screen">صفحه</string>
+    <string name="displayMode_checkbox_title">روشن نگه داشتن صفحه</string>
+    <string name="displayMode_checkbox_summary">بازداری گوشی از به خواب رفتن</string>
+    <string name="laps">رکوردها</string>
+    <string name="lapOnPause_checkbox_title">ایجاد رکورد در وقفه</string>
+    <string name="lapOnPause_checkbox_summary">ایجاد رکورد در زمان زدن دکمه وقفه</string>
+    <string name="haptics">هاپتیکس</string>
+    <string name="hapticFeedback_checkbox_title">ویبره</string>
+    <string name="send">ارسال</string>
+    <string name="donate">حمایت مالی</string>
+    <string name="email_subject">استاپ‌واچ - فهرست رکوردها</string>
+	<string name="email">ایمیل</string>
+	<string name="email_title">ایمیل خود را وارد کنید</string>
+	</resources>
