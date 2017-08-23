@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-<string name="app_name">Call Recorder</string>
+<string name="app_name">Запис на обажданията</string>
     <string name="sd">Моля, поставете SD карта в телефона си!</string>
     <string name="contact">Контакти</string>
     <string name="selected">избрани</string>
@@ -107,7 +107,7 @@
     <string name="login">Влизане</string>
     <string name="logout">Излизане</string>
     <string name="sync_title">Качи сега</string>
-    <string name="sync_summary">Качи всички записи сега</string>
+    <string name="sync_summary">Синхронизира всички записи</string>
     <string name="wifi_only">Само през WiFi</string>
     <string name="wifi_only_when_sync">Качване само при връзка с WiFi</string>
 
@@ -119,7 +119,7 @@
     <string name="about">Относно</string>
     <string name="translations">Преводи</string>
     <string name="translate">Превод</string>
-    <string name="help_translate">Помогнете ни с превода на родния си език Като използвате нашия уебсаит .</string>
+    <string name="help_translate">Помогнете ни с превода на родния си език</string>
 
     <string name="write_ext_storage_problem_description">Невъзможен е запис на карта за съхранение.</string>
     <string name="allow_to_write_to_sd_card">Позволи запис на външна SD карта</string>
@@ -150,7 +150,7 @@
 Ако нещо не работи както трябва на вашия телефон 
 или не се записва гласа на обратната страна ясно, опитайте следното:
 1. Пробвайте различни настройки за запис, както е описано тук: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
-2. Има ограничение за някои телефони, които не поддържат запис от телефонна линия или Bluetooth. Това е проблем със драйвера на звука от производителя на телефона. Списък на известни поддържаните устройства и конфигурации за тях е тук: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+2. Има ограничение за някои телефони, които не поддържат запис от телефонна линия или от Bluetooth. Това е проблем с аудио драйвери, направен от производителя на телефона. Списък на известни поддържаните устройства и конфигурации за тях е тук: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
 Моля, не давайте лоши оценки преди да тествате както е необходимо. Благодаря!
 
 Ако имате предложения или коментари, моля посетете нашия сайт http://clevermobile.net и не се колебайте да се свържете с нас.</string>
@@ -169,7 +169,7 @@
 <string name="add_translation">Въведете превод</string>
 
     <string name="number_of_seconds">1</string>
-    <string name="delay_for_incoming_calls">Delay for incoming calls in seconds</string>
+    <string name="delay_for_incoming_calls">Забавяне на входящи обаждания в секунди</string>
     <string name="delay_for_outgoing_calls">Забавяне на изходящите повиквания в секунди</string>
 
     <string name="enabled">Включен</string>
