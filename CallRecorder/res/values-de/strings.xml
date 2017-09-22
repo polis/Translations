@@ -224,4 +224,9 @@ Alle vorhandenen Funktionen bleiben erhalten, jedoch fehlen neue Eigenschaften w
 
 Es wird daher empfohlen, die kostenlose Standard-Version zu installieren und Ihre Lizenz darin wiederherzustellen</string>
 
-</resources>
+<string name="add_phone_number">Telefonnummer hinzufügen</string>
+    <string name="add_to_filter">Filter ergänzen</string>
+    <string name="another_call_recording_app_is_running">Eine andere Aufzeichnungs-App ist aktiv. Bitte entfernen Sie diese, damit Call Rekorder ordnungsgemäß laufen kann.</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">Wenn diese Option ausgeschaltet ist, kann Android diese APP beenden und einige Anrufe können nicht aufgenommen werden oder werden nur teilweise aufgenommen. Möchten Sie sie tatsächlich deaktivieren?</string>
+    </resources>
