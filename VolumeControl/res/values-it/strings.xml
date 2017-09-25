@@ -32,4 +32,40 @@
     <string name="location_name">Nome del luogo</string>
     <string name="marker_info">Vai qui</string>
 <string name="text_buy_pro">Questa funzione é accessibile nella versione Pro!</string>
+    <string name="edit">"Modifica "</string>
+
+    <string name="button_buy_pro">Acquista Pro</string>
+	<string name="toast_enter_location_name">"Prego,  inserire il nome della posizione"</string>
+    <string name="rateOk">Ok</string>
+	<string name="wifi">Wi-Fi spots</string>
+    <string name="help">Aiuto</string>
+    <string name="buy_category_description">Versione Pro</string>
+    <string name="cancel">Cancella</string>
+    <string name="buy">Acquista</string>
+    <string name="buy_category_title">Acquista Volume Control versione Pro</string>
+
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Domande frequenti</string>
+    <string name="other_app_title">Tutte le applicazioni</string>
+    <string name="info">"Informazioni "</string>
+    <string name="about">Su di noi</string>
+    <string name="translate">Traduci</string>
+    <string name="translations">Traduzione</string>
+    <string name="help_translate">Aiutaci con la traduzione nella tua lingua.</string>
+
+<string name="rate">"Prego,  vota questa App"</string>
+	<string name="rateLater">Più tardi</string>
+    
+    <string name="wifi_connecting">Wi-Fi attivato!</string>
+    <string name="set">Attiva</string>
+
+    <string name="on_disconnect">Disconnesso dalla Wi-Fi</string>
+
+    <string name="add_wifi">Seleziona connessione Wi-Fi ed il profilo volume</string>
+    <string name="no_wifi_spots">"Assicurarsi che: 
+1) La WiFi sia attivata. 
+2). Almeno una rete WiFi sia memorizzata nella configurazione  del telefono"</string>
+    <string name="pro_description">La versione Pro contiene: - La possibilità di configurare il profilo durante la disconnessione dal punto WiFi - La possibilità di configurare il profilo sulla posizione del segnale GPS - Niente annunci pubblicitari.</string>
+    <string name="other_app_summary">Da esperto</string>
+    <string name="toast_set_location">"Prego,  scegli un punto sulla mappa"</string>
     </resources>
