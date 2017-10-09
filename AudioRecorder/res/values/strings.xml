@@ -59,9 +59,33 @@
     <string name="upgrade_to_premium">Upgrade to premium</string>
 
     <string name="thank_you_for_upgrading_to_premium">Thank you for upgrading to premium!</string>
-    <string name="pro_description">
-        \n- Lifetime premium license
-        \n- No more Ads
-        </string>
+
+    <string name="premium_version_includes">Premium version includes</string>
+    <string name="upload_to_google_drive">Upload to Google Drive</string>
+    <string name="upload_to_drop_box">Upload to Dropbox</string>
+    <string name="no_more_ads">No more Ads</string>
+
     <string name="buy">Buy</string>
+
+    <string name="cloud">Cloud</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Link Dropbox account</string>
+    <string name="dropbox_unlink">Unlink Dropbox account</string>
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Link Google Drive account</string>
+    <string name="google_drive_unlink">Unlink Google Drive account</string>
+    <string name="connecting_to_google_drive">Connecting to Google Drive</string>
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="sync_title">Upload now</string>
+    <string name="sync_summary">Upload all recordings now</string>
+    <string name="wifi_only">WiFi only</string>
+    <string name="wifi_only_when_sync">Upload only when connected to WiFi</string>
+    <string name="delete_uploaded">Delete uploaded</string>
+    <string name="delete_after_upload_to_cloud">Automatically delete uploded recording from the phone</string>
+    <string name="enabled">Enabled</string>
+    <string name="auto_upload">Upload automatically</string>
+    <string name="new_recording_will_be_uploaded_automatically">All new recording will be uploaded automatically</string>
+    <string name="upload_to_cloud">Upload to cloud</string>
+
 </resources>
