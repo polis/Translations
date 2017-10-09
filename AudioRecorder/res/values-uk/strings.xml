@@ -1,3 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="app_name">Запис звуку</string>
+
+    <string name="open">Відкрити</string>
+    <string name="close">Закрити</string>
+
+    <string name="recorder">Записати звук</string>
+    <string name="recordings">Список записів</string>
+    <string name="settings">Налаштування</string>
+    <string name="information">Інформація</string>
+    <string name="tell_a_friend">Розповісти другу</string>
+    </resources>
