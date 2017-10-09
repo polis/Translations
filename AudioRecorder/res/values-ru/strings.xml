@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="app_name">Диктофон</string>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+    <string name="app_name">Диктофон</string>
 
     <string name="open">Открыть</string>
     <string name="close">Закрыть</string>
