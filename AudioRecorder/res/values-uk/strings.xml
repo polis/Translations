@@ -104,4 +104,7 @@
 
 <string name="app_short_description">Простий у використанні диктофон з високою якістю запису</string>
 
+    <string name="search">Пошук</string>
+    <string name="title">Назва</string>
+
     </resources>
