@@ -88,9 +88,10 @@
     <string name="auto_upload">Upload automatically</string>
     <string name="new_recording_will_be_uploaded_automatically">All new recording will be uploaded automatically</string>
     <string name="upload_to_cloud">Upload to cloud</string>
+    <string name="search">Search</string>
+    <string name="title">Title</string>
 
     <string name="app_short_description">Simple Audio Recorder app with hight quality recoring</string>
-
     <string name="app_description">Simple and easy to use audio recorder or dictaphone app with high quality recording:
 
 - Supports mp3 and wav file formats.
