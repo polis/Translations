@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+    <string name="app_name">Диктофон</string>
+
+    <string name="open">Открыть</string>
+    <string name="close">Закрыть</string>
+
+    <string name="recorder">Запись звука</string>
+    <string name="recordings">Список записей</string>
+    <string name="settings">Настройки</string>
+    <string name="information">Информация</string>
+    <string name="tell_a_friend">Рассказать другу</string>
+    <string name="rate_me">Оценить</string>
+
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="pause">Пауза</string>
+
+    <string name="rename">Переименовать</string>
+    <string name="info">Инфо</string>
+    <string name="note">Комментарий</string>
+    <string name="size">Размер</string>
+    <string name="path">Путь</string>
+    <string name="add">Добавить</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="file_with_the_same_name_already_exists">Файл с таким же именем уже существует. Пожалуйста, попробуйте другое название.</string>
+    <string name="file_was_not_renamed">Файл не был переименованный. Пожалуйста, попробуйте другое название.</string>
+    <string name="problem_with_renaming_a_file">Проблема с переименованием файла. Пожалуйста, попробуйте другое название.</string>
+    <string name="the_file_you_are_trying_to_rename_does_not_exists">Файл который вы пытаетесь переименовать не существует.</string>
+    <string name="lock">Блокировать</string>
+    <string name="share">Поделиться</string>
+    <string name="select_all">Отметить все</string>
+    <string name="undo">отмена</string>
+    <string name="deleted">удалено</string>
+    <string name="play">Играть</string>
+    <string name="no_player_app_found">Не найдено приложение, для проигрывания этой записи.</string>
+    <string name="player">Проигрыватель</string>
+    <string name="use_external_player">Использовать сторонний плеер</string>
+    <string name="use_external_player_to_play_recordings">Использовать стороннее приложение для воспроизведения записей</string>
+    <string name="theme">Тема</string>
+    <string name="use_dark_theme">Темная тема</string>
+    <string name="new_recording">Новая запись</string>
+    <string name="file_format">Формат файла</string>
+    <string name="about">О приложении</string>
+    <string name="all_applications">Все приложения</string>
+    <string name="from_clever_mobile">от Clever Mobile</string>
+    <string name="privacy_policy">Политика Конфиденциальности</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Используя это приложение, вы соглашаетесь с условиями его использования и политикой конфиденциальности</string>
+    <string name="permissions">Права</string>
+    <string name="in_order_to_work_please_grand_permission">Чтобы приложение работало корректно, пожалуйста, дайте следующие права.</string>
+
+    <string name="translations">Перевод</string>
+    <string name="translate">Переводить</string>
+    <string name="add_translation">Добавить перевод</string>
+    <string name="help_translate">Помогите нам с переводом строк приложения на ваш родной язык, используя наш сайт. Хотите продолжить?</string>
+    <string name="ok">ОК</string>
+
+    <string name="upgrade_to_premium">Обновление до премиум</string>
+
+    <string name="thank_you_for_upgrading_to_premium">Благодарим вас за обновление до премиум!</string>
+
+    <string name="premium_version_includes">Премиум версия включает</string>
+    <string name="upload_to_google_drive">Загрузить на Google Drive</string>
+    <string name="upload_to_drop_box">Загрузить на Dropbox</string>
+    <string name="no_more_ads">Без рекламы</string>
+
+    <string name="buy">Купить</string>
+
+    <string name="cloud">Облако</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Подключиться к Dropbox</string>
+    <string name="dropbox_unlink">Отключиться от Dropbox</string>
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Подключиться к Google Drive</string>
+    <string name="google_drive_unlink">Отключиться от Google Drive</string>
+    <string name="connecting_to_google_drive">Подключение к Google Drive</string>
+    <string name="login">Войти</string>
+    <string name="logout">Выйти</string>
+    <string name="sync_title">Загрузить сейчас</string>
+    <string name="sync_summary">Загрузить все записи сейчас</string>
+    <string name="wifi_only">Только WiFi</string>
+    <string name="wifi_only_when_sync">Загружать только при подключении к WiFi</string>
+    <string name="delete_uploaded">Удалить загруженные</string>
+    <string name="delete_after_upload_to_cloud">Автоматически уделять загруженные записи с телефона</string>
+    <string name="enabled">Включено</string>
+    <string name="auto_upload">Загружать атоматически</string>
+    <string name="new_recording_will_be_uploaded_automatically">Все новые записи будут загружены автоматически</string>
+    <string name="upload_to_cloud">Загрузить в облако</string>
+
+<string name="app_short_description">Простой в использовании диктофон с высоким качеством записи</string>
+
+    <string name="app_description">Простой в использовании диктофон с высоким качеством записи:
+- Поддержка mp3 и wav форматов.
+- С функцией паузы записи.
+- Возможность делать операции с множеством записей.
+- Возможность добавлять комментарии к записям.
+- Блокирование записей – защищает от удаления записи по ошибке.
+- Встроенный внутренний проигрыватель записей. Так же есть возможность использовать внешний проигрыватель для воспроизведения.</string>
+
+<string name="search">Поиск</string>
+    <string name="title">Название</string>
+
+    </resources>

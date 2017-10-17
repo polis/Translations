@@ -3,18 +3,13 @@
     <string name="settings">Settings</string>
     <string name="about">About</string>
     <string name="help">Help</string>
-    <string name="do_nothing">Do nothing</string>
-    <string name="screen_on_off">Screen On/Off</string>
     <string name="camera_flash_light">Camera flash light</string>
     <string name="lunch_application">Launch an app</string>
     <string name="select_app_text">Please, choose an application that should be launched when you shake device.</string>
     <string name="select_app_btn">Select an application</string>
     <string name="lunch_app_name">No application</string>
     <string name="wait">Please, wait ...</string>
-    <string name="do_nothing_action">Please, select the action that you would like to use!</string>
-    <string name="do_nothing_description">Nothing should be happened if you shake device.</string>
     <string name="shake_sensitivity">You can adjust shake sensitivity in the Settings!</string>
-    <string name="screen_on_off_description">Device screen should be turned On or Off if you shake it.</string>
     <string name="flash_light_on_off_description">Device flash light should be turned On or Off if you shake it.</string>
     <string name="works_screen_on">Works only when Screen is ON.</string>
 
@@ -25,10 +20,6 @@
     <string name="vibrate">Vibrate when shaken</string>
     <string name="shaken">Shaken!</string>
     <string name="enable_shake_me">Enable Shake Me</string>
-    <string name="enable_screen_on">Enable Screen On</string>
-    <string name="enable_screen_off">Enable Screen Off</string>
-    <string name="turn_sreen_on_and_run">Turn screen on and run application</string>
-
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
@@ -47,17 +38,16 @@
     <string name="help_translate">Help us with translation to your native language</string>
     <string name="camera_permissions_not_granted">Allow the app to use CAMERA in order to access flashligh!</string>
 
-    <string name="upgrade">Upgrade</string>
     <string name="upgrade_to_premium">Upgrade to premium</string>
-    <string name="buy_app_and_remove_ads">Remove Ads by buying or restoring premium version</string>
 
     <string name="thank_you_for_upgrading_to_premium">Thank you for upgrading to premium!</string>
     <string name="pro_description">
         \n- Lifetime premium license
         \n- No more Ads
         </string>
-    <string name="proceed">Proceed</string>
     <string name="cancel">Cancel</string>
+    <string name="buy">Buy</string>
+
 
     <string name="usage_terms_and_privacy_policy">Usage Terms and Privacy Policy</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">By using this application you agree with its Usage Terms and Privacy Policy</string>

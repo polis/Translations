@@ -206,6 +206,10 @@
     <string name="another_call_recording_app_is_running">Another call recording app is runinng. Please, remove it to be able Call Recorder work correctly.</string>
 
     <string name="android_can_stop_recording_if_this_notification_disabled">If this option is disabled Android can stop the app and some calls will not be recorded or will be partly recorded. Do you still want to disable it?</string>
+
+    <string name="finished">Finished</string>
+
+
     <string name="app_description_free">Simple Call Recorder application that has an ability to:
 - Enable/Disable call recording
 - Records all your phone calls
