@@ -106,10 +106,10 @@
 
     <string name="login">Anmelden</string>
     <string name="logout">Abmelden</string>
-    <string name="sync_title">Jetzt synchronisieren</string>
-    <string name="sync_summary">Jetzt alle Aufzeichnungen synchronisieren</string>
+    <string name="sync_title">Jetzt in die Cloud laden</string>
+    <string name="sync_summary">Jetzt alle Aufzeichnungen in die Cloud laden</string>
     <string name="wifi_only">Nur WiFi</string>
-    <string name="wifi_only_when_sync">Nur bei einer WiFi-Verbindung synchronisieren</string>
+    <string name="wifi_only_when_sync">Nur bei einer WiFi-Verbindung hochladen</string>
 
     <string name="run_pro_question_dlg_description">Sie versuchen die kostenlose Version von “Call Recorder” zu starten, haben aber bereits die Pro-Version installiert. Wollen Sie mit der Pro-Version fortsetzen?</string>
     <string name="run_pro_question_dlg_title">Pro-Version starten</string>
@@ -229,4 +229,5 @@ Es wird daher empfohlen, die kostenlose Standard-Version zu installieren und Ihr
     <string name="another_call_recording_app_is_running">Eine andere Aufzeichnungs-App ist aktiv. Bitte entfernen Sie diese, damit Call Rekorder ordnungsgemäß laufen kann.</string>
 
     <string name="android_can_stop_recording_if_this_notification_disabled">Wenn diese Option ausgeschaltet ist, kann Android diese APP beenden und einige Anrufe können nicht aufgenommen werden oder werden nur teilweise aufgenommen. Möchten Sie sie tatsächlich deaktivieren?</string>
+    <string name="delete_uploaded">"Hinaufgeladene Daten löschen "</string>
     </resources>
