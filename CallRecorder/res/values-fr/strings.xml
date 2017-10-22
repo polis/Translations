@@ -106,15 +106,15 @@
 
     <string name="login">Connexion</string>
     <string name="logout">Déconnexion</string>
-    <string name="sync_title"></string>
-    <string name="sync_summary">Synchroniser tous les enregistrements maintenant</string>
+    <string name="sync_title">Télécharger maintenant</string>
+    <string name="sync_summary">Mettre à jour tous les enregistrements maintenant</string>
     <string name="wifi_only">Seulement par Wifi</string>
-    <string name="wifi_only_when_sync">Synchroniser uniquement par WiFi</string>
+    <string name="wifi_only_when_sync">Mettre à jour uniquement par WiFi</string>
 
     <string name="run_pro_question_dlg_description">Vous essayez d\'exécuter la version gratuite de Call Recorder, mais vous avez déjà installé la Pro. Voulez-vous continuez avec la version Pro?</string>
     <string name="run_pro_question_dlg_title">Exécuter la version Pro</string>
     <string name="last_recording">Dernier enregistrement</string>
-    <string name="last_recording_problem_description"/>
+    <string name="last_recording_problem_description">On dirait qu\'un problème s\'est produit lors du dernier enregistrement. Si ce message apparaît à nouveau, essayez de modifier la méthode d\'enregistrement ou la source audio dans les paramètres.</string>
     <string name="read_instructions">Lisez les instructions</string>
     <string name="about">À propos</string>
     <string name="translations">Traductions</string>
@@ -123,7 +123,7 @@
 
     <string name="write_ext_storage_problem_description">Impossible d\'écrire sur le stockage externe.</string>
     				
-    <string name="allow_to_write_to_sd_card">permettent d’écrire sur carte SD amovible</string>
+    <string name="allow_to_write_to_sd_card">Permettent d’écrire sur carte SD amovible</string>
     <string name="delete_recordings_older_then_selected_days">Tous les vieux enregistrements seront automatiquement détruits au bout d\'un certain nombre de jours</string>
     <string name="delete_recordings_on_uninstall">Désinstaller l\'application Call Recorder supprime tous les enregistrements</string>
     <string name="number_of_days">Nombre de jours</string>
@@ -177,7 +177,7 @@
     <string name="size">Taille</string>
     <string name="thank_you_for_upgrading_to_premium">Merci d\'avoir effectué une mise à niveau vers la version Prémium !</string>
     <string name="proceed">Procéder</string>
-    <string name="restore_license">Restaurer la licence</string>
+    <string name="restore_license"></string>
     <string name="restore_for_purchased_users">Vous devez installer la dernière version Pro, à partir de Google Play, que vous avez achetée auparavant. Il utilisera comme licence pour activer la fonctionnalité premium.</string>
     <string name="app_is_not_licensed">L\' application n\'a pas de licence</string>
     <string name="buy_license_in_order_to_use_app">Afin d\'utiliser cette application, s\'il vous plaît, l\'acheter via le marché de Google Play !</string>
