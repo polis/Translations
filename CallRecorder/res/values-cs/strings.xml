@@ -98,4 +98,17 @@
 
     <string name="google_drive_upload">Uložit na disk Google</string>
     <string name="dropbox_upload">Uložit do Dropboxu</string>
+    <string name="advanced_botifications">Pokročilá upozornění</string>
+    <string name="total_files">Celkový počet souborů</string>
+    <string name="wifi_only">Pouze WiFi</string>
+    <string name="wifi_only_when_sync">Nahrávání pouze při připojení na WiFi</string>
+
+    <string name="run_pro_question_dlg_description">Pokoušíte se spustit bezplatnou verzi, ale už máte nainstalovanou verzi PRO. Chcete pokračovat s verzí PRO?</string>
+    <string name="run_pro_question_dlg_title">Spustit verzi PRO</string>
+    <string name="last_recording">Poslední nahrávání</string>
+    <string name="last_recording_problem_description">Vypadá to, že se během posledního nahrávání objevil problém. Pokud potíže přetrvají, zkuste změnit metodu nahrávání nebo změňte zdroj zvuku v nastaveni.</string>
+    <string name="read_instructions">Přečtěte si pokyny</string>
+    <string name="about">O programu</string>
+    <string name="translations">Překlady</string>
+    <string name="translate">Přeložit</string>
     </resources>
