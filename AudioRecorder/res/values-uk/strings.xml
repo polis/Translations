@@ -107,4 +107,27 @@
     <string name="search">Пошук</string>
     <string name="title">Назва</string>
 
+    <string name="storage">Пам\'ять</string>
+    <string name="automatic_cleaning">Автоматична очистка</string>
+    <string name="delete_recordings">Видалити записи</string>
+    <string name="memory_occupied">Використано пам\'яті</string>
+    <string name="free_memory">Вільної пам\'яті</string>
+    <string name="total_files">Кількість записів</string>
+    <string name="import_recordings">Імпорт записів</string>
+    <string name="use_removable_storage">Використовувати зйомну карту пам\'яті</string>
+    <string name="record_audio_files_to_removable_storage">Записувати аудіо на зйомну карту пам\'яті</string>
+    <string name="repopulate_the_list_of_recordings">Відновити список записів в додатку з файлової системи пристрою</string>
+    <string name="cleaning">Очистка</string>
+    <string name="delete_automatically">Видаляти автоматично</string>
+    <string name="delete_older_then">Автоматично видаляти записи старші ніж вибраний період днів. Заблоковані записи не будуть видалятись.</string>
+    <string name="clean_up">Очистити зараз</string>
+    <string name="delete_old_recordings">Видалити старі записи. Заблоковані записи не будуть видалені.</string>
+    <string name="general">Загальні</string>
+    <string name="hide_from_media_player">Сховати від медіа програвача</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Не показувати записані аудіо файли в програмах медіа плеєрів</string>
+    <string name="deleted_recordings_if_uninstall">Якщо дана опцію включена і ви видалите додаток, то усі записи будуть видалені автоматично системою.</string>
+    <string name="finished">Закінчено</string>
+    <string name="number_of_days">Кількість днів</string>
+
+
     </resources>
