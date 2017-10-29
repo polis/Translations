@@ -54,7 +54,7 @@
     <string name="translations">Translations</string>
     <string name="translate">Translate</string>
     <string name="add_translation">Add translation</string>
-    <string name="help_translate">Help us with translation to your native language by using</string>
+    <string name="help_translate">Help us with translation the app labels to your native language by using our website. Would you like to proceed?</string>
     <string name="ok">Ok</string>
 
     <string name="upgrade_to_premium">Upgrade to premium</string>
@@ -90,6 +90,29 @@
     <string name="upload_to_cloud">Upload to cloud</string>
     <string name="search">Search</string>
     <string name="title">Title</string>
+
+    <string name="storage">Storage</string>
+    <string name="automatic_cleaning">Automatic cleaning</string>
+    <string name="delete_recordings">Delete recordings</string>
+    <string name="memory_occupied">Used memory</string>
+    <string name="free_memory">Free memory</string>
+    <string name="total_files">Total files</string>
+    <string name="import_recordings">Import recordings</string>
+    <string name="use_removable_storage">Use removable storage</string>
+    <string name="record_audio_files_to_removable_storage">Record audio files to removable storage</string>
+    <string name="repopulate_the_list_of_recordings">Repopulate the list of recordings in the app from the device file system</string>
+    <string name="cleaning">Cleaning</string>
+    <string name="delete_automatically">Delete automatically</string>
+    <string name="delete_older_then">Automatically deleting recordings older then selected period of days. Locked recordings will not be deleted.</string>
+    <string name="clean_up">Clean up now</string>
+    <string name="delete_old_recordings">Delete old recordings. Locked recordings will not be deleted.</string>
+    <string name="general">General</string>
+    <string name="hide_from_media_player">Hide from media player</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Do not show audio recording files in media player applications</string>
+    <string name="deleted_recordings_if_uninstall">If this option is enabled and you uninstll the app, then all the recordings stored in the removable storage will be deleted by the system.</string>
+    <string name="finished">Finished</string>
+    <string name="number_of_days">Number of days</string>
+
 
     <string name="app_short_description">Simple Audio Recorder app with hight quality recoring</string>
     <string name="app_description">Simple and easy to use audio recorder or dictaphone app with high quality recording:

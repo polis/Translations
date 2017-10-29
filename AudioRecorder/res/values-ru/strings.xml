@@ -86,7 +86,7 @@
     <string name="delete_uploaded">Удалить загруженные</string>
     <string name="delete_after_upload_to_cloud">Автоматически уделять загруженные записи с телефона</string>
     <string name="enabled">Включено</string>
-    <string name="auto_upload">Загружать атоматически</string>
+    <string name="auto_upload">Загружать автоматически</string>
     <string name="new_recording_will_be_uploaded_automatically">Все новые записи будут загружены автоматически</string>
     <string name="upload_to_cloud">Загрузить в облако</string>
 
@@ -103,4 +103,27 @@
 <string name="search">Поиск</string>
     <string name="title">Название</string>
 
+    <string name="storage">Память</string>
+    <string name="automatic_cleaning">Автоматическая очистка</string>
+    <string name="delete_recordings">Удалить записи</string>
+    <string name="memory_occupied">Использовано памяти</string>
+    <string name="free_memory">Свободно памяти</string>
+    <string name="total_files">Количество записей</string>
+    <string name="import_recordings">Импортировать записи</string>
+    <string name="use_removable_storage">Использовать съемную память</string>
+    <string name="number_of_days">Количество дней</string>
+
+
+    <string name="record_audio_files_to_removable_storage">Записывать звук на съемную карту памяти</string>
+    <string name="repopulate_the_list_of_recordings">Восстановить список записей в программе с файловой системы</string>
+    <string name="cleaning">Очистка</string>
+    <string name="delete_automatically">Удалять автоматически</string>
+    <string name="delete_older_then">Автоматически удалять записи старше чем выбранный период дней. Заблокированные записи не будут удалены.</string>
+    <string name="clean_up">Очистить сейчас</string>
+    <string name="delete_old_recordings">Удалить старые записи. Заблокированные записи не будут удалены.</string>
+    <string name="general">Общие</string>
+    <string name="hide_from_media_player">Скрыть от медиа-проигрывателя</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Не показывать записи в медиа-проигрывателях</string>
+    <string name="deleted_recordings_if_uninstall">Если данная опция включена и вы удалите приложение, то все записи будут удалены системой автоматически.</string>
+    <string name="finished">Закончено</string>
     </resources>
