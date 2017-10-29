@@ -177,7 +177,7 @@
     <string name="size">Taille</string>
     <string name="thank_you_for_upgrading_to_premium">Merci d\'avoir effectué une mise à niveau vers la version Prémium !</string>
     <string name="proceed">Procéder</string>
-    <string name="restore_license"></string>
+
     <string name="restore_for_purchased_users">Vous devez installer la dernière version Pro, à partir de Google Play, que vous avez achetée auparavant. Il utilisera comme licence pour activer la fonctionnalité premium.</string>
     <string name="app_is_not_licensed">L\' application n\'a pas de licence</string>
     <string name="buy_license_in_order_to_use_app">Afin d\'utiliser cette application, s\'il vous plaît, l\'acheter via le marché de Google Play !</string>

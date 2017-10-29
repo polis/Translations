@@ -9,7 +9,6 @@
     <string name="notificationStatus_checkbox_title">Enable notifications</string>
     <string name="notificationStatus_checkbox_summary">Show in notification bar after each recorded call</string>
     <string name="saveRecordQuestion_checkbox_summary">Ask after each recorded call</string>
-    <string name="storage">Storage</string>
     <string name="deleteRecord_title">Automatic cleaning</string>
     <string name="deleteRecord_summary">Delete recordings</string>
     <string name="recording">Recording</string>
@@ -56,7 +55,6 @@
     <string name="recordings">Recordings</string>
     <string name="help">Help</string>
     <string name="hint_tap_on_contact_photo">Tap on a contact image to select the item.</string>
-    <string name="importing_recordings">Importing recordings&#8230;</string>
 
     <string name="buy">Buy</string>
     <string name="cancel">Cancel</string>
@@ -72,10 +70,8 @@
     <string name="call_recorder_folder">Folder \"CallRecorder\"</string>
     <string name="sd_card_memory_occupied">Used memory</string>
     <string name="sd_card_free_memory">Free memory</string>
-    <string name="total_files">Total files</string>
-    <string name="import_recordings">Import recordings</string>
     <string name="run_clean_up">Clean up now</string>
-    <string name="cleaning">Cleaning old recordings&#8230;</string>
+
     <string name="share_via">Share via&#8230;</string>
 
     <string name="passcode">Passcode</string>
@@ -122,12 +118,6 @@
     <string name="help_translate">Help us with translation the app labels to your native language by using our website. Would you like to proceed?</string>
     <string name="add_translation">Add translation</string>
 
-    <string name="write_ext_storage_problem_description">Unable to write to external storage.</string>
-    <string name="allow_to_write_to_sd_card">Allow to write to removable SD card</string>
-    <string name="delete_recordings_older_then_selected_days">All recordings older than the selected number of days will be deleted automatically</string>
-    <string name="delete_recordings_on_uninstall">It will delete all recordings if uninstall the Call Recorder application</string>
-    <string name="number_of_days">Number of days</string>
-
     <string name="recording_method">Recording method</string>
     <string name="no_player_app_found">No player app found to play this audio</string>
 
@@ -136,8 +126,6 @@
     <string name="use_external_media_player_to_play_recordings">Use external media player to play recordings</string>
     <string name="play">Play</string>
     <string name="pause">Pause</string>
-    <string name="not_able_to_import_to_pro">If this option is Enabled then it will not be possible to automaticaly import recordings to Pro version. Furthermore, do backup of all important recordings if you decide to uninstall the app, as all they will be deleted.</string>
-    <string name="not_able_to_import">If this option is Enabled and you decide to uninstall the app, you have to do backup of all important recordings, as all they will be deleted and it will not be possible to automaticaly import recordings after installing the app again. </string>
 
     <string name="number_of_seconds">Number of seconds</string>
     <string name="delay_for_incoming_calls">Delay for incoming calls in seconds</string>
@@ -207,8 +195,27 @@
 
     <string name="android_can_stop_recording_if_this_notification_disabled">If this option is disabled Android can stop the app and some calls will not be recorded or will be partly recorded. Do you still want to disable it?</string>
 
+    <string name="storage">Storage</string>
+    <string name="automatic_cleaning">Automatic cleaning</string>
+    <string name="delete_recordings">Delete recordings</string>
+    <string name="memory_occupied">Used memory</string>
+    <string name="free_memory">Free memory</string>
+    <string name="total_files">Total files</string>
+    <string name="import_recordings">Import recordings</string>
+    <string name="use_removable_storage">Use removable storage</string>
+    <string name="record_audio_files_to_removable_storage">Record audio files to removable storage</string>
+    <string name="repopulate_the_list_of_recordings">Repopulate the list of recordings in the app from the device file system</string>
+    <string name="cleaning">Cleaning</string>
+    <string name="delete_automatically">Delete automatically</string>
+    <string name="delete_older_then">Automatically deleting recordings older then selected period of days. Locked recordings will not be deleted.</string>
+    <string name="clean_up">Clean up now</string>
+    <string name="delete_old_recordings">Delete old recordings. Locked recordings will not be deleted.</string>
+    <string name="general">General</string>
+    <string name="hide_from_media_player">Hide from media player</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Do not show audio recording files in media player applications</string>
+    <string name="deleted_recordings_if_uninstall">If this option is enabled and you uninstll the app, then all the recordings stored in the removable storage will be deleted by the system.</string>
     <string name="finished">Finished</string>
-
+    <string name="number_of_days">Number of days</string>
 
     <string name="app_description_free">Simple Call Recorder application that has an ability to:
 - Enable/Disable call recording

@@ -40,8 +40,8 @@
 
     <string name="new_call">Нову розмову було записано!</string>    
     <string name="info">Інформація</string>       
-    <string name="faq_title">Часті запитання (FAQ)</string>       
-    <string name="faq_summary">Перейти до FAQ сторінки Запису дзвінків</string>       
+    <string name="faq_title">Часті запитання</string>
+    <string name="faq_summary">Перейти до сторінки частих питань щодо додатку</string>
     <string name="other_app_title">Усі аплікаціїї від Clever Mobile</string>       
     <string name="other_app_summary">У Google Play маркеті</string>
 
