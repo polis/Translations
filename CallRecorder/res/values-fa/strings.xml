@@ -75,7 +75,7 @@
     <string name="total_files">کل فایل‌ها</string>
     <string name="import_recordings">وارد کردن ضبط‌ها</string>
     <string name="run_clean_up">اکنون پاک شود</string>
-    <string name="cleaning">پاک کردن ضبط‌های قدیمی…</string>
+    <string name="cleaning">پاکسازی</string>
     <string name="share_via">اشتراک گذاری با…</string>
 
     <string name="passcode">رمز عبور</string>
@@ -240,4 +240,20 @@
     <string name="another_call_recording_app_is_running">یک برنامه ضبط تماس دیگر در حال اجرا است لطفا، آن را حذف کنید تا قادر به ضبط تماس صحیح باشد.</string>
 
     <string name="android_can_stop_recording_if_this_notification_disabled">اگر این گزینه غیرفعال شود، اندروید می تواند برنامه را متوقف کند و برخی از تماس ها ثبت نمی شوند و یا تا حدی ثبت می شوند. آیا هنوز میخواهید آن را غیرفعال کنید؟</string>
+    <string name="automatic_cleaning">پاکسازی خودکار</string>
+    <string name="delete_recordings">حذف ضبط شده ها</string>
+    <string name="memory_occupied">حافظه مورد استفاده</string>
+    <string name="free_memory">حافظه خالی</string>
+    <string name="use_removable_storage">استفاده از ذخیره ساز قابل حمل</string>
+    <string name="record_audio_files_to_removable_storage">ضبط فایل های صوتی به ذخیره ساز قابل حمل</string>
+    <string name="repopulate_the_list_of_recordings">لیست فایل های ضبط شده در برنامه را از سیستم فایل دستگاه جمع آوری کنید</string>
+    <string name="delete_automatically">حذف به صورت خودکار</string>
+    <string name="delete_older_then">حذف به صورت خودکار ضبط های قدیمی تر و انتخاب دوره ای از روزها. ضبط قفل شده حذف نخواهد شد.</string>
+    <string name="clean_up">حالا پاک کن</string>
+    <string name="delete_old_recordings">حذف ضبط های قدیمی. ضبط قفل شده حذف نخواهد شد.</string>
+    <string name="general">عمومی</string>
+    <string name="hide_from_media_player">پنهان کردن از پخش کننده رسانه</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">فایل های ضبط صوتی را در برنامه های پخش رسانه ای نمایش نده</string>
+    <string name="deleted_recordings_if_uninstall">اگر این گزینه فعال شده باشد و برنامه را حذف کنید، سپس تمام ضبط های ذخیره شده در حافظه قابل حمل توسط سیستم حذف خواهد شد.</string>
+    <string name="finished">تمام شده</string>
     </resources>
