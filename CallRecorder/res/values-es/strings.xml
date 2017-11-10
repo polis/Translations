@@ -219,8 +219,8 @@ Por lo tanto, se recomienda instalar la versión gratuita estándar y restaurar 
     <string name="do_not_show_again">No mostrar de nuevo</string>
 
 
-    <string name="delete_uploaded">Borrar tranferido</string>
-    <string name="delete_after_upload_to_cloud">Borrar automaticamente gravaciones tranferidas de el telefono</string>
+    <string name="delete_uploaded">Borrar lo subido</string>
+    <string name="delete_after_upload_to_cloud">Eliminar automáticamente la grabación hecha desde el teléfono</string>
     <string name="call_is_recording_now">La llamada se está grabando ahora</string>
     <string name="error_during_recording">Error durante la grabación</string>
     <string name="tap_here_to_troubleshoot">Toque aquí para solucionar problemas</string>
@@ -228,4 +228,5 @@ Por lo tanto, se recomienda instalar la versión gratuita estándar y restaurar 
     <string name="recording_notification">Notificación de grabación</string>
     <string name="android_can_stop_recording_if_this_notification_disabled">Si esta opción está desactivada, Android puede detener la aplicación y algunas llamadas no se grabarán o se grabarán parcialmente. ¿Todavía quieres inhabilitarlo?</string>
 
+    <string name="deleted_recordings_if_uninstall">"Si esta opción está activada y desinstalas la aplicación, todas las grabaciones almacenadas en la tarjeta  serán borradas del sistema."</string>
     </resources>
