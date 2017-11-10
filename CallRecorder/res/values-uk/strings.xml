@@ -40,8 +40,8 @@
 
     <string name="new_call">Нову розмову було записано!</string>    
     <string name="info">Інформація</string>       
-    <string name="faq_title">Часті запитання (FAQ)</string>       
-    <string name="faq_summary">Перейти до FAQ сторінки Запису дзвінків</string>       
+    <string name="faq_title">Часті запитання</string>
+    <string name="faq_summary">Перейти до сторінки частих питань щодо додатку</string>
     <string name="other_app_title">Усі аплікаціїї від Clever Mobile</string>       
     <string name="other_app_summary">У Google Play маркеті</string>
 
@@ -74,7 +74,7 @@
     <string name="total_files">Кількість файлів</string>
     <string name="import_recordings">Імпортувати записи</string>
     <string name="run_clean_up">Очистити зараз</string>
-    <string name="cleaning">Очистка старих записів…</string>
+    <string name="cleaning">Очистка</string>
     <string name="share_via">Поділитись через…</string>
 
     <string name="passcode">Пароль</string>
@@ -242,4 +242,22 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
 
     <string name="android_can_stop_recording_if_this_notification_disabled">Якщо ця опція виключена то Андроїд може зупинити роботу додатку і деякі розмови не будуть записані взагалі, або записані не повністю. Все ще хочете виключити цю опцію?</string>
 
+    <string name="finished">Завершено</string>
+
+
+    <string name="automatic_cleaning">Автоматична очистка</string>
+    <string name="delete_recordings">Видалити записи</string>
+    <string name="memory_occupied">Використано пам\'яті</string>
+    <string name="free_memory">Вільної пам\'яті</string>
+    <string name="use_removable_storage">Використовувати зйомну карту пам\'яті</string>
+    <string name="record_audio_files_to_removable_storage">Записувати аудіо на зйомну карту пам\'яті</string>
+    <string name="repopulate_the_list_of_recordings">Відновити список записів в додатку з файлової системи пристрою</string>
+    <string name="delete_automatically">Видаляти автоматично</string>
+    <string name="delete_older_then">Автоматично видаляти записи старші ніж вибраний період днів. Заблоковані записи не будуть видалятись.</string>
+    <string name="clean_up">Очистити зараз</string>
+    <string name="delete_old_recordings">Видалити старі записи. Заблоковані записи не будуть видалені.</string>
+    <string name="general">Загальні</string>
+    <string name="hide_from_media_player">Сховати від медіа програвача</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Не показувати записані аудіо файли в програмах медіа плеєрів</string>
+    <string name="deleted_recordings_if_uninstall">Якщо дана опцію включена і ви видалите додаток, то усі записи будуть видалені автоматично системою.</string>
     </resources>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<string name="app_name">Запис звуку</string>
+
+    <string name="open">Відкрити</string>
+    <string name="close">Закрити</string>
+
+    <string name="recorder">Записати звук</string>
+    <string name="recordings">Список записів</string>
+    <string name="settings">Налаштування</string>
+    <string name="information">Інформація</string>
+    <string name="tell_a_friend">Розповісти другу</string>
+
+    <string name="rate_me">Оцінити</string>
+
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="pause">Пауза</string>
+
+    <string name="rename">Перейменувати</string>
+    <string name="info">Інфо</string>
+    <string name="note">Коментарій</string>
+    <string name="size">Розмір</string>
+    <string name="path">Шлях</string>
+    <string name="add">Добавити</string>
+    <string name="save">Зберегти</string>
+    <string name="cancel">Відміна</string>
+    <string name="delete">Видалити</string>
+    <string name="file_with_the_same_name_already_exists">Файл з таким іменем уже існує. Будь ласка, попробуйте іншу назву.</string>
+    <string name="file_was_not_renamed">Файл не було перейменовано. Будь ласка, попробуйте іншу назву.</string>
+    <string name="problem_with_renaming_a_file">Проблема з перейменуванням файла. Будь ласка, попробуйте іншу назву.</string>
+    <string name="the_file_you_are_trying_to_rename_does_not_exists">Файл який ви пробуєте перейменуватись не існує.</string>
+    <string name="lock">Блокувати</string>
+    <string name="share">Поділитись</string>
+    <string name="select_all">Відмітити все</string>
+    <string name="undo">відміна</string>
+    <string name="deleted">видалено</string>
+    <string name="play">Грати</string>
+    <string name="no_player_app_found">Не знайдено додаток, для відтворення цього запису.</string>
+    <string name="player">Програвач</string>
+    <string name="use_external_player">Використовувати сторонній програвач</string>
+    <string name="use_external_player_to_play_recordings">Використовувати сторонній додаток для відтворення записів</string>
+    <string name="theme">Тема</string>
+    <string name="use_dark_theme">Темна тема</string>
+    <string name="new_recording">Новий запис</string>
+    <string name="file_format">Формат файлу</string>
+    <string name="about">Про додаток</string>
+    <string name="all_applications">Усі додатки</string>
+    <string name="from_clever_mobile">від Clever Mobile</string>
+    <string name="privacy_policy">Політика Конфіденційності</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Користуючись цим додатком ви погоджуєтесь з правилами користування та політикою конфіденційності</string>
+    <string name="permissions">Дозволи</string>
+    <string name="in_order_to_work_please_grand_permission">Для того щоб коректно працювати, будь ласка, надайте наступні дозволи для дотатку.</string>
+
+    <string name="translations">Переклад</string>
+    <string name="translate">Перекласти</string>
+    <string name="add_translation">Додати переклад</string>
+    <string name="help_translate">Допоможіть нам з перекладом на вашу рідну мову використовуючи наш сайт. Бажаєте продовжити?</string>
+
+
+    <string name="ok">ОК</string>
+
+    <string name="upgrade_to_premium">Обновитись до Преміум</string>
+    <string name="thank_you_for_upgrading_to_premium">Дякую вам, за оновлення до преміум версії!</string>
+    <string name="premium_version_includes">Преміум версія містить</string>
+    <string name="upload_to_google_drive">Завантажити на Google Drive</string>
+    <string name="upload_to_drop_box">Завантажити на Dropbox</string>
+    <string name="no_more_ads">Без реклами</string>
+
+    <string name="buy">Купити</string>
+
+    <string name="cloud">Хмара</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Приєднати Dropbox скриньку</string>
+    <string name="dropbox_unlink">Від’єднати Dropbox скриньку</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Приєднатись до Google Drive</string>
+    <string name="google_drive_unlink">Від\'єднатись від Google Drive</string>
+    <string name="connecting_to_google_drive">Підключення до Google Drive</string>
+
+    <string name="login">Увійти</string>
+    <string name="logout">Вийти</string>
+    <string name="sync_title">Відвантажити зараз</string>
+    <string name="sync_summary">Відвантажити усі записи в хмару</string>
+    <string name="wifi_only">Тільки WiFi</string>
+    <string name="wifi_only_when_sync">Відвантажувати тільки при підключенні через WiFi</string>
+
+    <string name="delete_uploaded">Видалити завантажені</string>
+    <string name="delete_after_upload_to_cloud">Автоматично видаляти завантажені записи з телефона</string>
+    <string name="enabled">Ввімкнено</string>
+    <string name="auto_upload">Завантажувати автоматично</string>
+    <string name="new_recording_will_be_uploaded_automatically">Усі нові записи будуть завантажені автоматично</string>
+    <string name="upload_to_cloud">Завантажити в хмару</string>
+
+<string name="app_description">"Простий у використанні диктофон з високою якістю запису:
+- Підтримка  mp3 та wav форматів.
+- Функція паузи запису.
+- Можливість робити операції видалення, поширення блокування з кількома записами одночасно.
+- Підтримка коментарів до записів.
+- Блокування записів – захищає від помилкового видалення запису.
+- Встроєний внутрішній програвач записів. Також є можливість використовувати зовнішній програвач для відтворення."</string>
+
+<string name="app_short_description">Простий у використанні диктофон з високою якістю запису</string>
+
+    <string name="search">Пошук</string>
+    <string name="title">Назва</string>
+
+    <string name="storage">Пам\'ять</string>
+    <string name="automatic_cleaning">Автоматична очистка</string>
+    <string name="delete_recordings">Видалити записи</string>
+    <string name="memory_occupied">Використано пам\'яті</string>
+    <string name="free_memory">Вільної пам\'яті</string>
+    <string name="total_files">Кількість записів</string>
+    <string name="import_recordings">Імпорт записів</string>
+    <string name="use_removable_storage">Використовувати зйомну карту пам\'яті</string>
+    <string name="record_audio_files_to_removable_storage">Записувати аудіо на зйомну карту пам\'яті</string>
+    <string name="repopulate_the_list_of_recordings">Відновити список записів в додатку з файлової системи пристрою</string>
+    <string name="cleaning">Очистка</string>
+    <string name="delete_automatically">Видаляти автоматично</string>
+    <string name="delete_older_then">Автоматично видаляти записи старші ніж вибраний період днів. Заблоковані записи не будуть видалятись.</string>
+    <string name="clean_up">Очистити зараз</string>
+    <string name="delete_old_recordings">Видалити старі записи. Заблоковані записи не будуть видалені.</string>
+    <string name="general">Загальні</string>
+    <string name="hide_from_media_player">Сховати від медіа програвача</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Не показувати записані аудіо файли в програмах медіа плеєрів</string>
+    <string name="deleted_recordings_if_uninstall">Якщо дана опцію включена і ви видалите додаток, то усі записи будуть видалені автоматично системою.</string>
+    <string name="finished">Закінчено</string>
+    <string name="number_of_days">Кількість днів</string>
+
+
+    </resources>

@@ -172,7 +172,7 @@
 
     <string name="enabled">فعال</string>
     <string name="disabled">غیرفعال</string>
-    <string name="new_recordings">ضبط جدید</string>
+    <string name="new_recordings">ضبط های جدید</string>
 
     <string name="persistent_notifications">اطلاعیه های ماندگار</string>
     <string name="enable_persistent_notifications">فعال کردن اطلاعیه های ماندگار</string>
@@ -206,7 +206,7 @@
     <string name="size">سایز</string>
     <string name="thank_you_for_upgrading_to_premium">تشکر از شما برای ارتقاء به نسخه حرفه ای!</string>
     <string name="proceed">ادامه</string>
-    <string name="restore_license">بازگرداندن مجوز</string>
+    <string name="restore_license">بازگرداندن از نسخه حرفه ای</string>
     <string name="restore_for_purchased_users">شما نسخه حرفه ای قبلی را نصب دارید، از گوگل پلی، که شما قبلا خریداری کردید، با استفاده از آن به عنوان مجوز برای قابلیت فعال حرفه ای.</string>
     <string name="app_is_not_licensed">برنامه مجوز ندارد</string>
     <string name="buy_license_in_order_to_use_app">به منظور استفاده از این برنامه، لطفا، آن را خریداری کنید از طریق مارکت گوگل پلی !</string>
@@ -225,4 +225,19 @@
     <string name="tap_here_to_troubleshoot">برای عیب یابی اینجا را ضربه بزنید</string>
     <string name="recording_problem">مشکل در ضبط؟</string>
 
+    <string name="recording_notification">اعلان ضبط</string>
+    <string name="show_notification_during_recording">نمایش اعلان در حین ضبط</string>
+    <string name="recording_filter">فیلتر ضبط</string>
+    <string name="filter">فیلتر</string>
+    <string name="use_filtering_by_phone_numbers">از فیلتر کردن شماره تلفن استفاده کنید</string>
+    <string name="filtering_method">متد فیلتر</string>
+    <string name="switch_filtering">فیلتر را عوض کنید</string>
+    <string name="record_all_phone_numbers_exept_excluded">تماس های تلفنی را از لیست زیر ثبت نکنید</string>
+    <string name="record_only_included_phone_numbers">فقط تماس های تلفنی را از لیست زیر ثبت کنید</string>
+    <string name="add_contact">اضافه کردن مخاطب</string>
+    <string name="add_phone_number">شماره تلفن را اضافه کنید</string>
+    <string name="add_to_filter">اضافه کردن به فیلتر</string>
+    <string name="another_call_recording_app_is_running">یک برنامه ضبط تماس دیگر در حال اجرا است لطفا، آن را حذف کنید تا قادر به ضبط تماس صحیح باشد.</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">اگر این گزینه غیرفعال شود، اندروید می تواند برنامه را متوقف کند و برخی از تماس ها ثبت نمی شوند و یا تا حدی ثبت می شوند. آیا هنوز میخواهید آن را غیرفعال کنید؟</string>
     </resources>

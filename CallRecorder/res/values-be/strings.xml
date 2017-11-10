@@ -203,7 +203,7 @@
     <string name="add_contact">Дадаць кантакт</string>
     <string name="add_phone_number">Дадаць нумар тэлефона</string>
     <string name="add_to_filter">Дадаць у фільтр</string>
-    <string name="another_call_recording_app_is_running">"Іншае прыкладанне для запісу званкоў працуе на тэлефоне. Неабходна спыніць яго, каб Call Recorder мог працаваць спраўна. "</string>
+    <string name="another_call_recording_app_is_running">Іншае прыкладанне для запісу званкоў працуе на тэлефоне. Неабходна спыніць яго, каб Call Recorder мог працаваць спраўна.</string>
 
     <string name="app_description_free">Просты Cамапісец званкоў, які дазваляе:
 - Уключаць/Выключаць запіс званкоў

@@ -54,4 +54,20 @@
     <string name="select_all">Iezīmēt visu</string>
     <string name="recordings">Ieraksti</string>
     <string name="help">Palīdzība</string>
+    <string name="add_to_filter">Pievienot pie filtriem</string>
+    <string name="filter">Filtrs</string>
+    <string name="add_contact">Pievienot kontaktu</string>
+    <string name="add_phone_number">Pievienot telefona numuru</string>
+    <string name="importing_recordings">Importējas ieraksti…</string>
+
+    <string name="buy">Pirkt</string>
+    <string name="cancel">Atcelt</string>
+
+    <string name="pro_description">Premium versija satur</string>
+    <string name="share_recordings">Kopīgot ierakstus</string>
+    <string name="dropbox_upload">Augšupielādēt uz Dropbox</string>
+    <string name="exit">Iziet</string>
+
+    <string name="passcode_delete_recordings">Izdzēst ierakstus</string>
+    <string name="rate_me">Novērtē mani</string>
     </resources>
