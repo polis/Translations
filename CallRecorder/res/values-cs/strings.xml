@@ -134,4 +134,6 @@
     <string name="recording_problem">Problém s nahráváním?</string>
     <string name="tap_here_to_troubleshoot">Klepněte zde na řešení problémů</string>
     <string name="error_during_recording">Chyba během nahrávání</string>
+    <string name="cloud">Cloudové úložiště</string>
+
     </resources>
