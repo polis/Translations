@@ -71,4 +71,10 @@
     <string name="change_passcode">變更密碼</string>
     <string name="exit">離開</string>
 
+    <string name="share_recordings">分享錄音</string>
+    <string name="google_drive_upload">正在上傳到Google Drive</string>
+    <string name="dropbox_upload">正在上傳到Dropbox</string>
+    <string name="advanced_botifications">進階通知</string>
+    <string name="no_more_ads">無廣告</string>
+
     </resources>
