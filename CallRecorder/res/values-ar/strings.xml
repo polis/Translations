@@ -217,4 +217,13 @@ IF IT لا يعمل على هاتفك AT ALL
     <string name="buy_license_in_order_to_use_app">من أجل استخدام هذا التطبيق، الرجاء، وشرائه عن طريق السوق جوجل</string>
     <string name="close">اغلاق</string>
     <string name="number">الرقم</string>
+    <string name="delete_uploaded">حذف التحميلات</string>
+    <string name="delete_after_upload_to_cloud">حذف تلقائي للملفات المحفوظ على الانترنت</string>
+    <string name="call_is_recording_now">"المكالمة قيد التسجيل "</string>
+    <string name="error_during_recording">خطأ خلال التسجيل</string>
+    <string name="tap_here_to_troubleshoot">انقر هنا لاصلاح المشكلة</string>
+    <string name="recording_problem">مشكلة تسجيل؟</string>
+    <string name="recording_notification">"اشعارات التسجيل "</string>
+    <string name="show_notification_during_recording">"اظهار الاشعارات اثناء التسجيل "</string>
+    <string name="filter">"تصفية "</string>
     </resources>
