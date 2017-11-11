@@ -217,4 +217,7 @@ Elle fonctionnera toujours comme avant, mais sans nouvelles fonctionnalités com
 
 Il est donc recommandé d\'installer la version gratuite standard et de restaurer votre licence là</string>
 
-</resources>
+<string name="restore_license">Restaurer depuis la version Pro</string>
+    <string name="call_is_recording_now">"Enregistrement en cours "</string>
+    <string name="error_during_recording">"Erreur durant L\'enregistrement "</string>
+    </resources>
