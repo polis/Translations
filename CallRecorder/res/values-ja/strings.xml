@@ -8,7 +8,7 @@
     <string name="saveRecordQuestion_checkbox_summary">記録された各コール後に尋ねる</string>
     <string name="storage">ストレージ</string>
     <string name="deleteRecord_title">自動クリーニング</string>
-    <string name="app_name">Call Recorder</string>
+    <string name="app_name">コールレコーダー</string>
     <string name="sd">スマートフォンに SD カードを挿入してください！</string>
     <string name="contact">連絡先</string>
     <string name="deleteRecord_summary">録音を削除する</string>
