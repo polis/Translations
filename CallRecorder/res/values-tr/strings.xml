@@ -232,4 +232,15 @@ Bazı önerileriniz veya yorumlarınız varsa, lütfen http://clevermobile.net s
     <string name="delete_after_upload_to_cloud">Bulut yükleme tamamlandıktan sonra kayıtları telefondan otomatik olarak sil</string>
     <string name="call_is_recording_now">Çağrı şu an kaydediliyor</string>
     <string name="error_during_recording">Kayıt sırasında bir hata oluştu</string>
+    <string name="recording_problem">Kayıt problemi mi var ?</string>
+    <string name="recording_notification">Kayıt Bildirimi</string>
+    <string name="show_notification_during_recording">Kayıt esnasında bildirim göster</string>
+    <string name="recording_filter">Kayıt filtresi</string>
+    <string name="filter">Filtre</string>
+    <string name="use_filtering_by_phone_numbers">Şu numaralarda filtre uygula</string>
+    <string name="filtering_method">Filtre metodu</string>
+    <string name="switch_filtering">Filtre değiştir</string>
+    <string name="add_contact">Kişi ekle</string>
+    <string name="add_phone_number">Numara ekle</string>
+    <string name="add_to_filter">Filtre ekle</string>
     </resources>
