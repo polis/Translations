@@ -30,6 +30,17 @@
     <string name="enable_screen_off">Выключить экран</string>
     <string name="turn_sreen_on_and_run">Включить экран и запустить приложение</string>
 
-</resources>
+<string name="action_settings">Установки</string>
+    <string name="information">Информация</string>
+    <string name="tell_a_friend">Рассказать другу</string>
+    <string name="rate_me">Оценить</string>
 
+    <string name="faq_title">Вопросы</string>
+    <string name="faq_summary">Часто задаваемые вопросы</string>
+    <string name="other_app_title">Все приложения</string>
+    <string name="other_app_summary">От Clever Mobile</string>
 
+    <string name="translations">Переводы</string>
+    <string name="translate">Перевод</string>
+    <string name="help_translate">Помогите нам с переводом на ваш национальный язык</string>
+    </resources>
