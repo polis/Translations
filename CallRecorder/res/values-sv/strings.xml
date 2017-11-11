@@ -89,7 +89,7 @@
     <string name="wrong_passcode">Fel lösenord. Försök igen!</string>
     <string name="exit">Avsluta</string>
 
-    <string name="cloud">Synkronisering</string>
+    <string name="cloud">Moln</string>
 
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Länka Dropbox-konto</string>
@@ -102,8 +102,8 @@
 
     <string name="login">Logga in</string>
     <string name="logout">Logga ut</string>
-    <string name="sync_title">Synkronisera nu</string>
-    <string name="sync_summary">Synkronisera alla inspelningar</string>
+    <string name="sync_title">Ladda upp nu</string>
+    <string name="sync_summary">Alla inspelningar nu</string>
     <string name="wifi_only">Endast Wifi</string>
     <string name="wifi_only_when_sync">Synka endast med wifi</string>
 
