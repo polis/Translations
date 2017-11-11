@@ -179,7 +179,7 @@ Erstellen Sie außerdem Sicherungkopien aller wichtigen Aufnahmen, da sie ansons
     <string name="size">Größe</string>
     <string name="thank_you_for_upgrading_to_premium">Vielen Dank für Ihr Upgrade auf Premium!</string>
     <string name="proceed">Fortfahren</string>
-    <string name="restore_license">Lizenz wiederherstellen</string>
+    <string name="restore_license"></string>
     <string name="restore_for_purchased_users">Sie müssen die neuste Pro-Version von Google Play installieren, die Sie zuvor gekauft haben. Diese fungiert als Lizenz zum Aktivieren der Premium-Funktionen.</string>
     <string name="app_is_not_licensed">Applikation ist nicht lizenziert</string>
     <string name="buy_license_in_order_to_use_app">Um diese App zu verwenden, kaufen Sie sie bitte bei Google Play!</string>
