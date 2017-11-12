@@ -93,7 +93,7 @@
     <string name="wrong_passcode">Sai mật mã . Hãy thử lại !</string>
     <string name="exit">Thoát</string>
 
-    <string name="cloud">Đồng bộ</string>
+    <string name="cloud"></string>
 
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Liên kết tài khoản Dropbox</string>
@@ -106,7 +106,7 @@
 
     <string name="login">Đăng nhập</string>
     <string name="logout">Đăng xuất</string>
-    <string name="sync_title">Đồng bộ ngay bây giờ</string>
+    <string name="sync_title">Upload now</string>
     <string name="sync_summary">Đồng bộ tất cả bản ghi ngay bây giờ</string>
     <string name="wifi_only">Chỉ khi dùng WIFI</string>
     <string name="wifi_only_when_sync">Đồng bộ chỉ kết nối WIFI</string>
@@ -119,7 +119,7 @@
     <string name="about">Giới thiệu</string>
     <string name="translations">Bản dịch</string>
     <string name="translate">Dịch</string>
-    <string name="help_translate">Giúp chúng tôi với bản dịch bằng ngôn ngữ bản địa của bạn</string>
+    <string name="help_translate">Giúp chúng tôi với bản dịch bằng ngôn ngữ bản địa của bạn sử dụng trang web của chúng tôi. Bạn có sẵn lòng không?</string>
 
     <string name="write_ext_storage_problem_description">Không thể ghi lên bộ nhớ mở rộng.</string>
     <string name="allow_to_write_to_sd_card">Cho phép ghi vào thẻ SD gắn ngoài</string>
