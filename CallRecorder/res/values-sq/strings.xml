@@ -121,4 +121,6 @@
 
     <string name="write_ext_storage_problem_description">E pamundur të shkruaj në magazinën e jashtme.</string>
 
-</resources>
+<string name="cloud">Cloud</string>
+
+    </resources>
