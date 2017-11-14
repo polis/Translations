@@ -75,7 +75,7 @@
     <string name="total_files">Total de archivos</string>
     <string name="import_recordings">Importar grabaciones</string>
     <string name="run_clean_up">Limpiar ahora</string>
-    <string name="cleaning">Limpiando grabaciones viejas…</string>
+    <string name="cleaning">Limpieza</string>
     <string name="share_via">Compartir a través de…</string>
 
     <string name="passcode">Contraseña</string>
@@ -107,9 +107,9 @@
     <string name="login">Conectar</string>
     <string name="logout">Desconectar</string>
     <string name="sync_title">Descargar ahora</string>
-    <string name="sync_summary">Sincronizar todas las grabaciones ahora</string>
+    <string name="sync_summary">Subir todas las grabaciones ahora</string>
     <string name="wifi_only">sólo WiFi</string>
-    <string name="wifi_only_when_sync">Solamente sincronizar cuando se está conectado al WiFi</string>
+    <string name="wifi_only_when_sync">Sincronizar solo cuando se está conectado por WiFi</string>
 
     <string name="run_pro_question_dlg_description">Usted está intentando ejecutar la versión gratuita del Grabador de Llamadas pero ya ha instalado la versión Pro. ¿Desearía seguir con la versión Pro?</string>
     <string name="run_pro_question_dlg_title">Ejecutar la versión Pro</string>
@@ -200,7 +200,7 @@ Por lo tanto, se recomienda instalar la versión gratuita estándar y restaurar 
     <string name="size">Tamaño</string>
     <string name="thank_you_for_upgrading_to_premium">¡Gracias por actualizar a la versión premium!</string>
     <string name="proceed">Prodecer</string>
-    <string name="restore_license">Restaurar licencia</string>
+    <string name="restore_license">Restaurar desde Pro</string>
     <string name="restore_for_purchased_users">Tienes que instalar la última versión Pro, de Google Play, que compraste antes. Se utilizará como licencia para activar la funcionalidad premium.</string>
     <string name="app_is_not_licensed">La aplicación no tiene licencia</string>
     <string name="buy_license_in_order_to_use_app">Para poder utilizar esta aplicación, por favor, comprala a través de google play market!</string>
@@ -229,4 +229,32 @@ Por lo tanto, se recomienda instalar la versión gratuita estándar y restaurar 
     <string name="android_can_stop_recording_if_this_notification_disabled">Si esta opción está desactivada, Android puede detener la aplicación y algunas llamadas no se grabarán o se grabarán parcialmente. ¿Todavía quieres inhabilitarlo?</string>
 
     <string name="deleted_recordings_if_uninstall">"Si esta opción está activada y desinstalas la aplicación, todas las grabaciones almacenadas en la tarjeta  serán borradas del sistema."</string>
+    <string name="show_notification_during_recording">Mostrar una notificación durante la grabación</string>
+    <string name="recording_filter">Filtro de grabación</string>
+    <string name="filter">Filtro</string>
+    <string name="use_filtering_by_phone_numbers">Utilizar filtrado por número de teléfono</string>
+    <string name="filtering_method">Método de filtrado</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">No mostrar los ficheros de grabación de audio en las aplicaciones de reproducción de medios</string>
+    <string name="clean_up">Limpiar ahora</string>
+    <string name="delete_old_recordings">Borrar grabaciones antiguas. No se eliminarán las grabaciones bloqueadas.</string>
+    <string name="use_removable_storage">Utilizar almacenamiento extraíble</string>
+    <string name="record_audio_files_to_removable_storage">Grabar los ficheros de audio en almacenamiento extraíble</string>
+    <string name="repopulate_the_list_of_recordings">Reconstruir la lista de grabaciones en la app desde el sistema de ficheros del dispositivo</string>
+    <string name="delete_automatically">Borrar automáticamente</string>
+    <string name="delete_older_then">Borrar automáticamente las grabaciones previas al periodo de días seleccionado. No se eliminarán las grabaciones bloqueadas.</string>
+    <string name="general">General</string>
+    <string name="hide_from_media_player">Ocultar al reproductor de medios</string>
+    <string name="finished">Finalizado</string>
+    <string name="record_all_phone_numbers_exept_excluded">No grabar las llamadas de los teléfonos de la siguiente lista</string>
+    <string name="record_only_included_phone_numbers">Grabar llamadas solo de los teléfonos de la siguiente lista</string>
+    <string name="add_contact">Añadir contacto</string>
+    <string name="add_phone_number">Añadir número de teléfono</string>
+    <string name="add_to_filter">Añadir al filtro</string>
+    <string name="another_call_recording_app_is_running">Se está ejecutando otra aplicación de grabación de llamadas. Por favor, elimínala para que Grabador de LLamadas funcione correctamente.</string>
+
+    <string name="automatic_cleaning">Limpieza automática</string>
+    <string name="delete_recordings">Borrar grabaciones</string>
+    <string name="memory_occupied">Memoria utilizada</string>
+    <string name="free_memory">Memoria libre</string>
+    <string name="switch_filtering">Activar filtrado</string>
     </resources>
