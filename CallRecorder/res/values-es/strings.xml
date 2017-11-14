@@ -245,7 +245,7 @@ Por lo tanto, se recomienda instalar la versión gratuita estándar y restaurar 
     <string name="general">General</string>
     <string name="hide_from_media_player">Ocultar al reproductor de medios</string>
     <string name="finished">Finalizado</string>
-    <string name="record_all_phone_numbers_exept_excluded">No grabar las llamadas de los teléfonos de la siguiente lista</string>
+    <string name="record_all_phone_numbers_exept_excluded">No grabar llamadas de los teléfonos de la siguiente lista</string>
     <string name="record_only_included_phone_numbers">Grabar llamadas solo de los teléfonos de la siguiente lista</string>
     <string name="add_contact">Añadir contacto</string>
     <string name="add_phone_number">Añadir número de teléfono</string>
@@ -256,5 +256,5 @@ Por lo tanto, se recomienda instalar la versión gratuita estándar y restaurar 
     <string name="delete_recordings">Borrar grabaciones</string>
     <string name="memory_occupied">Memoria utilizada</string>
     <string name="free_memory">Memoria libre</string>
-    <string name="switch_filtering">Activar filtrado</string>
+    <string name="switch_filtering">Conmutar filtrado</string>
     </resources>
