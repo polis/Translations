@@ -9,7 +9,7 @@
     <string name="notificationStatus_checkbox_title">Benachrichtigungen zulassen</string>
     <string name="notificationStatus_checkbox_summary">Nach jeder Aufnahme in der Benachrichtigungsleiste anzeigen</string>
     <string name="saveRecordQuestion_checkbox_summary">Nach jeder Aufnahme nachfragen</string>
-    <string name="storage">Speicher</string>
+    <string name="storage">Speicherplatz</string>
     <string name="deleteRecord_title">Automatische Bereinigung</string>
     <string name="deleteRecord_summary">Aufnahmen löschen</string>
     <string name="recording">Aufnahme</string>
@@ -72,10 +72,10 @@
     <string name="call_recorder_folder">Ordner \"CallRecorder\"</string>
     <string name="sd_card_memory_occupied">Belegter Speicher</string>
     <string name="sd_card_free_memory">Freier Speicher</string>
-    <string name="total_files">Gesamtanzahl Dateien</string>
+    <string name="total_files">Gesamtanzahl der Dateien</string>
     <string name="import_recordings">Aufnahmen importieren</string>
     <string name="run_clean_up">Jetzt bereinigen</string>
-    <string name="cleaning">Alte Aufnahmen bereinigen…</string>
+    <string name="cleaning">bereinigen</string>
     <string name="share_via">Teilen über…</string>
 
     <string name="passcode">Sicherheitscode</string>
@@ -179,7 +179,7 @@ Erstellen Sie außerdem Sicherungkopien aller wichtigen Aufnahmen, da sie ansons
     <string name="size">Größe</string>
     <string name="thank_you_for_upgrading_to_premium">Vielen Dank für Ihr Upgrade auf Premium!</string>
     <string name="proceed">Fortfahren</string>
-    <string name="restore_license"></string>
+    <string name="restore_license">Lizenz wiederherstellen</string>
     <string name="restore_for_purchased_users">Sie müssen die neuste Pro-Version von Google Play installieren, die Sie zuvor gekauft haben. Diese fungiert als Lizenz zum Aktivieren der Premium-Funktionen.</string>
     <string name="app_is_not_licensed">Applikation ist nicht lizenziert</string>
     <string name="buy_license_in_order_to_use_app">Um diese App zu verwenden, kaufen Sie sie bitte bei Google Play!</string>
@@ -225,9 +225,40 @@ Alle vorhandenen Funktionen bleiben erhalten, jedoch fehlen neue Eigenschaften w
 Es wird daher empfohlen, die kostenlose Standard-Version zu installieren und Ihre Lizenz darin wiederherzustellen</string>
 
 <string name="add_phone_number">Telefonnummer hinzufügen</string>
-    <string name="add_to_filter">Filter ergänzen</string>
-    <string name="another_call_recording_app_is_running">Eine andere Aufzeichnungs-App ist aktiv. Bitte entfernen Sie diese, damit Call Rekorder ordnungsgemäß laufen kann.</string>
+    <string name="add_to_filter">Zum Filter hinzufügen</string>
+    <string name="another_call_recording_app_is_running">Eine andere Aufzeichnungs-App ist aktiv. Bitte entfernen Sie diese, damit Call Recorder ordnungsgemäß funktioniert.</string>
 
-    <string name="android_can_stop_recording_if_this_notification_disabled">Wenn diese Option ausgeschaltet ist, kann Android diese APP beenden und einige Anrufe können nicht aufgenommen werden oder werden nur teilweise aufgenommen. Möchten Sie sie tatsächlich deaktivieren?</string>
+    <string name="android_can_stop_recording_if_this_notification_disabled">Wenn diese Option deaktiviert ist, kann Android diese APP beenden und einige Anrufe können nicht aufgenommen werden oder werden nur teilweise aufgenommen. Möchten Sie sie tatsächlich deaktivieren?</string>
     <string name="delete_uploaded">"Hinaufgeladene Daten löschen "</string>
+    <string name="delete_after_upload_to_cloud">Automatisches Löschen der hochgeladenen Aufnahmen vom Telefon</string>
+    <string name="call_is_recording_now">Anruf wird jetzt aufgezeichnet</string>
+    <string name="error_during_recording">Fehler während der Aufnahme</string>
+    <string name="tap_here_to_troubleshoot">Tippen Sie hier, um den Fehler zu beheben</string>
+    <string name="recording_problem">Aufnahmeproblem ?</string>
+    <string name="recording_notification">Aufzeichnungsbenachrichtigung</string>
+    <string name="show_notification_during_recording">Meldung während der Aufnahme anzeigen</string>
+    <string name="recording_filter">Aufzeichnungsfilter</string>
+    <string name="filter">Filter</string>
+    <string name="use_filtering_by_phone_numbers">Filtern nach Telefonnummer verwenden</string>
+    <string name="filtering_method">Filtermethode</string>
+    <string name="switch_filtering">Filter tauschen</string>
+    <string name="record_all_phone_numbers_exept_excluded">Keine Aufnahme über Gespräche von den unten angegebenen Telefonummern</string>
+    <string name="record_only_included_phone_numbers">Die Aufnahme über Gespräche nur von den unten angegebenen Telefonummern</string>
+    <string name="add_contact">Kontakt hinzufügen</string>
+    <string name="automatic_cleaning">Automatische Säuberung</string>
+    <string name="delete_recordings">Aufnahmen löschen</string>
+    <string name="memory_occupied">Verwendeter Speicher</string>
+    <string name="free_memory">Freier Speicher</string>
+    <string name="use_removable_storage">Wechseldatenträger verwenden</string>
+    <string name="record_audio_files_to_removable_storage">Audio-Dateien auf Wechseldatenträger aufzeichnen</string>
+    <string name="repopulate_the_list_of_recordings">Übernahme der Anrufaufzeichnungen aus dem Dateisystem des Gerätes in die app</string>
+    <string name="delete_automatically">Automatisch löschen</string>
+    <string name="delete_older_then">Automatisches Löschen von Aufzeichnungen, die älter als die ausgewählte Zeitspanne sind. Gesperrte Aufnahmen werden nicht gelöscht.</string>
+    <string name="clean_up">Jetzt bereinigen</string>
+    <string name="delete_old_recordings">Löschen von alten Aufnahmen. Gesperrte Aufnahmen werden nicht gelöscht.</string>
+    <string name="general">Allgemein</string>
+    <string name="hide_from_media_player">Von Media Player ausblenden</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Audioaufnahmen in Media Player-Anwendungen nicht anzeigen</string>
+    <string name="deleted_recordings_if_uninstall">Wenn diese Option aktiviert ist und Sie die App deinstallieren, werden alle auf dem Wechseldatenträger gespeicherten Aufzeichnungen vom System gelöscht.</string>
+    <string name="finished">Erledigt</string>
     </resources>
