@@ -84,7 +84,7 @@
     <string name="total_files">Total de pastas</string>
     <string name="import_recordings">Importar gravações</string>
     <string name="run_clean_up">Limpar agora</string>
-    <string name="cleaning">Apagar gravações antigas…</string>
+    <string name="cleaning">Apagar gravações antigas</string>
     <string name="share_via">Partilhar via…</string>
 
     <string name="passcode">Senha</string>
@@ -236,4 +236,20 @@ Ainda funcionará como antes, mas sem novos recursos como:
 
 Portanto, recomenda-se instalar a versão gratuita padrão e restaurar sua licença a partir dela</string>
 
-</resources>
+<string name="automatic_cleaning">Limpeza Automática</string>
+    <string name="delete_recordings">Apaga Gravações</string>
+    <string name="memory_occupied">Memória Usada</string>
+    <string name="free_memory">Memória Livre</string>
+    <string name="use_removable_storage">Usa memória removível</string>
+    <string name="record_audio_files_to_removable_storage">Gravar ficheiros de áudio no armazenamento removível</string>
+    <string name="repopulate_the_list_of_recordings">Reconstrói a lista de gravações na app do sistema de ficheiros deste sistema</string>
+    <string name="delete_automatically">Apaga automaticamente</string>
+    <string name="delete_older_then">Apaga automaticamente as gravações antigas no período selecionado. As gravações bloqueadas não serão apagadas.</string>
+    <string name="clean_up">Limpa imediatamente</string>
+    <string name="delete_old_recordings">"Apaga as gravações antigas.  Não serão eliminadas as gravações protegidas."</string>
+    <string name="general">Geral</string>
+    <string name="hide_from_media_player">Oculta do media player</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">"Não visualizar is ficheiros  das gravações áudio no app media player"</string>
+    <string name="deleted_recordings_if_uninstall">Se esta opção está ativada e se desinstalas a app, então todas as gravações guardadas na memória removível vão ser apagadas do sistema.</string>
+    <string name="finished">Finalizado</string>
+    </resources>
