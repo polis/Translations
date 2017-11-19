@@ -4,7 +4,7 @@
     <string name="sd">Inseriu una tarja SD a l\'aparell!</string>
     <string name="contact">Contactes</string>
     <string name="selected">seleccionat</string>
-    <string name="settings">Ajustaments</string>
+    <string name="settings">Configuracions</string>
     <string name="notifications">Notificacions</string>
     <string name="notificationStatus_checkbox_title">Activa notificacions</string>
     <string name="notificationStatus_checkbox_summary">Mostra a la barra de notificacions després de cada trucada gravada</string>
@@ -80,7 +80,7 @@
 
     <string name="passcode">Clau d\'accés</string>
     <string name="enable_passcode">Activa clau d\'accés</string>
-    <string name="enable_passcode_description">Protegiu les gravacions amb clau d\'accés cada cop que engegueu l\'app</string>
+    <string name="enable_passcode_description">Protegiu les gravacions amb clau d\'accés cada vegada que engegueu l\'app</string>
     <string name="change_passcode">Canvia la clau d\'accés</string>
     <string name="passcode_delete_recordings">Suprimeix gravacions</string>
     <string name="passcode_delete_recordings_description">Suprimeix totes les gravacions de l\'aparell després de 10 errors en la clau d\'accés</string>
@@ -217,4 +217,7 @@ Encara estarà treballant com abans, però sense noves característiques com:
 
 Per tant, es recomana instal·lar la versió lliure estàndard i restaurar la seva llicència no</string>
 
-</resources>
+<string name="finished">Finalitzat</string>
+    <string name="recording_filter">Filtre de gravació</string>
+    <string name="use_filtering_by_phone_numbers">Filtre per número de telèfon</string>
+    </resources>
