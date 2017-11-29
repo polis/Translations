@@ -178,7 +178,7 @@
     <string name="size">Rozmiar</string>
     <string name="thank_you_for_upgrading_to_premium">Dziękujemy za zaktualizowanie do wersji Pro!</string>
     <string name="proceed">Kontynuuj</string>
-    <string name="restore_license">Przywróć licencję</string>
+    <string name="restore_license">Przywróć z wersji Pro</string>
     <string name="restore_for_purchased_users">Musisz zainstalować najnowszą wersję Pro, którą wcześniej zakupiłeś w Sklepie Google. Zostanie ona użyta jako licencja do aktywacji funkcjonalności wersji Pro.</string>
     <string name="app_is_not_licensed">Aplikacja nie jest licencjonowana</string>
     <string name="buy_license_in_order_to_use_app">Aby móc korzystać z tej aplikacji, proszę zakupić ją poprzez Sklep Google!</string>
@@ -224,4 +224,9 @@ Nadal będzie działał jak przedtem, ale bez nowych funkcji, takich jak:
 
 Zalecamy więc zainstalowanie stndardowej wersji i przywrócenie swojej licencji - tutaj</string>
 
-</resources>
+<string name="recording_filter">Filtr nagrań</string>
+    <string name="filter">Filtruj</string>
+    <string name="use_filtering_by_phone_numbers">Filtruj numerami telefonu</string>
+    <string name="filtering_method">Metoda filtrowania</string>
+    <string name="finished">Zakończone</string>
+    </resources>
