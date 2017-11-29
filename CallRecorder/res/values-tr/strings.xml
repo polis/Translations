@@ -243,4 +243,21 @@ Bazı önerileriniz veya yorumlarınız varsa, lütfen http://clevermobile.net s
     <string name="add_contact">Kişi ekle</string>
     <string name="add_phone_number">Numara ekle</string>
     <string name="add_to_filter">Filtre ekle</string>
+    <string name="tap_here_to_troubleshoot">Sorunları gidermek için buraya tıkla</string>
+    <string name="record_only_included_phone_numbers">Yalnızca listede gösterilen aramaları kaydet</string>
+    <string name="android_can_stop_recording_if_this_notification_disabled">Eğer bu seçenek kaldırılırsa Android uygulamayı durdurabilir ve bazı aramalar kaydedilemeyecek ya da bir bölümü kayıt edilebilecek. Kaldırmak istiyor musunuz?</string>
+
+    <string name="automatic_cleaning">Otomatik temizleme</string>
+    <string name="memory_occupied">Kullanılan hafıza</string>
+    <string name="free_memory">Kullanılabilir hafıza</string>
+    <string name="use_removable_storage">Çıkarılabilir saklama alanı kullan</string>
+    <string name="record_audio_files_to_removable_storage">Kaydedilen ses dosyalarını çıkarılabilir saklama alanına kaydedin</string>
+    <string name="delete_automatically">Otomatik sil</string>
+    <string name="delete_older_then">Otomatik silinen kayıtlar seçilen period dan daha eski. Kilitlenen kayıtlar silinemez.</string>
+    <string name="clean_up">Şimdi temizle</string>
+    <string name="delete_old_recordings">Eski kayıtları sil. Kilitlenen kayıtlar silinmeyecek.</string>
+    <string name="general">Genel</string>
+    <string name="hide_from_media_player">Media player\'da gösterme</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Kayıt dosyalarını media player\'da gösterme</string>
+    <string name="deleted_recordings_if_uninstall">Eğer bu seçenek aktif hale getirilirse ve uygulama silinirse, bütün hafızalanmış kayıtlar sistem tarafından silinecektir.</string>
     </resources>
