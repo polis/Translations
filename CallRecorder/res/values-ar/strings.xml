@@ -148,22 +148,22 @@
 
     <string name="enabled">تمكين</string>
     <string name="disabled">يبدو انه هناك مشكلة في التسجيل الاخير. لو ظهرت هذه المشكلة مرة اخرى ، فحاول تغير نوعية تنسيق الملفات او مصدر الصوت من الاعدادات.</string>
-    <string name="new_recordings">تسجيلات جديده</string>
-    <string name="persistent_notifications">يبدو انه هناك مشكلة في التسجيل الاخير. لو ظهرت هذه المشكلة مرة اخرى ، فحاول تغير نوعية تنسيق الملفات او مصدر الصوت من الاعدادات.</string>
-    <string name="enable_persistent_notifications">تمكين الاخطارات المستمره</string>
-    <string name="usage_terms_and_privacy_policy">استخدام شروط وسياسات الخصوصيه</string>
+    <string name="new_recordings">تسجيلات جديدة</string>
+    <string name="persistent_notifications">اشعارات مستمرة</string>
+    <string name="enable_persistent_notifications">تفعيل الإشعارات المستمرة</string>
+    <string name="usage_terms_and_privacy_policy">استخدام شروط وسياسات الخصوصية</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">باستخدام هذا التطبيق فأنت توافق على شروط الاستخدام وسياسة الخصوصية</string>
     <string name="supported_phones">الهواتف المدعومة</string>
     <string name="list_of_known_configurations">قائمة تشكيلات معروفه</string>
 
-    <string name="navigation_drawer_open">القائمه المفتوحه</string>
-    <string name="navigation_drawer_close">اغلاق القائمه</string>
+    <string name="navigation_drawer_open">القائمه المفتوحة</string>
+    <string name="navigation_drawer_close">اغلاق القائمة</string>
     <string name="tell_a_friend">اخبر صديق</string>
-    <string name="rate_me">قيم البرنامج</string>
-    <string name="check_out_call_recorder_app_at">"مهلا! تحقق من التطبيق تسجيل المكالمات "</string>
-    <string name="upgrade_to_premium">الترقيه للنسخه المدفوعه</string>
-    <string name="theme">المقدمه</string>
-    <string name="use_dark_theme">استخدام وضت الظلام</string>
+    <string name="rate_me">قيّم البرنامج</string>
+    <string name="check_out_call_recorder_app_at">مهلا! تحقق من تطبيق تسجيل المكالمات</string>
+    <string name="upgrade_to_premium">الترقية للنسخة المدفوعة</string>
+    <string name="theme">قالب</string>
+    <string name="use_dark_theme">استخدم القالب المعتم</string>
     <string name="call">مكالمة</string>
     <string name="note">ملحوظة</string>
     <string name="add_to_excluded">اضافة الي استبعاد</string>
