@@ -225,5 +225,8 @@ IF IT لا يعمل على هاتفك AT ALL
     <string name="recording_problem">مشكلة تسجيل؟</string>
     <string name="recording_notification">"اشعارات التسجيل "</string>
     <string name="show_notification_during_recording">"اظهار الاشعارات اثناء التسجيل "</string>
-    <string name="filter">"تصفية "</string>
+    <string name="filter">الزراعة والثروة</string>
+    <string name="proceed">Moisson</string>
+    <string name="recording_filter">الحصاد</string>
+    <string name="use_filtering_by_phone_numbers"/>
     </resources>
