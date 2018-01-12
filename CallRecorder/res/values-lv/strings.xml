@@ -70,4 +70,22 @@
 
     <string name="passcode_delete_recordings">Izdzēst ierakstus</string>
     <string name="rate_me">Novērtē mani</string>
+    <string name="advanced_botifications">Papildu paziņojumi</string>
+    <string name="no_more_ads">Bez Reklāmām</string>
+
+    <string name="sd_card">SD karte</string>
+    <string name="call_recorder_folder">Mape \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Izmantotā atmiņa</string>
+    <string name="sd_card_free_memory">Brīvā atmiņa</string>
+    <string name="run_clean_up">Notīrīt tagad</string>
+
+    <string name="share_via">Kopīgot ar…</string>
+
+    <string name="passcode">Passcode</string>
+    <string name="cloud">Mākonis</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="google_drive">Google Disks</string>
+    <string name="login">Ienākt</string>
+    <string name="logout">Iziet</string>
     </resources>
