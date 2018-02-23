@@ -46,6 +46,10 @@
     <string name="translate">Translate</string>
     <string name="help_translate">Help us with translation to your native language</string>
 
+    <string name="clock_face_color">Theme color</string>
+    <string name="general">General</string>
+    <string name="remove_ads">Remove Ads</string>
+
     <string name="app_description">Stopwatch application with an ability to:
         - measure value in millisecond;
         - pinpoint an unlimited number of laps;
