@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+<string name="app_name">Shake me</string>
+    <string name="settings">Nastavenia</string>
+    <string name="about">O aplikácii</string>
+    <string name="help">Pomoc</string>
+    <string name="do_nothing">Nerobiť nič</string>
+    <string name="screen_on_off">Displej Zap/Vyp</string>
+    <string name="camera_flash_light">Baterka</string>
+    <string name="lunch_application">Spustiť aplikáciu</string>
+    <string name="select_app_text">Prosím vyberte aplikáciu, ktorá sa spustí keď potrasiete zaradením.</string>
+    <string name="select_app_btn">Vyberte aplikáciu</string>
+    <string name="lunch_app_name">Nebola vybraná žiadna aplikácia</string>
+    <string name="wait">Prosím čakajte...</string>
+    <string name="do_nothing_action">Prosím, vyberte akciu, ktorú chcete použiť!</string>
+    <string name="do_nothing_description">Ak potrasiete zariadením, nič sa nestane.</string>
+    <string name="shake_sensitivity">Citlivosť potrasenia možno nastaviť v Nastaveniach!</string>
+    <string name="screen_on_off_description">Obrazovka zariadenia za zapne alebo vypne ak potrasiete zariadením.</string>
+    <string name="flash_light_on_off_description">Baterka sa zapne alebo vypne ak potrasiete zariadením.</string>
+    <string name="works_screen_on">Pracuje iba pri rozsvietenej obrazovke.</string>
+
+    <string name="settings_description">Potraste zariadením pre kontrolu zmien v Nastaveniach!</string>
+    <string name="change_sensitivity">Intenzita trasenia</string>
+    <string name="lower">nízka</string>
+    <string name="higher">vysoká</string>
+    <string name="vibrate">Vibrovať pri potrasení</string>
+    <string name="shaken">Traste!</string>
+    <string name="enable_shake_me">Zapnúť Shake Me</string>
+    <string name="enable_screen_on">Zapnutie obrazovky</string>
+    <string name="enable_screen_off">Vypnutie obrazovky</string>
+    <string name="turn_sreen_on_and_run">Zapnúť obrazovku a spustiť aplikáciu</string>
+
+    <string name="navigation_drawer_open">Otvoriť navigačný panel</string>
+    <string name="navigation_drawer_close">Zatvoriť navigačný panel</string>
+
+    <string name="action_settings">Nastavenia</string>
+    <string name="information">Informácie</string>
+    <string name="tell_a_friend">Povedzte priateľom</string>
+    <string name="rate_me">Ohodnotiť</string>
+
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Často kladené otázky</string>
+    <string name="other_app_title">Všetky aplikácie</string>
+    <string name="other_app_summary">Od Clever Mobile</string>
+
+    <string name="translations">Preklady</string>
+    <string name="translate">Preložiť</string>
+    <string name="help_translate">Pomôžte nám s prekladom do vášho rodného jazyka</string>
+    <string name="camera_permissions_not_granted">Povolte aplikácii používať integrovanú kameru, aby získala prístup k baterke!</string>
+
+    <string name="upgrade">Aktualizácia</string>
+    <string name="upgrade_to_premium">Aktualizácia na prémiovú verziu</string>
+    <string name="buy_app_and_remove_ads">Odstrániť reklamy zakúpením alebo obnovením prémiovej verzie</string>
+
+    <string name="thank_you_for_upgrading_to_premium">Ďakujeme za aktualizáciu na prémiovú verziu!</string>
+    <string name="pro_description">"
+ 
+- Doživotná prémium licencia
+ 
+- Už nikdy viac reklamy
+ "</string>
+    <string name="proceed">Pokračovať</string>
+    <string name="cancel">Zrušiť</string>
+
+    <string name="usage_terms_and_privacy_policy">Podmienky použitia a Zásady ochrany osobných údajov</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Používaním tejto aplikácie súhlasíte s podmienkami a zásadami ochrany osobných údajov</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+<string name="app_name">Skaka mig</string>
+    <string name="settings">Inställningar</string>
+    <string name="about">Om</string>
+    <string name="help">Hjälp</string>
+    <string name="camera_flash_light">Kameraficklampa</string>
+    <string name="lunch_application">Starta en app</string>
+    <string name="select_app_text">Välj en applikation som ska starta när du skakar enheten.</string>
+    <string name="select_app_btn">Välj en applikation</string>
+    <string name="lunch_app_name">Ingen applikation</string>
+    </resources>

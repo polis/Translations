@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <string name="app_name">Shake Me</string>
+    <string name="settings">Настройки</string>
+    <string name="about">Про программу</string>
+    <string name="help">Помощь</string>
+    <string name="do_nothing">Не реагировать</string>
+    <string name="screen_on_off">Экран Вкл./Выкл.</string>
+    <string name="camera_flash_light">Фонарик</string>
+    <string name="lunch_application">Запустить приложение</string>
+    <string name="select_app_text">Пожалуйста, выбирите приложение, которое будет запущено, если встряхнуть апарат.</string>
+    <string name="select_app_btn">Выберите приложение</string>
+    <string name="lunch_app_name">Приложение не выбрано</string>
+    <string name="wait">Пожалуйста, подождите...</string>
+    <string name="do_nothing_action">Пожалуйста, выберите действие, которое вы хотите использовать!</string>
+    <string name="do_nothing_description">Ничего не произойдет, если встряхнуть апарат.</string>
+    <string name="shake_sensitivity">Чувствительность сотрясения можно отрегулировать в Настройках!</string>
+    <string name="screen_on_off_description">Экран должен выключиться или включиться, если встряхнуть апарат.</string>
+    <string name="flash_light_on_off_description">Фонарик должен выключиться или включиться, если встряхнуть апарат.</string>
+    <string name="works_screen_on">Работает только при включеном экране.</string>
+
+    <string name="settings_description">Встряхните апарат чтобы проверить изменения настроек!</string>
+    <string name="change_sensitivity">Чувствительность сотрясения</string>
+    <string name="lower">ниже</string>
+    <string name="higher">выше</string>
+    <string name="vibrate">Вибрировать при сотрясении</string>
+    <string name="shaken">Сотрясение!</string>
+    <string name="enable_shake_me">Активировать Shake Me</string>
+    <string name="enable_screen_on">Включить экран</string>
+    <string name="enable_screen_off">Выключить экран</string>
+    <string name="turn_sreen_on_and_run">Включить экран и запустить приложение</string>
+
+<string name="action_settings">Установки</string>
+    <string name="information">Информация</string>
+    <string name="tell_a_friend">Рассказать другу</string>
+    <string name="rate_me">Оценить</string>
+
+    <string name="faq_title">Вопросы</string>
+    <string name="faq_summary">Часто задаваемые вопросы</string>
+    <string name="other_app_title">Все приложения</string>
+    <string name="other_app_summary">От Clever Mobile</string>
+
+    <string name="translations">Переводы</string>
+    <string name="translate">Перевод</string>
+    <string name="help_translate">Помогите нам с переводом на ваш национальный язык</string>
+    </resources>

@@ -2,24 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="sd">Sätt i ett minneskort i mobilen tack!</string>
     <string name="contact">Kontakter</string>
-    <string name="call_time">"Samtalstid "</string>
     <string name="selected">utvalda</string>
     <string name="settings">Inställningar</string>
     <string name="notifications">"Meddelande "</string>
     <string name="notificationStatus_checkbox_title">"Aktivera notiser "</string>
     <string name="notificationStatus_checkbox_summary">Visa notis i meddelande-fältet</string>
-    <string name="saveRecordQuestion_checkbox_title">Spara detta samtal?</string>
     <string name="saveRecordQuestion_checkbox_summary">Fråga efter varje inspelat samtal</string>
     <string name="storage">Lagring</string>
     <string name="deleteRecord_title">Automatisk rensning</string>
     <string name="deleteRecord_summary">Ta bort inspelningar</string>
     <string name="recording">Inställningar för inspelning</string>
     <string name="audioSource_title">Ljudkälla</string>
-    <string name="audioSource_summary">Välj ljudkälla</string>
     <string name="fileFormat_title">Filformat</string>
-    <string name="fileFormat_summary">Välj filformat</string>
     <string name="recordingQuality_title">Inspelningskvalitet</string>
-    <string name="recordingQuality_summary">Välj inspelningskvalitet</string>    
     <string name="email_subject">Inspelade samtal</string>
 	<string name="buy_category_description">Betal version</string>
 	<string name="buy_category_title">Köp betalversion</string>
@@ -63,12 +58,13 @@
 
     <string name="buy">Köp</string>
     <string name="cancel">Annulera</string>
-    <string name="pro_description">Köpversionen innehåller 
-Dela inspelning 
-Dropbox synk 
-Google Drive synk 
-Avancerade notiser
-Inga annonser</string>
+
+    <string name="pro_description">Köpversionen innehåller</string>
+    <string name="share_recordings">Dela inspelning</string>
+    <string name="dropbox_upload">Dropbox synk</string>
+    <string name="google_drive_upload">Google Drive synk</string>
+    <string name="advanced_botifications">Avancerade notiser</string>
+    <string name="no_more_ads">Inga annonser</string>
 
     <string name="sd_card">Minneskort</string>
     <string name="call_recorder_folder">Mapp \"Callrecorder\"</string>
@@ -93,7 +89,7 @@ Inga annonser</string>
     <string name="wrong_passcode">Fel lösenord. Försök igen!</string>
     <string name="exit">Avsluta</string>
 
-    <string name="cloud">Synkronisering</string>
+    <string name="cloud">Moln</string>
 
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Länka Dropbox-konto</string>
@@ -106,8 +102,8 @@ Inga annonser</string>
 
     <string name="login">Logga in</string>
     <string name="logout">Logga ut</string>
-    <string name="sync_title">Synkronisera nu</string>
-    <string name="sync_summary">Synkronisera alla inspelningar</string>
+    <string name="sync_title">Ladda upp nu</string>
+    <string name="sync_summary">Alla inspelningar nu</string>
     <string name="wifi_only">Endast Wifi</string>
     <string name="wifi_only_when_sync">Synka endast med wifi</string>
 
@@ -129,9 +125,8 @@ Inga annonser</string>
 
     <string name="no_player_app_found">Det finns ingen musikspelare för att spela detta</string>
 
-<string name="app_name">Samtalsinspelning</string>
+    <string name="app_name">Samtalsinspelning</string>
     <string name="audioChannel_title">"Lagringskanal "</string>
-    <string name="audioChannel_summary">"Välj lagringskanal "</string>
     <string name="enable_passcode">"Koppla på lösenord "</string>
     <string name="passcode_delete_recordings_description">Ta bort inspelningar på denna mobil efter 10 misslyckade lösenordsförsök</string>
     <string name="recording_method">Inspelningsmetod</string>

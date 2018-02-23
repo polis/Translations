@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+    <string name="app_name">Զանգերի Ձայնագրում</string>
+    <string name="sd">Խնդրում ենք տեղադրեք SD քարտ հեռախոսի մեջ!</string>
+    <string name="contact">Կոնտակտներ</string>
+    <string name="selected">Ընտրված է</string>
+    <string name="settings">Կարգավորումներ</string>
+    <string name="notifications">Ծանուցումներ</string>
+    <string name="notificationStatus_checkbox_title">Միացնել ծանուցումները</string>
+    <string name="notificationStatus_checkbox_summary">Ցույց տալ ծանուցումների մեջ ամեն զանգից հետո</string>
+    <string name="saveRecordQuestion_checkbox_summary">Հարցնել ամեն զանգից հետո</string>
+    <string name="storage">Պահեստ</string>
+    <string name="deleteRecord_title">Ավտոմատ մաքրում</string>
+    <string name="deleteRecord_summary">Ջնջել ձայնագրություննեը</string>
+    <string name="recording">Ձայնագրման կարգավորումներ</string>
+    <string name="audioSource_title">Ձայնի աղբյուր</string>
+    <string name="recordingQuality_title">Ձայնագրության որակ</string>
+    <string name="email_subject">Ձայնագրված զանգեր</string>
+	<string name="buy_category_description">Ամբողջական տարբերակ</string>
+	<string name="buy_category_title">Գնել Զանգերի Ձայնագրում ծրագրի ամբողջական տարբերակը</string>
+	<string name="buy_summary">Առանց գովազդի և հավելյալ հնարավորություններով</string>
+
+	<string name="rate">Խնդրում ենք գնահատեք ծրագիրը</string>
+	<string name="rateOk">Լավ</string>
+	<string name="rateLater">Հետո</string>
+    <string name="start_notification">Զանգի ձայնագրումը սկսված է</string>    
+    <string name="stop_notification">Զանգի ձայնագրումը դադարեցված է</string>
+
+    <string name="save_the_call">Պահպանե՞լ այս զանգը։</string>
+    <string name="yes">Այո</string>
+    <string name="no">Ոչ</string>
+
+	<string name="unknown">Անհայտ</string>
+    <string name="hidden">Ծածկված</string>
+	<string name="start_recording">Զանգերի ձայնագրումը միացված է!</string>    
+    <string name="start_recording_details">Հետագա բոլոր զանգերը կձայնագրվեն։</string>    
+    <string name="stop_recording">Միացրեք զանգերի ձայնագրումը!</string>    
+    <string name="stop_recording_details">Այժմ ձայնագրումը անջատված է։</string>
+
+    <string name="new_call">Նոր զանգ է ձայնագրվել!</string>    
+    <string name="info">Ինֆորմացիա</string>       
+    <string name="faq_title">ՀՏՀ</string>
+    <string name="faq_summary">Հաճախ տրվող հարցեր</string>
+    <string name="other_app_title">Բոլոր ծրագրերը</string>
+    <string name="other_app_summary">Clever Mobile-ից</string>
+
+    <string name="undo">Չեղարկել</string>
+    <string name="deleted">Ջնջված է</string>
+
+    <string name="lock">Կողպել</string>
+    <string name="share">Տարածել</string>
+    <string name="delete">Ջնջել</string>
+    <string name="select_all">Նշել բոլորը</string>
+    <string name="recordings">Ձայնագրություններ</string>
+    <string name="help">Օգնություն</string>
+    <string name="hint_tap_on_contact_photo">Սեղմեք կոնտակտի նկարի վրա ընտրելու համար։</string>
+    <string name="importing_recordings">Ձայնագրությունները ներմուծվում են…</string>
+
+    <string name="buy">Գնել</string>
+    <string name="cancel">Չեղարկել</string>
+    <string name="total_files">Ֆայլերի քանակ</string>
+    <string name="import_recordings">Ներմուծել ձայնագրություններ</string>
+    <string name="run_clean_up">Մաքրել հիմա</string>
+    <string name="cleaning">Հին ձայնագրությունների մաքրում…</string>
+    <string name="share_via">Տարածել…</string>
+
+    <string name="passcode">Գաղտնաբառ</string>
+    <string name="enable_passcode">Միացնել գաղտնաբառը</string>
+    <string name="enable_passcode_description">Հարցնել գաղտնաբառը ծրագիրը միացնելիս</string>
+    <string name="change_passcode">Փոխել գաղտնաբառը</string>
+    <string name="passcode_delete_recordings">Ջնջել ձայնագրությունները</string>
+    <string name="passcode_delete_recordings_description">Ջնջել բոլոր ձայնագրությունները գաղտնաբառի 10 անհաջող փորձից հետո</string>
+    <string name="enter_passcode">Գրեք գաղտնաբառը</string>
+    <string name="reenter_passcode">Կրկնեք գաղտնաբառը</string>
+    <string name="enter_old_passcode">Գրեք հին գաղտնաբառը</string>
+    <string name="passcode_did_not_match">Գաղտնաբառերը չեն համընկնում։ Փորձեք կրկին!</string>
+    <string name="enter_new_passcode">Գրեք նոր գաղտնաբառ</string>
+    <string name="reenter_new_passcode">Կրկնեք նոր գաղտնաբառը</string>
+    <string name="wrong_passcode">Սխալ գաղտնաբառ։ Փորձեք կրկին!</string>
+    <string name="exit">Դուրս գալ</string>
+
+    <string name="cloud">Համաժամեցում</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Կցել Dropbox պրոֆիլ</string>
+    <string name="dropbox_unlink">Հեռացնել Dropbox պրոֆիլը</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="login">Մուտք</string>
+    <string name="logout">Ելք</string>
+    <string name="disabled">Անջատված</string>
+    <string name="new_recordings">Նոր ձայնագրություններ</string>
+    <string name="audioChannel_title">Ձայնի աղբյուր</string>
+    <string name="fileFormat_title">Ֆայլի ֆորմատ</string>
+    <string name="sd_card">SD քարտ</string>
+    <string name="call_recorder_folder">Թղթապանակ \"CallRecorder\"</string>
+    <string name="sd_card_memory_occupied">Օգտագործված հիշողություն</string>
+    <string name="sd_card_free_memory">Ազատ հիշողություն</string>
+
+    <string name="pro_description">Ամբողջական տարբերակը պարունակում է</string>
+    <string name="share_recordings">Կիսվել ձայնագրություններով</string>
+    <string name="dropbox_upload">Dropbox համաժամեցում</string>
+    <string name="google_drive_upload">Google Drive համաժամեցում</string>
+    <string name="advanced_botifications">Լրացուցիչ ծանուցումներ</string>
+    <string name="no_more_ads">Առանց գովազդների</string>
+
+    <string name="google_drive_link">Կցել Google Drive պրոֆիլ</string>
+    <string name="google_drive_unlink">Հեռացնել Google Drive պրոֆիլը</string>
+    <string name="connecting_to_google_drive">"Միացնել  Google Drive-ին"</string>
+
+    <string name="sync_title">Համաժամեցնել</string>
+    <string name="sync_summary">Համաժամեցնել հիմա</string>
+    <string name="wifi_only">Միայն WiFi</string>
+    <string name="wifi_only_when_sync">Համաժամեցնել միայն WiFi կապի դեպքում</string>
+
+    <string name="run_pro_question_dlg_description">Դուք փորձում եք միացնել անվճար տարբերակը, բայց արդեն ունեք տեղադրվախծ ամբողջական տարբերակը։ Կցանկանա՞ք անցնել ամբողջական տարբերակին։</string>
+    <string name="run_pro_question_dlg_title">Միացնել ամբողջականը</string>
+    <string name="last_recording">Վերջին ձայնագրությունը</string>
+    <string name="last_recording_problem_description">Թվում է վերջին ձայնագրության ընթացքում խնդիր է առաջացել։ Եթե այս հաղորդագրությունը կրկնվի, խնդրում ենք, փորձեք փոխել ֆայլի ֆորմատը կամ ձայնի աղբյուրը կարգավորումներից։</string>
+    <string name="read_instructions">Կարդալ ցուցումները</string>
+    <string name="about">Ծրագրի մասին</string>
+    <string name="translations">Թարգմանություններ</string>
+    <string name="translate">Թարգմանել</string>
+    <string name="help_translate">Օգնեք մեզ թարգմանել ձեր մայրենի լեզվին</string>
+
+    <string name="write_ext_storage_problem_description">Չի ստացվում ձայնագրել արտաքին հիշողության սարքի վրա։</string>
+    <string name="allow_to_write_to_sd_card">Ձայնագրել շարժական SD քարտի վրա</string>
+    <string name="delete_recordings_older_then_selected_days">Բոլոր նշված օրերից հին ձայնագրությունները ավտոմատ կջնջվեն</string>
+    <string name="delete_recordings_on_uninstall">Ծրագրի հեռացման դեպքում բոլոր ձայնագրությունները կջնջվեն</string>
+    <string name="number_of_days">Օրերի քանակ</string>
+
+    <string name="recording_method">Ձայնագրման մեթոդ</string>
+    <string name="no_player_app_found">Ձայնագրությունը լսելու համար ծրագիր չի գտնվել</string>
+
+    <string name="player">Նվագարկիչ</string>
+    <string name="use_external_player">Օգտագործել արտաքին նվագարկիչ</string>
+    <string name="use_external_media_player_to_play_recordings">Օգտագործել արտաքին նվագարկիչ ձայնագրությունները լսելու համար</string>
+    <string name="play">Լսել</string>
+    <string name="pause">Կանգնեցնել</string>
+    <string name="number_of_seconds">Վայրկյաններ</string>
+    <string name="delay_for_incoming_calls">Սպասել ստացված զանգերի համար՝ վայրկյաններով</string>
+    <string name="delay_for_outgoing_calls">Սպասել ուղարկված զանգերի համար՝ վայրկյաններով</string>
+
+    <string name="enabled">Միացված</string>
+    <string name="persistent_notifications">Մշտական ծանուցում</string>
+    <string name="enable_persistent_notifications">Միացված մժտական ծանուցում</string>
+
+    </resources>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <string name="app_name">Shake Me</string>
+    <string name="settings">Налаштування</string>
+    <string name="about">Про програму</string>
+    <string name="help">Допомога</string>
+    <string name="do_nothing">Не реагувати</string>
+    <string name="screen_on_off">Екран Ввімкн./Вимкн.</string>
+    <string name="camera_flash_light">Ліхтарик</string>
+    <string name="lunch_application">Запустити додаток</string>
+    <string name="select_app_text">Будь ласка, виберіть додаток, який буде запущено, коли потрясти пристрій.</string>
+    <string name="select_app_btn">Вибрати додаток</string>
+    <string name="lunch_app_name">Додаток не вибрано</string>
+    <string name="wait">Будь ласка, зачекайте...</string>
+    <string name="do_nothing_action">Будь ласка, виберіть дію яку ви хочете застосувати!</string>
+    <string name="do_nothing_description">Нічого не повинно статись, коли потрясти пристрій.</string>
+    <string name="shake_sensitivity">У налаштуваннях можна змінити чутливість пристрою до струсу!</string>
+    <string name="screen_on_off_description">Екран повинен ввімкнутись або вимкнутись, коли потрясти пристрій.</string>
+    <string name="flash_light_on_off_description">Спалах повинен ввімкнутись або вимкнутись, коли потрясти пристрій.</string>
+    <string name="works_screen_on">Працює тільки коли екран пристрою ввімкнений.</string>
+
+    <string name="settings_description">Потрусіть пристрій щоб перевірити зміни в налаштуваннях!</string>
+    <string name="change_sensitivity">Чутливість струсу</string>
+    <string name="lower">нижче</string>
+    <string name="higher">вище</string>
+    <string name="vibrate">Вібрувати при струсі</string>
+    <string name="shaken">Струс!</string>
+    <string name="enable_shake_me">Активувати сервіс</string>
+    <string name="enable_screen_on">Увімкнути екран</string>
+    <string name="enable_screen_off">Вимкнути екран</string>
+    <string name="turn_sreen_on_and_run">Увімкнути екран і запустити додаток</string>
+
+<string name="action_settings">Настройки</string>
+    <string name="information">Інформація</string>
+    <string name="tell_a_friend">Розповісти другу</string>
+    <string name="rate_me">Оцінити</string>
+
+    <string name="faq_summary">Часті запитання</string>
+    <string name="other_app_title">Усі додатки</string>
+    <string name="other_app_summary">Від Clever Mobile</string>
+
+    <string name="translations">Переклади</string>
+    <string name="translate">Перекласти</string>
+    <string name="help_translate">Допоможіть нам з перекладом на вашу рідну мову</string>
+    <string name="camera_permissions_not_granted">Дозволити використовувати камеру для того щоб мати доступ до спалаху!</string>
+
+    <string name="upgrade">Оновлення</string>
+    <string name="upgrade_to_premium">оновитись до преміум</string>
+    <string name="buy_app_and_remove_ads">Виключити рекламу купуючи чи відновлюючи преміум версію</string>
+
+    <string name="thank_you_for_upgrading_to_premium">Дякую, за оновлення до преміум версії!</string>
+    <string name="pro_description">"
+ 
+- Життєва преміум ліцензія
+ 
+- Без реклами
+ "</string>
+    <string name="proceed">Продовжити</string>
+    <string name="cancel">Відміна</string>
+
+
+<string name="navigation_drawer_open">Відкрити меню</string>
+    <string name="navigation_drawer_close">Закрити меню</string>
+
+    <string name="faq_title">Часті питання</string>
+    <string name="buy">Купити</string>
+
+
+    <string name="usage_terms_and_privacy_policy">Умови Використання та Політика Приватності</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Користуючись цим додатком ви погоджуєтесь з Умовами Використання та Політикою Приватності</string>
+
+</resources>

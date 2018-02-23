@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
+<string name="app_name">Salla Beni</string>
+    <string name="settings">Ayarlar</string>
+    <string name="about">Hakkında</string>
+    <string name="help">Yardım</string>
+    <string name="do_nothing">Hiçbir şey yapma</string>
+    <string name="screen_on_off">Ekran Açık/Kapalı</string>
+    <string name="camera_flash_light">Kamera flaş ışığı</string>
+    <string name="lunch_application">Bir uygulama başlat</string>
+    <string name="select_app_text">Lütfen, cihazınızı salladığınızda başlatılacak bir uygulama seçin.</string>
+    <string name="select_app_btn">Bir uygulama seç</string>
+    <string name="lunch_app_name">Uygulama yok</string>
+    <string name="wait">Lütfen bekleyin …</string>
+    <string name="do_nothing_action">Lütfen kullanmak istediğiniz eylemi seçin!</string>
+    <string name="do_nothing_description">Eğer cihazı sallarsanız hiçbir şey olmayacak.</string>
+    <string name="shake_sensitivity">Sallama duyarlılığını Ayarlar kısmından değiştirebilirsiniz!</string>
+    <string name="screen_on_off_description">Sallarsanız, cihazın ekranı açılacak veya kapanacak.</string>
+    <string name="flash_light_on_off_description">Sallarsanız, cihazın flaş ışığı açılacak veya kapanacak.</string>
+    <string name="works_screen_on">Sadece ekran açıkken çalışır.</string>
+
+    <string name="settings_description">Konfigürasyon değişiklikleri kontrol etmek için cihazı sallayın!</string>
+    <string name="change_sensitivity">Sallama duyarlılığı</string>
+    <string name="lower">düşük</string>
+    <string name="higher">yüksek</string>
+    <string name="vibrate">Sallanırken titreştir</string>
+    <string name="enable_shake_me">Shake Me\'yi Aktifleştir</string>
+    <string name="enable_screen_on">Ekran Açık seçeneğini aktifleştir</string>
+    <string name="enable_screen_off">Ekran Kapalı seçeneğini aktifleştir</string>
+    <string name="turn_sreen_on_and_run">Ekranı aç ve uygulamayı çalıştır</string>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="information">Bilgi</string>
+    <string name="tell_a_friend">Bir arkadaşına söyle</string>
+    <string name="rate_me">Beni değerlendir</string>
+
+    <string name="faq_title">SSS</string>
+    <string name="faq_summary">Sıkça Sorulan Sorular</string>
+    <string name="other_app_title">Tüm uygulamalar</string>
+    <string name="other_app_summary">Clever Mobile\'dan</string>
+
+    <string name="translations">Çeviriler</string>
+    <string name="translate">Çeviri</string>
+    <string name="help_translate">Kendi dilinize çeviri konusunda bize yardım edin</string>
+    <string name="camera_permissions_not_granted">Uygulamanın fenere erişmesi için kamerayı kullanmasına izin verin!</string>
+
+    <string name="upgrade">Yükselt</string>
+    <string name="upgrade_to_premium">Premium\'a yükselt</string>
+    <string name="buy_app_and_remove_ads">Premium sürümünü satın alarak veya geri yükleyerek reklamları kaldır</string>
+
+    <string name="thank_you_for_upgrading_to_premium">Premium\'a yükseltme için teşekkür ederiz!</string>
+    <string name="pro_description">"
+ 
+- Ömür boyu premium lisansı
+ 
+- Daha fazla reklam yok
+ "</string>
+    <string name="proceed">İlerle</string>
+    <string name="cancel">İptal et</string>
+
+    <string name="usage_terms_and_privacy_policy">Kullanım Koşulları ve Gizlilik Politikası</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Bu uygulamayı kullanarak, Kullanım Şartları ve Gizlilik Politikası\'nı kabul etmiş olursunuz</string>
+
+<string name="shaken">Sarsıldı!</string>
+    <string name="navigation_drawer_open">Navigasyon barını aç</string>
+    <string name="navigation_drawer_close">Navigasyon barını kapat</string>
+
+    </resources>

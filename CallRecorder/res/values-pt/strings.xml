@@ -3,26 +3,20 @@
     <string name="app_name">Gravador de chamadas</string>
     <string name="sd">Por favor, insira um cartão SD no telefone!</string>
     <string name="contact">Contatos</string>
-    <string name="call_time">Tempo de chamada</string>
     <string name="selected">selecionado</string>
     <string name="settings">Configurações</string>
     <string name="notifications">Notificações</string>
     <string name="notificationStatus_checkbox_title">Ativar as notificações</string>
-    <string name="notificationStatus_checkbox_summary">Mostrar notificação depois de gravar</string>
-    <string name="saveRecordQuestion_checkbox_title">Guardar esta chamada?</string>
+    <string name="notificationStatus_checkbox_summary">Mostrar notificação na barra de notificações depois de cada gravação</string>
     <string name="saveRecordQuestion_checkbox_summary">Mostrar diálogo depois da ligação</string>
     <string name="storage">Armazenamento</string>
     <string name="deleteRecord_title">Limpeza automática</string>
     <string name="deleteRecord_summary">Apagar todas gravações</string>
     <string name="recording">Configurações de gravação</string>
     <string name="audioSource_title">Fonte de Áudio</string>
-    <string name="audioSource_summary">Gravar a partir da linha de telefone ou microfone</string>
     <string name="audioChannel_title">Canais de áudio</string>
-    <string name="audioChannel_summary">Alterar as informações do canal de áudio</string>
     <string name="fileFormat_title">Formato de arquivo</string>
-    <string name="fileFormat_summary">Selecionar o formato de arquivo</string>
     <string name="recordingQuality_title">Qualidade de gravação</string>
-    <string name="recordingQuality_summary">Selecionar a qualidade de gravação</string>
     <string name="email_subject">Chamadas gravadas</string>
     <string name="buy_category_description">Versão Pro</string>
     <string name="buy_category_title">Comprar o Gravador de Chamadas Pro</string>
@@ -56,36 +50,32 @@
     <string name="deleted">eliminadas</string>
 
     <string name="dropbox">Dropbox</string>
-    <string name="dropbox_link">Ligar á conta do Dropbox</string>
-    <string name="dropbox_unlink">Desligar da conta do Dropbox</string>
+    <string name="dropbox_link">Vincular à conta do Dropbox</string>
+    <string name="dropbox_unlink">Desconectar da conta do Dropbox</string>
 
     <string name="login">Logar</string>
     <string name="logout">Sair</string>
-    <string name="sync_title">Sincronização</string>
-    <string name="sync_summary">Sicronizar todos registros agora</string>
+    <string name="sync_title">Enviar agora</string>
+    <string name="sync_summary">Enviar todas as gravações agora</string>
 
-<string name="lock">Bloqueio</string>
+    <string name="lock">Bloqueio</string>
     <string name="share">Partilhar</string>
     <string name="delete">Apagar</string>
     <string name="select_all">Selecionar todos</string>
     <string name="recordings">Gravações</string>
     <string name="help">Ajuda</string>
-    <string name="hint_tap_on_contact_photo">Toque na foto de contacto para um item.</string>
+    <string name="hint_tap_on_contact_photo">Toque na foto de contacto para o item.</string>
     <string name="importing_recordings">Importar gravações…</string>
 
     <string name="buy">Comprar</string>
     <string name="cancel">Cancelar</string>
-    <string name="pro_description">Versão Pro contém:
 
-Partilha de gravações 
-
-Sincronização Dropbox 
-
-Sincronização Google Drive
-
-Notificações avançadas 
-
-Sem publicidade</string>
+    <string name="pro_description">Partilha de gravações</string>
+    <string name="share_recordings">Compartilhe gravações</string>
+    <string name="dropbox_upload">Sincronização Dropbox</string>
+    <string name="google_drive_upload">Notificações avançadas</string>
+    <string name="advanced_botifications">Notificações avançadas</string>
+    <string name="no_more_ads">Sem publicidade</string>
 
     <string name="sd_card">Cartão SD</string>
     <string name="call_recorder_folder">Pasta \"Gravador de camadas\"</string>
@@ -94,25 +84,172 @@ Sem publicidade</string>
     <string name="total_files">Total de pastas</string>
     <string name="import_recordings">Importar gravações</string>
     <string name="run_clean_up">Limpar agora</string>
-    <string name="cleaning">Apagar gravações antigas…</string>
+    <string name="cleaning">Apagar gravações antigas</string>
     <string name="share_via">Partilhar via…</string>
 
-    <string name="passcode">Palavra passe</string>
-    <string name="enable_passcode">Activar palavra passe</string>
-    <string name="enable_passcode_description">Proteja as suas gravações com uma palavra passe sempre que abrir a aplicação</string>
-    <string name="change_passcode">Alterar palavra passe</string>
+    <string name="passcode">Senha</string>
+    <string name="enable_passcode">Ativar senha</string>
+    <string name="enable_passcode_description">Proteja as suas gravações com uma senha exigida sempre que abrir o aplicativo</string>
+    <string name="change_passcode">Alterar a senha</string>
     <string name="passcode_delete_recordings">Apagar gravações</string>
-    <string name="passcode_delete_recordings_description">Apagar todas as gravações ao fim de 10 tentativas de introduzir a palavra passe falhadas</string>
-    <string name="enter_passcode">Introduzir palavra passe</string>
-    <string name="reenter_passcode">Repetir palavra passe</string>
-    <string name="enter_old_passcode">Introduzir palavra passe antiga</string>
-    <string name="passcode_did_not_match">A palavra passe não corresponde. Por favor, tente de novo!</string>
-    <string name="enter_new_passcode">Introduzir nova palavra passe</string>
-    <string name="reenter_new_passcode">Repita nova palavra passe</string>
-    <string name="wrong_passcode">Palavra passe errada. Por favor, tente de novo!</string>
-    <string name="exit">Terminar</string>
+    <string name="passcode_delete_recordings_description">Apagar todas as gravações do dispositivo depois de 10 tentativas de inserir a senha errada</string>
+    <string name="enter_passcode">Introduzir a senha</string>
+    <string name="reenter_passcode">Repetir a senha</string>
+    <string name="enter_old_passcode">Introduzir senha antiga</string>
+    <string name="passcode_did_not_match">A senha está errada. Por favor, tente de novo!</string>
+    <string name="enter_new_passcode">Introduzir a nova senha</string>
+    <string name="reenter_new_passcode">Repita a nova senha</string>
+    <string name="wrong_passcode">Senha errada. Por favor, tente de novo!</string>
+    <string name="exit">Sair</string>
 
-    <string name="cloud">Sincronisação</string>
+    <string name="cloud">Nuvem</string>
 
     <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Conectar à conta do Google Drive</string>
+    <string name="google_drive_unlink">Desconectar da conta do Google Drive</string>
+    <string name="connecting_to_google_drive">Conectando ao Google Drive</string>
+
+    <string name="wifi_only">Somente WiFi</string>
+    <string name="wifi_only_when_sync">Enviar apenas quando conectado ao Wi-Fi</string>
+
+    <string name="run_pro_question_dlg_title">Executar a versão Pro</string>
+    <string name="last_recording">Última gravação</string>
+    <string name="last_recording_problem_description">Parece que ocorreu um problema durante a última gravação. Se está mensagem aparecer de novo, por favor, tente mudar o método de gravação ou á fonte do áudio nas definições.</string>
+    <string name="read_instructions">Leia as instruções</string>
+    <string name="translations">Traduções</string>
+    <string name="translate">Traduzir</string>
+    <string name="help_translate">Ajude nos a traduzir as opcoes para a sua língua nativa. Gostaria de continuar?</string>
+    <string name="add_translation">Adicionar tradução</string>
+
+    <string name="write_ext_storage_problem_description">Não foi possível gravar na memória externa.</string>
+    <string name="allow_to_write_to_sd_card">Permitir a gravação para o cartão de memória externo</string>
+    <string name="delete_recordings_older_then_selected_days">Todas as gravações com mais do que os dias selecionados serão removidas automaticamente</string>
+    <string name="delete_recordings_on_uninstall">Todas as gravações serão apagadas se a aplicação Call Record for removida</string>
+    <string name="number_of_days">Número de dias</string>
+
+    <string name="recording_method">Método de gravação</string>
+    <string name="no_player_app_found">Nenhuma App de reprodução encontrada para este tipo de audio</string>
+
+    <string name="use_external_player">Por favor utilize um player externo</string>
+    <string name="pause">Pausa</string>
+    <string name="run_pro_question_dlg_description">Você está tentando abrir a versão gratuita do Call Recorder, mas já tem instalada a versão profissional. Deseja abrir a versão profissional?</string>
+    <string name="about">Sobre</string>
+    <string name="player">Mídia player</string>
+    <string name="use_external_media_player_to_play_recordings">Usar um leitor multimédia externo para reproduzir as gravações</string>
+    <string name="play">Reproduzir</string>
+    <string name="not_able_to_import_to_pro">Se esta opção estiver Activada, então não será possível importar automaticamente gravações para a versão Pro. Além disso, faça cópias de segurança de todas as suas gravações importantes caso decida desinstalar a aplicação, uma vez que serão todas apagadas.</string>
+    <string name="not_able_to_import">"Se esta opção estiver ativada e você decidir desinstalar o aplicativo, faça backup de todas as gravações importantes, pois todas elas serão excluídas e não será possível importar automaticamente gravações depois de instalar o aplicativo novamente. "</string>
+
+    <string name="number_of_seconds">Número de segundos</string>
+    <string name="disabled">Desativado</string>
+    <string name="new_recordings">Novas gravações</string>
+    <string name="delay_for_incoming_calls">Tempo de atraso (delay) para chamadas recebidas (em segundos)</string>
+    <string name="delay_for_outgoing_calls">Tempo de atraso (delay) para chamadas efetuadas (em segundos)</string>
+
+    <string name="enabled">Ativado</string>
+    <string name="persistent_notifications">Notificações recorrentes</string>
+    <string name="enable_persistent_notifications">Notificações recorrentes ativadas</string>
+    <string name="usage_terms_and_privacy_policy">Termos de Uso e Política de Privacidade</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Ao utilizar esse aplicativo você concorda com os Termos de Uso e com a Política de Privacidade</string>
+    <string name="supported_phones">Aparelhos suportados</string>
+    <string name="list_of_known_configurations">Lista de configurações conhecidas</string>
+
+    <string name="navigation_drawer_open">Abrir o Menu</string>
+    <string name="navigation_drawer_close">Fechar o Menu</string>
+    <string name="tell_a_friend">Compartilhar</string>
+    <string name="rate_me">Avalie-nos</string>
+    <string name="check_out_call_recorder_app_at">Hey! Conheça O Gravador de Chamadas em</string>
+    <string name="upgrade_to_premium">Atualize para a versão Premium</string>
+    <string name="theme">Tema</string>
+    <string name="use_dark_theme">Usar o Tema Escuro</string>
+    <string name="call">Chamada</string>
+    <string name="note">Nota</string>
+    <string name="add_to_excluded">Adicionar aos Itens Excluídos</string>
+    <string name="rec_info">Informações sobre Gravações</string>
+    <string name="add">Adicionar</string>
+    <string name="save">Salvar</string>
+    <string name="close">Fechar</string>
+    <string name="search">Buscar</string>
+    <string name="name">Nome</string>
+    <string name="number">Número</string>
+    <string name="path">Caminho</string>
+    <string name="size">Tamanho</string>
+    <string name="thank_you_for_upgrading_to_premium">Obrigado por atualizar para a Versão Premium!</string>
+    <string name="proceed">Avançar</string>
+    <string name="restore_license">Restaurar do Pro</string>
+    <string name="restore_for_purchased_users">Você precisa instalar a última versão Pro, a partir do Google Play, a qual você comprou anteriormente. Ela será utilizada como a licença para ativar as funcionalidades Premium.</string>
+    <string name="app_is_not_licensed">O aplicativo não está licenciado</string>
+    <string name="buy_license_in_order_to_use_app">Para usar o aplicativo, adquira-o no Google Play!</string>
+    <string name="pro_version_as_a_license">O Call Recorder Pro não será mais atualizado. Ele será utilizado pelos atuais usuários como uma chave de licença para ativar as funcionalidades Premium na versão Standard. Mais informações no nosso site.</string>
+    <string name="check_again">Verificar novamente</string>
+    <string name="permissions">Permissões</string>
+    <string name="in_order_to_work_please_grand_permission">Para o aplicativo funcionar adequadamente, por favor dê as seguintes permissões.</string>
+    <string name="read_more">Mais informações</string>
+    <string name="do_not_show_again">Não mostrar novamente</string>
+    <string name="delete_uploaded">Excluir sincronizados</string>
+    <string name="delete_after_upload_to_cloud">Deletar as gravações do telefone automaticamente</string>
+    <string name="call_is_recording_now">A chamada está sendo gravada</string>
+    <string name="error_during_recording">Erro durante a gravação</string>
+    <string name="tap_here_to_troubleshoot">Clique aqui para solução de problemas</string>
+    <string name="recording_problem">Problemas na gravação?</string>
+
+    <string name="recording_notification">Notificação de gravação</string>
+    <string name="show_notification_during_recording">Mostrar notificação durante a gravação</string>
+    <string name="recording_filter">Filtro de gravação</string>
+    <string name="filter">Filtro</string>
+    <string name="use_filtering_by_phone_numbers">Filtrar pelo número de telefone</string>
+    <string name="filtering_method">método de filtragem</string>
+    <string name="switch_filtering">Alternar filtragem</string>
+    <string name="record_all_phone_numbers_exept_excluded">Não gravar chamadas da lista abaixo</string>
+    <string name="record_only_included_phone_numbers">Gravar chamadas apenas da lista abaixo</string>
+    <string name="add_contact">Adicionar contato</string>
+    <string name="add_phone_number">Acrescentar número de telefone</string>
+    <string name="add_to_filter">Acrescentar ao filtro</string>
+    <string name="another_call_recording_app_is_running">Outro aplicativo de gravação de chamadas está em execução. Por favor, desinstale-o para que o Gravador de chamadas funcione corretamente.</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">Se esta opção for desativada o Android pode para o aplicativo e muitas chamadas podem não ser gravadas ou gravadas parcialmente. Você deseja mesmo desabilitar?</string>
+    <string name="app_description_free">O aplicativo Call Recorder possui as seguinte funções:
+-Habilitar/desabilitar a gravação de chamadas;
+-Gravar todas as chamadas telefônicas;
+-Reproduzir as gravações com um toque;
+-Deletar gravações;
+-Bloquear gravações contra exclusão acidental;
+-Compartilhar gravações (somente na versão Pro);
+-Diálogo de Confirmação: \"Você deseja manter esta gravação?\" mostrada ao final da ligação (somente na versão Pro).
+
+SE NÃO FUNCIONAR DE MODO ALGUM EM SEU TELEFONE
+OU SE NÃO GRAVA A VOZ DO INTERLOCUTOR CLARAMENTE:
+1. Tente misturar diferentes configurações de gravação conforme descrito aqui: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Há uma limitação para alguns telefones que não suportam gravação de linha telefônica ou bluetooth. O problema é do driver de áudio feito pelo fabricante do telefone. A lista de dispositivos e configurações suportados conhecidos para eles está aqui: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Por favor, não dê avaliações ruins por causa disso. Obrigado!
+
+Se você tiver algumas sugestões ou comentários, visite nosso site http://clevermobile.net e não hesite em contactar-nos.</string>
+
+    <string name="app_description_pro">Call Recorder Pro (a partir da versão 6.6) não será mais atualizado com novas funcionalidades, mas funcionará como ativador de licença para habilitar recursos premium para a versão padrão gratuita.
+
+Ainda funcionará como antes, mas sem novos recursos como:
+
+- Nova UI com possibilidade de alternar entre temas Light e Dark;
+- Notas para gravações. Adicione, edite, remova notas e pesquise por notas;
+- Marque o número da gravação;
+- e mais que serão adicionados nos próximos lançamentos.
+
+Portanto, recomenda-se instalar a versão gratuita padrão e restaurar sua licença a partir dela</string>
+
+<string name="automatic_cleaning">Limpeza Automática</string>
+    <string name="delete_recordings">Apaga Gravações</string>
+    <string name="memory_occupied">Memória Usada</string>
+    <string name="free_memory">Memória Livre</string>
+    <string name="use_removable_storage">Usa memória removível</string>
+    <string name="record_audio_files_to_removable_storage">Gravar ficheiros de áudio no armazenamento removível</string>
+    <string name="repopulate_the_list_of_recordings">Reconstrói a lista de gravações na app do sistema de ficheiros do dispositivo</string>
+    <string name="delete_automatically">Apaga automaticamente</string>
+    <string name="delete_older_then">Apaga automaticamente as gravações antigas no período selecionado. As gravações bloqueadas não serão apagadas.</string>
+    <string name="clean_up">Limpa agora</string>
+    <string name="delete_old_recordings">"Apaga as gravações antigas.  Não serão eliminadas as gravações protegidas."</string>
+    <string name="general">Geral</string>
+    <string name="hide_from_media_player">Oculta do media player</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">"Não visualizar os ficheiros  das gravações áudio no media player"</string>
+    <string name="deleted_recordings_if_uninstall">Se esta opção está ativada e se desinstalas a app, então todas as gravações guardadas na memória removível vão ser apagadas do sistema.</string>
+    <string name="finished">Finalizado</string>
     </resources>
