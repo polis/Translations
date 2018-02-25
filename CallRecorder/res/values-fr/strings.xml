@@ -75,7 +75,7 @@
     <string name="total_files">Total des fichiers</string>
     <string name="import_recordings">Importation des enregistrements</string>
     <string name="run_clean_up">"Nettoyer maintenant "</string>
-    <string name="cleaning">Suppression des anciens enregistrements…</string>
+    <string name="cleaning">Nettoyage</string>
     <string name="share_via">Partager via…</string>
 
     <string name="passcode">Code secret</string>
@@ -220,4 +220,40 @@ Il est donc recommandé d\'installer la version gratuite standard et de restaure
 <string name="restore_license">Restaurer depuis la version Pro</string>
     <string name="call_is_recording_now">"Enregistrement en cours "</string>
     <string name="error_during_recording">"Erreur durant L\'enregistrement "</string>
+    <string name="delete_uploaded">Supprimer téléchargé</string>
+    <string name="delete_after_upload_to_cloud">Supprimer automatiquement l\'enregistrement en cours sur le téléphone</string>
+    <string name="tap_here_to_troubleshoot">Appuyez ici pour dépanner</string>
+    <string name="recording_problem">Problème d\'enregistrement ?</string>
+    <string name="recording_notification">Notification d\'enregistrement</string>
+    <string name="show_notification_during_recording">Afficher la notification pendant l\'enregistrement</string>
+    <string name="recording_filter">Filtre d\'enregistrement</string>
+    <string name="filter">Filtre</string>
+    <string name="use_filtering_by_phone_numbers">Utiliser le filtrage par numéro de téléphone</string>
+    <string name="filtering_method">Méthode de filtrage</string>
+    <string name="switch_filtering">Commuter le filtrage</string>
+    <string name="record_all_phone_numbers_exept_excluded">Ne pas enregistrer les appels téléphoniques de la liste ci-dessous</string>
+    <string name="record_only_included_phone_numbers">Enregistrer seulement les appels téléphoniques de la liste ci-dessous</string>
+    <string name="add_contact">Ajouter le contact</string>
+    <string name="add_phone_number">Ajouter un numéro de téléphone</string>
+    <string name="add_to_filter">Ajouter au filtre</string>
+    <string name="another_call_recording_app_is_running">Une autre application d\'enregistrement d\'appel est en cours d\'utilisation. S\'il vous plaît, retirez-le pour que Call Recorder puisse fonctionner correctement.</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">Si cette option est désactivée, Android peut arrêter l\'application et certains appels ne seront pas enregistrés ou seront en partie enregistrés. Voulez-vous toujours le désactiver ?</string>
+
+    <string name="automatic_cleaning">Nettoyage automatique</string>
+    <string name="delete_recordings">Supprimer les enregistrements</string>
+    <string name="memory_occupied">Mémoire utilisée</string>
+    <string name="free_memory">Mémoire libre</string>
+    <string name="use_removable_storage">Utiliser un stockage amovible</string>
+    <string name="record_audio_files_to_removable_storage">Enregistrer des fichiers audio sur un stockage amovible</string>
+    <string name="repopulate_the_list_of_recordings">Repeupler la liste des enregistrements dans l\'application à partir du système de fichiers de l\'appareil</string>
+    <string name="delete_automatically">Supprimer automatiquement</string>
+    <string name="delete_older_then">Suppression automatique des enregistrements plus anciens que la période sélectionnée. Les enregistrements verrouillés ne seront pas supprimés.</string>
+    <string name="clean_up">Nettoyer maintenant</string>
+    <string name="delete_old_recordings">Supprimer les anciens enregistrements. Les enregistrements verrouillés ne seront pas supprimés.</string>
+    <string name="general">Général</string>
+    <string name="hide_from_media_player">Masquer du lecteur multimédia</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Ne pas afficher les fichiers d\'enregistrement audio dans les applications de lecteur multimédia</string>
+    <string name="deleted_recordings_if_uninstall">Si cette option est activée et que vous désinstallez l\'application, tous les enregistrements stockés dans la mémoire amovible seront supprimés par le système.</string>
+    <string name="finished">Terminé</string>
     </resources>
