@@ -52,10 +52,7 @@
 
     <string name="buy">Kaufen</string>
     <string name="cancel">Abbrechen</string>
-    <string name="pro_description">Die Pro-Version beinhaltet:
- - Möglichkeit zur Nutzung von „Beim Abmelden vom WiFi-Spot“
- - Möglichkeit zur Nutzung von „Bei GPS-Lokalisierung“
- - Keine Werbung mehr</string>
+
     <string name="buy_category_description">Pro-Version</string>
     <string name="buy_category_title">Volume Control Pro-Version kaufen</string>
 
@@ -68,5 +65,8 @@
     <string name="translations">Übersetzungen</string>
     <string name="translate">Übersetzen</string>
     <string name="help_translate">Helfen Sie uns, diese App in Ihre Muttersprache zu übersetzen</string>
+    <string name="premium_version_contains">Die Premium-Version beinhaltet</string>
+    <string name="set_profile_on_disconnect_from_wifi">Möglichkeit zur Nutzung von „Beim Abmelden vom WiFi-Spot“</string>
+    <string name="no_more_ads">Keine Werbung mehr</string>
 
 </resources>

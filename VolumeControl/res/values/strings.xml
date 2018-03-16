@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
     <string name="app_name">Volume Control</string>
@@ -5,9 +6,8 @@
     <string name="profiles">Profiles</string>
     <string name="profile_add">Add new profile</string>
     <string name="profile_edit">Edit profile</string>
-    <string name="toast_enter_profile_name">Please, enter profile name.</string>    
-    <string name="text_create_profile">Please, add profile, first!</string>    
-    <string name="scheduler">Scheduler</string>    
+    <string name="toast_enter_profile_name">Please, enter profile name.</string>
+    <string name="scheduler">Scheduler</string>
     <string name="location">Locations</string>          
     
     <string name="tap_hint_text">Tap to enter title</string>       
@@ -27,34 +27,23 @@
     <string name="radio_silent">Silent</string>
     <string name="radio_normal">Normal</string>
     <string name="radio_vibrate">Vibrate</string>
-    
-    <string name="location_select">Select location</string>
-    <string name="location_name">Location Name</string>
-    <string name="marker_info">Go here</string>
-    <string name="toast_set_location">Please, set marker on the map.</string>
-    <string name="toast_enter_location_name">Please, enter locaion name.</string>
+
     <string name="edit">Edit</string>
 
-    <string name="text_buy_pro">This functionality is available in Pro version!</string>
-    <string name="button_buy_pro">Buy Pro</string>
-	<string name="rate">Please, rate this application</string>
+    <string name="rate">Please, rate this application</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">Later</string>
     
     <string name="wifi">WiFi Spots</string>
     <string name="add_wifi">Select WiFi spot and volume Profile</string>
     <string name="wifi_connecting">WiFi is turning On!</string>
-    <string name="no_wifi_spots">Please, make sure that:/n1.WiFi is turned on./n2.At least one WiFi spot is stored in WiFi Networks config of your phone</string>
     <string name="on_disconnect">On disconnect from WiFi spot</string>
 
-    <string name="help">Help</string>
     <string name="set">Set</string>
 
     <string name="buy">Buy</string>
     <string name="cancel">Cancel</string>
-    <string name="pro_description">Pro version contains:\n - Possibility configure profile on disconnect from WiFi spot\n - Possibility configure profile on location from GPS signal\n - No more Ads</string>
-    <string name="buy_category_description">Pro version</string>
-    <string name="buy_category_title">Buy Volume Control Pro version</string>
+    <string name="premium_version_contains">Premium version contains</string>
 
     <string name="info">Information</string>
     <string name="faq_title">FAQ</string>
@@ -64,6 +53,27 @@
     <string name="about">About</string>
     <string name="translations">Translations</string>
     <string name="translate">Translate</string>
-    <string name="help_translate">Help us with translation to your native language</string>
+    <string name="help_translate">Help us with translation the app labels to your native language by using our website. Would you like to proceed?</string>
+    <string name="add_translation">Add translation</string>
+
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+    <string name="tell_a_friend">Tell a friend</string>
+    <string name="rate_me">Rate me</string>
+    <string name="check_out_call_recorder_app_at">Hey! Check out Volume Control app at</string>
+    <string name="upgrade_to_premium">Upgrade to Premium</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete">Delete</string>
+    <string name="select_all">Select all</string>
+    <string name="create_profile_first">You have to create a volume profile, first.</string>
+    <string name="empty">Empty</string>
+    <string name="volume_profile_was_not_changed">Do Not Disturbe permission is not set.</string>
+    <string name="grant_permissions">Grant permission</string>
+    <string name="profile">Profile</string>
+    <string name="thank_you_for_upgrading_to_premium">Thank you for upgrading to premium!</string>
+    <string name="set_profile_on_disconnect_from_wifi">Possibility to apply Profile when disconnecting from WiFi spot</string>
+    <string name="no_more_ads">No more Ads</string>
 
 </resources>

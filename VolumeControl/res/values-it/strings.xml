@@ -53,7 +53,8 @@
     <string name="translations">Traduzione</string>
     <string name="help_translate">Aiutaci con la traduzione nella tua lingua.</string>
 
-<string name="rate">"Prego,  vota questa App"</string>
+
+    <string name="rate">"Prego, vota questa App"</string>
 	<string name="rateLater">Più tardi</string>
     
     <string name="wifi_connecting">Wi-Fi attivato!</string>
@@ -68,4 +69,7 @@
     <string name="pro_description">La versione Pro contiene: - La possibilità di configurare il profilo durante la disconnessione dal punto WiFi - La possibilità di configurare il profilo sulla posizione del segnale GPS - Niente annunci pubblicitari.</string>
     <string name="other_app_summary">Da esperto</string>
     <string name="toast_set_location">"Prego,  scegli un punto sulla mappa"</string>
+
+
+
     </resources>

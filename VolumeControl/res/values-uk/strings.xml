@@ -6,9 +6,8 @@
     <string name="profiles">Профілі</string>
     <string name="profile_add">Добавити новий профіль</string>
     <string name="profile_edit">Редагувати профіль</string>
-    <string name="toast_enter_profile_name">Будь ласка, введіть назву профіля.</string>    
-    <string name="text_create_profile">Будь ласка, добавте профіль, спочатку!</string>    
-    <string name="scheduler">Планувальник</string>    
+    <string name="toast_enter_profile_name">Будь ласка, введіть назву профіля.</string>
+    <string name="scheduler">Планувальник</string>
     <string name="location">Місцезнаходження</string>        
     
     <string name="tap_hint_text">Тицніть для вводу назви</string>       
@@ -29,37 +28,21 @@
     <string name="radio_normal">Звичайний</string>
     <string name="radio_vibrate">Вібро</string>
 
-    <string name="location_select">Відмітити місце</string>
-    <string name="location_name">Назва місця</string>
-    <string name="marker_info">Іти сюди</string>
-    <string name="toast_set_location">Будь ласка, встановіть маркер на карті.</string>
-    <string name="toast_enter_location_name">Будь ласка, введіть назву для обраного місця.</string>
     <string name="edit">Редагувати</string>
 
-    <string name="text_buy_pro">Цей функціонал доступнтй у Про версії!</string>
-    <string name="button_buy_pro">Купити Про</string>
-	<string name="rate">Будь ласка, оцініть даний додаток</string>
+    <string name="rate">Будь ласка, оцініть даний додаток</string>
 	<string name="rateOk">Добре</string>
 	<string name="rateLater">Пізніше</string>
 	
     <string name="wifi">WiFi точки</string>
     <string name="add_wifi">Виберіть WiFi точку та Профіль гучності</string>
     <string name="wifi_connecting">WiFi вмикається!</string>
-    <string name="no_wifi_spots">Будь ласка, переконайтесь що:
-        \n 1. WiFi включено.
-        \n 2. Хоча б одна WiFi точка збережена у конфігурації WiFi вашого телефону.</string>
     <string name="on_disconnect">При від\'єданні від WiFi точки</string>
 
-    <string name="help">Допомога</string>
     <string name="set">Активувати</string>
 
     <string name="buy">Купити</string>
     <string name="cancel">Відміна</string>
-    <string name="pro_description">Про версія містить:
-        \n - Установка профілю при відключенні від WiFi точки
-        \n - Більше ніякої реклами</string>
-    <string name="buy_category_description">Про версія</string>
-    <string name="buy_category_title">Купити Менеджер гучності Про</string>
 
     <string name="info">Інформація</string>
     <string name="faq_title">Часті запитання (FAQ)</string>
@@ -71,17 +54,8 @@
     <string name="translate">Перекласти</string>
     <string name="help_translate">Допоможіть нам з перекладом на вашу рідну мову</string>
 
-<string name="description">"Менеджер гучності - це додаток, призначений контролювати гучність звуків телефону. Дозволяє створювати профілі гучності та автоматично встановлювати їх у потрібний час, потрібному місці, а також підключенні до WiFi.
-
-  Можливості додатку:
-- Регулювання гучності звуків телефону
-- Створення звукових профілів
-- Планування часу встановлення профілю. Звуковий профіль встановиться автоматично у заданий час
-- Планування WiFi точок встановлення профілю. Звуковий профіль встановиться автоматично при з\"єднанні з вибраною WiFi точкою.
-- Планування WiFi точок встановлення профілю. Звуковий профіль встановиться автоматично при роз\"єднанні з вибраною WiFi точкою. (Тільки в Про вкпсії)
-- Не містить реклами (Тільки в Про вкпсії)
-
-Додаток корисний, якщо часто приходиться перемикати телефон між різними режимами звуку. Наприклад,тихий режим у ночі, вібро-режим на роботі, гучний режим на вокзалі чи стадіоні та звичайний режим вдома. Потрібно лише раз налаштувати конфігурацію і насолоджуватись звуковим комфортом вашого телефону!
- "</string>
+    <string name="premium_version_contains">Преміум версія містить</string>
+    <string name="set_profile_on_disconnect_from_wifi">Установка профілю при відключенні від WiFi точки</string>
+    <string name="no_more_ads">Без реклами</string>
 
 </resources>

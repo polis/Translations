@@ -52,10 +52,8 @@
 
     <string name="buy">Koupit</string>
     <string name="cancel">Zrušit</string>
-    <string name="pro_description">PRO verze obsahuje:
- - Možnost konfigurace profilu po odpojení od WiFi spotu
- - Možnost konfigurace profilu podle polohy danou GPS
- - Bez reklam</string>
+
+    <string name="premium_version_contains">Premium verze obsahuje</string>
     <string name="buy_category_description">Verze PRO</string>
     <string name="buy_category_title">Koupit verzi Volume Control PRO</string>
 
@@ -68,5 +66,8 @@
     <string name="translations">Překlady</string>
     <string name="translate">Přeložit</string>
     <string name="help_translate">Pomozte nám s překladem do vašeho mateřského jazyka</string>
+
+    <string name="set_profile_on_disconnect_from_wifi">Možnost konfigurace profilu po odpojení od WiFi spotu</string>
+    <string name="no_more_ads">Bez reklam</string>
 
 </resources>
