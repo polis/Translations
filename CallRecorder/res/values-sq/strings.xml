@@ -3,26 +3,20 @@
     <string name="app_name">Regjistruesi i Thirrjeve</string>
     <string name="sd">Ju lutemi, vendosni kartën SD në telefon!</string>
     <string name="contact">Kontaktet</string>
-    <string name="call_time">Koha e thirrjes</string>
     <string name="selected">E përzgjedhur</string>
     <string name="settings">Cilësimet</string>
     <string name="notifications">Njoftimet</string>
     <string name="notificationStatus_checkbox_title">Aktivizoni njoftimet</string>
     <string name="notificationStatus_checkbox_summary">Shfaqni në shiritin e njoftimeve pas cdo thirrjeje të regjistruar</string>
-    <string name="saveRecordQuestion_checkbox_title">Dëshironi t’a ruani këtë thirrje?</string>
     <string name="saveRecordQuestion_checkbox_summary">Pyesni pas çdo thirrje të regjistruar</string>
     <string name="storage">Magazina</string>
     <string name="deleteRecord_title">Pastrimi automatik</string>
     <string name="deleteRecord_summary">Fshini regjistrimet</string>
-    <string name="recording">Cilësimet e regjistrimit</string>
+    <string name="recording">Regjistrimet</string>
     <string name="audioSource_title">Burimi audio</string>
-    <string name="audioSource_summary">Zgjidhni burimin audio</string>
     <string name="audioChannel_title">Kanali audio</string>
-    <string name="audioChannel_summary">Zgjidhni kanalin audio</string>
     <string name="fileFormat_title">Formati i skedarit</string>
-    <string name="fileFormat_summary">Zgjidhni formatin e skedarit</string>
     <string name="recordingQuality_title">Kualiteti i regjistrimit</string>
-    <string name="recordingQuality_summary">Zgjidhni kualitetin e regjistrimit</string>
     <string name="email_subject">Thirrjet e regjistruara</string>
 	<string name="buy_category_description">Versioni Pro</string>
 	<string name="buy_category_title">Blini  versionin Pro të Regjistruesit të Thirrjeve</string>
@@ -66,12 +60,13 @@
 
     <string name="buy">Blini</string>
     <string name="cancel">Anulloni</string>
-    <string name="pro_description">Versioni Pro përmban:
-        \n - Shpërndarjen e regjistrimeve
-        \n - Sinkron me Dropbox
-        \n - Sinkron me Google Drive
-        \n - Njoftime të avancuara
-        \n - Jo më reklama</string>
+
+    <string name="pro_description">Versioni Premium përmban</string>
+    <string name="share_recordings">Shpërndarjen e regjistrimeve</string>
+    <string name="dropbox_upload">Sinkron me Dropbox</string>
+    <string name="google_drive_upload">Sinkron me Google Drive</string>
+    <string name="advanced_botifications">Njoftime të avancuara</string>
+    <string name="no_more_ads">Jo më reklama</string>
 
     <string name="sd_card">Karta SD</string>
     <string name="call_recorder_folder">Dosja \"CallRecorder\"</string>
@@ -97,8 +92,6 @@
     <string name="reenter_new_passcode">Rivendosni kodkalimin e ri</string>
     <string name="wrong_passcode">Kodkalim i gabuar. Ju lutemi, provoni përsëri!</string>
     <string name="exit">Dilni</string>
-
-    <string name="cloud">Sinkronizimi</string>
 
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Lidhni llogarinë e Dropbox</string>
@@ -128,4 +121,6 @@
 
     <string name="write_ext_storage_problem_description">E pamundur të shkruaj në magazinën e jashtme.</string>
 
-</resources>
+<string name="cloud">Cloud</string>
+
+    </resources>

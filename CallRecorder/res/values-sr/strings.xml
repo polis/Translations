@@ -3,26 +3,20 @@
     <string name="app_name">Snimač razgovora</string>
     <string name="sd">Molim vas ubacite SD karticu u telefon</string>
     <string name="contact">Kontakti</string>
-    <string name="call_time">Vreme poziva</string>
     <string name="selected">odabran</string>
     <string name="settings">Podešavanja</string>
     <string name="notifications">Obaveštenja</string>
     <string name="notificationStatus_checkbox_title">Omogući obaveštenja</string>
     <string name="notificationStatus_checkbox_summary">Prikaži obaveštenja posle svakog snimljenog poziva</string>
-    <string name="saveRecordQuestion_checkbox_title">Sačuvaj ovaj poziv?</string>
     <string name="saveRecordQuestion_checkbox_summary">Pitaj posle svakog snimljenog poziva</string>
     <string name="storage">Memorija</string>
     <string name="deleteRecord_title">Automatsko brisanje</string>
     <string name="deleteRecord_summary">Brisanje snimaka</string>
     <string name="recording">Podešavanje snimanja</string>
     <string name="audioSource_title">Izvor zvuka</string>
-    <string name="audioSource_summary">Izaberi izvor zvuka</string>
     <string name="audioChannel_title">Audio kanal</string>
-    <string name="audioChannel_summary">Odaberi audio kanal</string>
     <string name="fileFormat_title">Format fajla</string>
-    <string name="fileFormat_summary">Odaberi format fajla</string>
     <string name="recordingQuality_title">Kvalitet snimka</string>
-    <string name="recordingQuality_summary">Odaberi kvalitet snimka</string>
     <string name="email_subject">Snimljeni pozivi</string>
 	<string name="buy_category_description">Profesionalna verzija</string>
 	<string name="buy_category_title">Kupi profesionalnu verziju</string>
@@ -66,12 +60,13 @@
 
     <string name="buy">Kupi</string>
     <string name="cancel">Odustani</string>
-    <string name="pro_description">Profesionalna verzija sadrži:
-        \n - deljenje snimaka
-        \n - sinhronizaciju sa Dropbox nalogom
-        \n - sinhronizaciju sa Google Drive nalogom
-        \n - napredna obaveštenja
-        \n - nema reklama</string>
+
+    <string name="pro_description">Premium verzija sadrži</string>
+    <string name="share_recordings">deljenje snimaka</string>
+    <string name="dropbox_upload">sinhronizaciju sa Dropbox nalogom</string>
+    <string name="google_drive_upload">sinhronizaciju sa Google Drive nalogom</string>
+    <string name="advanced_botifications">napredna obaveštenja</string>
+    <string name="no_more_ads">nema reklama</string>
 
     <string name="sd_card">SD kartica</string>
     <string name="call_recorder_folder">Folder \"CallRecorder\"</string>

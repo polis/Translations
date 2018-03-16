@@ -3,27 +3,21 @@
     <string name="app_name">Záznam Hovoru</string>
     <string name="sd">Prosím, vložte kartu SD do telefonu!</string>
     <string name="contact">Kontakty</string>
-    <string name="call_time">Doba trvání hovoru</string>
     <string name="selected">vybrané</string>
     <string name="settings">Nastavení</string>
     <string name="notifications">Upozornění</string>
     <string name="notificationStatus_checkbox_title">Uprav upozornění</string>
     <string name="notificationStatus_checkbox_summary">Ukaž upozornění po nahrávání</string>
-    <string name="saveRecordQuestion_checkbox_title">Potvrzujcí dialog</string>
     <string name="saveRecordQuestion_checkbox_summary">Ukaž dialog po hovoru</string>
     <string name="storage">Úložiště</string>
     <string name="deleteRecord_title">Automatické čištění</string>
-    <string name="deleteRecord_summary">Smaž všechny záznamy</string>
+    <string name="deleteRecord_summary">Smaž všechny nahrávky</string>
     <string name="recording">Nastavení nahrávání</string>
     <string name="audioSource_title">Zdroj zvuku</string>
-    <string name="audioSource_summary">Nahrávej z telefoní linky nebo mikrofonu</string>
     <string name="audioChannel_title">Audio kanál</string>
-    <string name="audioChannel_summary">Změňit informace o audio kanálu</string>
     <string name="fileFormat_title">Formát souborů</string>
-    <string name="fileFormat_summary">Vyber formát souborů</string>    
     <string name="recordingQuality_title">Kvalita nahrávání</string>
-    <string name="recordingQuality_summary">Zkuste všechny z těchto možností a vyberte lepší možnost pro váš telefon</string>    
-    <string name="email_subject">Nahrané hovory</string>    
+    <string name="email_subject">Nahrané hovory</string>
 	<string name="buy_category_description">Pro verze</string>	
 	<string name="buy_category_title">Kup Záznam Hovorů Pro verzi</string>	
 	<string name="buy_summary">Neobsahuje reklamy a má funkce navíc</string>
@@ -49,7 +43,7 @@
     <string name="info">Informace</string>       
     <string name="faq_title">Často kladené dotazy</string>       
     <string name="faq_summary">Přejděte na stránku FAQ Záznamníku hovorů</string>       
-    <string name="other_app_title">Další programy od Clever mobile</string>       
+    <string name="other_app_title">Další programy od Clever Mobile</string>
     <string name="other_app_summary">V Marketu</string>
 
     <string name="undo">vrátit zpět</string>
@@ -64,7 +58,7 @@
     <string name="sync_title">Synchronizace</string>
     <string name="sync_summary">Synchronizovat všechny nahrávky nyní</string>
 
-<string name="lock">Zámek</string>
+    <string name="lock">Zámek</string>
     <string name="share">Sdílet</string>
     <string name="delete">Smazat</string>
     <string name="buy">Koupit</string>
@@ -77,4 +71,69 @@
     <string name="sd_card_free_memory">Volná paměť</string>
     <string name="import_recordings">"Import nahrávek "</string>
     <string name="hint_tap_on_contact_photo">Stiskněte obrázek kontaktu pro výběr položky.</string>
+    <string name="pro_description">Placená verze obsahuje</string>
+    <string name="share_recordings">Sdílet záznamy</string>
+    <string name="no_more_ads">Bez reklam</string>
+
+    <string name="call_recorder_folder">Složka \"CallRecorder\"</string>
+    <string name="cleaning">Mazání starých záznamů</string>
+    <string name="share_via">Sdílet pomocí…</string>
+
+    <string name="passcode">Heslo</string>
+    <string name="enable_passcode">Použít heslo</string>
+    <string name="enable_passcode_description">Chraňte své záznamy heslem při každém spuštění aplikace</string>
+    <string name="change_passcode">Změna hesla</string>
+    <string name="passcode_delete_recordings">Smazat záznamy</string>
+    <string name="passcode_delete_recordings_description">"Smazat všechny záznamy z tohoto zařízení po 10 neúspěšných zadání hesla "</string>
+    <string name="enter_passcode">"Zadej heslo "</string>
+    <string name="reenter_passcode">Opakuj zadání hesla</string>
+    <string name="enter_old_passcode">Zadej původní heslo</string>
+    <string name="passcode_did_not_match">Zadaná hesla se neshodují, opakuj zafání</string>
+    <string name="enter_new_passcode">Zadej nové heslo</string>
+    <string name="reenter_new_passcode">Opakuj zadání nového hesla</string>
+    <string name="wrong_passcode">Chybné heslo, opakuj zadání</string>
+    <string name="exit">Ukončit</string>
+
+    <string name="importing_recordings">Import záznamů</string>
+
+    <string name="google_drive_upload">Uložit na disk Google</string>
+    <string name="dropbox_upload">Uložit do Dropboxu</string>
+    <string name="advanced_botifications">Pokročilá upozornění</string>
+    <string name="total_files">Celkový počet souborů</string>
+    <string name="wifi_only">Pouze WiFi</string>
+    <string name="wifi_only_when_sync">Nahrávání pouze při připojení na WiFi</string>
+
+    <string name="run_pro_question_dlg_description">Pokoušíte se spustit bezplatnou verzi, ale už máte nainstalovanou verzi PRO. Chcete pokračovat s verzí PRO?</string>
+    <string name="run_pro_question_dlg_title">Spustit verzi PRO</string>
+    <string name="last_recording">Poslední nahrávání</string>
+    <string name="last_recording_problem_description">Vypadá to, že se během posledního nahrávání objevil problém. Pokud potíže přetrvají, zkuste změnit metodu nahrávání nebo změňte zdroj zvuku v nastaveni.</string>
+    <string name="read_instructions">Přečtěte si pokyny</string>
+    <string name="about">O programu</string>
+    <string name="translations">Překlady</string>
+    <string name="translate">Přeložit</string>
+    <string name="run_clean_up">Vyčistit teď</string>
+    <string name="add_to_filter">Přidat k filtrování</string>
+    <string name="add_contact">Přidat kontakt</string>
+    <string name="filtering_method">Metoda filtrování</string>
+    <string name="add_phone_number">Přidat telefonní číslo</string>
+    <string name="switch_filtering">Přepněte filtraci</string>
+    <string name="filter">Filtr</string>
+    <string name="use_filtering_by_phone_numbers">Použijte filtrování podle telefonního čísla</string>
+    <string name="record_all_phone_numbers_exept_excluded">Nenahrávat telefonní hovory ze seznamu níže</string>
+    <string name="record_only_included_phone_numbers">Nahrávat pouze telefonní hovory ze seznamu níže</string>
+    <string name="another_call_recording_app_is_running">Je spuštěna jiná aplikace pro nahrávání hovorů . Odstraňte ji, aby Call Recorder pracoval správně.</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">Pokud je tato možnost vypnutá, Android může aplikaci zastavit a některé hovory nebudou zaznamenány nebo pouze částečně zaznamenány. Stále ji chcete deaktivovat?</string>
+
+    <string name="finished">Dokončeno</string>
+
+
+    <string name="recording_filter">Filtr nahrávání</string>
+    <string name="show_notification_during_recording">Zobrazit oznámení během nahrávání</string>
+    <string name="recording_notification">Oznámení o nahrávání</string>
+    <string name="recording_problem">Problém s nahráváním?</string>
+    <string name="tap_here_to_troubleshoot">Klepněte zde na řešení problémů</string>
+    <string name="error_during_recording">Chyba během nahrávání</string>
+    <string name="cloud">Cloudové úložiště</string>
+
     </resources>

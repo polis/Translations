@@ -3,26 +3,20 @@
     <string name="app_name">מקליט שיחות</string>
     <string name="sd">אנא, הכנס כרטיס זיכרון חיצוני למכשירך!</string>
     <string name="contact">אנשי קשר</string>
-    <string name="call_time">זמן שיחה</string>
     <string name="selected">נבחרו</string>
     <string name="settings">הגדרות</string>
     <string name="notifications">התראות</string>
     <string name="notificationStatus_checkbox_title">אפשר התראות</string>
     <string name="notificationStatus_checkbox_summary">הצג הודעות חמות</string>
-    <string name="saveRecordQuestion_checkbox_title">הודעת אישור</string>
     <string name="saveRecordQuestion_checkbox_summary">הצג הודעת אישור לאחר השיחה</string>
     <string name="storage">אחסון</string>
     <string name="deleteRecord_title">חיוג אוטומטי</string>
     <string name="deleteRecord_summary">מחק את כל ההקלטות</string>
     <string name="recording">הגדרת הקלטות</string>
     <string name="audioSource_title">מקור שמע</string>
-    <string name="audioSource_summary">הקלט מן הטלפון או מיקרופון</string>
     <string name="audioChannel_title">ערוץ שמע</string>
-    <string name="audioChannel_summary">שנה את מידע ערוץ השמע</string>
     <string name="fileFormat_title">סוג קובץ</string>
-    <string name="fileFormat_summary">בחר סוג קובץ</string>
     <string name="recordingQuality_title">איכות הקלטה</string>
-    <string name="recordingQuality_summary">נסה כל אחד מאלו ע"מ להחליט מי מהם יותר טוב בשביל הטלפון שלך</string>
     <string name="email_subject">שיחות שהוקלטו</string>
     <string name="buy_category_description">גירסה מתקדמת</string>
     <string name="buy_category_title">קנה את מקליט השיחות, בגרסא המתקדמת</string>
@@ -69,17 +63,13 @@
 
     <string name="sync_summary">סנכרון את כל ההקלטות כעת</string>
     <string name="buy">קנה</string>
-    <string name="pro_description">גרסת הpro כוללת:
 
--שתף הקלטות…
-
--סנכרון עם Dropbox 
-
-סנכרון עם Google Drive
-
--התראות מתקדמות
-
--ללא פרסומות</string>
+    <string name="pro_description">גרסת הpro כוללת</string>
+    <string name="share_recordings">שתף הקלטות…</string>
+    <string name="dropbox_upload">Dropbox סנכרון עם</string>
+    <string name="google_drive_upload">Google Drive סנכרון עם</string>
+    <string name="advanced_botifications">התראות מתקדמות</string>
+    <string name="no_more_ads">ללא פרסומות</string>
 
     <string name="sd_card">כרטיס SD</string>
     <string name="call_recorder_folder">"תקיית  CallRecorder"</string>
@@ -104,7 +94,7 @@
     <string name="wrong_passcode">סיסמה שגויה. אנא נסה שוב</string>
     <string name="exit">יציאה</string>
 
-    <string name="cloud">סנכרון</string>
+    <string name="cloud">ענן</string>
 
     <string name="login">התחבר</string>
     <string name="enable_passcode">אפשר סיסמה</string>
@@ -119,4 +109,9 @@
     <string name="logout">התנתק</string>
     <string name="sync_title">סנכרון כעת</string>
     <string name="wifi_only">וייפי בלבד</string>
+    <string name="run_clean_up">נקה עכשיו</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="run_pro_question_dlg_description">הנך מנסה להתקין את הגירסה החינמית של call Recorder בעבר כבר התקנת את גירסת ה-pro תירצה לגשת לגשת לגרסת ה-pro ?</string>
+    <string name="run_pro_question_dlg_title">התקן את גרסת ה-pro</string>
+    <string name="translate">תרגום</string>
     </resources>

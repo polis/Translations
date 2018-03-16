@@ -3,27 +3,21 @@
     <string name="app_name">Nahrávač hovorov</string>
     <string name="sd">Vložte prosím SD kartu do telefónu!</string>
     <string name="contact">Kontakty</string>
-    <string name="call_time">Čas hovoru</string>
     <string name="selected">Vybrané</string>
     <string name="settings">Nastavenia</string>
     <string name="notifications">Upozornenia</string>
     <string name="notificationStatus_checkbox_title">Zapnúť upozornenia</string>
-    <string name="notificationStatus_checkbox_summary">Zobraziť oznámenie po nahrávaní</string>
-    <string name="saveRecordQuestion_checkbox_title">Potvrdzovací dialóg</string>
+    <string name="notificationStatus_checkbox_summary">Zobraziť v paneli oznámení po skončení hovoru</string>
     <string name="saveRecordQuestion_checkbox_summary">Zobraziť dialóg po skončení hovoru</string>
     <string name="storage">Úložisko</string>
     <string name="deleteRecord_title">Automatické čistenie</string>
-    <string name="deleteRecord_summary">Vymazať všetky nahrávky</string>
+    <string name="deleteRecord_summary">Vymazať nahrávky</string>
     <string name="recording">Nastavenie nahrávania</string>
     <string name="audioSource_title">Zdroj zvuku</string>
-    <string name="audioSource_summary">Nahrávať z telefónnej linky alebo mikrofónu</string>
     <string name="audioChannel_title">Audio kanál</string>
-    <string name="audioChannel_summary">Zmeniť informácie audio kanála</string>
     <string name="fileFormat_title">Formát súboru</string>
-    <string name="fileFormat_summary">Zvoliť formát súboru</string>    
     <string name="recordingQuality_title">Kvalita nahrávania</string>
-    <string name="recordingQuality_summary">Vyskúšajte každé z nich a vyberte to najlepšie</string>    
-    <string name="email_subject">Nahrané hovory</string>    
+    <string name="email_subject">Nahrané hovory</string>
 	<string name="buy_category_description">Verzia Pro</string>	
 	<string name="buy_category_title">Kúpiť verziu Call Redorder Pro</string>	
 	<string name="buy_summary">S doplnkovými funkciami a bez reklám</string>	
@@ -47,31 +41,180 @@
 
     <string name="new_call">Nový hovor bol nahraný!</string>    
     <string name="info">Informácie</string>       
-    <string name="faq_title">Často sa pýtané otázky (FAQ)</string>       
-    <string name="faq_summary">Ísť na FAQ stránku Nahrávaču hovorov</string>       
+    <string name="faq_title">Často kladené otázky (FAQ)</string>       
+    <string name="faq_summary">Ísť na FAQ stránku Nahrávača hovorov</string>       
     <string name="other_app_title">Všetky aplikácie od Clever Mobile</string>       
     <string name="other_app_summary">Na trhu</string>
 
-    <string name="undo">späť</string>
+    <string name="undo">vrátiť</string>
     <string name="deleted">vymazaný</string>
 
-    <string name="dropbox">Dropbox</string>
+    <string name="dropbox">Dropbox úložisko</string>
     <string name="dropbox_link">Prepojiť Dropbox účet</string>
     <string name="dropbox_unlink">Odpojiť Dropbox účet</string>
 
     <string name="login">Prihlásiť sa</string>
     <string name="logout">Odhlásiť sa</string>
-    <string name="sync_title">Synchronizácia</string>
+    <string name="sync_title">Synchronizovať teraz</string>
     <string name="sync_summary">Synchronizovať všetky nahrávky teraz</string>
 
-<string name="lock">zamknúť</string>
-    <string name="share">zdíeľať</string>
+    <string name="lock">zamknúť</string>
+    <string name="share">Zdieľať</string>
     <string name="delete">zmazať</string>
     <string name="select_all">vybrať všetko</string>
     <string name="recordings">Nahrávky</string>
     <string name="help">Nápoveda</string>
-    <string name="hint_tap_on_contact_photo">Klepni na foto kontaktu a zvoľ niektorú položku</string>
-    <string name="importing_recordings">Importovanie nahrávok ...</string>
+    <string name="hint_tap_on_contact_photo">Klepni na fotku kontaktu pre voľbu položky.</string>
+    <string name="importing_recordings">Importujem nahrávky…</string>
 
     <string name="buy">Kúp</string>
-    </resources>
+    <string name="cancel">Zrušiť</string>
+
+    <string name="pro_description">Premium verzia obsahuje</string>
+    <string name="share_recordings">zdieľanie nahrávok</string>
+    <string name="dropbox_upload">synchronizácia Dropbox</string>
+    <string name="google_drive_upload">synchronizácia Google Drive</string>
+    <string name="advanced_botifications">pokročilé upozornenia</string>
+    <string name="no_more_ads">už žiadne reklamy</string>
+
+    <string name="sd_card">Karta SD</string>
+    <string name="call_recorder_folder">Adresár „CallRecorder“</string>
+    <string name="sd_card_memory_occupied">Použitá pamäť</string>
+    <string name="sd_card_free_memory">Voľná pamäť</string>
+    <string name="total_files">Súborov celkom</string>
+    <string name="import_recordings">Importuj nahrávky</string>
+    <string name="run_clean_up">Vyčistiť teraz</string>
+    <string name="cleaning">Odstraňujem staré nahrávky…</string>
+    <string name="share_via">Zdieľať cez…</string>
+
+    <string name="passcode">Heslo</string>
+    <string name="enable_passcode">Zapnúť ochranu heslom</string>
+    <string name="enable_passcode_description">Chráňte vaše nahrávky overením heslom pri každom spustení aplikácie</string>
+    <string name="change_passcode">Zmeniť heslo</string>
+    <string name="passcode_delete_recordings">Vymazať nahrávky</string>
+    <string name="passcode_delete_recordings_description">Vymazať všetky nahrávky z tohto zariadenia po 10-tich neúspešných pokusoch o prihlásenie</string>
+    <string name="enter_passcode">Zadajte heslo</string>
+    <string name="reenter_passcode">Zopakujte heslo</string>
+    <string name="enter_old_passcode">Vložte staré heslo</string>
+    <string name="passcode_did_not_match">Heslá sa nezhodujú. Skúste znova, prosím!</string>
+    <string name="enter_new_passcode">Vložte nové heslo</string>
+    <string name="reenter_new_passcode">Zopakujte nové heslo</string>
+    <string name="wrong_passcode">Nesprávne heslo. Skúste znova, prosím!</string>
+    <string name="exit">Ukončiť</string>
+
+    <string name="cloud">Cloud úložisko</string>
+
+    <string name="google_drive">Disk Google</string>
+    <string name="google_drive_link">Pripojiť účet Disku Google</string>
+    <string name="google_drive_unlink">Odpojiť účet Disku Google</string>
+    <string name="connecting_to_google_drive">Pripájam sa k Disku Google</string>
+
+    <string name="wifi_only">Iba na WiFi</string>
+    <string name="wifi_only_when_sync">Synchronizovať iba pri pripojení na WiFi</string>
+
+    <string name="run_pro_question_dlg_description">Pokúšate sa spustiť Free verziu Nahrávača Hovorov, no máte už nainštalovanú verziu Pro. Chcete spustiť verziu Pro?</string>
+    <string name="run_pro_question_dlg_title">Spustiť verziu Pro</string>
+    <string name="last_recording">Posledná nahrávka</string>
+    <string name="read_instructions">Prečítajte si návod</string>
+    <string name="about">O aplikácii</string>
+    <string name="translations">Preklady</string>
+    <string name="translate">Preložiť</string>
+    <string name="help_translate">Pomôžte nám s prekladom do vášho rodného jazyka použitím našej web stránky. Chcete pomôcť?</string>
+
+    <string name="write_ext_storage_problem_description">Nie je možné zapisovať na externé úložisko.</string>
+    <string name="allow_to_write_to_sd_card">Umožniť zápis na vyberateľnú kartu SD</string>
+    <string name="delete_recordings_older_then_selected_days">Všetky nahrávky staršie ako vybraný počet dní budú automaticky vymazané</string>
+    <string name="delete_recordings_on_uninstall">Týmto sa vymažú všetky nahrávky pri odstránení aplikácie Nahrávač hovorov</string>
+    <string name="number_of_days">Počet dní</string>
+
+    <string name="recording_method">Metóda nahrávania</string>
+    <string name="no_player_app_found">Nenašla sa žiadna aplikácia prehrávača na prehranie tejto zvukovej stopy</string>
+
+    <string name="player">Prehrávač Médií</string>
+    <string name="use_external_player">Použiť externý prehrávač</string>
+    <string name="use_external_media_player_to_play_recordings">Použiť externý prehrávač médií na prehranie nahrávok</string>
+    <string name="play">Prehrať</string>
+    <string name="pause">Pauza</string>
+    <string name="not_able_to_import_to_pro">Ak je táto možnosť zvolená, potom nebude možné automaticky importovať nahrávky do Pro. Urobte si zálohu dôležitých nahrávok, ak sa rozhodnete aplikáciu odinštalovať, nakoľko budú všetky vymazané.</string>
+    <string name="number_of_seconds">Počet sekúnd</string>
+    <string name="delay_for_incoming_calls">Oneskorenie pre prichádzajúce hovory v sekundách</string>
+    <string name="delay_for_outgoing_calls">Oneskorenie pre odchádzajúce hovory v sekundách</string>
+
+    <string name="enabled">Povolené</string>
+    <string name="disabled">Zakázané</string>
+    <string name="new_recordings">Nové nahrávky</string>
+    <string name="persistent_notifications">Trvalé oznámenia</string>
+    <string name="enable_persistent_notifications">Trvalé oznámenia povolené</string>
+    <string name="usage_terms_and_privacy_policy">Podmienky použitia a politika ochrany súkromia</string>
+    <string name="last_recording_problem_description">Pri poslednom nahrávaní sa vyskytla chyba. Ak sa toto hlásenie objaví znovu, skúste zmeniť spôsob nahrávania alebo zdroj zvuku v Nastaveniach.</string>
+    <string name="add_translation">Pridať preklad</string>
+
+    <string name="not_able_to_import">"Ak sa rozhodnete odinštalovať túto aplikáciu a táto možnosť je zapnutá, musíte si zálohovať všetky dôležité nahrávky, pretože budú vymazané a nebude možné automaticky importovať nahrávky po novej inštalácii aplikácie. "</string>
+
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Používaním tejto aplikácie súhlasíte s podmienkami a zásadami ochrany osobných údajov</string>
+    <string name="supported_phones">Podporované telefóny</string>
+    <string name="list_of_known_configurations">Zoznam známych konfigurácií</string>
+
+    <string name="navigation_drawer_open">Otvoriť menu</string>
+    <string name="navigation_drawer_close">Zavrieť menu</string>
+    <string name="tell_a_friend">Povedať priateľom</string>
+    <string name="rate_me">Ohodnotiť</string>
+    <string name="check_out_call_recorder_app_at">Skontrolujte aplikáciu Call Recorder na</string>
+    <string name="upgrade_to_premium">Aktualizácia na Premium</string>
+    <string name="theme">Téma</string>
+    <string name="use_dark_theme">Tmavá téma</string>
+    <string name="call">Hovor</string>
+    <string name="note">Poznámka</string>
+    <string name="add_to_excluded">Pridať výnimku</string>
+    <string name="rec_info">Info</string>
+    <string name="add">Pridať</string>
+    <string name="save">Uložiť</string>
+    <string name="close">Zatvoriť</string>
+    <string name="search">Hľadať</string>
+    <string name="name">Meno</string>
+    <string name="number">Číslo</string>
+    <string name="path">Cesta</string>
+    <string name="size">Veľkosť</string>
+    <string name="thank_you_for_upgrading_to_premium">Ďakujeme vám za upgrade na premium!</string>
+    <string name="proceed">Potvrdiť</string>
+    <string name="restore_license">Obnovenie licencie</string>
+    <string name="restore_for_purchased_users">Musíte si nainštalovať najnovšiu Pro verziu z Google Play, ktorú ste si zakúpili predtým. Bude použitá ako licencia pre aktiváciu prémiových funkcií v štandardnej aplikácii.</string>
+    <string name="app_is_not_licensed">Aplikácia nie je licencovaná</string>
+    <string name="buy_license_in_order_to_use_app">Ak chcete používať túto aplikáciu, zakúpte si ju prosím v Google Play obchode!</string>
+    <string name="pro_version_as_a_license">Call Recorder Pro verzia nebude nikdy aktualizovaná novými funkciami. Bude sa používať ako licenčný kľúč pre aktiváciu prémiových funkcií v štandardnej verzii aplikácie. Viac informácii nájdete na našej web stránke.</string>
+    <string name="check_again">Znovu skontrolovať</string>
+    <string name="permissions">Práva</string>
+    <string name="in_order_to_work_please_grand_permission">Pre správne fungovanie aplikácie je potrebné povoliť nasledovné práva.</string>
+    <string name="read_more">Čítať viac</string>
+    <string name="do_not_show_again">Nezobrazovať znovu</string>
+
+
+    <string name="app_description_free">"Možnosti aplikácie Simple Call Recorder:
+- Zapnutie/Vypnutie nahrávania hovorov
+- Nahrávanie všetkých vašich telefónnych hovorov
+- Prehrávanie / Zastavenie prehrávania zaznamenaného zvuku kliknutím na položku
+- Vymazanie zaznamenaných položiek
+- Zamknutie nahraných hovorov, aby sa zabránilo ich automatickému vymazaniu
+- Zdieľanie nahraných hovorov (iba u Pro verzie)
+- Potvrdzovací dialóg: Chcete uložiť nahratý hovor? zobrazí sa vždy po skončení hovoru (iba u Pro verzii)
+
+AK APLIKÁCIA NEPRACUJE NA VAŠOM TELEFÓNE
+ALEBO NENAHRÁVA PROTISTRANU ČISTO:
+1. Skúste rôzne kombinácie nastavení nahrávania, ako je popísané tu: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Niektoré telefóny  nepodporujú priame nahrávanie telefónneho hovoru alebo cez bluetooth. Tento problém je spôsobený zvukovým ovládačom od výrobcu telefónu. Zoznam podporovaných zariadení a ich konfigurácie možno nájsť tu: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Please, not give bad marks for that. Thank you!
+
+Ak máte nejaké návrhy alebo pripomienky, neváhajte sa na nás obrátiť a prosím navštívte naše stránky http://clevermobile.net."</string>
+
+    <string name="app_description_pro">Call Recorder Pro (od verzie 6.6) nebude ďalej aktualizovaný o nové funkcie, bude slúžiť ako licenčný kľúč pre aktiváciu prémiových funkcií štandardnej free verzie.
+
+Bude stále fungovať ako predtým, ale bez nových funkcii ako sú:
+
+- New UI with possibility to switch between Light and Dark themes
+- Notes for recordings. Add, edit, remove notes and search by notes.
+- Dial number from recording.
+- and more that will be adding in the next releases.
+
+So it is recommended to install standard free version and restore your license there</string>
+
+</resources>

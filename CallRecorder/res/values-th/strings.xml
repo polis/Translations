@@ -1,3 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="app_name">บันทึกการโทร</string>
+    <string name="sd">โปรดค้นหาการ์ดความจำ</string>
+    <string name="contact">รายชื่อ</string>
+    <string name="selected">ที่เลือก</string>
+    <string name="settings">ตั้งค่า</string>
+    <string name="notifications">การแจ้งเตือน</string>
+    <string name="notificationStatus_checkbox_title">เปิดการแจ้งเตือน</string>
+    <string name="notificationStatus_checkbox_summary">สถานะการแจ้งเตือนในกล่อง</string>
+    <string name="saveRecordQuestion_checkbox_summary">ถามหลังการบันทึกการโทรในกล่อง?</string>
+    <string name="storage">ที่จัดเก็บ</string>
+    <string name="deleteRecord_title">ทำความสะอาดอัตโนมัติ</string>
+    <string name="deleteRecord_summary">ลบบันทึกที่จัดเก็บ</string>
+    <string name="recording">บันทึกการโทร</string>
+    </resources>

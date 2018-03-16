@@ -3,27 +3,21 @@
     <string name="app_name">電話錄音機</string>
     <string name="sd">請在電話中插入存儲卡</string>
     <string name="contact">連絡人</string>
-    <string name="call_time">通话时间</string>
     <string name="selected">已选中</string>
     <string name="settings">设置</string>
     <string name="notifications">提醒</string>
     <string name="notificationStatus_checkbox_title">打開提醒</string>
     <string name="notificationStatus_checkbox_summary">完成錄音後顯示提醒</string>
-    <string name="saveRecordQuestion_checkbox_title">確認對話方塊</string>
     <string name="saveRecordQuestion_checkbox_summary">通話後顯示確認對話方塊</string>
     <string name="storage">存儲</string>
     <string name="deleteRecord_title">自動清理</string>
     <string name="deleteRecord_summary">刪除所有錄音</string>
     <string name="recording">錄音設置</string>
     <string name="audioSource_title">音訊源</string>
-    <string name="audioSource_summary">從電話線路或者麥克風錄音</string>
     <string name="audioChannel_title">音訊通道</string>
-    <string name="audioChannel_summary">修改音訊通道資訊</string>
     <string name="fileFormat_title">檔案格式</string>
-    <string name="fileFormat_summary">選擇檔案格式</string>    
     <string name="recordingQuality_title">錄音品質</string>
-    <string name="recordingQuality_summary">選擇錄音品質</string>    
-    <string name="email_subject">通話錄音</string>    
+    <string name="email_subject">通話錄音</string>
 	<string name="buy_category_description">高級版</string>	
 	<string name="buy_category_title">購買電話錄音機高級版</string>	
 	<string name="buy_summary">去除廣告，附加額外的特性。</string>	
@@ -43,7 +37,7 @@
 	<string name="start_recording">正在對通話進行錄音。</string>    
     <string name="start_recording_details">所有未來的通話都會被錄音。</string>    
     <string name="stop_recording">打開通話錄音！</string>    
-    <string name="stop_recording_details">通話錄音已關閉。</string>
+    <string name="stop_recording_details">錄音機最近關閉了。</string>
 
     <string name="new_call">新的通話已被錄音！</string>    
     <string name="info">信息</string>       
@@ -60,7 +54,7 @@
     <string name="sync_title">同步</string>
     <string name="sync_summary">現在同步所有錄音</string>
 
-<string name="lock">锁定</string>
+    <string name="lock">锁定</string>
     <string name="share">分享</string>
     <string name="delete">刪除</string>
     <string name="select_all">全選</string>
@@ -69,4 +63,90 @@
     <string name="hint_tap_on_contact_photo">輕點連絡人照片選擇一個項目</string>
     <string name="importing_recordings">導入記錄</string>
 
+    <string name="buy">購買</string>
+    <string name="cancel">取消</string>
+
+
+<string name="sd_card">SD記憶卡</string>
+    <string name="change_passcode">變更密碼</string>
+    <string name="exit">離開</string>
+
+    <string name="share_recordings">分享錄音</string>
+    <string name="google_drive_upload">正在上傳到Google Drive</string>
+    <string name="dropbox_upload">正在上傳到Dropbox</string>
+    <string name="advanced_botifications">進階通知</string>
+    <string name="no_more_ads">無廣告</string>
+
+    <string name="sd_card_memory_occupied">已使用記憶體</string>
+    <string name="sd_card_free_memory">閒置記憶體</string>
+    <string name="run_clean_up">即刻清除</string>
+
+    <string name="share_via">分享經由...</string>
+
+    <string name="passcode">通行碼</string>
+    <string name="enable_passcode">啟用通行碼</string>
+    <string name="enable_passcode_description">每次啟動app皆以通行碼保護你的錄音</string>
+    <string name="passcode_delete_recordings">删除錄音</string>
+    <string name="passcode_delete_recordings_description">通行碼試用10次失敗後，將由此裝置删除所有錄音</string>
+    <string name="enter_passcode">輸入通行碼</string>
+    <string name="reenter_passcode">再次輸入通行碼</string>
+    <string name="enter_old_passcode">輸入舊有通行碼</string>
+    <string name="passcode_did_not_match">通行碼不符合，請再試!</string>
+    <string name="enter_new_passcode">輸入新的通行碼</string>
+    <string name="reenter_new_passcode">再次輸入新的通行碼</string>
+    <string name="wrong_passcode">通行碼錯誤。請再試!</string>
+    <string name="cloud">雲端</string>
+
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">連結Dropbox帳戶</string>
+    <string name="dropbox_unlink">終止連結Dropbox帳戶</string>
+
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">連結Google Drive帳戶</string>
+    <string name="google_drive_unlink">終止連結Google Drive帳戶</string>
+    <string name="connecting_to_google_drive">接續Google Drive</string>
+
+    <string name="wifi_only">僅用WiFi</string>
+    <string name="wifi_only_when_sync">僅當WiFi連線時上傳</string>
+
+    <string name="about">關於</string>
+    <string name="translations">譯文</string>
+    <string name="translate">翻譯</string>
+    <string name="help_translate">使用我們的網頁，協助我們將app標題轉譯為你的本國語文。你願意著手進行嗎？</string>
+    <string name="add_translation">附加譯文</string>
+
+    <string name="recording_method">錄音方式</string>
+    <string name="no_player_app_found">沒有找到播放音訊的播音app</string>
+
+    <string name="player">媒體播放器</string>
+    <string name="use_external_player">使用外部播放器</string>
+    <string name="use_external_media_player_to_play_recordings">使用外部播放器播放錄音</string>
+    <string name="play">播放</string>
+    <string name="pause">暫停</string>
+
+    <string name="number_of_seconds">秒數</string>
+    <string name="delay_for_incoming_calls">撥入電話延遲秒數</string>
+    <string name="delay_for_outgoing_calls">撥出電話延遲秒數</string>
+
+    <string name="enabled">啟動</string>
+    <string name="disabled">終止</string>
+    <string name="new_recordings">新的錄音</string>
+    <string name="persistent_notifications">持續通知</string>
+    <string name="enable_persistent_notifications">啟動持續通知</string>
+    <string name="usage_terms_and_privacy_policy">使用條款及隱私政策</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">使用這項應用軟體你需同意相關使用條款及隱私政策</string>
+    <string name="supported_phones">支援服務電話</string>
+    <string name="list_of_known_configurations">已知組件清單</string>
+
+    <string name="navigation_drawer_open">開放手冊</string>
+    <string name="navigation_drawer_close">封閉手冊</string>
+    <string name="tell_a_friend">告知朋友</string>
+    <string name="rate_me">評價我們</string>
+    <string name="check_out_call_recorder_app_at">嗨！登出Call Recorder應用軟體</string>
+    <string name="theme">主題</string>
+    <string name="use_dark_theme">使用深色主題</string>
+    <string name="call">通話</string>
+    <string name="note">註記</string>
+    <string name="add_to_excluded">附加排除</string>
+    <string name="pro_description"></string>
     </resources>

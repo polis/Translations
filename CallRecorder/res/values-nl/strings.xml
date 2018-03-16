@@ -3,26 +3,20 @@
     <string name="app_name">Gespreksopnemer</string>
     <string name="sd">Gelieve een SD-kaart in de telefoon te plaatsen!</string>
     <string name="contact">Contacten</string>
-    <string name="call_time">Gesprekstijd</string>
     <string name="selected">geselecteerd</string>
     <string name="settings">Instellingen</string>
     <string name="notifications">Notificaties</string>
     <string name="notificationStatus_checkbox_title">Notificaties inschakelen</string>
     <string name="notificationStatus_checkbox_summary">Tonen in de notificatiebalk na elk opgenomen gesprek</string>
-    <string name="saveRecordQuestion_checkbox_title">Dit gesprek bewaren?</string>
     <string name="saveRecordQuestion_checkbox_summary">Na elk opgenomen gesprek vragen</string>
     <string name="storage">Opslagruimte</string>
     <string name="deleteRecord_title">Automatisch opschonen</string>
     <string name="deleteRecord_summary">Opnames verwijderen</string>
     <string name="recording">Opnameinstellingen</string>
     <string name="audioSource_title">Audiobron</string>
-    <string name="audioSource_summary">Audiobron kiezen</string>
     <string name="audioChannel_title">Audiokanaal</string>
-    <string name="audioChannel_summary">Audiokanaal kiezen</string>
     <string name="fileFormat_title">Bestandstype</string>
-    <string name="fileFormat_summary">Bestandstype kiezen</string>
     <string name="recordingQuality_title">Opnamekwaliteit</string>
-    <string name="recordingQuality_summary">Opnamekwaliteit kiezen</string>
     <string name="email_subject">Opgenomen gesprekken</string>
 	<string name="buy_category_description">Pro versie</string>
 	<string name="buy_category_title">Gespreksopnemer Pro kopen</string>
@@ -66,12 +60,13 @@
 
     <string name="buy">Kopen</string>
     <string name="cancel">Annuleren</string>
-    <string name="pro_description">Pro versie bevat:
-        \n - Opnames delen
-        \n - Dropbox syncronisatie
-        \n - Google Drive synchronisatie
-        \n - Geavanceerde notificaties
-        \n – Geen reclame</string>
+
+    <string name="pro_description">Premium versie bevat</string>
+    <string name="share_recordings">Opnames delen</string>
+    <string name="dropbox_upload">Dropbox syncronisatie</string>
+    <string name="google_drive_upload">Google Drive synchronisatie</string>
+    <string name="advanced_botifications">Geavanceerde notificaties</string>
+    <string name="no_more_ads">Geen reclame</string>
 
     <string name="sd_card">SD-kaart</string>
     <string name="call_recorder_folder">\"CallRecorder\" map</string>
@@ -119,12 +114,12 @@
     <string name="run_pro_question_dlg_description">Je probeert de gratis versie van Call Recorder (Gespreksopnemer) te starten, maar je hebt de Pro-versie al geïnstalleerd. Wilt u de Pro-versie gebruiken?</string>
     <string name="run_pro_question_dlg_title">Pro-versie starten</string>
     <string name="last_recording">Laatste opname</string>
-    <string name="last_recording_problem_description">Er deed zich een problem voor bij de laatste opname. Als dit bericht blijft verschijnen, probeer dan het Bestandstype of Audiobron te wijzigen in de Instellingen.</string>
+    <string name="last_recording_problem_description">Er deed zich een probleem voor bij de laatste opname. Als dit bericht blijft verschijnen, probeer dan de Opneem methode of Audiobron te wijzigen in de Instellingen.</string>
     <string name="read_instructions">Instructies lezen</string>
     <string name="about">Over</string>
     <string name="translations">Vertalingen</string>
     <string name="translate">Vertalen</string>
-    <string name="help_translate">Help ons naar jouw moedertaal te vertalen</string>
+    <string name="help_translate">Help ons met het vertalen van de app naar jouw moedertaal door middel van onze website. Weet je zeker dat je dit wilt voortzetten?</string>
 
     <string name="write_ext_storage_problem_description">Opslaan op extern opslagmedium mislukt.</string>
 
@@ -141,4 +136,8 @@
     <string name="use_external_media_player_to_play_recordings">Gebruik externe Media speler om opnames te beluisteren</string>
     <string name="play">Afspelen</string>
     <string name="pause">Pauze</string>
+    <string name="add_translation">Vertaling toevoegen</string>
+
+    <string name="not_able_to_import_to_pro">Is deze optie niet geactiveerd, dan zal het niet mogelijk zijn om de opnames automatisch te importeren naar de Pro versie. Verder nog, doe een back-up van alle belangrijke opnames als je beslist om de applicatie te verwijderen, doordat deze ook verwijderd worden.</string>
+    <string name="number_of_seconds">Aantal seconden</string>
     </resources>

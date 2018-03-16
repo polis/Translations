@@ -1,22 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-<string name="app_name">تۆمارکردنی پەیوەندییەکان</string>
-    <string name="sd">تکایە،میمۆری دەرەکی بکرە ناو موبایلەکەت!</string>
+<string name="app_name">تۆمارکردنی پەیوەندی</string>
+    <string name="sd">تکایە، کارتی مموری داخل پکه!</string>
     <string name="notificationStatus_checkbox_summary"/>
-    <string name="saveRecordQuestion_checkbox_title"/>
     <string name="saveRecordQuestion_checkbox_summary"/>
     <string name="storage"/>
     <string name="deleteRecord_title">پاکردنەوەی ئۆتۆماتیکی</string>
-    <string name="deleteRecord_summary"></string>
+    <string name="deleteRecord_summary"/>
     <string name="recording">ڕێکخستنی تۆمارەکان</string>
     <string name="audioSource_title">شێوازی دەنگ</string>
-    <string name="audioSource_summary">هەڵبژاردنی شێوازی دەنگ</string>
     <string name="audioChannel_title">وەرگرتنی دەنگ</string>
-    <string name="audioChannel_summary">هەڵبژارنی وەرگرتنی دەنگ</string>
     <string name="fileFormat_title">ڕەشکڕنەوەی فایل</string>
-    <string name="fileFormat_summary">هەڵبژاردنی شێوازی فایل</string>
     <string name="recordingQuality_title">شێوازی هڵگرتنی تۆمار</string>
-    <string name="recordingQuality_summary">دیاریکردنی شێوازی تۆمارکردن</string>    
     <string name="email_subject">تۆماری پەیوەندییەکان</string>
 	<string name="buy_category_description">ڤێرژنی تەواو</string>
 	<string name="buy_category_title">کڕینی ڤێرژنی تەواو</string>
@@ -35,4 +30,8 @@
 
     <string name="sd_card">میمۆری دەرەکی</string>
     <string name="call_recorder_folder">فایلی“تۆماری پەیوەندییەکان”</string>
-    </resources>
+    <string name="contact">هاوریکان</string>
+    <string name="selected">دسنیشان کرا</string>
+    <string name="settings">ریخستنه کان</string>
+    <string name="notifications">ئاگادارکه ره وه کان</string>
+</resources>

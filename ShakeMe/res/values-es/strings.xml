@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 
-</resources>
+<string name="settings">Ajustes</string>
+    <string name="help">Ayuda</string>
+    <string name="camera_flash_light">Flash de la Cámara</string>
+    <string name="lunch_application">Iniciar una app</string>
+    <string name="select_app_text">Por favor, elija una aplicación que se iniciará cuando agitar el dispositivo.</string>
+    <string name="select_app_btn">Elija una aplicación</string>
+    <string name="lunch_app_name">Ninguna aplicación</string>
+    <string name="about">Acerca</string>
+    </resources>
