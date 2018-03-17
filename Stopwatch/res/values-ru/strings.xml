@@ -47,4 +47,8 @@
     <string name="help_translate">Помогите нам с переводом на ваш родной язык</string>
 
 
-</resources>
+<string name="clock_face_color">Цвет темы</string>
+    <string name="general">Общие</string>
+    <string name="remove_ads">Удалить рекламу</string>
+
+    </resources>

@@ -2,4 +2,72 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="app_name">Nastavení hlasitosti</string>
     <string name="volume">Hlasitost</string>
-    </resources>
+    <string name="profiles">Profily</string>
+    <string name="profile_add">Přidat nový profil</string>
+    <string name="profile_edit">Editovat profil</string>
+    <string name="toast_enter_profile_name">Zadejte název profilu, prosím.</string>    
+    <string name="text_create_profile">Nejdříve přidejte profil, prosím!</string>    
+    <string name="scheduler">Plánovač</string>    
+    <string name="location">Umístění</string>          
+    
+    <string name="tap_hint_text">Tapněte pro zadání názvu</string>       
+    <string name="button_Save">Uložit</string>    
+    <string name="button_Cancel">Zrušit</string>       
+    <string name="dialog_button_OK">Ok</string>       
+    <string name="dialog_delete_profile_title">Smazat profil</string>       
+    <string name="ringTitle">Zvonění</string>
+    <string name="musicTitle">Média</string>
+    <string name="voiceCallTitle">Hlasové volání</string>
+    <string name="alarmTitle">Budík</string>
+    <string name="notificationTitle">Upozornění</string>
+    <string name="systemTitle">Systém</string>
+    
+    <string name="radio_silent">Potichu</string>
+    <string name="radio_normal">Normálně</string>
+    <string name="radio_vibrate">Vibrace</string>
+    
+    <string name="location_select">Výběr umístění</string>
+    <string name="location_name">Název umístění</string>
+    <string name="marker_info">Jít sem</string>
+    <string name="toast_set_location">Nastavte značku na mapě, prosím.</string>
+    <string name="button_buy_pro">Koupit PRO</string>
+	<string name="wifi">WiFi Spoty</string>
+    <string name="dialog_delete_profile_message">Všechno naplánované, umístění a WiFi spoty přiřazené k tomuto profilu budou smazány. Chcete to provést ?</string>            
+    
+    <string name="toast_enter_location_name">Zadejte název umístění, prosím.</string>
+    <string name="edit">Editace</string>
+
+    <string name="text_buy_pro">Tato funkce je přístupná ve verzi PRO!</string>
+    <string name="rate">Ohodnotťe tuto aplikaci, prosím</string>
+	<string name="rateOk">Ok</string>
+	<string name="rateLater">Později</string>
+    
+    <string name="add_wifi">Vyberte WiFi spot a profil hlasitosti</string>
+    <string name="wifi_connecting">WiFi je zapnuta!</string>
+    <string name="no_wifi_spots">Ujistěte se prosím, že:/n1.WiFi je zapnuta./n2.a alespoň jeden WiFi spot je uložen v nastavení WiFi sítí vašeho telefonu</string>
+    <string name="on_disconnect">Odpojeno od WiFi spotu</string>
+
+    <string name="help">Pomoc</string>
+    <string name="set">Nastavit</string>
+
+    <string name="buy">Koupit</string>
+    <string name="cancel">Zrušit</string>
+
+    <string name="premium_version_contains">Premium verze obsahuje</string>
+    <string name="buy_category_description">Verze PRO</string>
+    <string name="buy_category_title">Koupit verzi Volume Control PRO</string>
+
+    <string name="info">Informace</string>
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Často kladené dotazy</string>
+    <string name="other_app_title">Všechny aplikace</string>
+    <string name="other_app_summary">Od Clever Mobile</string>
+    <string name="about">O aplikaci</string>
+    <string name="translations">Překlady</string>
+    <string name="translate">Přeložit</string>
+    <string name="help_translate">Pomozte nám s překladem do vašeho mateřského jazyka</string>
+
+    <string name="set_profile_on_disconnect_from_wifi">Možnost konfigurace profilu po odpojení od WiFi spotu</string>
+    <string name="no_more_ads">Bez reklam</string>
+
+</resources>
