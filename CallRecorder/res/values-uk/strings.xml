@@ -260,4 +260,11 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
     <string name="hide_from_media_player">Сховати від медіа програвача</string>
     <string name="do_not_show_audio_recordings_in_media_player_app">Не показувати записані аудіо файли в програмах медіа плеєрів</string>
     <string name="deleted_recordings_if_uninstall">Якщо дана опцію включена і ви видалите додаток, то усі записи будуть видалені автоматично системою.</string>
+    <string name="language">Мова</string>
+    <string name="select_language">Вибрати мову</string>
+    <string name="use_proximity_sensor">Використовувати датчик приближення</string>
+    <string name="switch_audio_mode">Переключати аудіо режим при наближення екрана телефона до вуха</string>
+
+
+
     </resources>
