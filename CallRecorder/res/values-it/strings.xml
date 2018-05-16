@@ -206,7 +206,7 @@
     <string name="add_contact">Aggiungi contatto</string>
     <string name="add_phone_number">Aggiungi numero di telefono</string>
     <string name="add_to_filter">Aggiungi al filtro</string>
-    <string name="another_call_recording_app_is_running">Un\'altra app di registrazione chiamate è attiva. Per favore, rimuovila per abilitare Call Recorder al suo corretto utilizzo</string>
+    <string name="another_call_recording_app_is_running">Un\'altra app di registrazione chiamate è attiva. Per favore, spegniela per abilitare Call Recorder al suo corretto utilizzo</string>
 
     <string name="android_can_stop_recording_if_this_notification_disabled">Se questa opzione è disabilitata Android puó fermare l\'app e alcune chiamate non saranno registrate o parzialmente registrate. Vuoi comunque disabilitarla?</string>
 
