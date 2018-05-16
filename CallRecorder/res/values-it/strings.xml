@@ -255,4 +255,11 @@ Funzionerà ancora come prima, ma senza nuove caratteristiche come:
 
 Perció è raccomandato installare la versione free standard e ripristinare la tua licenza lì</string>
 
-</resources>
+<string name="language">Lingua</string>
+    <string name="select_language">Scegli lingua</string>
+    <string name="use_proximity_sensor">Usa il sensore di prossimita</string>
+    <string name="switch_audio_mode">Cambia modalita audio quando il display è vicino orecchio</string>
+
+
+
+    </resources>
