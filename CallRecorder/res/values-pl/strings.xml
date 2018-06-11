@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">Nagranie Rozmów</string>
+    <string name="app_name">Rejestrator Rozmów</string>
     <string name="sd">Proszę włożyć kartę SD do telefonu!</string>
     <string name="contact">Kontakty</string>
     <string name="selected">Wybrane</string>
@@ -9,7 +9,7 @@
     <string name="notificationStatus_checkbox_title">Włącz powiadomienia</string>
     <string name="notificationStatus_checkbox_summary">Wyświetlaj wyskakujące powiadomienia</string>
     <string name="saveRecordQuestion_checkbox_summary">Pokaż okno po wywołaniu</string>
-    <string name="storage">Karta SD</string>
+    <string name="storage">Pamięć trwała</string>
     <string name="deleteRecord_title">Automatyczne usuwanie</string>
     <string name="deleteRecord_summary">Skasuj nagrania</string>
     <string name="recording">Ustawienia nagrywania</string>
@@ -73,10 +73,10 @@
     <string name="call_recorder_folder">Folder „CallRecorder”</string>
     <string name="sd_card_memory_occupied">Użyta pamięć</string>
     <string name="sd_card_free_memory">Wolna pamięć</string>
-    <string name="total_files">- Wszystkich plików</string>
-    <string name="import_recordings">Importowanie nagrań</string>
+    <string name="total_files">Liczba plików</string>
+    <string name="import_recordings">Import nagranych rozmów</string>
     <string name="run_clean_up">Oczyść teraz</string>
-    <string name="cleaning">Oczyść stare nagrania…</string>
+    <string name="cleaning">Usuwanie</string>
     <string name="share_via">Udostępnij przez…</string>
 
     <string name="passcode">Hasło</string>
@@ -229,4 +229,36 @@ Zalecamy więc zainstalowanie stndardowej wersji i przywrócenie swojej licencji
     <string name="use_filtering_by_phone_numbers">Filtruj numerami telefonu</string>
     <string name="filtering_method">Metoda filtrowania</string>
     <string name="finished">Zakończone</string>
+    <string name="switch_filtering">Przełącz filtrowanie</string>
+    <string name="record_all_phone_numbers_exept_excluded">Nie nagrywaj rozmów od kontaktów z listy poniżej</string>
+    <string name="record_only_included_phone_numbers">Nagrywaj rozmowy tylko od kontaktów z listy poniżej</string>
+    <string name="add_contact">Dodaj kontakt</string>
+    <string name="add_phone_number">Dodaj numer telefonu</string>
+    <string name="add_to_filter">Dodaj do filtru</string>
+    <string name="another_call_recording_app_is_running">Inna aplikacja do nagrywania rozmów już działa. Wyłącz ją, aby umożliwić nagrywanie.</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">Wyłączenie tej opcji może spowodować, że rozmowy nie będą nagrywane poprawnie. Czy na pewno chcesz kontynuować?</string>
+
+    <string name="automatic_cleaning">Automatyczne kasowanie</string>
+    <string name="delete_recordings">Usuń nagrane rozmowy</string>
+    <string name="memory_occupied">Wykorzystana pamięć</string>
+    <string name="free_memory">Wolna pamięć</string>
+    <string name="use_removable_storage">Użyj pamięci wymiennej</string>
+    <string name="record_audio_files_to_removable_storage">Nagrywaj pliki dźwiękowe na pamięci wymiennej</string>
+    <string name="repopulate_the_list_of_recordings">Ponownie załaduj listę nagranych rozmów z pamięci trwałej</string>
+    <string name="delete_automatically">Usuń automatycznie</string>
+    <string name="delete_older_then">Automatycznie usuń nagrane rozmowy starsze niż wybrana liczba dni. Nie dotyczy rozmów z blokadą.</string>
+    <string name="clean_up">Usuń stare rozmowy teraz</string>
+    <string name="delete_old_recordings">Usuń stare rozmowy. Rozmowy z blokadą nie zostaną usunięte.</string>
+    <string name="general">Ogólne</string>
+    <string name="hide_from_media_player">Ukryj przed odtwarzaczami mediów</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Nie pokazuj plików audio nagranych rozmów w odtwarzaczach mediów</string>
+    <string name="deleted_recordings_if_uninstall">Jeśli odinstalujesz aplikację, gdy ta opcja jest włączona, wszystkie rozmowy przechowywane w pamięci wymiennej zostaną usunięte.</string>
+    <string name="language">Język</string>
+    <string name="select_language">Wybierz język</string>
+    <string name="use_proximity_sensor">Używaj czujnika zbliżeniowego</string>
+    <string name="switch_audio_mode">Przełącz tryb audio, gdy ekran znajdzie się blisko ucha</string>
+
+
+
     </resources>
