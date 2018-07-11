@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Záznam Hovoru</string>
-    <string name="sd">Prosím, vložte kartu SD do telefonu!</string>
+    <string name="sd">Prosím, vložte SD kartu do telefonu!</string>
     <string name="contact">Kontakty</string>
     <string name="selected">vybrané</string>
     <string name="settings">Nastavení</string>
@@ -88,10 +88,10 @@
     <string name="enter_passcode">"Zadej heslo "</string>
     <string name="reenter_passcode">Opakuj zadání hesla</string>
     <string name="enter_old_passcode">Zadej původní heslo</string>
-    <string name="passcode_did_not_match">Zadaná hesla se neshodují, opakujte zadání</string>
+    <string name="passcode_did_not_match">Zadaná hesla se neshodují, opakujte zadání!</string>
     <string name="enter_new_passcode">Zadej nové heslo</string>
     <string name="reenter_new_passcode">Opakuj zadání nového hesla</string>
-    <string name="wrong_passcode">Chybné heslo, opakujte zadání</string>
+    <string name="wrong_passcode">Chybné heslo, opakujte zadání!</string>
     <string name="exit">Ukončit</string>
 
     <string name="importing_recordings">Import záznamů</string>
