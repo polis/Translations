@@ -1,3 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="app_name">ساعة التوقيف</string>
+    <string name="settings">.лент Ольге лет еаиин</string>
+    <string name="start_button">إبدأ</string>
+    <string name="pause_button">توقف</string>
+    <string name="lap_button">دورة</string>
+    <string name="reset_button">إعادة للصفر</string>
+    <string name="days">أيام</string>
+    <string name="hours">ساعات</string>
+    <string name="lap">دورة</string>
+	<string name="elapsed_time">الوقت المنقضي</string>	
+	<string name="lap_time">وقت الدورة</string>	
+    <string name="screen">شاشة</string>
+    <string name="displayMode_checkbox_title">إبقاء الشاشة مشتعلة</string>
+    <string name="displayMode_checkbox_summary">منع الهاتف من الدخول لوضع النوم</string>
+    <string name="laps">دورات</string>
+    <string name="lapOnPause_checkbox_title">دورة متوقفة</string>
+    <string name="lapOnPause_checkbox_summary">إضافة دورة عند ضغط زر التوقف</string>
+    </resources>
