@@ -66,11 +66,12 @@
 
     <string name="set">Selecionar</string>
 
-    <string name="pro_description">Versão Pro contém:
 
-- Possibilidade de configurar perfil que desconecta de sua rede WiFi.
-
-- Sem Anúncios</string>
     <string name="other_app_title">Todos os aplicativos</string>
     <string name="other_app_summary">De Clever Mobile</string>
+
+    <string name="premium_version_contains">Versão Premium contém</string>
+    <string name="set_profile_on_disconnect_from_wifi">Possibilidade de configurar perfil que desconecta de sua rede WiFi</string>
+    <string name="no_more_ads">Sem Anúncio</string>
+
     </resources>

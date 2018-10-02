@@ -61,7 +61,7 @@
     <string name="faq_title">שאלות נפוצות</string>
     <string name="wifi_only_when_sync">סנכרון רק כאשר מחובר לwifi</string>
 
-    <string name="sync_summary">סנכרון את כל ההקלטות כעת</string>
+    <string name="sync_summary">סנכרן את כל ההקלטות כעת</string>
     <string name="buy">קנה</string>
 
     <string name="pro_description">גרסת הpro כוללת</string>
@@ -107,11 +107,12 @@
     <string name="connecting_to_google_drive">מתחבר לגוגל דרייב</string>
 
     <string name="logout">התנתק</string>
-    <string name="sync_title">סנכרון כעת</string>
+    <string name="sync_title">סנכרן כעת</string>
     <string name="wifi_only">וייפי בלבד</string>
     <string name="run_clean_up">נקה עכשיו</string>
     <string name="dropbox">Dropbox</string>
     <string name="run_pro_question_dlg_description">הנך מנסה להתקין את הגירסה החינמית של call Recorder בעבר כבר התקנת את גירסת ה-pro תירצה לגשת לגשת לגרסת ה-pro ?</string>
     <string name="run_pro_question_dlg_title">התקן את גרסת ה-pro</string>
     <string name="translate">תרגום</string>
+    <string name="last_recording">הקלטה אחרונה</string>
     </resources>

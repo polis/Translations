@@ -1,4 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="app_name">Control de Volumen</string>
-    </resources>
+    <string name="volume">Volumen</string>
+    <string name="profiles">Perfiles</string>
+    <string name="profile_add">Añadir nuevo perfil</string>
+    <string name="profile_edit">Editar perfil</string>
+    <string name="toast_enter_profile_name">Por favor, indique nombre del perfil.</string>    
+    <string name="text_create_profile">Por favor, ¡Primero añade perfil!</string>    
+    <string name="scheduler">Programador</string>    
+    <string name="location">Localizaciones</string>          
+    
+    <string name="tap_hint_text">Toque para introducir titular</string>       
+    <string name="button_Save">Guardar</string>    
+    <string name="button_Cancel">Cancelar</string>       
+    <string name="dialog_button_OK">OK</string>       
+    <string name="dialog_delete_profile_title">Borrar perfil</string>       
+    <string name="dialog_delete_profile_message">Todas las programaciones, ubicaciones y sitios WiFi asignados a este perfil serán borrados. ¿Quiere proceder?</string>            
+    
+    <string name="ringTitle">Timbre</string>
+    <string name="musicTitle">Media</string>
+    <string name="voiceCallTitle">Llamada de voz</string>
+    <string name="alarmTitle">Alarma</string>
+    <string name="notificationTitle">Notificación</string>
+    <string name="systemTitle">Sistema</string>
+    
+    <string name="radio_silent">Silencio</string>
+    <string name="radio_normal">Normal</string>
+    <string name="radio_vibrate">Vibración</string>
+    
+    <string name="location_select">Seleccione ubicación</string>
+    <string name="location_name">Nombre de ubicación</string>
+    <string name="marker_info">Ir aquí</string>
+    <string name="toast_set_location">Por favor, fije el marcador en el mapa.</string>
+    <string name="toast_enter_location_name">Por favor, indique el nombre de la ubicación.</string>
+    <string name="edit">Editar</string>
+
+    <string name="text_buy_pro">¡Esta funcionalidad está disponible en la versión Pro!</string>
+    <string name="button_buy_pro">Comprar Pro</string>
+	<string name="rate">Por favor, califica esta aplicación</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">Más tarde</string>
+    
+    <string name="wifi">Sitios WiFi</string>
+    <string name="add_wifi">Seleccione sitio WiFi y perfil de volumen</string>
+    <string name="wifi_connecting">¡El WiFi se está encendiendo!</string>
+    <string name="no_wifi_spots">Por favor, asegúrese de que:/n1.El WiFi está encendido./n2.Al menos hay un sitio WiFi almacenado entre las redes WiFi configuradas en su teléfono</string>
+    <string name="on_disconnect">Desconectar del sitio WiFi</string>
+
+    <string name="help">Ayuda</string>
+    <string name="set">Fijar</string>
+
+    <string name="buy">Comprar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="buy_category_description">Versión Pro</string>
+    <string name="buy_category_title">Compre Volume Control Pro</string>
+
+    <string name="info">Información</string>
+    <string name="faq_title">Preguntas más frecuentes</string>
+    <string name="faq_summary">Preguntas más frecuentes</string>
+    <string name="other_app_title">Todas las aplicaciones</string>
+    <string name="other_app_summary">De Clever Mobile</string>
+    <string name="about">Acerca de</string>
+    <string name="translations">Traducciones</string>
+    <string name="translate">Traducir</string>
+    <string name="help_translate">Ayúdanos con la traducción a tu idioma nativo</string>
+
+</resources>

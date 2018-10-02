@@ -54,9 +54,7 @@
 
     <string name="buy">Satın al</string>
     <string name="cancel">İptal et</string>
-    <string name="pro_description">Pro sürümü şunları içerir:
-- WiFi noktasından bağlantı kesildiğinde profil yapılandırma imkanı
-- Artık reklam olmayacak</string>
+
     <string name="buy_category_description">Pro sürümü</string>
     <string name="buy_category_title">Volume Control Pro sürümünü satın al</string>
 
@@ -69,4 +67,10 @@
     <string name="translations">Çeviriler</string>
     <string name="translate">Çeviri yap</string>
     <string name="help_translate">Anadilinize çeviri konusunda bize yardım edin</string>
-    </resources>
+
+
+    <string name="premium_version_contains">Premium sürümü şunları içerir</string>
+    <string name="set_profile_on_disconnect_from_wifi">WiFi noktasından bağlantı kesildiğinde profil yapılandırma imkanı</string>
+    <string name="no_more_ads">Artık reklam olmayacak</string>
+
+</resources>

@@ -262,4 +262,11 @@
     <string name="hide_from_media_player">Скрыть от медиа-проигрывателя</string>
     <string name="do_not_show_audio_recordings_in_media_player_app">Не показывать записи в медиа-проигрывателях</string>
     <string name="deleted_recordings_if_uninstall">Если данная опция включена и вы удалите приложение, то все записи будут удалены системой автоматически.</string>
+    <string name="language">Язык</string>
+    <string name="select_language">Выбрать язык</string>
+    <string name="use_proximity_sensor">Использовать датчик приближения</string>
+    <string name="switch_audio_mode">Переключать аудио режим когда экран близко к уху</string>
+
+
+
     </resources>

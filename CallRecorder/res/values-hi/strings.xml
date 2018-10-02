@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="app_name">कॉल रिकॉर्डर</string>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <string name="app_name">कॉल रिकॉर्डर</string>
     <string name="sd">"कृपया,  फोन में एसडी कार्ड डालें!"</string>
     <string name="contact">संपर्क सूची</string>
     <string name="selected">चयनित</string>
@@ -17,4 +18,5 @@
     <string name="email_subject">रिकॉर्डेड कॉल्स</string>
 	<string name="buy_category_description">पेशेवर संस्करण</string>
 	<string name="buy_category_title">कॉल रिकॉर्डर का पेशेवर संस्करण खरीदे</string>
-	</resources>
+	<string name="audioSource_title"></string>
+    </resources>
