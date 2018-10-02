@@ -51,4 +51,7 @@
     <string name="general">Загагальне</string>
     <string name="remove_ads">Вилучити рекламу</string>
 
+    <string name="privacy_policy">Правила користування і політика конфіденційності</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Користуючись цим додатком ви погоджуєтесь з правилами користування та політикою конфіденційності</string>
+
     </resources>
