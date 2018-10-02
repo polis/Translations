@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="app_name">ساعة التوقيف</string>
-    <string name="settings">.лент Ольге лет еаиин</string>
+    <string name="settings">إعدادات</string>
     <string name="start_button">إبدأ</string>
     <string name="pause_button">توقف</string>
     <string name="lap_button">دورة</string>
