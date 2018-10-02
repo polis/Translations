@@ -50,7 +50,7 @@
     <string name="general">General</string>
     <string name="remove_ads">Remove Ads</string>
 
-    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy">Usage Terms and Privacy Policy</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">By using this application you agree with its Usage Terms and Privacy Policy</string>
 
     <string name="app_description">Stopwatch application with an ability to:
