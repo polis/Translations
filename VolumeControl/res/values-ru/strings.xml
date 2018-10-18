@@ -15,10 +15,10 @@
     <string name="button_Cancel">Отмена</string>       
     <string name="dialog_button_OK">OK</string>       
     <string name="dialog_delete_profile_title">Удалить профиль</string>       
-    <string name="dialog_delete_profile_message">Все планирования и местооложения для даного профиля будуд удалены. Желаете продолжить?</string>           
+    <string name="dialog_delete_profile_message">Все планирования и местоположения для этого профиля будут удалены. Желаете продолжить?</string>           
     
     <string name="ringTitle">Звонок</string>
-    <string name="musicTitle">Мультимедия</string>
+    <string name="musicTitle">Мультимедиа</string>
     <string name="voiceCallTitle">Линия</string>
     <string name="alarmTitle">Будильник</string>
     <string name="notificationTitle">Уведомления</string>
@@ -52,9 +52,15 @@
     <string name="about">О программе</string>
     <string name="translations">Перевод</string>
     <string name="translate">Перевод</string>
-    <string name="help_translate">Помогите нам с переводом на ваш родной язык</string>
+    <string name="help_translate">Помогите нам с переводом на ваш родной язык. Перейти на сайт переводов?</string>
     <string name="premium_version_contains">Премиум версия содержит</string>
     <string name="set_profile_on_disconnect_from_wifi">Возможность установки профиля при отключении от WiFi точки</string>
     <string name="no_more_ads">Без рекламы</string>
 
-</resources>
+<string name="add_translation">Добавить перевод</string>
+
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="tell_a_friend">Рассказать друзьям</string>
+    <string name="rate_me">Оценить</string>
+    </resources>
