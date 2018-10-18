@@ -63,4 +63,18 @@
     <string name="navigation_drawer_close">Закрыть меню</string>
     <string name="tell_a_friend">Рассказать друзьям</string>
     <string name="rate_me">Оценить</string>
-    </resources>
+    <string name="check_out_call_recorder_app_at">Привет! Устанавливай приложение Volume Control</string>
+    <string name="upgrade_to_premium">Обновление до премиум</string>
+
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="delete">Удалить</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="create_profile_first">Пожалуйста, сперва, добавьте звуковой профиль.</string>
+    <string name="empty">Пусто</string>
+    <string name="thank_you_for_upgrading_to_premium">Спасибо за обновление до Премиум версии!</string>
+    <string name="privacy_policy">Условия использования и политика конфиденциальности</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Используя это приложение, вы соглашаетесь с условиями его использования и политикой конфиденциальности</string>
+
+
+</resources>
