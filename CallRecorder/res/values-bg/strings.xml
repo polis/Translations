@@ -75,7 +75,7 @@
     <string name="total_files">Общо файлове</string>
     <string name="import_recordings">Добавени записи</string>
     <string name="run_clean_up">Почисти сега</string>
-    <string name="cleaning">Изчисти стари записи…</string>
+    <string name="cleaning">Почистване</string>
     <string name="share_via">Сподели през…</string>
 
     <string name="passcode">Парола</string>
@@ -235,4 +235,27 @@
     <string name="another_call_recording_app_is_running">Включено е друго приложение за записване на обаждания. Моля, премахнете го, за да може рекордерът на повикванията да работи правилно.</string>
 
     <string name="android_can_stop_recording_if_this_notification_disabled">Ако тази опция е деактивирана, Android може да спре приложението и някои обаждания няма да бъдат записани или частично ще бъдат записани. Все още ли искате да го забраните?</string>
+    <string name="automatic_cleaning">Автоматично чистене</string>
+    <string name="delete_recordings">Изтриване на записи</string>
+    <string name="memory_occupied">Използвана памет</string>
+    <string name="free_memory">Свободна памет</string>
+    <string name="use_removable_storage">Използва външно хранилище</string>
+    <string name="record_audio_files_to_removable_storage">Запис на аудио файлове на външен носител</string>
+    <string name="repopulate_the_list_of_recordings">Преименувайте списъка с записи в приложението от файловата система на устройството</string>
+    <string name="delete_automatically">Автоматично изтриване</string>
+    <string name="delete_older_then">Автоматично изтриване на записи след избрания период от дни. Заключените записи няма да бъдат изтрити.</string>
+    <string name="clean_up">Почисти сега</string>
+    <string name="delete_old_recordings">Изтриване на старите записи. Заключените записи няма да бъдат изтрити.</string>
+    <string name="general">Общи</string>
+    <string name="hide_from_media_player">Скрий от плеъра</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Не показвай записи в аудио плеъра</string>
+    <string name="deleted_recordings_if_uninstall">Ако тази опция е включена и деинсталирате приложението, то всички записи на картата памет ще бъдат изтрити от системата.</string>
+    <string name="finished">Завършено</string>
+    <string name="language">Език</string>
+    <string name="select_language">Избор на език</string>
+    <string name="use_proximity_sensor">Използване на сензор за близост</string>
+    <string name="switch_audio_mode">Превключете режима на звука, когато дисплеят е близо до ухото ви</string>
+
+
+
     </resources>

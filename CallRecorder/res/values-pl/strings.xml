@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">Nagranie Rozmów</string>
+    <string name="app_name">Rejestrator Rozmów</string>
     <string name="sd">Proszę włożyć kartę SD do telefonu!</string>
     <string name="contact">Kontakty</string>
     <string name="selected">Wybrane</string>
@@ -9,7 +9,7 @@
     <string name="notificationStatus_checkbox_title">Włącz powiadomienia</string>
     <string name="notificationStatus_checkbox_summary">Wyświetlaj wyskakujące powiadomienia</string>
     <string name="saveRecordQuestion_checkbox_summary">Pokaż okno po wywołaniu</string>
-    <string name="storage">Karta SD</string>
+    <string name="storage">Pamięć trwała</string>
     <string name="deleteRecord_title">Automatyczne usuwanie</string>
     <string name="deleteRecord_summary">Skasuj nagrania</string>
     <string name="recording">Ustawienia nagrywania</string>
@@ -73,10 +73,10 @@
     <string name="call_recorder_folder">Folder „CallRecorder”</string>
     <string name="sd_card_memory_occupied">Użyta pamięć</string>
     <string name="sd_card_free_memory">Wolna pamięć</string>
-    <string name="total_files">- Wszystkich plików</string>
-    <string name="import_recordings">Importowanie nagrań</string>
+    <string name="total_files">Liczba plików</string>
+    <string name="import_recordings">Import nagranych rozmów</string>
     <string name="run_clean_up">Oczyść teraz</string>
-    <string name="cleaning">Oczyść stare nagrania…</string>
+    <string name="cleaning">Usuwanie</string>
     <string name="share_via">Udostępnij przez…</string>
 
     <string name="passcode">Hasło</string>
@@ -195,38 +195,70 @@
     <string name="tap_here_to_troubleshoot">Kliknij tutaj aby rozwiązać problemy</string>
     <string name="recording_problem">Problem z nagrywaniem?</string>
     <string name="recording_notification">Powiadomienie o nagrywaniu</string>
-    <string name="show_notification_during_recording">Pokaż powiadomienie o nagrywaniu</string>
+    <string name="show_notification_during_recording">Pokaż powiadomienie podczas nagrywania</string>
 
-    <string name="app_description_free">W skrócie, Call Recorder to aplikacja, dzięki której możesz:
-- Włączać/Wyłączać nagrywanie rozmów
-- Nagrywać wszystkie swoje rozmowy
-- Odtwarzać/Zatrzymywać nagrania poprzez ich dotknięcie
-- Usuwać nagrania
-- Blokować nagrania przed automatycznym czyszczeniem
-- Dzielić się nagraniami (tylko w wersji Pro)
-- Mieć okno potwierdzenia o możliwości zapisania nagranej rozmowy, które pojawi się zaraz po skończeniu rozmowy (tylko w wersji Pro)
+    <string name="app_description_free">Prosta aplikacja do nagrywania rozmów, dzięki której możesz:
+ - włączać/wyłączać nagrywanie rozmów,
+ - nagrywać wszystkie swoje rozmowy,
+ - odtwarzać/zatrzymywać nagrane rozmowy poprzez ich dotknięcie,
+ - usuwać nagrania,
+ - blokować nagrania przed automatycznym usuwaniem,
+ - udostępniać nagrane rozmowy (tylko w wersji Pro)
+ - otrzymać okno potwierdzenia o możliwości zapisania nagranej rozmowy, które pojawi się zaraz po zakończeniu rozmowy (tylko w wersji Pro).
 
-JEŚLI APLIKACJA NIE DZIAŁA NA TWOIM TELEFONIE LUB TEŻ NIE NAGRYWA CZYSTO GŁOSU TWOJEGO ROZMÓWCY:
-1. Spróbuj zmienić ustawienia na inne, opisane tutaj: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
-2. Występują pewne ograniczenia w telefonach, które nie wspierają nagrywania po linii telefonicznej lub bluetooth. Takie ograniczenia występują po stronie producenta telefonu. Lista wszystkich znanych urządzeń, które mają wspracie oraz ich konfigurację, znajdziesz tutaj: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
-Proszę, w związku z powyższym nie dawać złych ocen. Dziękuję!
+JEŚLI APLIKACJA NIE DZIAŁA NA TWOIM TELEFONIE LUB TEŻ NIE NAGRYWA GŁOSU TWOJEGO ROZMÓWCY WYRAŹNIE:
+1. Spróbuj zmienić ustawienia na inne, opisane tutaj: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/ .
+2. Niektóre telefony nie wspierają nagrywania rozmów przy użyciu typowego interfejsu (phone line) lub Bluetooth. Problemy te wynikają z ograniczeń sterownika audio, który pochodzi od producenta telefonu. Listę wszystkich znanych urządzeń, które są wspierane, oraz ich konfigurację znajdziesz tutaj: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Proszę w związku z powyższym nie wystawiać niskich ocen. Dziękuję!
 
-Jeśli masz jakieś sugestie lub komentarze, proszę odwiedź naszą stronę internetową: http://clevermobile.net and feel free to contact us.</string>
+Jeśli masz jakieś sugestie lub komentarze, proszę odwiedź naszą stronę internetową: http://clevermobile.net i skontaktuj się z nami.</string>
 
-    <string name="app_description_pro">Call Recorder Pro (od wersji 6.6) nie będzie już więcej aktualizowany w nowe funkcje ale będzie działał jako aktywator licencji do włączenia funkcji premium dla standardowej wersji.
+    <string name="app_description_pro">Call Recorder Pro (od wersji 6.6) nie będzie już więcej rozwijany, ale będzie działał jako aktywator licencji premium w wersji darmowej.
 
 Nadal będzie działał jak przedtem, ale bez nowych funkcji, takich jak:
 
-- Nowy Interfejs Użytkownika (UI) z możliwością przełączania pomiędzy Jasną a Ciemną skórką
-- Notatek do nagrań. Dodawanie, edycja, usuwanie notatek oraz wyszukiwanie w notatkach.
-- Wybieranie numeru z nagrania.
-- oraz więcej rzeczy, które zostaną dodane w następnych wydaniach.
+ - nowy interfejs użytkownika (UI) z obsługą dwóch skórek (jasna i ciemna),
+ - notatki do nagrań; dodawanie, edycja, usuwanie notatek oraz wyszukiwanie w notatkach,
+ - wybieranie numeru telefonu wprost z nagrania,
+ - oraz więcej funkcjonalności, które zostaną dodane w następnych wydaniach.
 
-Zalecamy więc zainstalowanie stndardowej wersji i przywrócenie swojej licencji - tutaj</string>
+Zalecamy więc zainstalowanie wersji darmowej i aktywowanie w niej swojej licencji</string>
 
-<string name="recording_filter">Filtr nagrań</string>
+<string name="recording_filter">Filtr nagrywania</string>
     <string name="filter">Filtruj</string>
     <string name="use_filtering_by_phone_numbers">Filtruj numerami telefonu</string>
     <string name="filtering_method">Metoda filtrowania</string>
     <string name="finished">Zakończone</string>
+    <string name="switch_filtering">Zmień filtrowanie</string>
+    <string name="record_all_phone_numbers_exept_excluded">Nie nagrywaj rozmów z poniższymi numerami</string>
+    <string name="record_only_included_phone_numbers">Nagrywaj rozmowy tylko z poniższymi numerami</string>
+    <string name="add_contact">Dodaj kontakt</string>
+    <string name="add_phone_number">Dodaj numer telefonu</string>
+    <string name="add_to_filter">Dodaj do filtru</string>
+    <string name="another_call_recording_app_is_running">Inna aplikacja do nagrywania rozmów już działa. Wyłącz ją, aby umożliwić nagrywanie.</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">Wyłączenie tej opcji może spowodować, że rozmowy nie będą nagrywane poprawnie. Czy na pewno chcesz kontynuować?</string>
+
+    <string name="automatic_cleaning">Automatyczne kasowanie</string>
+    <string name="delete_recordings">Usuń nagrane rozmowy</string>
+    <string name="memory_occupied">Wykorzystana pamięć</string>
+    <string name="free_memory">Wolna pamięć</string>
+    <string name="use_removable_storage">Użyj pamięci wymiennej</string>
+    <string name="record_audio_files_to_removable_storage">Nagrywaj pliki dźwiękowe na pamięci wymiennej</string>
+    <string name="repopulate_the_list_of_recordings">Ponownie załaduj listę nagranych rozmów z pamięci trwałej</string>
+    <string name="delete_automatically">Usuń automatycznie</string>
+    <string name="delete_older_then">Automatycznie usuń nagrane rozmowy starsze niż wybrana liczba dni. Nie dotyczy zablokowanych rozmów.</string>
+    <string name="clean_up">Usuń stare rozmowy teraz</string>
+    <string name="delete_old_recordings">Usuń stare rozmowy. Zablokowane rozmowy nie zostaną usunięte.</string>
+    <string name="general">Ogólne</string>
+    <string name="hide_from_media_player">Ukryj przed odtwarzaczami mediów</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Nie pokazuj plików audio nagranych rozmów w odtwarzaczach mediów</string>
+    <string name="deleted_recordings_if_uninstall">Jeśli odinstalujesz aplikację, gdy ta opcja jest włączona, wszystkie rozmowy przechowywane w pamięci wymiennej zostaną usunięte.</string>
+    <string name="language">Język</string>
+    <string name="select_language">Wybierz język</string>
+    <string name="use_proximity_sensor">Używaj czujnika zbliżeniowego</string>
+    <string name="switch_audio_mode">Przełącz tryb audio, gdy ekran znajdzie się blisko ucha</string>
+
+
+
     </resources>

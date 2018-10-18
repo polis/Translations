@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Enregistreur d\'appel</string>
-    <string name="sd">Veuillez, ¡insérer la carte SD dans le téléphone!</string>
+    <string name="sd">Veuillez, insérer la carte SD dans le téléphone !</string>
     <string name="contact">Contacts</string>
     <string name="selected">sélectionné</string>
     <string name="settings">Paramètres</string>
-    <string name="notifications">Notification</string>
+    <string name="notifications">Notifications</string>
     <string name="notificationStatus_checkbox_title">Activer les notifications</string>
-    <string name="notificationStatus_checkbox_summary">Afficher la barre de notification, après chaque appel enregistré.</string>
+    <string name="notificationStatus_checkbox_summary">Afficher la barre de notification, après chaque appel enregistré</string>
     <string name="saveRecordQuestion_checkbox_summary">Demandez après chaque appel enregistré</string>
     <string name="storage">Stockage</string>
     <string name="deleteRecord_title">Nettoyage automatique</string>
@@ -28,18 +28,18 @@
     <string name="start_notification">Début d\'enregistrement de l\'appel</string>
     <string name="stop_notification">L\' enregistreur  d\'appel s\' est arrêté</string>
 
-    <string name="save_the_call">Enregistrer cet appel?</string>
+    <string name="save_the_call">Enregistrer cet appel ?</string>
     <string name="yes">Oui</string>
     <string name="no">Non</string>
 
     <string name="unknown">Inconnu</string>
 	<string name="hidden">Caché</string>
-    <string name="start_recording">Enregistreur d\'appel fonctionne!</string>
+    <string name="start_recording">Enregistreur d\'appel fonctionne !</string>
     <string name="start_recording_details">Tous vos  appels seront enregistrés.</string>
-    <string name="stop_recording">Activer l\'enregistrement!</string>
+    <string name="stop_recording">Activer l\'enregistrement !</string>
     <string name="stop_recording_details">Actuellement l\'enregistreur est éteint.</string>
 
-    <string name="new_call">Ce nouvel appel a été enregistrée!</string>
+    <string name="new_call">Ce nouvel appel a été enregistrée !</string>
     <string name="info">Informations</string>
     <string name="faq_title">FAQ (Foire Aux Questions)</string>
     <string name="faq_summary">Questions fréquentes</string>
@@ -66,7 +66,7 @@
     <string name="dropbox_upload">Synchronisation Google Drive</string>
     <string name="google_drive_upload">Notifications avancée</string>
     <string name="advanced_botifications">Pas de pub</string>
-    <string name="no_more_ads">No more Ads</string>
+    <string name="no_more_ads">Pas plus d\'annonces</string>
 
     <string name="sd_card">Carte SD</string>
     <string name="call_recorder_folder">Dossier \"CallRecorder\"</string>
@@ -75,22 +75,22 @@
     <string name="total_files">Total des fichiers</string>
     <string name="import_recordings">Importation des enregistrements</string>
     <string name="run_clean_up">"Nettoyer maintenant "</string>
-    <string name="cleaning">Suppression des anciens enregistrements…</string>
+    <string name="cleaning">Nettoyage</string>
     <string name="share_via">Partager via…</string>
 
     <string name="passcode">Code secret</string>
     <string name="enable_passcode">Activer le numéro secret</string>
-    <string name="enable_passcode_description">Protégez vos enregistrements avec le numero secret, à chaque démarrage l\'application.</string>
+    <string name="enable_passcode_description">Protégez vos enregistrements avec le numéro secret, à chaque démarrage l\'application</string>
     <string name="change_passcode">Changer le numéro secret</string>
     <string name="passcode_delete_recordings">Effacer les enregistrements</string>
     <string name="passcode_delete_recordings_description">"Efface tous les enregistrements de l\'application après dix essais infructueux du numéro secret. "</string>
     <string name="enter_passcode">"Entrez le numéro secret "</string>
     <string name="reenter_passcode">"Recomposer le numéro secret "</string>
     <string name="enter_old_passcode">"Entrer l\'ancien numéro secret "</string>
-    <string name="passcode_did_not_match">Les numéros secrets ne correspondent pas. Essayez a nouveau!</string>
+    <string name="passcode_did_not_match">Les numéros secrets ne correspondent pas. Essayez à nouveau !</string>
     <string name="enter_new_passcode">"Entrez un nouveau numéro secret "</string>
     <string name="reenter_new_passcode">"Recomposer le nouveau numéro secret "</string>
-    <string name="wrong_passcode">Numéro secret, incorrect. Essayez de nouveau!</string>
+    <string name="wrong_passcode">Numéro secret, incorrect. Essayez de nouveau !</string>
     <string name="exit">Sortie</string>
 
     <string name="cloud">Cloud</string>
@@ -111,7 +111,7 @@
     <string name="wifi_only">Seulement par Wifi</string>
     <string name="wifi_only_when_sync">Mettre à jour uniquement par WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Vous essayez d\'exécuter la version gratuite de Call Recorder, mais vous avez déjà installé la Pro. Voulez-vous continuez avec la version Pro?</string>
+    <string name="run_pro_question_dlg_description">Vous essayez d\'exécuter la version gratuite de Call Recorder, mais vous avez déjà installé la Pro. Voulez-vous continuez avec la version Pro ?</string>
     <string name="run_pro_question_dlg_title">Exécuter la version Pro</string>
     <string name="last_recording">Dernier enregistrement</string>
     <string name="last_recording_problem_description">On dirait qu\'un problème s\'est produit lors du dernier enregistrement. Si ce message apparaît à nouveau, essayez de modifier la méthode d\'enregistrement ou la source audio dans les paramètres.</string>
@@ -220,4 +220,40 @@ Il est donc recommandé d\'installer la version gratuite standard et de restaure
 <string name="restore_license">Restaurer depuis la version Pro</string>
     <string name="call_is_recording_now">"Enregistrement en cours "</string>
     <string name="error_during_recording">"Erreur durant L\'enregistrement "</string>
+    <string name="delete_uploaded">Supprimer téléchargé</string>
+    <string name="delete_after_upload_to_cloud">Supprimer automatiquement l\'enregistrement en cours sur le téléphone</string>
+    <string name="tap_here_to_troubleshoot">Appuyez ici pour dépanner</string>
+    <string name="recording_problem">Problème d\'enregistrement ?</string>
+    <string name="recording_notification">Notification d\'enregistrement</string>
+    <string name="show_notification_during_recording">Afficher la notification pendant l\'enregistrement</string>
+    <string name="recording_filter">Filtre d\'enregistrement</string>
+    <string name="filter">Filtre</string>
+    <string name="use_filtering_by_phone_numbers">Utiliser le filtrage par numéro de téléphone</string>
+    <string name="filtering_method">Méthode de filtrage</string>
+    <string name="switch_filtering">Commuter le filtrage</string>
+    <string name="record_all_phone_numbers_exept_excluded">Ne pas enregistrer les appels téléphoniques de la liste ci-dessous</string>
+    <string name="record_only_included_phone_numbers">Enregistrer seulement les appels téléphoniques de la liste ci-dessous</string>
+    <string name="add_contact">Ajouter le contact</string>
+    <string name="add_phone_number">Ajouter un numéro de téléphone</string>
+    <string name="add_to_filter">Ajouter au filtre</string>
+    <string name="another_call_recording_app_is_running">Une autre application d\'enregistrement d\'appel est en cours d\'utilisation. S\'il vous plaît, retirez-le pour que Call Recorder puisse fonctionner correctement.</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">Si cette option est désactivée, Android peut arrêter l\'application et certains appels ne seront pas enregistrés ou seront en partie enregistrés. Voulez-vous toujours le désactiver ?</string>
+
+    <string name="automatic_cleaning">Nettoyage automatique</string>
+    <string name="delete_recordings">Supprimer les enregistrements</string>
+    <string name="memory_occupied">Mémoire utilisée</string>
+    <string name="free_memory">Mémoire libre</string>
+    <string name="use_removable_storage">Utiliser un stockage amovible</string>
+    <string name="record_audio_files_to_removable_storage">Enregistrer des fichiers audio sur un stockage amovible</string>
+    <string name="repopulate_the_list_of_recordings">Repeupler la liste des enregistrements dans l\'application à partir du système de fichiers de l\'appareil</string>
+    <string name="delete_automatically">Supprimer automatiquement</string>
+    <string name="delete_older_then">Suppression automatique des enregistrements plus anciens que la période sélectionnée. Les enregistrements verrouillés ne seront pas supprimés.</string>
+    <string name="clean_up">Nettoyer maintenant</string>
+    <string name="delete_old_recordings">Supprimer les anciens enregistrements. Les enregistrements verrouillés ne seront pas supprimés.</string>
+    <string name="general">Général</string>
+    <string name="hide_from_media_player">Masquer du lecteur multimédia</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Ne pas afficher les fichiers d\'enregistrement audio dans les applications de lecteur multimédia</string>
+    <string name="deleted_recordings_if_uninstall">Si cette option est activée et que vous désinstallez l\'application, tous les enregistrements stockés dans la mémoire amovible seront supprimés par le système.</string>
+    <string name="finished">Terminé</string>
     </resources>
