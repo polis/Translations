@@ -88,4 +88,33 @@
     <string name="google_drive">Google Disks</string>
     <string name="login">Ienākt</string>
     <string name="logout">Iziet</string>
+    <string name="lock">Aizslēgts</string>
+    <string name="hint_tap_on_contact_photo">Pieskaries kontakta attēlam lai izvēlētos to.</string>
+
+    <string name="google_drive_upload">Augšupielādēt uz Google Diska</string>
+    <string name="enable_passcode">Iespējot piekļuves kodu</string>
+    <string name="enable_passcode_description">Aizsargāt ierakstus ar piekļuves koda pieslēgšanos katru reizi, kad tiek startēta aplikācija</string>
+    <string name="change_passcode">Mainīt piekļuves kodu</string>
+    <string name="passcode_delete_recordings_description">Izdzēst visus ierakstus no šīs ierīces pēc 10 nepareiziem piekļuves koda ievadīšanas mēģinājumiem</string>
+    <string name="enter_passcode">Ievadīt piekļuves kodu</string>
+    <string name="reenter_passcode">Ievadi vēlreiz piekļuves kodu</string>
+    <string name="enter_old_passcode">Ievadi veco piekļuves kodu</string>
+    <string name="passcode_did_not_match">Piekļuves kodi nesakrīt. Lūdzu mēģiniet vēlreiz!</string>
+    <string name="enter_new_passcode">Ievadiet jaunu piekļuves kodu</string>
+    <string name="reenter_new_passcode">Ievadiet atkārtoti jauno piekļuves kodu</string>
+    <string name="wrong_passcode">Nepareizs piekļuves kods. Lūdzu mēģiniet vēlreiz!</string>
+    <string name="dropbox_link">Pievienot Dropbox kontu</string>
+    <string name="dropbox_unlink">Noņemt Dropbox kontu</string>
+
+    <string name="google_drive_link">Pievienot Google Diska kontu</string>
+    <string name="google_drive_unlink">Noņemt Google Diska kontu</string>
+    <string name="connecting_to_google_drive">Savienoties ar Google Disku</string>
+
+    <string name="wifi_only">WiFi tikai</string>
+    <string name="read_instructions">Lasīt instrukcijas</string>
+    <string name="about">Par</string>
+    <string name="translations">Tulkojumi</string>
+    <string name="translate">Tulkot</string>
+    <string name="add_translation">Pievienot tulkojumu</string>
+
     </resources>
