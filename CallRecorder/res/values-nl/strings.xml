@@ -179,7 +179,7 @@
     <string name="restore_for_purchased_users">Je moet de laatst gekochte Pro versie van Google Play herinstalleren. Die wordt gebruikt om de Premium functies te activeren.</string>
     <string name="app_is_not_licensed">Applicatie heeft geen licentie</string>
     <string name="buy_license_in_order_to_use_app">Om deze app te gebruiken, koop je het a.u.b. via Google Play!</string>
-    <string name="pro_version_as_a_license">Call Recorder Pro wordt niet meer bijgewerkt met nieuwe functies. Het dient voor huidige gebruikers als licentie sleutel om de premium functies in de standaard versie te activeren. Kijk op de website voor informatie.</string>
+    <string name="pro_version_as_a_license">Call Recorder Pro (vanaf versie 6.6) wordt niet meer bijgewerkt met nieuwe functies, maar het werkt sindsdien als licentie sleutel om de premium functies van de standaard Free versie vrij te geven.</string>
     <string name="check_again">Nogmaals proberen</string>
     <string name="permissions">Machtigingen</string>
     <string name="in_order_to_work_please_grand_permission">Voor probleemloos gebruik moet je de volgende machtigingen toekennen.</string>
@@ -247,15 +247,15 @@ Geef daarvoor geen slechte beoordeling! Dank!
 
 Als je suggesties of reacties heeft, bezoek dan onze website: http://clevermobile.net en voel je vrij op contact met ons op te nemen.</string>
 
-    <string name="app_description_pro">Call Recorder Pro (vanaf versie 6.6) wordt niet meer bijgewerkt met nieuwe functies, maar het activeert sindsdien de licentie actie om de premium functies van de standaard Free versie vrij te geven.
+    <string name="app_description_pro">Call Recorder Pro (vanaf versie 6.6) wordt niet meer bijgewerkt met nieuwe functies, maar het werkt sindsdien als licentie sleutel om de premium functies van de standaard Free versie vrij te geven.
 
-It still will be working as before, but without new features like:
+Het functioneert nog steeds als voorheen, maar zonder nieuwe functie als:
 
-- New UI with possibility to switch between Light and Dark themes
-- Notes for recordings. Add, edit, remove notes and search by notes.
-- Dial number from recording.
-- and more that will be adding in the next releases.
+- Nieuwe UI met mogelijkheid om te wisselen tussen donkere en lichte themas
+- Aantekeningen voor opnames. toevoegen, bewerken, verwijderen van van aantekeningen en zoeken op aantekeningen.
+- Nummer kiezen vanuit de opname.
+- en meer dat in de koemende tijd zal verschijnen.
 
-So it is recommended to install standard free version and restore your license there</string>
+Dus wordt aanbevolen om de standaard Free versie te installeren en de licentie daar te herstellen</string>
 
 </resources>
