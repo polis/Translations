@@ -74,4 +74,23 @@
     <string name="set_profile_on_disconnect_from_wifi">Possibilidade de configurar perfil que desconecta de sua rede WiFi</string>
     <string name="no_more_ads">Sem Anúncio</string>
 
+    <string name="add_translation">Dodaj tłumaczenie</string>
+
+    <string name="navigation_drawer_open">Otwórz menu</string>
+    <string name="navigation_drawer_close">Zamknij menu</string>
+    <string name="tell_a_friend">Powiedz przyjacielowi</string>
+    <string name="rate_me">Oceń mnie</string>
+    <string name="check_out_call_recorder_app_at">Hej! Sprawdź aplikację Regulacja głośności pod adresem</string>
+    <string name="upgrade_to_premium">Przejdź na Premium</string>
+
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="delete">Kasować</string>
+    <string name="select_all">Zaznacz wszystko</string>
+    <string name="create_profile_first">Najpierw musisz utworzyć profil woluminu.</string>
+    <string name="empty">Pusty</string>
+    <string name="volume_profile_was_not_changed">Uprawnienie Nie Disturbe nie jest ustawione.</string>
+    <string name="grant_permissions">Dać pozwolenie</string>
+    <string name="profile">Profil</string>
+    <string name="thank_you_for_upgrading_to_premium">Dziękujemy za uaktualnienie do premium!</string>
     </resources>
