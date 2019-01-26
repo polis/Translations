@@ -15,10 +15,10 @@
     <string name="button_Cancel">Отмена</string>       
     <string name="dialog_button_OK">OK</string>       
     <string name="dialog_delete_profile_title">Удалить профиль</string>       
-    <string name="dialog_delete_profile_message">Все планирования и местооложения для даного профиля будуд удалены. Желаете продолжить?</string>           
+    <string name="dialog_delete_profile_message">Все планирования и местоположения для этого профиля будут удалены. Желаете продолжить?</string>           
     
     <string name="ringTitle">Звонок</string>
-    <string name="musicTitle">Мультимедия</string>
+    <string name="musicTitle">Мультимедиа</string>
     <string name="voiceCallTitle">Линия</string>
     <string name="alarmTitle">Будильник</string>
     <string name="notificationTitle">Уведомления</string>
@@ -52,9 +52,32 @@
     <string name="about">О программе</string>
     <string name="translations">Перевод</string>
     <string name="translate">Перевод</string>
-    <string name="help_translate">Помогите нам с переводом на ваш родной язык</string>
+    <string name="help_translate">Помогите нам с переводом на ваш родной язык. Перейти на сайт переводов?</string>
     <string name="premium_version_contains">Премиум версия содержит</string>
     <string name="set_profile_on_disconnect_from_wifi">Возможность установки профиля при отключении от WiFi точки</string>
     <string name="no_more_ads">Без рекламы</string>
 
-</resources>
+<string name="add_translation">Добавить перевод</string>
+
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="tell_a_friend">Рассказать друзьям</string>
+    <string name="rate_me">Оценить</string>
+    <string name="check_out_call_recorder_app_at">Привет! Устанавливай приложение Volume Control</string>
+    <string name="upgrade_to_premium">Обновление до премиум</string>
+
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="delete">Удалить</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="create_profile_first">Пожалуйста, сперва, добавьте звуковой профиль.</string>
+    <string name="empty">Пусто</string>
+    <string name="thank_you_for_upgrading_to_premium">Спасибо за обновление до Премиум версии!</string>
+    <string name="privacy_policy">Условия использования и политика конфиденциальности</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Используя это приложение, вы соглашаетесь с условиями его использования и политикой конфиденциальности</string>
+
+
+<string name="grant_permissions">Разрешить</string>
+    <string name="profile">Профиль</string>
+    <string name="volume_profile_was_not_changed">Не дано разрешение на режим Не Тревожить.</string>
+    </resources>
