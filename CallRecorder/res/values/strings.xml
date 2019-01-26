@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">Call Recorder</string>
+    <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <string name="app_name" >Call Recorder</string>
     <string name="sd">Please, insert SD card into the phone!</string>
     <string name="contact">Contacts</string>
     <string name="selected">selected</string>
@@ -38,7 +38,7 @@
     <string name="stop_recording">Turn ON recording!</string>
     <string name="stop_recording_details">Recorder is currently turned off.</string>
 
-    <string name="new_call">New call has been recorded!</string>    
+    <string name="new_call">New call recording</string>
     <string name="info">Information</string>       
     <string name="faq_title">FAQ</string>
     <string name="faq_summary">Frequently asked questions</string>
@@ -220,6 +220,14 @@
     <string name="select_language">Select language</string>
     <string name="use_proximity_sensor">Use proximity sensor</string>
     <string name="switch_audio_mode">Switch audio mode when display is close to your ear</string>
+    <string name="rename">Rename</string>
+
+
+    <!--<string name="file_with_the_same_name_already_exists">File with the same name already exists. Please try to use another title.</string>-->
+    <!--<string name="file_was_not_renamed">File was not renamed. Please try to use another title.</string>-->
+    <!--<string name="problem_with_renaming_a_file">Problem with renaming a file. Please try to use another title.</string>-->
+    <!--<string name="the_file_you_are_trying_to_rename_does_not_exists">The file you are trying to rename does not exists.</string>-->
+
 
 
 

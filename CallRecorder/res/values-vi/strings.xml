@@ -93,8 +93,6 @@
     <string name="wrong_passcode">Sai mật mã . Hãy thử lại !</string>
     <string name="exit">Thoát</string>
 
-    <string name="cloud"></string>
-
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Liên kết tài khoản Dropbox</string>
     <string name="dropbox_unlink">Gỡ liên kết tài khoản Dropbox</string>
