@@ -39,7 +39,7 @@
     <string name="stop_recording">Включите записывание!</string>    
     <string name="stop_recording_details">В настоящий момент записывание выключено.</string>
 
-    <string name="new_call">Новый разговор был записан!</string>        
+    <string name="new_call">Новый разговор</string>        
     <string name="info">Информация</string>
     <string name="faq_title">Часто задаваемые вопросы</string>       
     <string name="faq_summary">Посмотреть вопросы и ответы на сайте</string>       
@@ -267,6 +267,9 @@
     <string name="use_proximity_sensor">Использовать датчик приближения</string>
     <string name="switch_audio_mode">Переключать аудио режим когда экран близко к уху</string>
 
+
+
+    <string name="rename">Переименовать</string>
 
 
     </resources>
