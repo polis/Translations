@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">Gespreksopnemer</string>
+    <string name="app_name">Call Recorder</string>
     <string name="sd">Gelieve een SD-kaart in de telefoon te plaatsen!</string>
     <string name="contact">Contacten</string>
     <string name="selected">geselecteerd</string>
