@@ -258,7 +258,7 @@ Perció è raccomandato installare la versione free standard e ripristinare la t
 <string name="language">Lingua</string>
     <string name="select_language">Scegli lingua</string>
     <string name="use_proximity_sensor">Usa il sensore di prossimita</string>
-    <string name="switch_audio_mode">"Cambia modo audio quandi il display è vicino al tuo orecchio "</string>
+    <string name="switch_audio_mode">Cambia modo audio quandi il display è vicino al tuo orecchio</string>
 
 
 
