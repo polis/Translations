@@ -6,7 +6,7 @@
         <item name="mic">Микрофон</item>
         <item name="uplink">Свой голос</item>
         <item name="downlink">Голос собеседника</item>
-        <item name="communication">Комуникация</item>
+        <item name="communication">Коммуникация</item>
     </string-array>
     <string-array name="audioSourceValues">
         <item name="line">line</item>
