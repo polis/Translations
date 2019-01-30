@@ -222,6 +222,10 @@
     <string name="switch_audio_mode">Switch audio mode when display is close to your ear</string>
     <string name="rename">Rename</string>
 
+    <string name="permission_record_audio_explanation">Record Audio to be able to record phone calls</string>
+    <string name="permission_storage_explanation">Photos, Media, and Files for saving recording to phone storage</string>
+    <string name="permission_manage_phone_calls__explanation">Make and manage phone calls required for automatically start and stop recording</string>
+    <string name="permission_contacts_explanation">Photos, Media, and Files for saving recording to phone storage</string>
 
     <!--<string name="file_with_the_same_name_already_exists">File with the same name already exists. Please try to use another title.</string>-->
     <!--<string name="file_was_not_renamed">File was not renamed. Please try to use another title.</string>-->
