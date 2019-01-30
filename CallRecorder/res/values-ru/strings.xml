@@ -214,7 +214,7 @@
     <string name="restore_license">Возобновить с Про</string>
     <string name="restore_for_purchased_users">Вы должны установить последнюю версию Про, с Google Play, купленную ранее. Она будет использована как лицензия для активации премиум функций.</string>
     <string name="thank_you_for_upgrading_to_premium">Благодарим вас за обновление до премиум!</string>
-    <string name="permissions">Права</string>
+    <string name="permissions">Разрешения</string>
     <string name="in_order_to_work_please_grand_permission">Чтобы приложение работало корректно, пожалуйста, дайте следующие разрешения</string>
     <string name="read_more">Читать больше</string>
     <string name="do_not_show_again">Не показывать больше</string>
