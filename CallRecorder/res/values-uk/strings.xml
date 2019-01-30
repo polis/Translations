@@ -38,7 +38,7 @@
     <string name="stop_recording">Увімкніть запис дзвінків!</string>    
     <string name="stop_recording_details">Функція запису дзвінків вимкненна.</string>
 
-    <string name="new_call">Нову розмову було записано!</string>    
+    <string name="new_call">Новий запис</string>    
     <string name="info">Інформація</string>       
     <string name="faq_title">Часті запитання</string>
     <string name="faq_summary">Перейти до сторінки частих питань щодо додатку</string>
@@ -269,5 +269,10 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
 
     <string name="rename">Перейменувати</string>
 
+
+    <string name="permission_record_audio_explanation">Мікрофон для запису звуку потрібен щоб записувати телефонні розмови</string>
+    <string name="permission_storage_explanation">Доступ до фото, медіа та фалів для збереження записів у пам\'яті телефону</string>
+    <string name="permission_manage_phone_calls__explanation">Дозвіл на здійснювати і керування телефонними дзвінками пітрбен для автоматичного старту та зупинки запису розмови</string>
+    <string name="permission_contacts_explanation">Дозвіл до контактів для відображення імені та малюнку контакту</string>
 
     </resources>
