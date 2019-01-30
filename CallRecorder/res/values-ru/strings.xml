@@ -272,6 +272,9 @@
     <string name="rename">Переименовать</string>
 
 
-    <string name="permission_record_audio_explanation">МІкрофон для запису аудіо потрібен для запису телефонних розмов</string>
-    <string name="permission_storage_explanation">Доступ до фото, медіафайлів та файлів для збереження записів в пам\'яті телефона</string>
+    <string name="permission_record_audio_explanation">Микрофон для записи аудио нужен для записи телефонных разговоров</string>
+    <string name="permission_storage_explanation">Доступ к фото, мультимедиа и файлам для сохранения записей в памяти телефона</string>
+    <string name="permission_manage_phone_calls__explanation">Выполнять вызовы и управлять ими для автоматического страта и остановки записи разговора</string>
+    <string name="permission_contacts_explanation">Контакты для отображения имени и картинки контакта</string>
+
     </resources>
