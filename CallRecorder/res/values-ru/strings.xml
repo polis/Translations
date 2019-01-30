@@ -108,8 +108,8 @@
     <string name="logout">Выйти</string>
     <string name="sync_title">Загрузить сейчас</string>
     <string name="sync_summary">Загрузить все записи в облако</string>
-    <string name="wifi_only">Только WiFi</string>
-    <string name="wifi_only_when_sync">Загружать только при подключении к WiFi</string>
+    <string name="wifi_only">Только Wi-Fi</string>
+    <string name="wifi_only_when_sync">Загружать только при подключении к Wi-Fi</string>
 
     <string name="run_pro_question_dlg_description">Вы пытаетесь запустить бесплатную версию Call Recorder, но уже установили Pro. Запустить Pro?</string>
     <string name="run_pro_question_dlg_title">Запустить Pro</string>
