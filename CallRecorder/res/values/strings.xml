@@ -227,6 +227,10 @@
     <string name="permission_manage_phone_calls__explanation">Make and manage phone calls required for automatically start and stop recording</string>
     <string name="permission_contacts_explanation">Contacts used to show contact name and image</string>
 
+    <string name="what_can_be_improved">What can be improved?</string>
+    <string name="submit">Submit</string>
+
+
     <!--<string name="file_with_the_same_name_already_exists">File with the same name already exists. Please try to use another title.</string>-->
     <!--<string name="file_was_not_renamed">File was not renamed. Please try to use another title.</string>-->
     <!--<string name="problem_with_renaming_a_file">Problem with renaming a file. Please try to use another title.</string>-->
