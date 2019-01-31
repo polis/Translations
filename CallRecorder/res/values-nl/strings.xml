@@ -258,4 +258,6 @@ Het functioneert nog steeds als voorheen, maar zonder nieuwe functie als:
 
 Dus wordt aanbevolen om de standaard Free versie te installeren en de licentie daar te herstellen</string>
 
-</resources>
+<string name="rename">Hernoemen</string>
+
+    </resources>
