@@ -12,7 +12,7 @@
     <string name="storage">Stockage</string>
     <string name="deleteRecord_title">Nettoyage automatique</string>
     <string name="deleteRecord_summary">supprimer des enregistrements</string>
-    <string name="recording">Paramètres d\'enregistrement</string>
+    <string name="recording">Enregistrement en cours</string>
     <string name="audioSource_title">Source audio</string>
     <string name="audioChannel_title">Canal audio</string>
     <string name="fileFormat_title">Format de fichier</string>
@@ -39,7 +39,7 @@
     <string name="stop_recording">Activer l\'enregistrement !</string>
     <string name="stop_recording_details">Actuellement l\'enregistreur est éteint.</string>
 
-    <string name="new_call">Ce nouvel appel a été enregistrée !</string>
+    <string name="new_call">Ce nouvel appel a été enregistré !</string>
     <string name="info">Informations</string>
     <string name="faq_title">FAQ (Foire Aux Questions)</string>
     <string name="faq_summary">Questions fréquentes</string>
@@ -87,10 +87,10 @@
     <string name="enter_passcode">"Entrez le numéro secret "</string>
     <string name="reenter_passcode">"Recomposer le numéro secret "</string>
     <string name="enter_old_passcode">"Entrer l\'ancien numéro secret "</string>
-    <string name="passcode_did_not_match">Les numéros secrets ne correspondent pas. Essayez à nouveau !</string>
+    <string name="passcode_did_not_match">Les codes secrets ne correspondent pas. Essayez à nouveau !</string>
     <string name="enter_new_passcode">"Entrez un nouveau numéro secret "</string>
     <string name="reenter_new_passcode">"Recomposer le nouveau numéro secret "</string>
-    <string name="wrong_passcode">Numéro secret, incorrect. Essayez de nouveau !</string>
+    <string name="wrong_passcode">Code secret, incorrect. Essayez de nouveau !</string>
     <string name="exit">Sortie</string>
 
     <string name="cloud">Cloud</string>
@@ -106,8 +106,8 @@
 
     <string name="login">Connexion</string>
     <string name="logout">Déconnexion</string>
-    <string name="sync_title">Télécharger maintenant</string>
-    <string name="sync_summary">Mettre à jour tous les enregistrements maintenant</string>
+    <string name="sync_title">Téleversez maintenant</string>
+    <string name="sync_summary">Téléversez tous les enregistrements maintenant</string>
     <string name="wifi_only">Seulement par Wifi</string>
     <string name="wifi_only_when_sync">Mettre à jour uniquement par WiFi</string>
 
@@ -130,7 +130,7 @@
 
     <string name="no_player_app_found">Pas d\'application trouvé pour lire ce fichier audio</string>
 
-    <string name="player">Media Player</string>
+    <string name="player">Lecteur Audio</string>
     <string name="use_external_player">Utiliser un lecteur externe</string>
     <string name="recording_method">Méthode d\'enregistrement</string>
     <string name="add_translation">Ajouter une traduction</string>
@@ -256,4 +256,14 @@ Il est donc recommandé d\'installer la version gratuite standard et de restaure
     <string name="do_not_show_audio_recordings_in_media_player_app">Ne pas afficher les fichiers d\'enregistrement audio dans les applications de lecteur multimédia</string>
     <string name="deleted_recordings_if_uninstall">Si cette option est activée et que vous désinstallez l\'application, tous les enregistrements stockés dans la mémoire amovible seront supprimés par le système.</string>
     <string name="finished">Terminé</string>
+    <string name="language">Langue</string>
+    <string name="select_language">Choisissez la langue</string>
+    <string name="use_proximity_sensor">Utiliser le capteur de proximité</string>
+    <string name="switch_audio_mode">Changer de mode Audio quand l\'écran est prêt de l\'oreille</string>
+    <string name="rename">Renommer</string>
+
+    <string name="submit">Envoyer</string>
+
+
+    <string name="what_can_be_improved">Qu\'est ce qui peut être amélioré ?</string>
     </resources>
