@@ -39,7 +39,7 @@
     <string name="stop_recording">Zet opname AAN!</string>
     <string name="stop_recording_details">Gespreksopnemer staat momenteel uit.</string>
 
-    <string name="new_call">Niew gesprek is opgenomen!</string>
+    <string name="new_call">Nieuwe gespreks opgename</string>
     <string name="info">Informatie</string>
     <string name="faq_title">FAQ (Veelgestelde vragen)</string>
     <string name="faq_summary">Veelgestelde vragen</string>
@@ -182,7 +182,7 @@
     <string name="pro_version_as_a_license">Call Recorder Pro (vanaf versie 6.6) wordt niet meer bijgewerkt met nieuwe functies, maar het werkt sindsdien als licentie sleutel om de premium functies van de standaard Free versie vrij te geven.</string>
     <string name="check_again">Nogmaals proberen</string>
     <string name="permissions">Machtigingen</string>
-    <string name="in_order_to_work_please_grand_permission">Voor probleemloos gebruik moet je de volgende machtigingen toekennen.</string>
+    <string name="in_order_to_work_please_grand_permission">Voor probleemloos gebruik ken je de volgende machtigingen toe</string>
     <string name="read_more">Lees meer</string>
     <string name="do_not_show_again">Niet nogmaals tonen</string>
     <string name="delete_uploaded">Verwijder geuploade data</string>
@@ -214,7 +214,7 @@
     <string name="use_removable_storage">Gebruik verwisselbare opslag</string>
     <string name="record_audio_files_to_removable_storage">Neem audio op verwisselbare opslag op</string>
     <string name="repopulate_the_list_of_recordings">Neem de lijst van opnames in de app over van het bestandssysteem van het toestel</string>
-    <string name="delete_automatically">Verrwijder automatisch</string>
+    <string name="delete_automatically">Verwijder automatisch</string>
     <string name="delete_older_then">Automatisch verwijderen van opnames ouder dan een ingesteld aantal dagen. Geblokkeerde opnames worden niet verwijderd.</string>
     <string name="clean_up">Nu opruimen</string>
     <string name="delete_old_recordings">Oude opnames verwijderen. Geblokkeerde opnames worden niet verwijderd.</string>
@@ -259,5 +259,14 @@ Het functioneert nog steeds als voorheen, maar zonder nieuwe functie als:
 Dus wordt aanbevolen om de standaard Free versie te installeren en de licentie daar te herstellen</string>
 
 <string name="rename">Hernoemen</string>
+
+    <string name="permission_record_audio_explanation">Microfoon om audio van gesprekken te laten opnemen</string>
+    <string name="permission_storage_explanation">Opslagruimte om opnames op te slaan</string>
+    <string name="permission_manage_phone_calls__explanation">Telefoon om opnemen van gesprekken automatisch te starten en te eindigen</string>
+    <string name="permission_contacts_explanation">Contacten om naam en logo weer te geven</string>
+
+    <string name="what_can_be_improved">Wat kan beter?</string>
+    <string name="submit">Voorleggen</string>
+
 
     </resources>
