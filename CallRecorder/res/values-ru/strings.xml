@@ -277,4 +277,8 @@
     <string name="permission_manage_phone_calls__explanation">Выполнять вызовы и управлять ими для автоматического страта и остановки записи разговора</string>
     <string name="permission_contacts_explanation">Контакты для отображения имени и картинки контакта</string>
 
+    <string name="what_can_be_improved">Что может быть улучшено?</string>
+    <string name="submit">Отправить</string>
+
+
     </resources>
