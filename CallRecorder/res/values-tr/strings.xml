@@ -39,7 +39,7 @@
     <string name="stop_recording">Kaydı başlat!</string>
     <string name="stop_recording_details">Kaydedici şu anda kapatılmış durumda.</string>
 
-    <string name="new_call">Yeni çağrı kaydedildi!</string>
+    <string name="new_call">Yeni çağrı kaydediliyor</string>
     <string name="info">Bilgi</string>
     <string name="faq_title">SSS (Sıkça Sorulan Sorular)</string>
     <string name="faq_summary">Sıkça Sorulan Sorular</string>
@@ -75,7 +75,7 @@
     <string name="total_files">- Toplam dosya</string>
     <string name="import_recordings">Kayıtları içe aktar</string>
     <string name="run_clean_up">Şimdi temizle</string>
-    <string name="cleaning">Eski kayıtları temizliyor…</string>
+    <string name="cleaning">Temizleniyor</string>
     <string name="share_via">… ile paylaş</string>
 
     <string name="passcode">Parola</string>
@@ -104,12 +104,12 @@
     <string name="google_drive_unlink">Google Drive hesap bağlantısını kaldır</string>
     <string name="connecting_to_google_drive">Google Drive\'a bağlanıyor</string>
 
-    <string name="login">Log In</string>
+    <string name="login">Oturum aç</string>
     <string name="logout">Çıkış Yap</string>
-    <string name="sync_title">Şimdi eşitle</string>
-    <string name="sync_summary">Tüm kayıtları şimdi eşitle</string>
+    <string name="sync_title">Şimdi Yükle</string>
+    <string name="sync_summary">Tüm kayıtları şimdi yükle</string>
     <string name="wifi_only">Sadece WiFi</string>
-    <string name="wifi_only_when_sync">Sadece WiFi ile bağlanıldığında eşitle</string>
+    <string name="wifi_only_when_sync">Yalnızca WiFi\'ye bağlıyken yükle</string>
 
     <string name="run_pro_question_dlg_description">Çağrı Kaydedicinin ücretsiz sürümünü çalıştırmayı deniyorsun ama Pro zaten yüklü. Pro\'ya gitmek istiyor musun?</string>
     <string name="run_pro_question_dlg_title">Pro sürümünü çalıştır</string>
@@ -260,4 +260,25 @@ Bazı önerileriniz veya yorumlarınız varsa, lütfen http://clevermobile.net s
     <string name="hide_from_media_player">Media player\'da gösterme</string>
     <string name="do_not_show_audio_recordings_in_media_player_app">Kayıt dosyalarını media player\'da gösterme</string>
     <string name="deleted_recordings_if_uninstall">Eğer bu seçenek aktif hale getirilirse ve uygulama silinirse, bütün hafızalanmış kayıtlar sistem tarafından silinecektir.</string>
+    <string name="record_all_phone_numbers_exept_excluded">Aşağıdaki listeden telefon görüşmeleri kaydetmeyin</string>
+    <string name="another_call_recording_app_is_running">Başka bir arama kaydı uygulaması çalışıyor. Lütfen, Çağrı Kaydedicisinin düzgün çalışabilmesi için kaldırın.</string>
+
+    <string name="delete_recordings">Kayıtlar siliniyor</string>
+    <string name="repopulate_the_list_of_recordings">Uygulamadaki kayıtların listesini cihaz dosya sisteminden doldurma</string>
+    <string name="finished">bitirildi</string>
+    <string name="language">Dil</string>
+    <string name="select_language">Dil seçiniz</string>
+    <string name="use_proximity_sensor">Yakınlık sensörü kullan</string>
+    <string name="switch_audio_mode">Ekran kulağınıza yakın olduğunda ses modunu değiştirin</string>
+    <string name="rename">Adını değiştir</string>
+
+    <string name="permission_record_audio_explanation">Telefon görüşmelerini kaydedebilmek için mikrofon kullan</string>
+    <string name="permission_storage_explanation">Fotoğraflar, Medya ve Dosyalar,Telefonun belleğine kayıt yapmak için izin verin</string>
+    <string name="permission_manage_phone_calls__explanation">"Kaydı otomatik olarak başlatmak ve durdurmak için  telefon görüşmesi yapmanız yeterlidir"</string>
+    <string name="permission_contacts_explanation">Kartvizit adını ve resmini göstermek için kullanılan rehber</string>
+
+    <string name="what_can_be_improved">Neler geliştirilebilir?</string>
+    <string name="submit">Gönder</string>
+
+
     </resources>
