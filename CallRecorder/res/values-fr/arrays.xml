@@ -15,14 +15,5 @@
         <item name="downlink">downlink</item>
         <item name="communication">communication</item>
     </string-array>
-
-    <string-array name="audioChannel">
-        <item name="stereo">Stéréo</item>
-        <item name="mono">Mono</item>
-    </string-array>
-    <string-array name="audioChannelValues">
-        <item name="stereo">stereo</item>
-        <item name="mono">mono</item>
-    </string-array>
     
 </resources>

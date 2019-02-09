@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en" tools:ignore="ExtraTranslation">
     <string name="app_name">Call Recorder</string>
     <string name="sd">Por favor, insira um cartão SD no telefone!</string>
-    <string name="contact">Contatos</string>
     <string name="selected">selecionado</string>
     <string name="settings">Configurações</string>
     <string name="notifications">Notificações</string>

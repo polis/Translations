@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Grabador de Llamadas</string>
     <string name="sd">Por favor, ¡inserte la tarjeta SD en el teléfono!</string>
-    <string name="contact">Contactos</string>
     <string name="selected">seleccionado</string>
     <string name="settings">Ajustes</string>
     <string name="notifications">Notificaciones</string>
@@ -56,7 +55,6 @@
     <string name="recordings">Grabaciones</string>
     <string name="help">Ayuda</string>
     <string name="hint_tap_on_contact_photo">Pulse sobre la imagen del contacto para seleccionar el elemento.</string>
-    <string name="importing_recordings">Importando grabaciones…</string>
 
     <string name="buy">Comprar</string>
     <string name="cancel">Cancelar</string>
@@ -121,11 +119,7 @@
     <string name="translate">Traduzca</string>
     <string name="help_translate">Ayúdenos con la traducción a su idioma utilizando nuestro sitio web.¿Te gustaría proceder?</string>
 
-    <string name="write_ext_storage_problem_description">No se puede guardar en almacenamiento externo.</string>
 
-    <string name="allow_to_write_to_sd_card">Permitir escribir en la tarjeta SD extraíble</string>
-    <string name="delete_recordings_older_then_selected_days">Todas las grabaciones anteriores al período de días seleccionado serán eliminadas de manera automática</string>
-    <string name="delete_recordings_on_uninstall">Se borrarán todas las grabaciones si se desinstala la aplicación Call Recorder</string>
     <string name="number_of_days">Número de días</string>
 
     <string name="recording_method">Método de grabación</string>
@@ -136,8 +130,6 @@
     <string name="use_external_media_player_to_play_recordings">Utilizar reproductor de multimedia externo para reproducir grabaciones</string>
     <string name="play">Reproducir</string>
     <string name="pause">Pausar</string>
-    <string name="not_able_to_import_to_pro">Si esta opción está habilitada, no será posible importar de forma automática las grabaciones a la versión Pro. Además, haga una copia de seguridad de todas las grabaciones importantes si decide desinstalar la aplicación, ya que todas ellas serán eliminadas.</string>
-    <string name="not_able_to_import">"Si está habilitada esta opción y usted decide desinstalar la aplicación, tiene que hacer una copia de seguridad de todas las grabaciones importantes, ya que, todas se eliminarán y no será posible importar  automáticamente las grabaciones después de instalar la aplicación de nuevo. "</string>
 
     <string name="app_description_free">La aplicación Grabadora de llamadas simple tiene la capacidad de:
 - Activar/desactivar la grabación de llamadas

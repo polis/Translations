@@ -3,7 +3,6 @@
 
     <string name="app_name">Զանգերի Ձայնագրում</string>
     <string name="sd">Խնդրում ենք տեղադրեք SD քարտ հեռախոսի մեջ!</string>
-    <string name="contact">Կոնտակտներ</string>
     <string name="selected">Ընտրված է</string>
     <string name="settings">Կարգավորումներ</string>
     <string name="notifications">Ծանուցումներ</string>
@@ -55,7 +54,6 @@
     <string name="recordings">Ձայնագրություններ</string>
     <string name="help">Օգնություն</string>
     <string name="hint_tap_on_contact_photo">Սեղմեք կոնտակտի նկարի վրա ընտրելու համար։</string>
-    <string name="importing_recordings">Ձայնագրությունները ներմուծվում են…</string>
 
     <string name="buy">Գնել</string>
     <string name="cancel">Չեղարկել</string>
@@ -124,10 +122,6 @@
     <string name="translate">Թարգմանել</string>
     <string name="help_translate">Օգնեք մեզ թարգմանել ձեր մայրենի լեզվին</string>
 
-    <string name="write_ext_storage_problem_description">Չի ստացվում ձայնագրել արտաքին հիշողության սարքի վրա։</string>
-    <string name="allow_to_write_to_sd_card">Ձայնագրել շարժական SD քարտի վրա</string>
-    <string name="delete_recordings_older_then_selected_days">Բոլոր նշված օրերից հին ձայնագրությունները ավտոմատ կջնջվեն</string>
-    <string name="delete_recordings_on_uninstall">Ծրագրի հեռացման դեպքում բոլոր ձայնագրությունները կջնջվեն</string>
     <string name="number_of_days">Օրերի քանակ</string>
 
     <string name="recording_method">Ձայնագրման մեթոդ</string>

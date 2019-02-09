@@ -3,7 +3,6 @@
 <string name="app_name">Call Recorder</string>
     <string name="storage">Shramba</string>
     <string name="sd">Prosimo, vstavite SD kartico!</string>
-    <string name="contact">Kontakti</string>
     <string name="selected">Izbran</string>
     <string name="settings">Nastavitve</string>
     <string name="notifications">Obvestila</string>
@@ -56,7 +55,6 @@
     <string name="recordings">Posnetki</string>
     <string name="help">Pomoč</string>
     <string name="hint_tap_on_contact_photo">Dotakni se slike kontakta za izbor le tega.</string>
-    <string name="importing_recordings">Uvozi posnetke…</string>
 
     <string name="buy">Kupi</string>
     <string name="cancel">Cancel</string>
@@ -122,10 +120,6 @@
     <string name="help_translate">Pomagajte nam pri prevodu v vaš jezik preko spletne strani. želite nadaljevati?</string>
     <string name="add_translation">Dodaj prevod</string>
 
-    <string name="write_ext_storage_problem_description">Zapisovanje na zunanji spomin ni mogoče.</string>
-    <string name="allow_to_write_to_sd_card">Dovoli zapisovanje na SD kartico</string>
-    <string name="delete_recordings_older_then_selected_days">Vsi posnetki starejši od navedenega števila dni bodo samodejno zbrisani</string>
-    <string name="delete_recordings_on_uninstall">Če odstranite aplikacijo Call Recorder, bodo zbrisani vsi posnetki</string>
     <string name="number_of_days">Število dni</string>
 
     <string name="recording_method">Način snemanja</string>
@@ -136,8 +130,6 @@
     <string name="use_external_media_player_to_play_recordings">Uporabi zunanji predvajalnik za predvajanje posnetka</string>
     <string name="play">Play</string>
     <string name="pause">Pause</string>
-    <string name="not_able_to_import_to_pro">Če je ta možnost omogočena, avtomatski uvoz posnetkov v Pro verzijo ne bo mogoč. Naredite varnostno kopijo vseh pomembnih posnetkov, če se boste odločili za odstranitev aplikacije. Z odstranitvijo aplikacije se zbrišejo vsi posnetki.</string>
-    <string name="not_able_to_import">"Če je ta možnost omogočena in ste se odločili, da odstranite aplikacijo, morate narediti varnostne kopije vseh pomembnih posnetkov, saj bodo le ti izbrisani in jih ne bo mogoče avtomatsko uvoziti po ponovni namestitvi aplikacije. "</string>
 
     <string name="number_of_seconds">število sekund</string>
     <string name="delay_for_incoming_calls">Zakasnitev začetka snemanja pri dohodnih klicih</string>

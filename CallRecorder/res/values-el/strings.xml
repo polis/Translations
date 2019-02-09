@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Call Recorder</string>
     <string name="sd">Παρακαλώ, εισάγετε την κάρτα SD στο τηλέφωνο!</string>
-    <string name="contact">Επαφές</string>
     <string name="selected">Επιλεγμένα</string>
     <string name="settings">Ρυθμίσεις</string>
     <string name="notifications">Ειδοποιήσεις</string>
@@ -56,7 +55,6 @@
     <string name="recordings">Ηχογραφήσεις</string>
     <string name="help">Βοήθεια</string>
     <string name="hint_tap_on_contact_photo">Πατήστε σε μια φωτογραφία επαφής για να επιλέξετε το στοιχείο.</string>
-    <string name="importing_recordings">Εισαγωγή ηχογραφήσεων…</string>
 
     <string name="buy">Αγορά</string>
     <string name="cancel">Άκυρο</string>
@@ -121,13 +119,9 @@
     <string name="translate">Μετάφραση</string>
     <string name="help_translate">Βοηθήστε μας με τη μετάφραση των ετικετών της εφαρμογής στη μητρική σας γλώσσα, χρησιμοποιώντας την ιστοσελίδα μας. Θα θέλατε να συνεχίσετε;</string>
 
-    <string name="write_ext_storage_problem_description">Δεν είναι δυνατή η εγγραφή σε εξωτερική αποθήκευση.</string>
 
 <string name="add_translation">Πρόσθεσε μετάφραση</string>
 
-    <string name="allow_to_write_to_sd_card">Επέτρεψε να γράψει σε κάρτα SD</string>
-    <string name="delete_recordings_older_then_selected_days">Όλες οι εγγραφές που είναι παλιότερες από τον επιλεγμένο αριθμό ημερών θα διαγράφονται αυτόματα</string>
-    <string name="delete_recordings_on_uninstall">Θα διαγραφούν όλες οι εγγραφές αν απεγκαταστήσετε την εφαρμογή Call Recorder</string>
     <string name="number_of_days">Αριθμός ημερών</string>
 
     <string name="recording_method">Μέθοδος εγγραφής</string>
@@ -167,8 +161,6 @@
     <string name="do_not_show_again">Μην το δείξεις ξανά</string>
     <string name="delete_after_upload_to_cloud">Αυτόματη διαγραφή ανεβασμένων εγγραφών από το τηλέφωνο</string>
 
-    <string name="not_able_to_import_to_pro">Αν αυτή η επιλογή είναι ενεργοποιημένη, τότε δε θα είναι δυνατό να εισάγεις αυτόματα εγγραφές στην Pro έκδοση. Ακόμη,κάνε backup όλων των σημαντικών εγγραφών αν αποφασίσεις να απεγκαταστήσεις την εφαρμογή, καθώς θα διαγραφούν όλες.</string>
-    <string name="not_able_to_import">"Αν αυτή η επιλογή είναι ενεργοποιημένη και αποφασίσεις να απεγκαταστήσεις την εφαρμογή, τότε πρέπει να κάνεις backup όλων των σημαντικών εγγραφών, καθώς θα διαγραφούν όλες και δε θα είναι δυνατό να εισάγεις αυτόματα εγγραφές, όταν εγκαταστήσεις την εφαρμογή ξανά. "</string>
 
     <string name="number_of_seconds">Αριθμός δευτερολέπτων</string>
     <string name="delay_for_incoming_calls">Καθυστέρηση για εισερχόμενες κλήσεις σε δευτερόλεπτα</string>

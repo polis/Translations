@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">통화 녹음</string>
     <string name="sd">SD 카드를 전화기에 장착하십시오!</string>
-    <string name="contact">연락처</string>
     <string name="selected">개 선택</string>
     <string name="settings">설정</string>
     <string name="notifications">알림</string>

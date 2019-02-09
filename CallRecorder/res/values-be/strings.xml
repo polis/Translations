@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="sd">Калі ласка, пастаўце SD карту ў тэлефон!</string>
-    <string name="contact">Кантакты</string>
     <string name="selected">адзначана</string>
     <string name="settings">Налады</string>
     <string name="notifications">Паведамленні</string>
@@ -59,7 +58,6 @@
     <string name="cancel">Адмена</string>
 
     <string name="hint_tap_on_contact_photo">Націсніце на малюнак кантакту каб выдзеліць запіс.</string>
-    <string name="importing_recordings">Запісы імпартуюцца…</string>
 
     <string name="pro_description">Прэміўм версія змяшчае</string>
     <string name="share_recordings">Падзяліцца запісамі</string>
@@ -127,19 +125,13 @@
 
     <string name="play">Граць</string>
     <string name="pause">Паўза</string>
-    <string name="write_ext_storage_problem_description">Немагчыма запісаць на знешняе сховішча.</string>
     <string name="help_translate">Дапамажыце нам з перакладам на Вашу родную мову, выкарыстоўваючы наш сайт. Жадаеце прадоўжыць?</string>
-    <string name="allow_to_write_to_sd_card">Дазволіць запіс на здымную карту памяці</string>
-    <string name="delete_recordings_older_then_selected_days">Усе запісы старэй абранай колькасці дзён будуць выдалены аўтаматычна</string>
-    <string name="delete_recordings_on_uninstall">Пры высталяванні Call Recorder усе запісы будуць выдалены</string>
     <string name="no_player_app_found">Не знойдзен ніякі плэер каб прайграць гэтае аўдыё</string>
 
     <string name="player">Медыя-плэер</string>
     <string name="use_external_player">Выкарыстоўваць знешні плэер</string>
     <string name="use_external_media_player_to_play_recordings">Выкарыстоўваць знешні медыя-плэер для прайгравання запісаў</string>
     <string name="number_of_seconds">Колькасць секунд</string>
-    <string name="not_able_to_import_to_pro">Уключэнне гэтай опцыі робіць немагчымым аўтаматычны імпарт запісаў у Pro версію. Зрабіце рэзервовую копію ўсіх важных запісаў, калі Вы вырашыце выдаліць прыкладанне, альбо ўсе яны будуць знішчаны.</string>
-    <string name="not_able_to_import">"Калі гэтая опцыя ўключана і Вы вырашылі выдаліць прыкладанне, Вам неабходна зрабіць рэзервовую копію ўсіх важных запісаў, бо яны будуць знішчаны і ў Вас не будзе магчымасці імпартаваць іх пры паўторнам ўсталяванні. "</string>
 
     <string name="delay_for_incoming_calls">Затрымка для ўваходных званкоў у секундах</string>
     <string name="delay_for_outgoing_calls">Затрымка для выходных званкоў у секундах</string>

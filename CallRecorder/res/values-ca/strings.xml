@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Gravador de trucades</string>
     <string name="sd">Inseriu una tarja SD a l\'aparell!</string>
-    <string name="contact">Contactes</string>
     <string name="selected">seleccionat</string>
     <string name="settings">Configuracions</string>
     <string name="notifications">Notificacions</string>
@@ -56,7 +55,6 @@
     <string name="recordings">Gravacions</string>
     <string name="help">Ajuda</string>
     <string name="hint_tap_on_contact_photo">Toca la imatge d\'un contacte per seleccionar el element.</string>
-    <string name="importing_recordings">Important gravacions…</string>
 
     <string name="buy">Compra</string>
     <string name="cancel">Cancel·la</string>
@@ -121,11 +119,7 @@
     <string name="translate">Tradueix</string>
     <string name="help_translate">Ajudeu-nos a traduir-lo a la vostra llengua mitjançant l\'ús de la nostra pàgina web. Li agradaria continuar?</string>
 
-    <string name="write_ext_storage_problem_description">No es pot escriure en l\'emmagatzematge extern.</string>
 
-    <string name="allow_to_write_to_sd_card">Permetre escriure en targeta SD externa</string>
-    <string name="delete_recordings_older_then_selected_days">Tots els enregistraments anteriors al nombre de dies seleccionat s\'eliminaran de forma automàtica</string>
-    <string name="delete_recordings_on_uninstall">S\'esborraran totes les gravacions si desinstaleu l\'aplicació</string>
     <string name="number_of_days">Nombre de dies</string>
 
     <string name="recording_method">Mètode de gravació</string>
@@ -136,8 +130,6 @@
     <string name="use_external_media_player_to_play_recordings">Utilitza un reproductor extern per reproduir les gravacions</string>
     <string name="play">Reprodueix</string>
     <string name="pause">Pausa</string>
-    <string name="not_able_to_import_to_pro">Si activeu aquesta opció no serà possible importar automàticament les gravacions a la versió Pro. Feu còpia de seguretat de totes les gravacions importants si voleu desinstal•lar l\'aplicació, ja que s\'esborraran.</string>
-    <string name="not_able_to_import">"Si aquesta opció esta activada i decidiu desinstal•lar l\'aplicació, haurieu de fer còpia de seguretat de totes les gravacions importants, ja que s\'esborraran i no serà possible tornar-les a importar automàticament si instal•leu un altre cop l\'aplicació. "</string>
 
     <string name="number_of_seconds">Nombre de segons</string>
     <string name="delay_for_incoming_calls">Retard per trucades entrants en segons</string>

@@ -1,79 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
-    <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name" >Call Recorder</string>
+    <resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="en"
+    tools:ignore="MissingTranslation"
+    >
+    <string name="app_name">Call Recorder</string>
     <string name="sd">Please, insert SD card into the phone!</string>
-    <string name="contact">Contacts</string>
-    <string name="selected">selected</string>
+
     <string name="settings">Settings</string>
     <string name="notifications">Notifications</string>
     <string name="notificationStatus_checkbox_title">Enable notifications</string>
     <string name="notificationStatus_checkbox_summary">Show in notification bar after each recorded call</string>
     <string name="saveRecordQuestion_checkbox_summary">Ask after each recorded call</string>
-    <string name="deleteRecord_title">Automatic cleaning</string>
-    <string name="deleteRecord_summary">Delete recordings</string>
     <string name="recording">Recording</string>
     <string name="audioSource_title">Audio source</string>
-    <string name="audioChannel_title">Audio channel</string>
     <string name="fileFormat_title">File format</string>
-    <string name="recordingQuality_title">Recording quality</string>
-    <string name="email_subject">Recorded calls</string>
-	<string name="buy_category_description">Pro version</string>
-	<string name="buy_category_title">Buy Call Recorder Pro version</string>
-	<string name="buy_summary">Without Ads and with additional features</string>
-
 	<string name="rate">Please, rate this application</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">Later</string>
-    <string name="start_notification">Call Recording Started</string>    
-    <string name="stop_notification">Call Recording Stopped</string>
-
     <string name="save_the_call">Save this call?</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
-
 	<string name="unknown">Unknown</string>
     <string name="hidden">Hidden</string>
-	<string name="start_recording">Call Recorder is working!</string>
     <string name="start_recording_details">All your further calls will be saved.</string>
-    <string name="stop_recording">Turn ON recording!</string>
     <string name="stop_recording_details">Recorder is currently turned off.</string>
-
-    <string name="new_call">New call recording</string>
-    <string name="info">Information</string>       
+    <string name="info">Information</string>
     <string name="faq_title">FAQ</string>
     <string name="faq_summary">Frequently asked questions</string>
     <string name="other_app_title">All applications</string>
     <string name="other_app_summary">From Clever Mobile</string>
-
     <string name="undo">undo</string>
     <string name="deleted">deleted</string>
-
     <string name="lock">Lock</string>
     <string name="share">Share</string>
     <string name="delete">Delete</string>
     <string name="select_all">Select all</string>
     <string name="recordings">Recordings</string>
-    <string name="help">Help</string>
-    <string name="hint_tap_on_contact_photo">Tap on a contact image to select the item.</string>
-
     <string name="buy">Buy</string>
     <string name="cancel">Cancel</string>
-
     <string name="pro_description">Premium version contains</string>
     <string name="share_recordings">Share recordings</string>
     <string name="dropbox_upload">Uploading to Dropbox</string>
     <string name="google_drive_upload">Uploading to Google Drive</string>
     <string name="advanced_botifications">Advanced notifications</string>
     <string name="no_more_ads">No more Ads</string>
-
-    <string name="sd_card">SD card</string>
-    <string name="call_recorder_folder">Folder \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">Used memory</string>
-    <string name="sd_card_free_memory">Free memory</string>
-    <string name="run_clean_up">Clean up now</string>
-
-    <string name="share_via">Share via&#8230;</string>
-
     <string name="passcode">Passcode</string>
     <string name="enable_passcode">Enable passcode</string>
     <string name="enable_passcode_description">Protect your recordings with passcode authentication every time you start the app</string>
@@ -88,59 +59,39 @@
     <string name="reenter_new_passcode">Re-enter new passcode</string>
     <string name="wrong_passcode">Wrong passcode. Please, try again!</string>
     <string name="exit">Exit</string>
-
     <string name="cloud">Cloud</string>
-
     <string name="dropbox">Dropbox</string>
     <string name="dropbox_link">Link Dropbox account</string>
     <string name="dropbox_unlink">Unlink Dropbox account</string>
-
     <string name="google_drive">Google Drive</string>
     <string name="google_drive_link">Link Google Drive account</string>
     <string name="google_drive_unlink">Unlink Google Drive account</string>
-    <string name="connecting_to_google_drive">Connecting to Google Drive</string>
-
     <string name="login">Log In</string>
     <string name="logout">Log Out</string>
     <string name="sync_title">Upload now</string>
     <string name="sync_summary">Upload all recordings now</string>
     <string name="wifi_only">WiFi only</string>
     <string name="wifi_only_when_sync">Upload only when connected to WiFi</string>
-
-    <string name="run_pro_question_dlg_description">You are trying to run the Free version of Call Recorder but have already installed the Pro one. Would you like to go with the Pro?</string>
-    <string name="run_pro_question_dlg_title">Run Pro version</string>
-    <string name="last_recording">Last recording</string>
-    <string name="last_recording_problem_description">Looks like some problem occurred during the last recording. If this message appears again then, please, try to change Recording method or Audio source in the Settings.</string>
-    <string name="read_instructions">Read instructions</string>
     <string name="about">About</string>
-    <string name="translations">Translations</string>
     <string name="translate">Translate</string>
     <string name="help_translate">Help us with translation the app labels to your native language by using our website. Would you like to proceed?</string>
     <string name="add_translation">Add translation</string>
-
     <string name="recording_method">Recording method</string>
     <string name="no_player_app_found">No player app found to play this audio</string>
-
     <string name="player">Media Player</string>
     <string name="use_external_player">Use external player</string>
     <string name="use_external_media_player_to_play_recordings">Use external media player to play recordings</string>
     <string name="play">Play</string>
-    <string name="pause">Pause</string>
-
     <string name="number_of_seconds">Number of seconds</string>
     <string name="delay_for_incoming_calls">Delay for incoming calls in seconds</string>
     <string name="delay_for_outgoing_calls">Delay for outgoing calls in seconds</string>
-
     <string name="enabled">Enabled</string>
     <string name="disabled">Disabled</string>
     <string name="new_recordings">New recordings</string>
-    <string name="persistent_notifications">Persistent notifications</string>
-    <string name="enable_persistent_notifications">Enabled persistent notifications</string>
     <string name="usage_terms_and_privacy_policy">Usage Terms and Privacy Policy</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">By using this application you agree with its Usage Terms and Privacy Policy</string>
     <string name="supported_phones">Supported phones</string>
     <string name="list_of_known_configurations">List of known configurations</string>
-
     <string name="navigation_drawer_open">Open menu</string>
     <string name="navigation_drawer_close">Close menu</string>
     <string name="tell_a_friend">Tell a friend</string>
@@ -151,7 +102,6 @@
     <string name="use_dark_theme">Use dark theme</string>
     <string name="call">Call</string>
     <string name="note">Note</string>
-    <string name="add_to_excluded">Add to excluded</string>
     <string name="rec_info">Info</string>
     <string name="add">Add</string>
     <string name="save">Save</string>
@@ -163,8 +113,9 @@
     <string name="size">Size</string>
     <string name="thank_you_for_upgrading_to_premium">Thank you for upgrading to premium!</string>
     <string name="proceed">Proceed</string>
-    <string name="restore_license">Restore from Pro</string>
-    <string name="restore_for_purchased_users">You have to install the latest Pro version, from Google Play, that you purchased before. It will be using as license for activate premium functionality.</string>
+    <string name="restore_license">Use key</string>
+    <string name="restore_for_purchased_users">Please, install Call Recorder Key app from Google Play. It will activate premium functionality.</string>
+
     <string name="app_is_not_licensed">Application is not licensed</string>
     <string name="buy_license_in_order_to_use_app">In order to use this app, please, buy it via google play market!</string>
     <string name="pro_version_as_a_license">Call Recorder Pro version will not be updated by new features any more. It will be used for current users as a license key to activate premium functionality in the standart version. More information about it on our website.</string>
@@ -230,12 +181,9 @@
     <string name="what_can_be_improved">What can be improved?</string>
     <string name="submit">Submit</string>
 
-
-    <!--<string name="file_with_the_same_name_already_exists">File with the same name already exists. Please try to use another title.</string>-->
-    <!--<string name="file_was_not_renamed">File was not renamed. Please try to use another title.</string>-->
-    <!--<string name="problem_with_renaming_a_file">Problem with renaming a file. Please try to use another title.</string>-->
-    <!--<string name="the_file_you_are_trying_to_rename_does_not_exists">The file you are trying to rename does not exists.</string>-->
-
+    <string name="license_key">License key</string>
+    <string name="thank_you">Thank you for choosing and supporting our app!</string>
+    <string name="this_is_license_key">This is license key for Call Recorder and is only used to activate premium functionality. You need to have Call Recorder app installed on your phone.</string>
 
     <string name="app_description_free">Simple Call Recorder application that has an ability to:
 - Enable/Disable call recording
@@ -254,15 +202,12 @@ Please, not give bad marks for that. Thank you!
 
 If you have some suggestions or comments, please visit our site http://clevermobile.net and feel free to contact us.</string>
 
-    <string name="app_description_pro">Call Recorder Pro (starting from ver 6.6) will no longer be updated by new functionality but will be working like a license activator to enable premium features for standard Free version.
+    <string name="app_description_key">Call Recorder Key is app that remove Ads from Call Recorder free app and also activate Premium functionality:
 
-It still will be working as before, but without new features like:
+        - Share recordings
+        - Notification dialog after each call “Save this call?”
+        - Auto upload recordings to Dropbox or Google Drive
 
-- New UI with possibility to switch between Light and Dark themes
-- Notes for recordings. Add, edit, remove notes and search by notes.
-- Dial number from recording.
-- and more that will be adding in the next releases.
-
-So it is recommended to install standard free version and restore your license there</string>
+    You need to have Call Recorder free app installed on your phone.</string>
 
 </resources>

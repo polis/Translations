@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">कॉल रिकॉर्डर</string>
     <string name="sd">"कृपया,  फोन में एसडी कार्ड डालें!"</string>
-    <string name="contact">संपर्क सूची</string>
     <string name="selected">चयनित</string>
     <string name="settings">सेटिंग्स</string>
     <string name="notifications">नोटिफिकेसन</string>

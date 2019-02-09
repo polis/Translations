@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Regjistruesi i Thirrjeve</string>
     <string name="sd">Ju lutemi, vendosni kartën SD në telefon!</string>
-    <string name="contact">Kontaktet</string>
     <string name="selected">E përzgjedhur</string>
     <string name="settings">Cilësimet</string>
     <string name="notifications">Njoftimet</string>
@@ -56,7 +55,6 @@
     <string name="recordings">Regjistrimet</string>
     <string name="help">Ndihmë</string>
     <string name="hint_tap_on_contact_photo">Prekni mbi foton e nje kontakti për të zgjedhur një regjistrim.</string>
-    <string name="importing_recordings">Duke importuar regjistrimet…</string>
 
     <string name="buy">Blini</string>
     <string name="cancel">Anulloni</string>
@@ -119,7 +117,6 @@
     <string name="translate">Përkthe</string>
     <string name="help_translate">Na ndihmoni me përkthimin në gjuhën tuaj</string>
 
-    <string name="write_ext_storage_problem_description">E pamundur të shkruaj në magazinën e jashtme.</string>
 
 <string name="cloud">Cloud</string>
 

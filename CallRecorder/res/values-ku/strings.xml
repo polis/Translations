@@ -22,7 +22,6 @@
     <string name="recordings">تۆمارکراوەکان</string>
     <string name="help">یارمەتی</string>
     <string name="hint_tap_on_contact_photo">یەک جار دەست بنێ بەو تۆمارەی دەتهەوێت بۆ دیاریکردنی.</string>
-    <string name="importing_recordings">هێنای تۆمارەکان لەدەرەوە</string>
 
     <string name="buy">بە گوێرەی</string>
     <string name="cancel">گەڕانەوە</string>
@@ -30,7 +29,6 @@
 
     <string name="sd_card">میمۆری دەرەکی</string>
     <string name="call_recorder_folder">فایلی“تۆماری پەیوەندییەکان”</string>
-    <string name="contact">هاوریکان</string>
     <string name="selected">دسنیشان کرا</string>
     <string name="settings">ریخستنه کان</string>
     <string name="notifications">ئاگادارکه ره وه کان</string>

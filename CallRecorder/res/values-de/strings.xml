@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Call Recorder</string>
     <string name="sd">Bitte setzen Sie eine SD-Karte in das Telefon ein!</string>
-    <string name="contact">Kontakte</string>
     <string name="selected">ausgewählt</string>
     <string name="settings">Einstellungen</string>
     <string name="notifications">Benachrichtigungen</string>
@@ -56,7 +55,6 @@
     <string name="recordings">Aufnahmen</string>
     <string name="help">Hilfe</string>
     <string name="hint_tap_on_contact_photo">Tippen Sie auf ein Kontaktfoto, um einen Eintrag auszuwählen.</string>
-    <string name="importing_recordings">Importiere Aufnahmen…</string>
 
     <string name="buy">Kaufen</string>
     <string name="cancel">Abbrechen</string>
@@ -122,11 +120,7 @@
     <string name="help_translate">Helfen Sie uns auf unserer Website, diese App in Ihre Muttersprache zu übersetzen.
 Möchten Sie fortfahren?</string>
 
-    <string name="write_ext_storage_problem_description">Schreiben auf externen Speicher nicht möglich.</string>
 
-<string name="allow_to_write_to_sd_card">Schreiben auf wechselbare SD-Karte zulassen</string>
-    <string name="delete_recordings_older_then_selected_days">Alle Aufnahmen, die älter als die gewählte Anzahl von Tagen sind, werden automatisch gelöscht</string>
-    <string name="delete_recordings_on_uninstall">Alle Aufnahmen werden gelöscht, wenn \"Call Recorder\" deinstalliert wird</string>
     <string name="number_of_days">Anzahl der Tage</string>
 
     <string name="recording_method">Aufnahme-Methode</string>
@@ -139,9 +133,7 @@ Möchten Sie fortfahren?</string>
     <string name="use_external_media_player_to_play_recordings">Externen Media-Player zum Abspielen der Aufzeichnungen verwenden</string>
     <string name="play">Abspielen</string>
     <string name="pause">Pause</string>
-    <string name="not_able_to_import_to_pro">Wenn diese Option aktiv ist, kann kein automatischer Import der Aufzeichnungen in die Pro-Version erfolgen.
-Erstellen Sie außerdem Sicherungkopien aller wichtigen Aufnahmen, da sie ansonsten gelöscht werden.</string>
-    <string name="not_able_to_import">"Wenn diese Option aktiv ist und Sie sich entschließen, diese App zu deinstallieren, müssen Sie Backups aller wichtigen Aufzeichnungen erstellen, da sie ansonsten alle gelöscht werden und es wird nicht möglich sein, Aufzeichnungen zu importieren, wenn die App wieder installiert worden ist. "</string>
+
 
     <string name="number_of_seconds">Aufnahmeverzögerung in Sekunden</string>
     <string name="delay_for_incoming_calls">Verzögerung für eingehende Anrufe in Sekunden</string>

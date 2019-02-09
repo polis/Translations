@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Rejestrator Rozmów</string>
     <string name="sd">Proszę włożyć kartę SD do telefonu!</string>
-    <string name="contact">Kontakty</string>
     <string name="selected">Wybrane</string>
     <string name="settings">Ustawienia</string>
     <string name="notifications">Powiadomienia</string>
@@ -57,7 +56,6 @@
     <string name="recordings">Nagrania</string>
     <string name="help">Pomoc</string>
     <string name="hint_tap_on_contact_photo">Kliknij na zdjęcie kontaktu aby wybrać nagranie.</string>
-    <string name="importing_recordings">Importowanie nagrań…</string>
 
     <string name="buy">Kup</string>
     <string name="cancel">Anuluj</string>
@@ -122,10 +120,6 @@
     <string name="translate">Przetłumacz</string>
     <string name="help_translate">Pomóż nam z tłumaczeniem aplikacji na twój ojczysty język przy użyciu naszej strony internetowej. Chcesz zacząć tłumaczenie?</string>
 
-    <string name="write_ext_storage_problem_description">Nie można zapisać na pamięci zewnętrznej.</string>
-    <string name="allow_to_write_to_sd_card">Pozwól na zapis na karcie SD</string>
-    <string name="delete_recordings_older_then_selected_days">Wszystkie nagrania starsze niż wybrana liczba dni zostaną usunięte automatycznie</string>
-    <string name="delete_recordings_on_uninstall">Podczas odinstalowania aplikacji wszystkie nagrania zostaną automatycznie usunięte</string>
     <string name="number_of_days">Liczba dni</string>
 
 <string name="recording_method">Metody nagrywania</string>
@@ -148,8 +142,6 @@
 
     <string name="add_translation">Dodaj tłumaczenie</string>
 
-    <string name="not_able_to_import_to_pro">Jeśli ta opcja będzie włączona, wówczas nie będzie możliwości automatycznego importu nagrań do wersji Pro. Ponadto, jeśli zdecydujesz się odinstalować tę aplikację, najpierw wykonaj kopię ważnych nagrań, ponieważ wszystkie nagrania przy odinstalowywaniu zostaną usunięte.</string>
-    <string name="not_able_to_import">"Jeśli ta opcja będzie włączona a ty zdecydujesz się na odinstalowanie aplikacji, wcześniej zrób kopię ważnych nagrań, ponieważ wszystkie nagrania zostaną usunięte i nie będzie możliwe ich zaimportowanie po ponownym zainstalowaniu aplikacji. "</string>
 
     <string name="usage_terms_and_privacy_policy">Warunki użytkowania i ochrony prywatności</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Korzystając z tej aplikacji zgadzasz się z warunkami użytkowania i ochrony prywatności</string>

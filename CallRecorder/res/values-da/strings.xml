@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Opkalds Optager</string>
     <string name="sd">Du mangler at sætte et SD kort i mobilen!</string>
-    <string name="contact">Kontakter</string>
     <string name="selected">markerede</string>
     <string name="settings">Indstillinger</string>
     <string name="notifications">Underretninger</string>

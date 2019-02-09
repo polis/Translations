@@ -3,7 +3,6 @@
 
     <string name="app_name">مسجل المكالمات</string>
     <string name="sd">الرجاء ادخل بطاقة SD في الهاتف</string>
-    <string name="contact">جهات اتصال</string>
     <string name="selected">اختيار</string>
     <string name="settings">اعدادات</string>
     <string name="notifications">تنبيهات</string>
@@ -57,7 +56,6 @@
     <string name="recordings">التسجيلات</string>
     <string name="help">مساعدة</string>
     <string name="hint_tap_on_contact_photo">انقر على صورة المتصل لاختيار عنصر</string>
-    <string name="importing_recordings">استيراد التسجيلات</string>
 
     <string name="buy">شراء</string>
     <string name="cancel">إلغاء</string>
@@ -122,14 +120,9 @@
     <string name="translate">ترجم</string>
     <string name="help_translate">ساعدنا في ترجمة التطبيق الى لغتك الأم بمساعدة موقعنا. هل ترغب في إجراء العملية؟</string>
 
-    <string name="write_ext_storage_problem_description">لا يمكن التخزين بالذاكرة الخارجية</string>
 
-<string name="allow_to_write_to_sd_card">السماح بالتخزين في الذاكرة الخارجية</string>
-    <string name="delete_recordings_older_then_selected_days">جميع السجلات الأقدم من عدد الأيام المختارة سيتم مسحها تلقائيا</string>
-    <string name="not_able_to_import_to_pro">لو هذا الخيار متاح لن يكون من الممكن استيراد التسجيلات إلي النسخة المتقدمة لذلك اعمل نسخة من تسجيلاتك المهمة لو انت قررت إلغاء البرنامج لانها سوف تلغي كليا</string>
     <string name="add_translation">أضف ترجمة</string>
 
-    <string name="delete_recordings_on_uninstall">سوف يتم مسح كل التسجيلات في حالة إلغاء تنزيل البرنامج</string>
     <string name="number_of_days">عدد الأيام</string>
 
     <string name="no_player_app_found">لا يوجد تطبيق لتشغيل هذا الملف الصوتي</string>
@@ -140,7 +133,6 @@
     <string name="play">تشغيل</string>
     <string name="pause">توقف</string>
     <string name="recording_method">طريقة التسجيل</string>
-    <string name="not_able_to_import">إذا تم تمكين هذا الخيار وعليك أن تقرر لإلغاء التطبيق، ما عليك القيام به نسخة احتياطية من جميع التسجيلات الهامة، كما كل ما سيتم حذف وأنه لن يكون من الممكن استيراد التسجيلات بالعمل تلقائيا بعد تثبيت التطبيق مرة أخرى</string>
 
     <string name="number_of_seconds">عدد الثواني</string>
     <string name="delay_for_incoming_calls">تاخير تسجل المكالمات الوارده</string>

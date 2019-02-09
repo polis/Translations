@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Nahrávač hovorov</string>
     <string name="sd">Vložte prosím SD kartu do telefónu!</string>
-    <string name="contact">Kontakty</string>
     <string name="selected">Vybrané</string>
     <string name="settings">Nastavenia</string>
     <string name="notifications">Upozornenia</string>
@@ -65,7 +64,6 @@
     <string name="recordings">Nahrávky</string>
     <string name="help">Nápoveda</string>
     <string name="hint_tap_on_contact_photo">Klepni na fotku kontaktu pre voľbu položky.</string>
-    <string name="importing_recordings">Importujem nahrávky…</string>
 
     <string name="buy">Kúp</string>
     <string name="cancel">Zrušiť</string>
@@ -121,10 +119,6 @@
     <string name="translate">Preložiť</string>
     <string name="help_translate">Pomôžte nám s prekladom do vášho rodného jazyka použitím našej web stránky. Chcete pomôcť?</string>
 
-    <string name="write_ext_storage_problem_description">Nie je možné zapisovať na externé úložisko.</string>
-    <string name="allow_to_write_to_sd_card">Umožniť zápis na vyberateľnú kartu SD</string>
-    <string name="delete_recordings_older_then_selected_days">Všetky nahrávky staršie ako vybraný počet dní budú automaticky vymazané</string>
-    <string name="delete_recordings_on_uninstall">Týmto sa vymažú všetky nahrávky pri odstránení aplikácie Nahrávač hovorov</string>
     <string name="number_of_days">Počet dní</string>
 
     <string name="recording_method">Metóda nahrávania</string>
@@ -135,7 +129,6 @@
     <string name="use_external_media_player_to_play_recordings">Použiť externý prehrávač médií na prehranie nahrávok</string>
     <string name="play">Prehrať</string>
     <string name="pause">Pauza</string>
-    <string name="not_able_to_import_to_pro">Ak je táto možnosť zvolená, potom nebude možné automaticky importovať nahrávky do Pro. Urobte si zálohu dôležitých nahrávok, ak sa rozhodnete aplikáciu odinštalovať, nakoľko budú všetky vymazané.</string>
     <string name="number_of_seconds">Počet sekúnd</string>
     <string name="delay_for_incoming_calls">Oneskorenie pre prichádzajúce hovory v sekundách</string>
     <string name="delay_for_outgoing_calls">Oneskorenie pre odchádzajúce hovory v sekundách</string>
@@ -149,7 +142,6 @@
     <string name="last_recording_problem_description">Pri poslednom nahrávaní sa vyskytla chyba. Ak sa toto hlásenie objaví znovu, skúste zmeniť spôsob nahrávania alebo zdroj zvuku v Nastaveniach.</string>
     <string name="add_translation">Pridať preklad</string>
 
-    <string name="not_able_to_import">"Ak sa rozhodnete odinštalovať túto aplikáciu a táto možnosť je zapnutá, musíte si zálohovať všetky dôležité nahrávky, pretože budú vymazané a nebude možné automaticky importovať nahrávky po novej inštalácii aplikácie. "</string>
 
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Používaním tejto aplikácie súhlasíte s podmienkami a zásadami ochrany osobných údajov</string>
     <string name="supported_phones">Podporované telefóny</string>

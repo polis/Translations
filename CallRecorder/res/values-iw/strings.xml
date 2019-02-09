@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">מקליט שיחות</string>
     <string name="sd">אנא, הכנס כרטיס זיכרון חיצוני למכשירך!</string>
-    <string name="contact">אנשי קשר</string>
     <string name="selected">נבחרו</string>
     <string name="settings">הגדרות</string>
     <string name="notifications">התראות</string>
@@ -55,7 +54,6 @@
     <string name="recordings">הקלטות</string>
     <string name="help">עזרה</string>
     <string name="hint_tap_on_contact_photo">לחץ על תמונה איש קשר כדי לבחור פריט</string>
-    <string name="importing_recordings">יבוא הקלטות</string>
 
     <string name="cancel">בטל</string>
     <string name="faq_title">שאלות נפוצות</string>

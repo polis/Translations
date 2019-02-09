@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Hívásrögzítő</string>
     <string name="sd">Kérem, helyezze be az SD kártyát a telefonba!</string>
-    <string name="contact">Névjegyek</string>
     <string name="selected">Kiválasztott</string>
     <string name="settings">Beállítások</string>
     <string name="notifications">Értesítések</string>

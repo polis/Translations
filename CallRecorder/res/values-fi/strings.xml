@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="sd">Ole hyvä ja aseta SD-kortti puhelimeesi!</string>
-    <string name="contact">Yhteystiedot</string>
     <string name="app_name">Call Recorder</string>
     <string name="selected">valittu</string>
     <string name="settings">Asetukset</string>
@@ -57,7 +56,6 @@
     <string name="recordings">Tallenteet</string>
     <string name="help">Apua</string>
     <string name="hint_tap_on_contact_photo">Kosketa yhteystiedon valokuvaa valitaksesi kohteen.</string>
-    <string name="importing_recordings">Tuodaan tallenteita...</string>
 
     <string name="buy">Osta</string>
     <string name="cancel">Peru</string>
@@ -122,10 +120,6 @@
     <string name="translate">Käännä</string>
     <string name="help_translate">Auta meitä kääntämään sovellus äidinkielellesi</string>
 
-    <string name="write_ext_storage_problem_description">Ulkoiselle tallennustilalle tallentaminen epäonnistui</string>
-    <string name="allow_to_write_to_sd_card">Salli tallennus poistettavalle SD-kortille</string>
-    <string name="delete_recordings_older_then_selected_days">Kaikki tallenteet poistetaan automaattisesti, mikäli ne ovat vanhempia kuin valitsemasi aikarajaus</string>
-    <string name="delete_recordings_on_uninstall">Mikäli Call Recorder -sovellus poistetaan, poistuvat myös kaikki tallenteet</string>
     <string name="number_of_days">Aikarajaus päivinä</string>
 
     <string name="recording_method">Tallennusmenetelmä</string>

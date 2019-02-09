@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="app_name">Запис на обажданията</string>
     <string name="sd">Моля, поставете SD карта в телефона си!</string>
-    <string name="contact">Контакти</string>
     <string name="selected">избрани</string>
     <string name="settings">Настройки</string>
     <string name="notifications">Известия</string>
@@ -56,7 +55,6 @@
     <string name="recordings">Записи</string>
     <string name="help">Помощ</string>
     <string name="hint_tap_on_contact_photo">Докоснете снимката на контакта за да изберете.</string>
-    <string name="importing_recordings">Добавени записи…</string>
 
     <string name="buy">Купи</string>
     <string name="cancel">Отказ</string>
@@ -121,10 +119,6 @@
     <string name="translate">Превод</string>
     <string name="help_translate">Помогнете ни с превода на приложението на родния си език, като използвате нашия уебсайт. Искате ли да продължите?</string>
 
-    <string name="write_ext_storage_problem_description">Невъзможен е запис на карта за съхранение.</string>
-    <string name="allow_to_write_to_sd_card">Позволи запис на външна SD карта</string>
-    <string name="delete_recordings_older_then_selected_days">Всички записи по-стари от избрания период ще бъдат автоматично изтрити</string>
-    <string name="delete_recordings_on_uninstall">Това ще изтрие всички записи, ако деинсталирате приложението Call Recorder</string>
     <string name="number_of_days">Брой дни</string>
 
     <string name="recording_method">Вид на записа</string>
@@ -135,8 +129,6 @@
     <string name="use_external_media_player_to_play_recordings">Използвай външен плеър за възпроизвеждане на записаните разговори</string>
     <string name="play">Възпроизвеждане</string>
     <string name="pause">Пауза</string>
-    <string name="not_able_to_import_to_pro">Ако тази опция включена то тогава няма да е възможно автоматично импортиране на записи за Pro версията. Освен това, направете резервно копие на всички важни записи, ако решите обаче да деинсталирате приложението то всички те ще бъдат изтрити.</string>
-    <string name="not_able_to_import">"Ако тази опция е включена и решите да деинсталирате приложението, трябва да направите резервно копие на всички важни записи, тъй като всички те ще бъдат изтрити и няма да е възможно автоматично импортиране на записи, ако решите да инсталирате приложението отново. "</string>
 
     <string name="app_description_free">Приложението Call Recorder има следните функции:
 - Включване / Изключване запис на повикване

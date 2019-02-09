@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="app_name">บันทึกการโทร</string>
     <string name="sd">โปรดค้นหาการ์ดความจำ</string>
-    <string name="contact">รายชื่อ</string>
     <string name="selected">ที่เลือก</string>
     <string name="settings">ตั้งค่า</string>
     <string name="notifications">การแจ้งเตือน</string>

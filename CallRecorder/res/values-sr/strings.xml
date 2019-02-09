@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Snimač razgovora</string>
     <string name="sd">Molim vas ubacite SD karticu u telefon</string>
-    <string name="contact">Kontakti</string>
     <string name="selected">odabran</string>
     <string name="settings">Podešavanja</string>
     <string name="notifications">Obaveštenja</string>
@@ -56,7 +55,6 @@
     <string name="recordings">Snimci</string>
     <string name="help">Pomoć</string>
     <string name="hint_tap_on_contact_photo">Klikni na fotografiju kontakta za odabir.</string>
-    <string name="importing_recordings">Uvezi snimke&#8230;</string>
 
     <string name="buy">Kupi</string>
     <string name="cancel">Odustani</string>
@@ -121,6 +119,5 @@
     <string name="translate">Prevod</string>
     <string name="help_translate">Pomozite nam da prevedemo aplikaciju na vaš jezik</string>
 
-    <string name="write_ext_storage_problem_description">Nemoguć upis na eksternu memoriju</string>
 
 </resources>

@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Záznam Hovoru</string>
     <string name="sd">Prosím, vložte SD kartu do telefonu!</string>
-    <string name="contact">Kontakty</string>
     <string name="selected">vybrané</string>
     <string name="settings">Nastavení</string>
     <string name="notifications">Upozornění</string>
@@ -94,7 +93,6 @@
     <string name="wrong_passcode">Chybné heslo, opakujte zadání!</string>
     <string name="exit">Ukončit</string>
 
-    <string name="importing_recordings">Import záznamů</string>
 
     <string name="google_drive_upload">Uložit na disk Google</string>
     <string name="dropbox_upload">Uložit do Dropboxu</string>

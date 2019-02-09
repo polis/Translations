@@ -5,7 +5,6 @@
     <string name="sd">Iltimos, tashqi xotira kartasini telefonga kiriting!</string>
     <string name="selected">belgilangan</string>
     <string name="settings">Sozlamalar</string>
-    <string name="contact">Kontaktlar</string>
     <string name="notifications">Eslatmalar</string>
     <string name="notificationStatus_checkbox_title">Eslatmalarni yoqish</string>
     <string name="notificationStatus_checkbox_summary">Qo`ng`iroq yozib olingandan kein eslatish</string>
@@ -57,7 +56,6 @@
     <string name="recordings">Yozuvlar</string>
     <string name="help">Yordam</string>
     <string name="hint_tap_on_contact_photo">Belgilash uchun kontakt suratini bosing.</string>
-    <string name="importing_recordings">Yozuvlar tiklanmoqda…</string>
 
     <string name="buy">Sotib olish</string>
     <string name="cancel">Bekor</string>
@@ -123,10 +121,6 @@
     <string name="help_translate">Ushubu dasturni sizning mahalliy tilingizga tarjima qilishda veb saytimizdan foydalanishingiz mumkin. Davom etasizmi?</string>
     <string name="add_translation">Tarjima kiritish</string>
 
-    <string name="write_ext_storage_problem_description">Tashqi xotira kartasiga ma\'lumot saqlab bo`lmayapti.</string>
-    <string name="allow_to_write_to_sd_card">Tashqi xotira kartasiga yozishga ruxsat berish</string>
-    <string name="delete_recordings_older_then_selected_days">Belgilangan kundan avvalgi barcha yozuvlar avtomatik tarzda o`chirib tashlanadi</string>
-    <string name="delete_recordings_on_uninstall">Dasturni o`chirilganda barcha yozuvlarni ham o`chirib tashlash</string>
     <string name="number_of_days">Kunlar soni</string>
 
     <string name="recording_method">Yozish uslubi</string>
@@ -137,8 +131,6 @@
     <string name="use_external_media_player_to_play_recordings">Yozuvlarni tinglashda tashqi pleyerdan foydalanish</string>
     <string name="play">Tinglash</string>
     <string name="pause">Pauza</string>
-    <string name="not_able_to_import_to_pro">Agar ushbu funksiya yoqilsa, Pro versiyaga avtomatik ko`chirishning iloji yo`q. Bundan tashqari barcha kerakli yozuvlarni olib qo`yishni unutmang, chunki dastur bilan birga barcha yozuvlar ham o`chirib yuboriladi.</string>
-    <string name="not_able_to_import">"Agar bu funksiyani yoqgan holda dastuni o`chirish niyatida bo`lsangingiz, barcha kerakli yozuvlar saqlab qo`yishni unutmang, chunki ularning barchasi o`chirib yuboriladi va ularni dasturni qayta o`rnatrishdan so`ng tiklashning imkoni bo`lmaydi. "</string>
 
     <string name="number_of_seconds">Soniyalar soni</string>
     <string name="delay_for_incoming_calls">Kiruvchi qo`ng`iroqlarni yozishdagi ushlab turish soniyada</string>

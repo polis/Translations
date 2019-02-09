@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">ضبط تماس</string>
     <string name="sd">لطفاً کارت حافظه را وارد کنید!</string>
-    <string name="contact">مخاطبین</string>
     <string name="selected">انتخاب شد</string>
     <string name="settings">تنظیمات</string>
     <string name="notifications">اعلانات</string>
@@ -56,7 +55,6 @@
     <string name="recordings">ضبط شده‌ها</string>
     <string name="help">راهنما</string>
     <string name="hint_tap_on_contact_photo">برای انتخاب یک آیتم روی تصویر مخاطب بزنید.</string>
-    <string name="importing_recordings">درحال وارد کردن ضبط شده‌ها…</string>
 
     <string name="buy">خرید</string>
     <string name="cancel">لغو</string>
@@ -121,10 +119,6 @@
     <string name="translate">ترجمه کردن</string>
     <string name="help_translate">به ما در ترجمه‌ی زبان های ناموجود کمک کنید، با استفاده از وب سایت ما. آیا مایل به ادامه هستید؟</string>
 
-    <string name="write_ext_storage_problem_description">قادر به ذخیره در حافظه خارجی نیستید.</string>
-    <string name="allow_to_write_to_sd_card">اجازه دادن برای نوشتن در کارت حافظه خارجی قابل حمل</string>
-    <string name="delete_recordings_older_then_selected_days">همه تماس های ضبط شده قدیمی تر پس از انتخاب دوره روزانه به صورت خودکار حذف خواهند شد</string>
-    <string name="delete_recordings_on_uninstall">اکر برنامه ضبط تماس حذف شود همه تماس های ضبط شده حذف خواهند شد</string>
     <string name="number_of_days"> تعداد روزها</string>
 
     <string name="recording_method">شیوه ضبط</string>
@@ -135,8 +129,6 @@
     <string name="play">اجرا</string>
     <string name="pause">مکث</string>
     <string name="player">پخش کننده</string>
-    <string name="not_able_to_import_to_pro">اگر این گزینه فعال باشد سپس این امکان وجود نخواهد داشت برای وارد کردن خودکار به نسخه حرفه ای. علاوه بر این، انجام پشتیبان گیری از تمام ضبط مهم است اگر شما تصمیم به حذف این برنامه دارید همه آنها حذف خواهد شد.</string>
-    <string name="not_able_to_import">"اگر این گزینه فعال باشد و شما تصمیم به حذف نرم افزار داشته باشید، شما باید تهیه پشتیبان از تمام ضبط های مهم را  انجام دهید، همه آنها حذف خواهند شد و آن ممکن نخواهد بود به طور خودکار ضبط ها بعد از نصب برنامه دوباره وارد شوند. "</string>
 
     <string name="app_description_pro">ضبط تماس حرفه ای (با شروع از نسخه 6.6) دیگر توسط قابلیت های جدید به روز خواهد شد اما مثل یک فعال ساز مجوز کار خواهد کرد برای فعال کردن ویژگی های نسخه حرفه ای ، نسخه رایگان است.
 

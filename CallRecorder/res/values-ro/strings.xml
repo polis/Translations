@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Inregistrator de apeluri</string>
     <string name="sd">Vă rugăm, introduceți cardul-MicroSD în telefon!</string>
-    <string name="contact">Contacte</string>
     <string name="selected">selectat</string>
     <string name="settings">Setări</string>
     <string name="notifications">Notificări</string>
@@ -56,7 +55,6 @@
     <string name="recordings">Înregistrări</string>
     <string name="help">Ajutor</string>
     <string name="hint_tap_on_contact_photo">Apăsați pe o fotografie de contact pentru a selecta un element.</string>
-    <string name="importing_recordings">Se importă înregistrări…</string>
 
     <string name="buy">Cumpără</string>
     <string name="cancel">Anulare</string>
@@ -121,11 +119,7 @@
     <string name="translate">Traduceți</string>
     <string name="help_translate">Ajutați-ne cu traducerea în limba dumneavoastra natala</string>
 
-    <string name="write_ext_storage_problem_description">Nu se poate scrie în stocarea externă.</string>
-    
-<string name="allow_to_write_to_sd_card">Permiteți înmagazinarea pe cardul SD</string>
-    <string name="delete_recordings_older_then_selected_days">Toate înregistrările mai vechi de perioada selectată vor fi şterse automat</string>
-    <string name="delete_recordings_on_uninstall">Se vor şterge toate înregistrările dacă dezinstalați aplicația Call Recorder</string>
+
     <string name="number_of_days">Numărul de zile</string>
 
     <string name="recording_method">Metoda de înregistrare</string>
@@ -137,8 +131,6 @@
     <string name="play">Rulează.</string>
     <string name="pause">Pauză</string>
     <string name="number_of_seconds">Număr de secunde</string>
-    <string name="not_able_to_import_to_pro">Daca aceasta optiune este pornita, atunci nu va fi posibil sa importati automat inregistrari in versiunea Pro. In plus, salvati toate inregistrarile importante daca decideti sa dezinstalati aplicatia, pentru ca acestea vor fi sterse.</string>
-    <string name="not_able_to_import">"Daca aceasta optiune este activa si decideti sa dezinstalati aplicatia,  trebuie sa salvati toate inregistrarile importante deoarece ele vor fi sterse si nu va fi posibil sa importati automat inregistrari dupa instalarea din nou a aplicatiel. "</string>
 
     <string name="delay_for_incoming_calls">Intarziere pentru apelurile receptionate, in secunde</string>
     <string name="delay_for_outgoing_calls">Intarziere pentru apelurile efectuate, in secunde</string>

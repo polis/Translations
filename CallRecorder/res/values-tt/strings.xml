@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="app_name">Шалтыратуны яздыру</string>
     <string name="sd">Зинһар, SD картаны телефонга урнаштырыгыз!</string>
-    <string name="contact">"Челтәрләр "</string>
     <string name="selected">сайланды</string>
     <string name="settings">Көйләүләр</string>
     <string name="notifications">"Хәбәрләр "</string>
