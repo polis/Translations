@@ -211,8 +211,8 @@
     <string name="path">Путь</string>
     <string name="size">Размер</string>
     <string name="proceed">Продолжить</string>
-    <string name="restore_license">Возобновить с Про</string>
-    <string name="restore_for_purchased_users">Вы должны установить последнюю версию Про, с Google Play, купленную ранее. Она будет использована как лицензия для активации премиум функций.</string>
+    <string name="restore_license">Использовать ключ</string>
+    <string name="restore_for_purchased_users">Пожалуйста, установите приложение Call Recorder Key с Google Play. Оно активирует премиум функционал.</string>
     <string name="thank_you_for_upgrading_to_premium">Благодарим вас за обновление до премиум!</string>
     <string name="permissions">Разрешения</string>
     <string name="in_order_to_work_please_grand_permission">Чтобы приложение работало корректно, пожалуйста, дайте следующие разрешения</string>
@@ -280,5 +280,9 @@
     <string name="what_can_be_improved">Что можно улучшить?</string>
     <string name="submit">Отправить</string>
 
+
+    <string name="license_key">Лицензионный ключ</string>
+    <string name="thank_you">Спасибо что выбрали и пользуетесь нашим приложением!</string>
+    <string name="this_is_license_key">Это лицензионный ключ для приложения Запись Звонков который используется только для активации премиальных функций. Приложение Запись Звонков должно быть установлено на вашем телефоне.</string>
 
     </resources>
