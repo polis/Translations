@@ -184,8 +184,8 @@
     <string name="size">Розмір</string>
     <string name="thank_you_for_upgrading_to_premium">Дякую вам, за оновлення до преміум версії!</string>
     <string name="proceed">Продовжити</string>
-    <string name="restore_license">Відновити з Про</string>
-    <string name="restore_for_purchased_users">Ви повинні установити Про версію, з Google Play, яку ви придбали раніше. Вона буде використовуватись як ліцензія для активації преміум функцій.</string>
+    <string name="restore_license">Використати ключ</string>
+    <string name="restore_for_purchased_users">Будь ласка, встановіть аплікацію Call Recorder Key, з Google Play. Вона активує преміум функції.</string>
     <string name="permissions">Дозволи</string>
     <string name="in_order_to_work_please_grand_permission">Для того щоб коректно працювати, будь ласка, надайте наступні дозволи для дотатку</string>
     <string name="read_more">Читати більше</string>
@@ -278,5 +278,9 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
     <string name="what_can_be_improved">Що можна удосконалити?</string>
     <string name="submit">Відіслати</string>
 
+
+    <string name="license_key">Ліцензійний ключ</string>
+    <string name="thank_you">Дякуємо що вибрали та користуєтесь нашим додатком!</string>
+    <string name="this_is_license_key">Це ліцензійний ключ для додатку Запис Дзвінків і використвується тільки щоб активувати преміум функції. Ви повинни мати додаток Запис Дзвінків установленним на вашому телефоні.</string>
 
     </resources>
