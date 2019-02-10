@@ -175,8 +175,8 @@
     <string name="size">Grootte</string>
     <string name="thank_you_for_upgrading_to_premium">Bedankt voor het opwaarderen naar Premium!</string>
     <string name="proceed">Voortgaan</string>
-    <string name="restore_license">Pro licentie herstellen</string>
-    <string name="restore_for_purchased_users">Je moet de laatst gekochte Pro versie van Google Play herinstalleren. Die wordt gebruikt om de Premium functies te activeren.</string>
+    <string name="restore_license">Gebruik licentiesleutel</string>
+    <string name="restore_for_purchased_users">Gebruik de Call Recorder Sleutel app van Google Play. Die activeert de Premium functies.</string>
     <string name="app_is_not_licensed">Applicatie heeft geen licentie</string>
     <string name="buy_license_in_order_to_use_app">Om deze app te gebruiken, koop je het a.u.b. via Google Play!</string>
     <string name="pro_version_as_a_license">Call Recorder Pro (vanaf versie 6.6) wordt niet meer bijgewerkt met nieuwe functies, maar het werkt sindsdien als licentie sleutel om de premium functies van de standaard Free versie vrij te geven.</string>
@@ -269,4 +269,16 @@ Dus wordt aanbevolen om de standaard Free versie te installeren en de licentie d
     <string name="submit">Voorleggen</string>
 
 
-    </resources>
+    <string name="license_key">Licentiesleutel</string>
+    <string name="thank_you">Bedankt voor gebruik en ondersteuning van onze app!</string>
+    <string name="this_is_license_key">Dit is de licentiesleutel app voor Call Recorder die de premium functies activeert. Je moet eerst de Call Recorder app installeren.</string>
+
+    <string name="app_description_key">Call Recorder Key app verwijdert de adverenties uit de Call Recorder Free app. Het activeert ook de Premium functies:
+
+ - Opnames delen
+ - Dialoog melding na elke oproep: \"Deze opname bewaren?\"
+ - Automatisch opnames opnames uploaden naaar Dropbox of Google Drive
+
+ De Call Recorder Free app moet geinstalleerd zijn op je telefoon.</string>
+
+</resources>
