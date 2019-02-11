@@ -154,7 +154,7 @@
     <string name="tap_here_to_troubleshoot">Kliknij tutaj aby rozwiązać problemy</string>
     <string name="recording_problem">Problem z nagrywaniem?</string>
     <string name="recording_notification">Powiadomienie o nagrywaniu</string>
-    <string name="show_notification_during_recording">Pokaż powiadomienie podczas nagrywania</string>
+    <string name="show_notification_during_recording">Pokaż powiadomienie o nagrywaniu</string>
 
     <string name="app_description_free">Prosta aplikacja do nagrywania rozmów, dzięki której możesz:
  - włączać/wyłączać nagrywanie rozmów,
@@ -174,7 +174,7 @@ Jeśli masz jakieś sugestie lub komentarze, proszę odwiedź naszą stronę int
 
 
 
-<string name="recording_filter">Filtr nagrywania</string>
+<string name="recording_filter">Filtr nagrań</string>
     <string name="filter">Filtruj</string>
     <string name="use_filtering_by_phone_numbers">Filtruj numerami telefonu</string>
     <string name="filtering_method">Metoda filtrowania</string>
