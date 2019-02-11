@@ -1,28 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="sd">Molimo umetnite SD karticu u uređaj</string>
-    <string name="selected">odabrano</string>
     <string name="settings">Postavke</string>
     <string name="notifications">Obavijesti</string>
     <string name="notificationStatus_checkbox_title">Omogući obavijesti</string>
     <string name="notificationStatus_checkbox_summary">Prikaži traku obavijesti poslije svakog snimljenog poziva</string>
     <string name="saveRecordQuestion_checkbox_summary">Pitaj nakon svakog snimljenog poziva</string>
-    <string name="deleteRecord_title">Automatsko čišćenje</string>
     <string name="recording">Snimanje</string>
-    <string name="deleteRecord_summary">Izbriši snimke</string>
     <string name="audioSource_title">Izvor zvuka</string>
-    <string name="audioChannel_title">Audio kanal</string>
     <string name="fileFormat_title">Format zapisa</string>
-    <string name="recordingQuality_title">Kvaliteta zapisa</string>
-    <string name="email_subject">Snimljeni pozivi</string>
-	<string name="buy_category_description">Pro verzija</string>
-	<string name="buy_category_title">Kupi Call Recorder Pro verziju</string>
-	<string name="buy_summary">Bez oglasa i s dodatnim mogućnostima</string>
 
 	<string name="rate">Molimo ocijenite ovu aplikaciju</string>
 	<string name="rateLater">Kasnije</string>
-    <string name="start_notification">Otpočelo snimanje poziva</string>    
-    <string name="stop_notification">Zaustavljeno snimanje poziva</string>
 
     <string name="save_the_call">Snimiti ovaj poziv?</string>
     <string name="yes">Da</string>
@@ -30,13 +19,10 @@
 
 	<string name="unknown">Nepoznato</string>
     <string name="hidden">Skriveno</string>
-	<string name="start_recording">Call Recorder radi!</string>
     <string name="start_recording_details">Svi Vaši budući razgovori bit će snimljeni.</string>
-    <string name="stop_recording">Uključi snimanje (ON)!</string>
     <string name="stop_recording_details">Recorder je trenutno isključen.</string>
 
-    <string name="new_call">Snimljen je novi poziv!</string>    
-    <string name="info">Informacija</string>       
+    <string name="info">Informacija</string>
     <string name="faq_title">Pitanja</string>
     <string name="faq_summary">Česta pitanja</string>
     <string name="other_app_title">Sve aplikacije</string>
@@ -50,8 +36,6 @@
     <string name="delete">Izbriši</string>
     <string name="select_all">Odaberi sve</string>
     <string name="recordings">Snimke</string>
-    <string name="help">Pomoć</string>
-    <string name="hint_tap_on_contact_photo">Dodirni sličicu kontakta kako bi ga odabrao</string>
 
     <string name="buy">Kupi</string>
     <string name="cancel">Poništi</string>

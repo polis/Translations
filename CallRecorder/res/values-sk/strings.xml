@@ -2,30 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Nahrávač hovorov</string>
     <string name="sd">Vložte prosím SD kartu do telefónu!</string>
-    <string name="selected">Vybrané</string>
     <string name="settings">Nastavenia</string>
     <string name="notifications">Upozornenia</string>
     <string name="notificationStatus_checkbox_title">Zapnúť upozornenia</string>
     <string name="notificationStatus_checkbox_summary">Zobraziť v paneli oznámení po skončení hovoru</string>
     <string name="saveRecordQuestion_checkbox_summary">Zobraziť dialóg po skončení hovoru</string>
     <string name="storage">Úložisko</string>
-    <string name="deleteRecord_title">Automatické čistenie</string>
-    <string name="deleteRecord_summary">Vymazať nahrávky</string>
     <string name="recording">Nastavenie nahrávania</string>
     <string name="audioSource_title">Zdroj zvuku</string>
-    <string name="audioChannel_title">Audio kanál</string>
     <string name="fileFormat_title">Formát súboru</string>
-    <string name="recordingQuality_title">Kvalita nahrávania</string>
-    <string name="email_subject">Nahrané hovory</string>
-	<string name="buy_category_description">Verzia Pro</string>	
-	<string name="buy_category_title">Kúpiť verziu Call Redorder Pro</string>	
-	<string name="buy_summary">S doplnkovými funkciami a bez reklám</string>	
 
 	<string name="rate">Ohodnoťte prosím túto aplikáciu</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">Neskôr</string>
-    <string name="start_notification">Nahrávanie hovoru spustené</string>    
-    <string name="stop_notification">Nahrávanie hovoru zastavené</string>
 
     <string name="save_the_call">Uložiť tento hovor?</string>    
     <string name="yes">Áno</string>    
@@ -33,13 +22,10 @@
 
 	<string name="unknown">Neznáme</string>
 	<string name="hidden">Skryté</string>	
-	<string name="start_recording">Nahrávanie hovoru funguje!</string>    
-    <string name="start_recording_details">Všetky budúce hovory budú uložené.</string>    
-    <string name="stop_recording">Zapnúť nahrávanie!</string>
+    <string name="start_recording_details">Všetky budúce hovory budú uložené.</string>
     <string name="stop_recording_details">V súčasnosti je nahrávač vypnutý.</string>
 
-    <string name="new_call">Nový hovor bol nahraný!</string>    
-    <string name="info">Informácie</string>       
+    <string name="info">Informácie</string>
     <string name="faq_title">Často kladené otázky (FAQ)</string>       
     <string name="faq_summary">Ísť na FAQ stránku Nahrávača hovorov</string>       
     <string name="other_app_title">Všetky aplikácie od Clever Mobile</string>       
@@ -62,8 +48,6 @@
     <string name="delete">zmazať</string>
     <string name="select_all">vybrať všetko</string>
     <string name="recordings">Nahrávky</string>
-    <string name="help">Nápoveda</string>
-    <string name="hint_tap_on_contact_photo">Klepni na fotku kontaktu pre voľbu položky.</string>
 
     <string name="buy">Kúp</string>
     <string name="cancel">Zrušiť</string>
@@ -75,15 +59,9 @@
     <string name="advanced_botifications">pokročilé upozornenia</string>
     <string name="no_more_ads">už žiadne reklamy</string>
 
-    <string name="sd_card">Karta SD</string>
-    <string name="call_recorder_folder">Adresár „CallRecorder“</string>
-    <string name="sd_card_memory_occupied">Použitá pamäť</string>
-    <string name="sd_card_free_memory">Voľná pamäť</string>
     <string name="total_files">Súborov celkom</string>
     <string name="import_recordings">Importuj nahrávky</string>
-    <string name="run_clean_up">Vyčistiť teraz</string>
     <string name="cleaning">Odstraňujem staré nahrávky…</string>
-    <string name="share_via">Zdieľať cez…</string>
 
     <string name="passcode">Heslo</string>
     <string name="enable_passcode">Zapnúť ochranu heslom</string>
@@ -105,17 +83,11 @@
     <string name="google_drive">Disk Google</string>
     <string name="google_drive_link">Pripojiť účet Disku Google</string>
     <string name="google_drive_unlink">Odpojiť účet Disku Google</string>
-    <string name="connecting_to_google_drive">Pripájam sa k Disku Google</string>
 
     <string name="wifi_only">Iba na WiFi</string>
     <string name="wifi_only_when_sync">Synchronizovať iba pri pripojení na WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Pokúšate sa spustiť Free verziu Nahrávača Hovorov, no máte už nainštalovanú verziu Pro. Chcete spustiť verziu Pro?</string>
-    <string name="run_pro_question_dlg_title">Spustiť verziu Pro</string>
-    <string name="last_recording">Posledná nahrávka</string>
-    <string name="read_instructions">Prečítajte si návod</string>
     <string name="about">O aplikácii</string>
-    <string name="translations">Preklady</string>
     <string name="translate">Preložiť</string>
     <string name="help_translate">Pomôžte nám s prekladom do vášho rodného jazyka použitím našej web stránky. Chcete pomôcť?</string>
 
@@ -128,7 +100,6 @@
     <string name="use_external_player">Použiť externý prehrávač</string>
     <string name="use_external_media_player_to_play_recordings">Použiť externý prehrávač médií na prehranie nahrávok</string>
     <string name="play">Prehrať</string>
-    <string name="pause">Pauza</string>
     <string name="number_of_seconds">Počet sekúnd</string>
     <string name="delay_for_incoming_calls">Oneskorenie pre prichádzajúce hovory v sekundách</string>
     <string name="delay_for_outgoing_calls">Oneskorenie pre odchádzajúce hovory v sekundách</string>
@@ -136,10 +107,7 @@
     <string name="enabled">Povolené</string>
     <string name="disabled">Zakázané</string>
     <string name="new_recordings">Nové nahrávky</string>
-    <string name="persistent_notifications">Trvalé oznámenia</string>
-    <string name="enable_persistent_notifications">Trvalé oznámenia povolené</string>
     <string name="usage_terms_and_privacy_policy">Podmienky použitia a politika ochrany súkromia</string>
-    <string name="last_recording_problem_description">Pri poslednom nahrávaní sa vyskytla chyba. Ak sa toto hlásenie objaví znovu, skúste zmeniť spôsob nahrávania alebo zdroj zvuku v Nastaveniach.</string>
     <string name="add_translation">Pridať preklad</string>
 
 
@@ -157,7 +125,6 @@
     <string name="use_dark_theme">Tmavá téma</string>
     <string name="call">Hovor</string>
     <string name="note">Poznámka</string>
-    <string name="add_to_excluded">Pridať výnimku</string>
     <string name="rec_info">Info</string>
     <string name="add">Pridať</string>
     <string name="save">Uložiť</string>
@@ -198,15 +165,6 @@ Please, not give bad marks for that. Thank you!
 
 Ak máte nejaké návrhy alebo pripomienky, neváhajte sa na nás obrátiť a prosím navštívte naše stránky http://clevermobile.net."</string>
 
-    <string name="app_description_pro">Call Recorder Pro (od verzie 6.6) nebude ďalej aktualizovaný o nové funkcie, bude slúžiť ako licenčný kľúč pre aktiváciu prémiových funkcií štandardnej free verzie.
 
-Bude stále fungovať ako predtým, ale bez nových funkcii ako sú:
-
-- New UI with possibility to switch between Light and Dark themes
-- Notes for recordings. Add, edit, remove notes and search by notes.
-- Dial number from recording.
-- and more that will be adding in the next releases.
-
-So it is recommended to install standard free version and restore your license there</string>
 
 </resources>

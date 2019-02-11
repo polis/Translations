@@ -2,31 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Çağrı Kaydedici</string>
     <string name="sd">Lütfen telefona SD kart takın!</string>
-    <string name="contact">Kişiler</string>
-    <string name="selected">seçildi</string>
     <string name="settings">Ayarlar</string>
     <string name="notifications">Bildirimler</string>
     <string name="notificationStatus_checkbox_title">Bildirimleri etkinleştir</string>
     <string name="notificationStatus_checkbox_summary">Her çağrı kaydından sonra bildirim çubuğunda göster</string>
     <string name="saveRecordQuestion_checkbox_summary">Her çağrıdan sonra kaydedilmesi için sor</string>
     <string name="storage">Depolama</string>
-    <string name="deleteRecord_title">Otomatik temizleme</string>
-    <string name="deleteRecord_summary">Kayıtları sil</string>
     <string name="recording">Kayıt</string>
     <string name="audioSource_title">Ses kaynağı</string>
-    <string name="audioChannel_title">Ses kanalı</string>
     <string name="fileFormat_title">Dosya biçimi</string>
-    <string name="recordingQuality_title">Kayıt kalitesi</string>
-    <string name="email_subject">Kayıtlı çağrılar</string>
-	<string name="buy_category_description">Pro sürüm</string>
-	<string name="buy_category_title">Çağrı Kaydedici Pro sürümünü satın al</string>
-	<string name="buy_summary">Reklamsız ve ek özelliklerle</string>
 
 	<string name="rate">Lütfen bu uygulamayı değerlendirin</string>
 	<string name="rateOk">Tamam</string>
 	<string name="rateLater">Sonra</string>
-    <string name="start_notification">Çağrı Kaydı Başlatıldı</string>
-    <string name="stop_notification">Çağrı Kaydı Durduruldu</string>
 
     <string name="save_the_call">Bu çağrı kaydedilsin mi?</string>
     <string name="yes">Evet</string>
@@ -34,12 +22,9 @@
 
 	<string name="unknown">Bilinmeyen</string>
 	<string name="hidden">Gizli</string>
-	<string name="start_recording">Çağrı Kaydedici çalışıyor!</string>
     <string name="start_recording_details">Bundan sonra tüm çağrılarınız kaydedilecek.</string>
-    <string name="stop_recording">Kaydı başlat!</string>
     <string name="stop_recording_details">Kaydedici şu anda kapatılmış durumda.</string>
 
-    <string name="new_call">Yeni çağrı kaydediliyor</string>
     <string name="info">Bilgi</string>
     <string name="faq_title">SSS (Sıkça Sorulan Sorular)</string>
     <string name="faq_summary">Sıkça Sorulan Sorular</string>
@@ -54,9 +39,6 @@
     <string name="delete">Sil</string>
     <string name="select_all">Tümünü seç</string>
     <string name="recordings">Kayıtlar</string>
-    <string name="help">Yardım</string>
-    <string name="hint_tap_on_contact_photo">Ögeyi seçmek için bir kişinin resmine tıkla.</string>
-    <string name="importing_recordings">Kayıtlar içe aktarılıyor…</string>
 
     <string name="buy">Satın al</string>
     <string name="cancel">İptal</string>
@@ -68,15 +50,9 @@
     <string name="advanced_botifications">Gelişmiş bildirimler</string>
     <string name="no_more_ads">Reklam yok</string>
 
-    <string name="sd_card">SD kart</string>
-    <string name="call_recorder_folder">\"CallRecorder\" dizini</string>
-    <string name="sd_card_memory_occupied">- Kullanılan hafıza</string>
-    <string name="sd_card_free_memory">- Boş hafıza</string>
     <string name="total_files">- Toplam dosya</string>
     <string name="import_recordings">Kayıtları içe aktar</string>
-    <string name="run_clean_up">Şimdi temizle</string>
     <string name="cleaning">Temizleniyor</string>
-    <string name="share_via">… ile paylaş</string>
 
     <string name="passcode">Parola</string>
     <string name="enable_passcode">Parolayı doğrula</string>
@@ -102,7 +78,6 @@
     <string name="google_drive">Google Drive</string>
     <string name="google_drive_link">Google Drive hesabı bağla</string>
     <string name="google_drive_unlink">Google Drive hesap bağlantısını kaldır</string>
-    <string name="connecting_to_google_drive">Google Drive\'a bağlanıyor</string>
 
     <string name="login">Oturum aç</string>
     <string name="logout">Çıkış Yap</string>
@@ -111,21 +86,11 @@
     <string name="wifi_only">Sadece WiFi</string>
     <string name="wifi_only_when_sync">Yalnızca WiFi\'ye bağlıyken yükle</string>
 
-    <string name="run_pro_question_dlg_description">Çağrı Kaydedicinin ücretsiz sürümünü çalıştırmayı deniyorsun ama Pro zaten yüklü. Pro\'ya gitmek istiyor musun?</string>
-    <string name="run_pro_question_dlg_title">Pro sürümünü çalıştır</string>
-    <string name="last_recording">Son kayıtlar</string>
-    <string name="last_recording_problem_description">Son kayıt esnasında bir problem oluştu. Eğer bu mesaj tekrar görüntülenirse lütfen Ayarlardan dosya biçimini ya da Ses kaynağını değiştirmeyi dene.</string>
-    <string name="read_instructions">Talimatları oku</string>
     <string name="about">Hakkında</string>
-    <string name="translations">Çeviriler</string>
     <string name="translate">Çevir</string>
     <string name="help_translate">Sitemizi kullanarak uygulamamızı asıl dilinize çevirmemizde bize yardım et. Devam etmek ister misiniz?</string>
 
-    <string name="write_ext_storage_problem_description">Harici depolamaya yazılamadı.</string>
 
-<string name="allow_to_write_to_sd_card">Çıkarılabilir SD karta yazmak için izin verin</string>
-    <string name="delete_recordings_older_then_selected_days">Seçilen günlük süreden daha eski tüm kayıtlar otomatik olarak silinecek</string>
-    <string name="delete_recordings_on_uninstall">Çağrı Kaydedici uygulamasını kaldırmak tüm kayıtların silinmesine sebep olur</string>
     <string name="number_of_days">Gün sayısı</string>
 
     <string name="recording_method">Kayıt yöntemi</string>
@@ -135,7 +100,6 @@
     <string name="use_external_player">Harici bir oynatıcı kullan</string>
     <string name="use_external_media_player_to_play_recordings">Kayıtları yürütmek için harici bir medya oynatıcısı kullan</string>
     <string name="play">Yürüt</string>
-    <string name="pause">Durdur</string>
     <string name="enabled">Aktifleştir</string>
     <string name="disabled">Pasifleştir</string>
     <string name="new_recordings">Yeni kayıtlar</string>
@@ -162,13 +126,10 @@ Eğer önerileriniz veya yorumlarınız varsa, lütfen sitemizi ziyaret edin htt
     <string name="number_of_seconds">Saniye sayısı</string>
     <string name="list_of_known_configurations">Bilinen yapılandırmaların listesi</string>
 
-    <string name="not_able_to_import">"Bu seçenek aktifken uygulamayı kaldırmaya karar verdiğinizde tüm kayıtlar da silineceğinden önemli kayıtlarınızı yedekleyin. Uygulamayı geri yüklemek kayıtlarınızı otomatik olarak geri getirmez. "</string>
 
     <string name="delay_for_incoming_calls">Gelen çağrıda anlık gecikme</string>
     <string name="delay_for_outgoing_calls">Giden aramada anlık gecikme</string>
 
-    <string name="persistent_notifications">Sürekli bildirimler</string>
-    <string name="enable_persistent_notifications">Sürekli bildirimler aktif</string>
     <string name="navigation_drawer_open">Menüyü aç</string>
     <string name="navigation_drawer_close">Menüyü kapat</string>
     <string name="tell_a_friend">Arkadaşına söyle</string>
@@ -179,14 +140,12 @@ Eğer önerileriniz veya yorumlarınız varsa, lütfen sitemizi ziyaret edin htt
     <string name="use_dark_theme">Koyu tema kullan</string>
     <string name="call">Çağrı</string>
     <string name="note">Not</string>
-    <string name="add_to_excluded">Hariçlere ekle</string>
     <string name="rec_info">Bilgi</string>
 
     <string name="app_is_not_licensed">Uygulama lisanslı değil</string>
     <string name="buy_license_in_order_to_use_app">Lütfen uygulamayı sadece Google Play Marketten satın alın!</string>
     <string name="add_translation">Çeviri ekle</string>
 
-    <string name="not_able_to_import_to_pro">Eğer bu seçenek aktif edilirse kayıtları Pro versiyonuna otomatik olarak aktarmak mümkün olmayacaktır. Ayrıca, önemli olan tüm kayıtları yedekleyin eğer uygulamayı kaldırmaya karar verirseniz onların hepsi silinir.</string>
     <string name="add">Ekle</string>
     <string name="save">Kaydet</string>
     <string name="close">Kapat</string>
@@ -202,27 +161,7 @@ Eğer önerileriniz veya yorumlarınız varsa, lütfen sitemizi ziyaret edin htt
     <string name="pro_version_as_a_license">Call Recorder Pro versiyon artık yeni özellikler ile güncellenmeyecek. Geçerli kullanıcılar, standart sürümde premium işlevselliği etkinleştirmek için lisans anahtarı kullanacaktır. Bunun hakkında daha fazla bilgi websitemizde.</string>
     <string name="check_again">Tekrar kontrol et</string>
 
-    <string name="app_description_pro">Bu uygulama bazı telefonlar için çalışmamakta. Bu yüzden
-lütfen, bunu almadan önce ücretsiz sürümümüzü deneyin.
-Ücretsiz sürümü telefonunuz için uygun değilse - paranızı Pro sürümü satın almak için harcamayın!
 
-*** PRO SÜRÜMÜN KURULMASINDAN SONRA SADECE ÜCRETSİZ VERSİYONDAN KAYDI KAPATIN ***
-
-Call Recorder\'in Pro sürümü reklamsız ve ek özellikler içerir.
-
-Çağrı Kaydedici uygulamasının Pro sürümü şunlara olanak sağlar:
-- Çağrı kaydetmeyi açar/kapatır
-- Tüm telefon çağrılarını kaydeder
-- Kaydedilen ses ögesine tıklayınca yürütme/durdurma
-- Kayıtlı ögeleri silme
-- Otomatik temizlemeyi önlemek için kayıtlı ögeleri kilitleyebilme
-- Seçili kayıtları paylaşın (Yalnızca Pro\'da)
-- Dropbox ve Google Drive ile senkronizasyon (Yalnızca Pro\'da)
-- Her görüşmeden sonra onaylama kutusu: Kaydı kaydetmek ister misiniz? (Yalnızca Pro\'da)
-
-Kendi dilinizde sahip olmak ve çeviri ile ilgili hazır yardım istiyorsanız, bekliyoruz! Lütfen, çeviri sayfasını buradan ziyaret edin: http://translate.clevermobile.net/projects/call-recorder/translations/
-
-Bazı önerileriniz veya yorumlarınız varsa, lütfen http://clevermobile.net sitemizi ziyaret edin ve bizimle iletişime geçmekten çekinmeyin.</string>
 
 <string name="permissions">İzinler</string>
     <string name="in_order_to_work_please_grand_permission">Uygulamanın düzgün çalışması için lütfen gerekli izinleri kontrol edin</string>

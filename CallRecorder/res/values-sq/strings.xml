@@ -2,30 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Regjistruesi i Thirrjeve</string>
     <string name="sd">Ju lutemi, vendosni kartën SD në telefon!</string>
-    <string name="selected">E përzgjedhur</string>
     <string name="settings">Cilësimet</string>
     <string name="notifications">Njoftimet</string>
     <string name="notificationStatus_checkbox_title">Aktivizoni njoftimet</string>
     <string name="notificationStatus_checkbox_summary">Shfaqni në shiritin e njoftimeve pas cdo thirrjeje të regjistruar</string>
     <string name="saveRecordQuestion_checkbox_summary">Pyesni pas çdo thirrje të regjistruar</string>
     <string name="storage">Magazina</string>
-    <string name="deleteRecord_title">Pastrimi automatik</string>
-    <string name="deleteRecord_summary">Fshini regjistrimet</string>
     <string name="recording">Regjistrimet</string>
     <string name="audioSource_title">Burimi audio</string>
-    <string name="audioChannel_title">Kanali audio</string>
     <string name="fileFormat_title">Formati i skedarit</string>
-    <string name="recordingQuality_title">Kualiteti i regjistrimit</string>
-    <string name="email_subject">Thirrjet e regjistruara</string>
-	<string name="buy_category_description">Versioni Pro</string>
-	<string name="buy_category_title">Blini  versionin Pro të Regjistruesit të Thirrjeve</string>
-	<string name="buy_summary">Pa reklama dhe me mundësi shtesë</string>
 
 	<string name="rate">Ju lutemi, vlerësoni këtë program</string>
 	<string name="rateOk">Në rregull</string>
 	<string name="rateLater">Më vonë</string>
-    <string name="start_notification">Regjistruesi i Thirrjeve Filloi</string>
-    <string name="stop_notification">Regjistruesi i Thirrjeve Ndaloi</string>
 
     <string name="save_the_call">Dëshironi ta ruani këtë thirrje?</string>
     <string name="yes">Po</string>
@@ -33,12 +22,9 @@
 
 	<string name="unknown">I panjohur</string>
     <string name="hidden">I fshehur</string>
-	<string name="start_recording">Registruesi i Thirrjeve është duke punuar!</string>
     <string name="start_recording_details">Të gjitha thirrjet e mëvonshme do të ruhen.</string>
-    <string name="stop_recording">Ndizni regjistruesin!</string>
     <string name="stop_recording_details">Aktualisht regjistruesi është i fikur.</string>
 
-    <string name="new_call">Është regjistruar thirrje e re!</string>
     <string name="info">Informacion</string>
     <string name="faq_title">PS (Pyetjet e Shpeshta)</string>
     <string name="faq_summary">Pyetjet e Shpeshta</string>
@@ -53,8 +39,6 @@
     <string name="delete">Fshini</string>
     <string name="select_all">Zgjidhini të gjitha</string>
     <string name="recordings">Regjistrimet</string>
-    <string name="help">Ndihmë</string>
-    <string name="hint_tap_on_contact_photo">Prekni mbi foton e nje kontakti për të zgjedhur një regjistrim.</string>
 
     <string name="buy">Blini</string>
     <string name="cancel">Anulloni</string>
@@ -66,15 +50,9 @@
     <string name="advanced_botifications">Njoftime të avancuara</string>
     <string name="no_more_ads">Jo më reklama</string>
 
-    <string name="sd_card">Karta SD</string>
-    <string name="call_recorder_folder">Dosja \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">- Memorja e Përdorur</string>
-    <string name="sd_card_free_memory">- Memorja e Lirë</string>
     <string name="total_files">- Skedarë në Total</string>
     <string name="import_recordings">Importoni regjistrimet</string>
-    <string name="run_clean_up">Pastroni tani</string>
     <string name="cleaning">Duke pastruar regjistrimet e vjetra…</string>
-    <string name="share_via">Shpërndani me…</string>
 
     <string name="passcode">Kodkalimi</string>
     <string name="enable_passcode">Aktivizoni kodkalimin</string>
@@ -98,7 +76,6 @@
     <string name="google_drive">Google Drive</string>
     <string name="google_drive_link">Lidhni llogarinë e Google Drive</string>
     <string name="google_drive_unlink">Shkëputni llogarinë e Google Drive</string>
-    <string name="connecting_to_google_drive">Duke u lidhur me Google Drive</string>
 
     <string name="login">Hyni</string>
     <string name="logout">Dilni</string>
@@ -107,13 +84,7 @@
     <string name="wifi_only">Vetëm me WiFi</string>
     <string name="wifi_only_when_sync">Sinkronizoni vetëm kur jeni të lidhur me WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Ju jeni duke u përpjekur të hapni versionin Falas të Regjistruesit të Thirrjeve por keni instaluar më parë versionin Pro. Dëshironi të përdorni versionin Pro?</string>
-    <string name="run_pro_question_dlg_title">Hapni versionin Pro</string>
-    <string name="last_recording">Regjistrimi i fundit</string>
-    <string name="last_recording_problem_description">Duket sikur disa probleme ndodhën gjatë regjistrimit të fundit. Nëse mesazhi shfaqet përsëri atëherë, ju lutemi, provoni të ndryshoni formatin e Skedarit ose burimin Audio tek Cilësimet.</string>
-    <string name="read_instructions">Lexoni udhëzimet</string>
     <string name="about">Rreth</string>
-    <string name="translations">Përkthimet</string>
     <string name="translate">Përkthe</string>
     <string name="help_translate">Na ndihmoni me përkthimin në gjuhën tuaj</string>
 

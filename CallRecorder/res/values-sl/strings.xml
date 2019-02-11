@@ -3,29 +3,18 @@
 <string name="app_name">Call Recorder</string>
     <string name="storage">Shramba</string>
     <string name="sd">Prosimo, vstavite SD kartico!</string>
-    <string name="selected">Izbran</string>
     <string name="settings">Nastavitve</string>
     <string name="notifications">Obvestila</string>
     <string name="notificationStatus_checkbox_title">Omogoči obvestila</string>
     <string name="notificationStatus_checkbox_summary">Po vsakem posnetem pogovoru, prikaži obvestilo</string>
     <string name="saveRecordQuestion_checkbox_summary">Vprašaj po vsakem posnetem pogovoru</string>
-    <string name="deleteRecord_title">Avtomatsko brisanje</string>
-    <string name="deleteRecord_summary">Zbriši posnetek</string>
     <string name="recording">Snemanje</string>
     <string name="audioSource_title">Izvor zvoka</string>
-    <string name="audioChannel_title">Avdio kanal</string>
     <string name="fileFormat_title">Format datoteke</string>
-    <string name="recordingQuality_title">Kvaliteta snemanja</string>
-    <string name="email_subject">Posneti pogovori</string>
-	<string name="buy_category_description">Profesionalna verzija</string>
-	<string name="buy_category_title">Kupi profesionalno verzijo</string>
-	<string name="buy_summary">Brez reklamnih sporočil in z dodatnimi funkcijami</string>
 
 	<string name="rate">Prosimo vas, ocenite to aplikacijo</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">Kasneje</string>
-    <string name="start_notification">Snemalnik je vklopljen</string>    
-    <string name="stop_notification">Snemalnik je izklopljen</string>
 
     <string name="save_the_call">Shranim ta pogovor?</string>
     <string name="yes">Da</string>
@@ -33,13 +22,10 @@
 
 	<string name="unknown">Nepoznan</string>
     <string name="hidden">Skrit</string>
-	<string name="start_recording">Call Recorder deluje!</string>
     <string name="start_recording_details">Vsi nadaljnji pogovori bodo posneti.</string>
-    <string name="stop_recording">Vključi snemanje!</string>
     <string name="stop_recording_details">Snemalnik je trenutno izključen.</string>
 
-    <string name="new_call">Nov pogovor je posnet!</string>    
-    <string name="info">Informacija</string>       
+    <string name="info">Informacija</string>
     <string name="faq_title">FAQ</string>
     <string name="faq_summary">Pogosta vprašanja</string>
     <string name="other_app_title">Vse aplikacije</string>
@@ -53,8 +39,6 @@
     <string name="delete">Zbriši</string>
     <string name="select_all">Izberi vse</string>
     <string name="recordings">Posnetki</string>
-    <string name="help">Pomoč</string>
-    <string name="hint_tap_on_contact_photo">Dotakni se slike kontakta za izbor le tega.</string>
 
     <string name="buy">Kupi</string>
     <string name="cancel">Cancel</string>
@@ -66,15 +50,9 @@
     <string name="advanced_botifications">Napredna obvestila</string>
     <string name="no_more_ads">Nič več reklam</string>
 
-    <string name="sd_card">SD kartica</string>
-    <string name="call_recorder_folder">Folder \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">Uporabljen spomin</string>
-    <string name="sd_card_free_memory">Prost spomin</string>
     <string name="total_files">Skupno število datotek</string>
     <string name="import_recordings">Uvozi posnetke</string>
-    <string name="run_clean_up">Zbriši</string>
     <string name="cleaning">Brisanje starih posnetkov…</string>
-    <string name="share_via">Deli preko…</string>
 
     <string name="passcode">Geslo</string>
     <string name="enable_passcode">Omogoči geslo</string>
@@ -100,7 +78,6 @@
     <string name="google_drive">Google Drive</string>
     <string name="google_drive_link">Povezava na Google Drive račun</string>
     <string name="google_drive_unlink">Odjavi Google Drive račun</string>
-    <string name="connecting_to_google_drive">Poveži na Google Drive</string>
 
     <string name="login">Prijava</string>
     <string name="logout">Odjava</string>
@@ -109,13 +86,7 @@
     <string name="wifi_only">Samo pri WiFi povezavi</string>
     <string name="wifi_only_when_sync">Sinhroniziraj samo ko je naprava povezana preko WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Želite zagnati Call Recorder Free verzijo, naloženo pa imate Pro verzijo. Želite nadaljevati s Pro verzijo?</string>
-    <string name="run_pro_question_dlg_title">Zaženi Pro verzijo</string>
-    <string name="last_recording">Zadnji posnetek</string>
-    <string name="last_recording_problem_description">Pri zadnjem posnetku se je pojavila težava. Če se to sporočilo ponovi, skušajte zamenjati metodo snemanja, tip datoteke ali avdio izvor, v nastavitvah.</string>
-    <string name="read_instructions">Preberi navodila</string>
     <string name="about">O programu</string>
-    <string name="translations">Prevodi</string>
     <string name="translate">Prevod</string>
     <string name="help_translate">Pomagajte nam pri prevodu v vaš jezik preko spletne strani. želite nadaljevati?</string>
     <string name="add_translation">Dodaj prevod</string>
@@ -129,7 +100,6 @@
     <string name="use_external_player">Uporabi zunanji predvajalnik</string>
     <string name="use_external_media_player_to_play_recordings">Uporabi zunanji predvajalnik za predvajanje posnetka</string>
     <string name="play">Play</string>
-    <string name="pause">Pause</string>
 
     <string name="number_of_seconds">število sekund</string>
     <string name="delay_for_incoming_calls">Zakasnitev začetka snemanja pri dohodnih klicih</string>
@@ -138,8 +108,6 @@
     <string name="enabled">Omogoči</string>
     <string name="disabled">Onemogoči</string>
     <string name="new_recordings">nov posnetek</string>
-    <string name="persistent_notifications">Stalna obvestila</string>
-    <string name="enable_persistent_notifications">Omogoči stalna obvestila</string>
     <string name="usage_terms_and_privacy_policy">Pogoji uporabe in pravilnik o zasebnosti</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Z uporabo aplikacije soglašeta s pogoji uporabe in pravilnikom o zasebnosti</string>
     <string name="supported_phones">Podprti modeli telefonov</string>
@@ -155,7 +123,6 @@
     <string name="use_dark_theme">Uporabi temno ozadje</string>
     <string name="call">Klic</string>
     <string name="note">Zapisek</string>
-    <string name="add_to_excluded">Dodaj k izključenim</string>
     <string name="rec_info">Info</string>
     <string name="add">Dodaj</string>
     <string name="save">Shrani</string>
@@ -181,6 +148,5 @@
     <string name="pro_version_as_a_license">Call Recorder Pro version will not be updated by new features any more. It will be used for current users as a license key to activate premium functionality in the standart version. More information about it on our website.</string>
 
 
-    <string name="app_description_pro"/>
 
 </resources>

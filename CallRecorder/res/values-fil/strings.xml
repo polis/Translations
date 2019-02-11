@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="app_name">Tawag Rekorder</string>
     <string name="sd">Mangyaring, ipasok ang SD card sa telepono!</string>
-    <string name="selected">pili</string>
     <string name="settings">Mga Settings</string>
     <string name="notifications">Mga abiso</string>
     </resources>

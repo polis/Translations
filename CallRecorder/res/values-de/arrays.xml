@@ -17,13 +17,5 @@
         <item name="communication">communication</item>
     </string-array>
 
-    <string-array name="audioChannel" tools:keep="@array/audioChannel">
-        <item name="stereo">Stereo</item>
-        <item name="mono">Mono</item>
-    </string-array>
-    <string-array name="audioChannelValues" tools:keep="@array/audioChannelValues">
-        <item name="stereo">stereo</item>
-        <item name="mono">mono</item>
-    </string-array>
     
 </resources>

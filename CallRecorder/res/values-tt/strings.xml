@@ -2,29 +2,18 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="app_name">Шалтыратуны яздыру</string>
     <string name="sd">Зинһар, SD картаны телефонга урнаштырыгыз!</string>
-    <string name="selected">сайланды</string>
     <string name="settings">Көйләүләр</string>
     <string name="notifications">"Хәбәрләр "</string>
     <string name="notificationStatus_checkbox_title">Хәбәрләрне кушырга</string>
     <string name="notificationStatus_checkbox_summary">Шалтыратуны яздыргач хәбәрләрне күрсәтергә</string>
     <string name="saveRecordQuestion_checkbox_summary">һәр шалтыратудан соң сорарга</string>
-    <string name="deleteRecord_title">Автомат рәвештә чистарту</string>
-    <string name="deleteRecord_summary">Язуларны бетерергә</string>
     <string name="recording">Яздыруларның көйләнеше</string>
     <string name="audioSource_title">Яздыруның чыганагы</string>
-    <string name="audioChannel_title">Аудио канал</string>
     <string name="fileFormat_title">Файл форматы</string>
-    <string name="recordingQuality_title">Яздыруның сыйфаты</string>
-    <string name="email_subject">Язылган сөйләшүләр</string>
-	<string name="buy_category_description">Тулы версия</string>
-	<string name="buy_category_title">Тулы версияне Call Recorder сатып алырга</string>
-	<string name="buy_summary">Рекламасыз һәм өстәмә мөмкинлекләр белән</string>
 
 	<string name="rate">Зинһар, бәяләгез бу кушымтаны</string>
 	<string name="rateOk">Яхшы</string>
 	<string name="rateLater">Соңрак</string>
-    <string name="start_notification">Шалтыратуны яздыру башланды</string>    
-    <string name="stop_notification">Шалтыратуны яздыру туктады</string>
 
     <string name="save_the_call">Сакларга бу шалтыратуны?</string>
     <string name="yes">Әйе</string>
@@ -32,13 +21,10 @@
 
 	<string name="unknown">Билгесез</string>
     <string name="hidden">Яшерен</string>
-	<string name="start_recording">Шалтыратуны яздыру эшли!</string>
     <string name="start_recording_details">Бар киләсе шалтыратулар сакланачаклар.</string>
-    <string name="stop_recording">Яздыруны кушыгыз!</string>
     <string name="stop_recording_details">Бу вакытта яздыру сүнгән.</string>
 
-    <string name="new_call">Яңа сөйләшү яздырылды!</string>    
-    <string name="info">Мәгълүмат</string>       
+    <string name="info">Мәгълүмат</string>
     <string name="faq_title">Еш бирелгән сораулар</string>
     <string name="faq_summary">Сораулар һәм җавапларны карарга</string>
     <string name="other_app_title">Бар программалар</string>
@@ -52,8 +38,6 @@
     <string name="delete">Бетерергә</string>
     <string name="select_all">Барысын да сайлау</string>
     <string name="recordings">Яздырулар</string>
-    <string name="help">Ярдәм</string>
-    <string name="hint_tap_on_contact_photo">Контакттагы сурәткә басыгыз яздыруны сайларга.</string>
 
     <string name="buy">Сатып алырга</string>
     <string name="cancel">Бетерү</string>
@@ -65,13 +49,7 @@
     <string name="advanced_botifications">Киңәйтелгән хәбәрнамәләр</string>
     <string name="no_more_ads">Рекламасыз</string>
 
-    <string name="sd_card">SD карта</string>
-    <string name="call_recorder_folder">\"CallRecorder\" папкасы</string>
-    <string name="sd_card_memory_occupied">Кулланылган хәтерләр</string>
-    <string name="sd_card_free_memory">Иркен хәтерләр</string>
-    <string name="run_clean_up">Хәзер чистартырга</string>
 
-    <string name="share_via">Җибәрергә…</string>
 
     <string name="passcode">Пароль</string>
     <string name="enable_passcode">Пароль кушырга</string>
@@ -96,7 +74,6 @@
     <string name="google_drive">Google Drive болыты</string>
     <string name="google_drive_link">Google Drive’ка кушылырга</string>
     <string name="google_drive_unlink">Google Drive’тан чыгырга</string>
-    <string name="connecting_to_google_drive">Google Drive’ка кушылу</string>
 
     <string name="login">Керергә</string>
     <string name="logout">Чыгырга</string>
@@ -105,13 +82,7 @@
     <string name="wifi_only">WiFi гына</string>
     <string name="wifi_only_when_sync">WiFi кушылган чакта гына кертергә</string>
 
-    <string name="run_pro_question_dlg_description">Сез түләүсез версияне кушырга маташасыз, Pro версияне куйгансыз. Бәлки Pro версияны кушырга?</string>
-    <string name="run_pro_question_dlg_title">Pro версияне кушырга</string>
-    <string name="last_recording">Соңгы яздыру</string>
-    <string name="last_recording_problem_description">"Соңгы яздыруда хата чыкты. Тагын бу хәбәрне күрсәгез, яңадан Яздыру методын үзгәртегез яки Аудио чыганагын  Көйләнештә."</string>
-    <string name="read_instructions">Инструкцияне укырга</string>
     <string name="about">Программа турында</string>
-    <string name="translations">Тәрҗемә</string>
     <string name="translate">Тәрҗемә итү</string>
     <string name="help_translate">Ярдәм итегез безгә тәрҗемә белән узегезнең туган телегезгә, безнең сайт аркылы. Дәвам итергә?</string>
     <string name="add_translation">Тәрҗемә өстәргә</string>
@@ -123,7 +94,6 @@
     <string name="use_external_player">Башка плеер аркылы уйнарга</string>
     <string name="use_external_media_player_to_play_recordings">Башка кушымта аркылы уйнарга бу яздыруны</string>
     <string name="play">Уйнау</string>
-    <string name="pause">Вакытлыча туктату</string>
 
     <string name="number_of_seconds">Секундлар саны</string>
     <string name="delay_for_incoming_calls">Керүче чакыруларга тоткарлау секундта</string>
@@ -132,8 +102,6 @@
     <string name="enabled">Кушылган</string>
     <string name="disabled">Сүндерелгән</string>
     <string name="new_recordings">Яңа яздырулар</string>
-    <string name="persistent_notifications">Даими хәбәрнамә</string>
-    <string name="enable_persistent_notifications">Бетми торган хәбәрнамә кушылган</string>
     <string name="usage_terms_and_privacy_policy">Куллану шарты һәм конфиденциаль политикасы</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Бу кушымтаны кулланганда, сез килешәсез куллану шарты hәм конфиденциаль политика белән</string>
     <string name="supported_phones">Кулланыла торган телефонлар</string>
@@ -149,7 +117,6 @@
     <string name="use_dark_theme">Караңгы тема</string>
     <string name="call">Чакыру</string>
     <string name="note">Аңлатма</string>
-    <string name="add_to_excluded">Чыгармага өстәргә</string>
     <string name="rec_info">Инфо</string>
     <string name="add">Өстәргә</string>
     <string name="save">Сакларга</string>
@@ -232,14 +199,6 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
 
 Сорауларыгыз булса, зинhaр, безнен сайтка керегез http://clevermobile.net hэм сорарга оялмагыз бездэн.</string>
 
-    <string name="app_description_pro">"Call Recorder Pro (6.6 версиясеннэн) бутэн янартмыячакбыз яна функция белэн, ул активация очен генэ кала, премиаль функцияне кушар очен стандарт версиядэ.
 
-Ул шулай ук эшлиячэк, яна функциясез генэ:
-- Яна пользователь интерфейсы карангы Hэм якты темалар белэн.
-- Яздыруларга комментарий. Остэу, узгэрту, бетеру комментарийны hэм  эзлэу комментарийлар буенча.
-- Номерны жыю яздыру буенча.
-- hэм башкалар, яна версиялэрдэ булачаклар.
-
-Шулай очен куегез стандар тулэусез версияне hэм янартыгыз узегезнен лицензияне"</string>
 
 </resources>

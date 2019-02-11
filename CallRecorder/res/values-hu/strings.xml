@@ -2,30 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Hívásrögzítő</string>
     <string name="sd">Kérem, helyezze be az SD kártyát a telefonba!</string>
-    <string name="selected">Kiválasztott</string>
     <string name="settings">Beállítások</string>
     <string name="notifications">Értesítések</string>
     <string name="notificationStatus_checkbox_title">Értesítések engedélyezése</string>
     <string name="notificationStatus_checkbox_summary">Értesítés megjelenítése hangrögzítés után</string>
     <string name="saveRecordQuestion_checkbox_summary">Megerősítés kérése hívás után</string>
     <string name="storage">Tárhely</string>
-    <string name="deleteRecord_title">Automata törlés</string>
-    <string name="deleteRecord_summary">Összes felvétel törlése…</string>
     <string name="recording">Hangrögzítés beállítása</string>
     <string name="audioSource_title">Audió forrás</string>
-    <string name="audioChannel_title">Audió sáv</string>
     <string name="fileFormat_title">Fájlformátum</string>
-    <string name="recordingQuality_title">Felvétel minősége</string>
-    <string name="email_subject">Rögzített hívások</string>
-	<string name="buy_category_description">Pro verzió</string>
-	<string name="buy_category_title">Call Recorder Pro verzió megvásárlása</string>
-	<string name="buy_summary">Reklám nélkül, további opciókkal</string>
 
 	<string name="rate">Kérem, értékelje az applikációt</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">Később</string>
-    <string name="start_notification">Hangrögzítés megkezdve</string>
-    <string name="stop_notification">Hangrögzítés befejezve</string>
 
     <string name="save_the_call">Menti ezt a hívást?</string>
     <string name="yes">Igen</string>
@@ -33,12 +22,9 @@
 
     <string name="unknown">Ismeretlen</string>
 	<string name="hidden">Rejtett</string>
-	<string name="start_recording">A Call Recorder fut!</string>
     <string name="start_recording_details">Az összes hívása rögzítésre kerül.</string>
-    <string name="stop_recording">Rögzítés bekapcsolása!</string>
     <string name="stop_recording_details">Jelenleg a rögzítés ki van kapcsolva.</string>
 
-    <string name="new_call">Új hívás lett rögzítve!</string>
     <string name="info">Információ</string>
     <string name="faq_title">Gyakran Ismételt Kérdések (GYIK)</string>
     <string name="faq_summary">Call Recorder GYIK oldalának meglátogatása</string>

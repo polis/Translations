@@ -2,30 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Call Recorder</string>
     <string name="sd">Silahkan masukkan SD card ke dalam ponsel!</string>
-    <string name="selected">Dipilih</string>
     <string name="settings">Pengaturan</string>
     <string name="notifications">Notifikasi</string>
     <string name="notificationStatus_checkbox_title">Notifikasi diaktifkan</string>
     <string name="notificationStatus_checkbox_summary">Tampilkan notifikasi setelah rekaman selesai</string>
     <string name="saveRecordQuestion_checkbox_summary">Tampilkan dialog setelah panggilan selesai</string>
     <string name="storage">Penyimpanan</string>
-    <string name="deleteRecord_title">Pembersihan otomatis</string>
-    <string name="deleteRecord_summary">Hapus semua data rekaman</string>
     <string name="recording">Pengaturan rekaman</string>
     <string name="audioSource_title">Sumber suara</string>
-    <string name="audioChannel_title">Channel suara</string>
     <string name="fileFormat_title">Format dokumen</string>
-    <string name="recordingQuality_title">Kualitas rekaman</string>
-    <string name="email_subject">Panggilan yang sudah direkam</string>
-	<string name="buy_category_description">Versi Pro</string>	
-	<string name="buy_category_title">Beli Call Recorder versi Pro</string>	
-	<string name="buy_summary">Tanpa iklan dan dengan fitur-fitur tambahan</string>	
 
 	<string name="rate">Mohon nilai aplikasi ini</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">nanti</string>
-    <string name="start_notification">Rekaman panggilan dimulai</string>    
-    <string name="stop_notification">Rekaman panggilan dihentikan</string>    
 
     <string name="save_the_call">Simpan panggilan ini?</string>
     <string name="yes">Ya</string>    
@@ -33,13 +22,10 @@
 
     <string name="unknown">Tidak diketahui</string>
 	<string name="hidden">Tersembunyi</string>	
-	<string name="start_recording">Call Recorder berfungsi!</string>    
-    <string name="start_recording_details">Semua panggilan Anda yang akan datang akan direkam.</string>    
-    <string name="stop_recording">Nyalakan perekam!</string>    
-    <string name="stop_recording_details">Saat ini perekam tidak aktif.</string>    
+    <string name="start_recording_details">Semua panggilan Anda yang akan datang akan direkam.</string>
+    <string name="stop_recording_details">Saat ini perekam tidak aktif.</string>
 
-    <string name="new_call">Panggilan baru telah direkam!</string>
-    <string name="info">Informasi</string>       
+    <string name="info">Informasi</string>
     <string name="faq_title">Pertanyaan umum</string>       
     <string name="faq_summary">Menuju ke laman pertanyaan umum Call Recorder</string>       
     <string name="other_app_title">Semua aplikasi Clever Mobile</string>       
@@ -57,5 +43,4 @@
     <string name="delete">Hapus</string>
     <string name="select_all">Pilih semua</string>
     <string name="recordings">Rekaman</string>
-    <string name="help">Bantuan</string>
 </resources>

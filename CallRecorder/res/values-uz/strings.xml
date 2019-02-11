@@ -3,30 +3,19 @@
 
     <string name="app_name">Qo\'ng\'iroqni yozuvchi</string>
     <string name="sd">Iltimos, tashqi xotira kartasini telefonga kiriting!</string>
-    <string name="selected">belgilangan</string>
     <string name="settings">Sozlamalar</string>
     <string name="notifications">Eslatmalar</string>
     <string name="notificationStatus_checkbox_title">Eslatmalarni yoqish</string>
     <string name="notificationStatus_checkbox_summary">Qo`ng`iroq yozib olingandan kein eslatish</string>
     <string name="saveRecordQuestion_checkbox_summary">Qo`ng`iroq yozib olingandan keyin so`rash</string>
     <string name="storage">Xotira</string>
-    <string name="deleteRecord_title">Avtomatik o`chirish</string>
-    <string name="deleteRecord_summary">Yozib olingan qo`ng`iroqlarni o`chirish</string>
     <string name="recording">Yozish</string>
     <string name="audioSource_title">Ovoz manbai</string>
-    <string name="audioChannel_title">Ovoz kanali</string>
     <string name="fileFormat_title">Fayl formati</string>
-    <string name="recordingQuality_title">Yozuv sifati</string>
-    <string name="email_subject">Yozib olingan qo`ng`iroqlar</string>
-	<string name="buy_category_description">Pro versiya</string>
-	<string name="buy_category_title">Qo`ng`iroq Yozib Oluvchi Pro versiyani sotib olish</string>
-	<string name="buy_summary">Reklamalarsiz va qo`shimcha funksiyali</string>
 
 	<string name="rate">Iltimos, ushbu dasturni baholang</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">Keyin</string>
-    <string name="start_notification">Qo`ng`iroq yozish boshlandi</string>    
-    <string name="stop_notification">Qo`ng`iroq yozish to`xtatildi</string>
 
     <string name="save_the_call">Qo`ng`iroqni saqlaymi?</string>
     <string name="yes">Xa</string>
@@ -34,13 +23,10 @@
 
 	<string name="unknown">Noma\'lum</string>
     <string name="hidden">Yashirin</string>
-	<string name="start_recording">Qo`ng`iroq Yozuvchi ishlamoqda!</string>
     <string name="start_recording_details">Barcha kelgusi qo`ng`iroqlar saqlanadi.</string>
-    <string name="stop_recording">Yozishni YOQISH!</string>
     <string name="stop_recording_details">Yozib olsih hozirda o`chirilgan.</string>
 
-    <string name="new_call">Yangi qo`ng`iroq yozib olindi!</string>    
-    <string name="info">Ma\'lumot</string>       
+    <string name="info">Ma\'lumot</string>
     <string name="faq_title">FAQ</string>
     <string name="faq_summary">Ko`pincha beriladigan savollar</string>
     <string name="other_app_title">Barcha dasturlar</string>
@@ -54,8 +40,6 @@
     <string name="delete">O`chirish</string>
     <string name="select_all">Hammasini belgilash</string>
     <string name="recordings">Yozuvlar</string>
-    <string name="help">Yordam</string>
-    <string name="hint_tap_on_contact_photo">Belgilash uchun kontakt suratini bosing.</string>
 
     <string name="buy">Sotib olish</string>
     <string name="cancel">Bekor</string>
@@ -67,15 +51,9 @@
     <string name="advanced_botifications">Yangicha eslatmalar</string>
     <string name="no_more_ads">Reklamalarsiz</string>
 
-    <string name="sd_card">SD karta</string>
-    <string name="call_recorder_folder">Papka \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">Egallangan xotira</string>
-    <string name="sd_card_free_memory">Bo`sh xotira</string>
     <string name="total_files">Jami fayllar</string>
     <string name="import_recordings">Yozuvlarni tiklash</string>
-    <string name="run_clean_up">Hozir tozalash</string>
     <string name="cleaning">Eski yozuvlardan tozalanmoqda…</string>
-    <string name="share_via">Dastur orqali ulashish…</string>
 
     <string name="passcode">Parol</string>
     <string name="enable_passcode">Parol qo`yish</string>
@@ -101,7 +79,6 @@
     <string name="google_drive">Gugl Drayv</string>
     <string name="google_drive_link">Google Drive akkauntiga ulash</string>
     <string name="google_drive_unlink">Google Drive akkauntidan uzish</string>
-    <string name="connecting_to_google_drive">\"Google Drive\"ga ulanish</string>
 
     <string name="login">Kirish</string>
     <string name="logout">Logindan chiqish</string>
@@ -110,13 +87,7 @@
     <string name="wifi_only">Faqat WiFi</string>
     <string name="wifi_only_when_sync">faqat WiFi orqali sinxronizatsiya qilish</string>
 
-    <string name="run_pro_question_dlg_description">Siz dasturni Bepul versiyasini ochmoqchisiz, lekin sizda uning Pro versiyasi o`rnatilgan. Pro versiyaga qaytmoqchimisiz?</string>
-    <string name="run_pro_question_dlg_title">Pro versiyani ishlatish</string>
-    <string name="last_recording">So`nggi yozuv</string>
-    <string name="last_recording_problem_description">Huddi shunday xato so`nggi yozuv vaqtida ham kuzatilgan edi. Agar shu habar yana paydo bo`lsa, iltimos, sozlamalarda Ovoz manbaini o`zgartirishga harakat qiling.</string>
-    <string name="read_instructions">Qo`llanmalar bilan tanishish</string>
     <string name="about">Dastur haqida</string>
-    <string name="translations">Tarjimalar</string>
     <string name="translate">Tarjima</string>
     <string name="help_translate">Ushubu dasturni sizning mahalliy tilingizga tarjima qilishda veb saytimizdan foydalanishingiz mumkin. Davom etasizmi?</string>
     <string name="add_translation">Tarjima kiritish</string>
@@ -130,7 +101,6 @@
     <string name="use_external_player">Tashqi pleyerdan foydalanish</string>
     <string name="use_external_media_player_to_play_recordings">Yozuvlarni tinglashda tashqi pleyerdan foydalanish</string>
     <string name="play">Tinglash</string>
-    <string name="pause">Pauza</string>
 
     <string name="number_of_seconds">Soniyalar soni</string>
     <string name="delay_for_incoming_calls">Kiruvchi qo`ng`iroqlarni yozishdagi ushlab turish soniyada</string>
@@ -139,8 +109,6 @@
     <string name="enabled">Yoqilgan</string>
     <string name="disabled">O`chirilgan</string>
     <string name="new_recordings">yangi yozuvlar</string>
-    <string name="persistent_notifications">Doimiy eslatmalar</string>
-    <string name="enable_persistent_notifications">Doimiy eslatmalarni yoqish</string>
     <string name="usage_terms_and_privacy_policy">Foydalanish shartlari va Shaxsiy ma\'lumotlar siyosati</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Ushbu dasturdan foydalangdan boshlab siz bizning Foydalanish shartlari va Shaxsiy ma\'lumotlar siyosatimizni qabul qilgan bo`lasiz</string>
     <string name="supported_phones">Qo`llanadigan telefonlar</string>
@@ -156,7 +124,6 @@
     <string name="use_dark_theme">Qora rangli mavzuni qo`llash</string>
     <string name="call">Qo`ng`iroq</string>
     <string name="note">Eslatma</string>
-    <string name="add_to_excluded">Mustasnoga qo`shish</string>
     <string name="rec_info">Ma\'lumot</string>
     <string name="add">Qo`shish</string>
     <string name="save">Saqlash</string>
@@ -197,15 +164,6 @@ Iltimos buning uchun dasturimizga yomon baho qo`ymang. Tushunganigiz uchun rahma
 
 Agar sizda takliflar yoki savollar bo`lsa bemalol veb sahifamizga http://clevermobile.net  murojaat qilishingiz mumkin."</string>
 
-    <string name="app_description_pro">Qo`ng`iroq Yozuvchi Pro (6.6 versiyadan boshlab) endi yangilanmaydi, ammo u endi dasturning Bepul versiyasining Premial funksiyalarini ochishda kalit sifatida foydalaniladi.
 
-U avvalgidek ishlaydi, ammo quyidagi yangiliklar bilan yangilanmaydi:
-
-- Yangi interfeys, qora va oq mavzular.
-- Yozuvlarni Qo`shish, O`zgartirish, O`chirish va Izlash.
-- Yozuvning o`zidan qo`ng`iroq qilish.
-- va bundan boshqa yangiliklar keyingi yangilanishlarda qo`shiladi.
-
-Shunday ekan Bepul versiyani o`rnatib litsenziyangizni tiklab olishingiz mumkin</string>
 
 </resources>

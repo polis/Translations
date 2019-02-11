@@ -2,30 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">מקליט שיחות</string>
     <string name="sd">אנא, הכנס כרטיס זיכרון חיצוני למכשירך!</string>
-    <string name="selected">נבחרו</string>
     <string name="settings">הגדרות</string>
     <string name="notifications">התראות</string>
     <string name="notificationStatus_checkbox_title">אפשר התראות</string>
     <string name="notificationStatus_checkbox_summary">הצג הודעות חמות</string>
     <string name="saveRecordQuestion_checkbox_summary">הצג הודעת אישור לאחר השיחה</string>
     <string name="storage">אחסון</string>
-    <string name="deleteRecord_title">חיוג אוטומטי</string>
-    <string name="deleteRecord_summary">מחק את כל ההקלטות</string>
     <string name="recording">הגדרת הקלטות</string>
     <string name="audioSource_title">מקור שמע</string>
-    <string name="audioChannel_title">ערוץ שמע</string>
     <string name="fileFormat_title">סוג קובץ</string>
-    <string name="recordingQuality_title">איכות הקלטה</string>
-    <string name="email_subject">שיחות שהוקלטו</string>
-    <string name="buy_category_description">גירסה מתקדמת</string>
-    <string name="buy_category_title">קנה את מקליט השיחות, בגרסא המתקדמת</string>
-    <string name="buy_summary">ללא פרסומות ועם אפשרויות מתקדמות נוספות</string>
 
     <string name="rate">אנא, דרג את האפליקציה</string>
     <string name="rateOk">אוקיי</string>
     <string name="rateLater">אחר-כך</string>
-    <string name="start_notification">הקלטת שיחה החלה</string>
-    <string name="stop_notification">הקלטת שיחה הופסקה</string>
 
     <string name="save_the_call">Save this call?</string>
     <string name="yes">Yes</string>
@@ -33,13 +22,10 @@
 
     <string name="unknown">לא ידוע</string>
     <string name="hidden">עלום</string>
-    <string name="start_recording">מקליט השיחות פועל</string>
     <string name="start_recording_details">כל השיחות הבאות שלך יישמרו</string>
-    <string name="stop_recording">הפעל הקלטה</string>
     <string name="stop_recording_details">כרגע המקליט כבוי</string>
 
-    <string name="new_call">שיחה חדשה הוקלטה!</string>
-    <string name="info">מידע</string>       
+    <string name="info">מידע</string>
     <string name="faq_summary">שאלות נפוצות</string>
     <string name="other_app_title">כל האפליקציות</string>
     <string name="other_app_summary">מאת Clever Mobile</string>
@@ -52,8 +38,6 @@
     <string name="delete">מחיקה</string>
     <string name="select_all">בחר הכל</string>
     <string name="recordings">הקלטות</string>
-    <string name="help">עזרה</string>
-    <string name="hint_tap_on_contact_photo">לחץ על תמונה איש קשר כדי לבחור פריט</string>
 
     <string name="cancel">בטל</string>
     <string name="faq_title">שאלות נפוצות</string>
@@ -69,14 +53,9 @@
     <string name="advanced_botifications">התראות מתקדמות</string>
     <string name="no_more_ads">ללא פרסומות</string>
 
-    <string name="sd_card">כרטיס SD</string>
-    <string name="call_recorder_folder">"תקיית  CallRecorder"</string>
-    <string name="sd_card_memory_occupied">זכרון בשימוש</string>
-    <string name="sd_card_free_memory">זכרון פנוי</string>
     <string name="total_files">סהך קבצים</string>
     <string name="import_recordings">יבא הקלטות</string>
     <string name="cleaning">נקה הקלטות ישנות...</string>
-    <string name="share_via">שתף באמצעות...</string>
 
     <string name="passcode">סיסמה</string>
     <string name="enable_passcode_description">הגן על ההקלטות עם אימות סיסמה בכל פעם שנכנסים לאפליקציה</string>
@@ -102,15 +81,10 @@
     <string name="google_drive">גוגל דרייב</string>
     <string name="google_drive_link">קשר חשבון גוגל דרייב</string>
     <string name="google_drive_unlink">בטל קישור חשבון גוגל דרייב</string>
-    <string name="connecting_to_google_drive">מתחבר לגוגל דרייב</string>
 
     <string name="logout">התנתק</string>
     <string name="sync_title">סנכרן כעת</string>
     <string name="wifi_only">וייפי בלבד</string>
-    <string name="run_clean_up">נקה עכשיו</string>
     <string name="dropbox">Dropbox</string>
-    <string name="run_pro_question_dlg_description">הנך מנסה להתקין את הגירסה החינמית של call Recorder בעבר כבר התקנת את גירסת ה-pro תירצה לגשת לגשת לגרסת ה-pro ?</string>
-    <string name="run_pro_question_dlg_title">התקן את גרסת ה-pro</string>
     <string name="translate">תרגום</string>
-    <string name="last_recording">הקלטה אחרונה</string>
     </resources>

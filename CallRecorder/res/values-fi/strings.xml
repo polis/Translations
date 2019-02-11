@@ -2,7 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="sd">Ole hyvä ja aseta SD-kortti puhelimeesi!</string>
     <string name="app_name">Call Recorder</string>
-    <string name="selected">valittu</string>
     <string name="settings">Asetukset</string>
     <string name="no_player_app_found">Ei löytynyt sovellusta, jolla toistaa tallenne</string>
 
@@ -10,23 +9,13 @@
     <string name="notificationStatus_checkbox_title">Salli ilmoitukset</string>
     <string name="notificationStatus_checkbox_summary">Näytä ilmoituksena kunkin tallennetun puhelun jälkeen</string>
     <string name="saveRecordQuestion_checkbox_summary">Kysy kunkin puhelun jälkeen</string>
-    <string name="deleteRecord_title">Automaattinen poisto</string>
-    <string name="deleteRecord_summary">Poista tallenteet</string>
     <string name="recording">Tallennusasetukset</string>
     <string name="audioSource_title">Äänilähde</string>
-    <string name="audioChannel_title">Äänikanava</string>
     <string name="fileFormat_title">Tiedostomuoto</string>
-    <string name="recordingQuality_title">Tallennuslaatu</string>
-    <string name="email_subject">Tallennetut puhelut</string>
-	<string name="buy_category_description">Pro-versio</string>
-	<string name="buy_category_title">Osta Call Recorderin Pro-versio</string>
-	<string name="buy_summary">Lisää ominaisuuksia, ei mainoksia</string>
 
 	<string name="rate">Ole hyvä ja arvostele tämä sovellus</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">Myöhemmin</string>
-    <string name="start_notification">Tallennus aloitettu</string>    
-    <string name="stop_notification">Tallennus lopetettu</string>
 
     <string name="save_the_call">Tallennetaanko tämä puhelu?</string>
     <string name="yes">Kyllä</string>
@@ -34,13 +23,10 @@
 
 	<string name="unknown">Tuntematon</string>
     <string name="hidden">Piilotettu</string>
-	<string name="start_recording">Call Recorder toimii!</string>    
-    <string name="start_recording_details">Kaikki puhelut tallennetaan tästedes.</string>    
-    <string name="stop_recording">Aseta tallentaminen PÄÄLLE!</string>    
+    <string name="start_recording_details">Kaikki puhelut tallennetaan tästedes.</string>
     <string name="stop_recording_details">Puheluja ei tallenneta.</string>
 
-    <string name="new_call">Uusi puhelu on tallennettu.</string>    
-    <string name="info">Tietoja</string>       
+    <string name="info">Tietoja</string>
     <string name="faq_title">UKK</string>
     <string name="faq_summary">Usein kysyttyjä kysymyksiä</string>
     <string name="other_app_title">Kaikki sovellukset</string>
@@ -54,8 +40,6 @@
     <string name="delete">Poista</string>
     <string name="select_all">Valitse kaikki</string>
     <string name="recordings">Tallenteet</string>
-    <string name="help">Apua</string>
-    <string name="hint_tap_on_contact_photo">Kosketa yhteystiedon valokuvaa valitaksesi kohteen.</string>
 
     <string name="buy">Osta</string>
     <string name="cancel">Peru</string>
@@ -67,15 +51,9 @@
     <string name="advanced_botifications">kehittyneet ilmoitukset</string>
     <string name="no_more_ads">ei enää mainoksias</string>
 
-    <string name="sd_card">SD-kortti</string>
-    <string name="call_recorder_folder">Hakemisto \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">Käytetty muisti</string>
-    <string name="sd_card_free_memory">Vapaana oleva muisti</string>
     <string name="total_files">Tiedostoja yhteensä</string>
     <string name="import_recordings">Tuo tallenteita</string>
-    <string name="run_clean_up">Puhdista nyt</string>
     <string name="cleaning">Puhdistetaan vanhoja tallenteita...</string>
-    <string name="share_via">Jaa tämän kautta...</string>
 
     <string name="passcode">Salasana</string>
     <string name="enable_passcode">Käytä salasanaa</string>
@@ -101,7 +79,6 @@
     <string name="google_drive_link">Yhdistä Google Drive -tili</string>
     <string name="google_drive_unlink">Poista yhteys Google Drive -tiliin</string>
     <string name="dropbox_link">Yhdistä Dropbox-tili</string>
-    <string name="connecting_to_google_drive">Yhdistetään Google Driveen</string>
 
     <string name="login">Kirjaudu sisään</string>
     <string name="logout">Kirjaudu ulos</string>
@@ -110,13 +87,7 @@
     <string name="wifi_only">Vain WiFi</string>
     <string name="wifi_only_when_sync">Synkronoi vain WiFi-yhteyden välityksellä</string>
 
-    <string name="run_pro_question_dlg_description">Yrität käynnistää Call Recorderin ilmaisversiota, vaikka olet asentanut myös Pro-version. Vaihdetaanko Prohon?</string>
-    <string name="run_pro_question_dlg_title">Käytä Pro-versiota</string>
-    <string name="last_recording">Viimeisin tallenne</string>
-    <string name="last_recording_problem_description">Viimeisimmän tallennuksen yhteydessä ilmaantui ongelma. Jos tämä viesti tulee uudelleen, kokeile vaihtaa sovelluksen asetuksista tallenteen tiedostomuotoa tai äänilähdettä.</string>
-    <string name="read_instructions">Lue ohjeet</string>
     <string name="about">Tietoja</string>
-    <string name="translations">Käännökset</string>
     <string name="translate">Käännä</string>
     <string name="help_translate">Auta meitä kääntämään sovellus äidinkielellesi</string>
 
