@@ -207,4 +207,8 @@ Si usted tiene algunas sugerencias o comentarios, por favor visite nuestro sitio
     <string name="memory_occupied">Memoria utilizada</string>
     <string name="free_memory">Memoria libre</string>
     <string name="switch_filtering">Conmutar filtrado</string>
+    <string name="language">Idioma</string>
+    <string name="select_language">Seleccione idioma</string>
+    <string name="rename">Renombrar</string>
+
     </resources>
