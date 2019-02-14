@@ -239,4 +239,6 @@ http://clevermobile.net/products/call-recorder/call-recorder-settings-configurat
     <string name="thank_you">Дякуємо що вибрали та користуєтесь нашим додатком!</string>
     <string name="this_is_license_key">Це ліцензійний ключ для додатку Запис Дзвінків і використвується тільки щоб активувати преміум функції. Ви повинни мати додаток Запис Дзвінків установленним на вашому телефоні.</string>
 
+    <string name="open_call_recorder">Відкрити Запис Дзвінків</string>
+
     </resources>
