@@ -2,31 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Call Recorder</string>
     <string name="sd">Παρακαλώ, εισάγετε την κάρτα SD στο τηλέφωνο!</string>
-    <string name="contact">Επαφές</string>
-    <string name="selected">Επιλεγμένα</string>
     <string name="settings">Ρυθμίσεις</string>
     <string name="notifications">Ειδοποιήσεις</string>
     <string name="notificationStatus_checkbox_title">Ενεργοποίηση ειδοποιήσεων</string>
     <string name="notificationStatus_checkbox_summary">Εμφάνιση στη μπάρα ειδοποιήσεων μετά από κάθε κλήση που καταγράφεται</string>
     <string name="saveRecordQuestion_checkbox_summary">Ερώτηση μετά από κάθε κλήση που καταγράφεται</string>
     <string name="storage">Αποθήκη</string>
-    <string name="deleteRecord_title">Αυτόματος καθαρισμός</string>
-    <string name="deleteRecord_summary">Διαγραφή εγγραφών</string>
     <string name="recording">Εγγραφή</string>
     <string name="audioSource_title">Πηγή ήχου</string>
-    <string name="audioChannel_title">Κανάλι ήχου</string>
     <string name="fileFormat_title">Μορφή αρχείου</string>
-    <string name="recordingQuality_title">Ποιότητα εγγραφής</string>
-    <string name="email_subject">Καταγεγραμμένες κλήσεις</string>
-	<string name="buy_category_description">Pro έκδοση</string>
-	<string name="buy_category_title">Αγόρασε την Pro έκδοση του Call Recorder</string>
-	<string name="buy_summary">Χωρίς διαφημίσεις και με επιπλέον χαρακτηριστικά</string>
 
 	<string name="rate">Παρακαλώ, βαθμολογήστε αυτή την εφαρμογή</string>
 	<string name="rateOk">Εντάξει</string>
 	<string name="rateLater">Αργότερα</string>
-    <string name="start_notification">Η ηχογράφηση ξεκίνησε</string>
-    <string name="stop_notification">Η ηχογράφηση σταμάτησε</string>
 
     <string name="save_the_call">Αποθήκευση αυτής της κλήσης;</string>
     <string name="yes">Ναι</string>
@@ -34,12 +22,9 @@
 
 	<string name="unknown">Άγνωστο</string>
     <string name="hidden">Κρυμμένο</string>
-	<string name="start_recording">Το Call Recorder λειτουργεί!</string>
     <string name="start_recording_details">Όλες οι μελλοντικές κλήσεις θα αποθηκεύονται.</string>
-    <string name="stop_recording">Ενεργοποίηση εγγραφής!</string>
     <string name="stop_recording_details">Αυτή τη στιγμή η εγγραφή είναι απενεργοποιημένη.</string>
 
-    <string name="new_call">Νέα κλήση έχει καταγραφεί!</string>
     <string name="info">Πληροφορίες</string>
     <string name="faq_title">FAQ (Συχνές Ερωτήσεις)</string>
     <string name="faq_summary">Συχνές Ερωτήσεις</string>
@@ -54,9 +39,6 @@
     <string name="delete">Διαγραφή</string>
     <string name="select_all">Επιλογή όλων</string>
     <string name="recordings">Ηχογραφήσεις</string>
-    <string name="help">Βοήθεια</string>
-    <string name="hint_tap_on_contact_photo">Πατήστε σε μια φωτογραφία επαφής για να επιλέξετε το στοιχείο.</string>
-    <string name="importing_recordings">Εισαγωγή ηχογραφήσεων…</string>
 
     <string name="buy">Αγορά</string>
     <string name="cancel">Άκυρο</string>
@@ -68,15 +50,9 @@
     <string name="advanced_botifications">Προηγμένες ειδοποιήσεις</string>
     <string name="no_more_ads">Χωρίς διαφημίσεις</string>
 
-    <string name="sd_card">SD κάρτα</string>
-    <string name="call_recorder_folder">Φάκελος \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">Μνήμη σε χρήση</string>
-    <string name="sd_card_free_memory">Ελεύθερη μνήμη</string>
     <string name="total_files">Συνολικά αρχεία</string>
     <string name="import_recordings">Εισαγωγή ηχογραφήσεων</string>
-    <string name="run_clean_up">Καθαρισμός τώρα</string>
     <string name="cleaning">Καθαρισμός παλιών ηχογραφήσεων…</string>
-    <string name="share_via">Μοιραστείτε μέσω…</string>
 
     <string name="passcode">Κωδικός πρόσβασης</string>
     <string name="enable_passcode">Ενεργοποίηση κωδικού πρόσβασης</string>
@@ -102,7 +78,6 @@
     <string name="google_drive">Google Drive</string>
     <string name="google_drive_link">Σύνδεση του λογαριασμού Google Drive</string>
     <string name="google_drive_unlink">Αποσύνδεση λογαριασμού Google Drive</string>
-    <string name="connecting_to_google_drive">Σύνδεση με Google Drive</string>
 
     <string name="login">Σύνδεση</string>
     <string name="logout">Αποσύνδεση</string>
@@ -111,23 +86,13 @@
     <string name="wifi_only">WiFi μόνο</string>
     <string name="wifi_only_when_sync">Ανεβάστε μόνο όταν είστε συνδεμένοι με WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Προσπαθείτε να εκτελέσετε την ΔΩΡΕΑΝ έκδοση του Call Recorder, αλλά έχετε ήδη εγκαταστήσει την Pro έκδοση. Θα θέλατε να χρησιμοποιήσετε την Pro;</string>
-    <string name="run_pro_question_dlg_title">Εκτέλεση Pro έκδοσης</string>
-    <string name="last_recording">Τελευταία εγγραφή</string>
-    <string name="last_recording_problem_description">Φαίνεται ότι συνέβη κάποιο πρόβλημα κατά την τελευταία εγγραφή. Εάν εμφανιστεί αυτό το μήνυμα ξανά, τότε σας παρακαλώ, προσπαθήστε να αλλάξετε τη μέθοδο εγγραφής ή την πηγή ήχου στις ρυθμίσεις.</string>
-    <string name="read_instructions">Διαβάστε τις οδηγίες</string>
     <string name="about">Σχετικά με</string>
-    <string name="translations">Μεταφράσεις</string>
     <string name="translate">Μετάφραση</string>
     <string name="help_translate">Βοηθήστε μας με τη μετάφραση των ετικετών της εφαρμογής στη μητρική σας γλώσσα, χρησιμοποιώντας την ιστοσελίδα μας. Θα θέλατε να συνεχίσετε;</string>
 
-    <string name="write_ext_storage_problem_description">Δεν είναι δυνατή η εγγραφή σε εξωτερική αποθήκευση.</string>
 
 <string name="add_translation">Πρόσθεσε μετάφραση</string>
 
-    <string name="allow_to_write_to_sd_card">Επέτρεψε να γράψει σε κάρτα SD</string>
-    <string name="delete_recordings_older_then_selected_days">Όλες οι εγγραφές που είναι παλιότερες από τον επιλεγμένο αριθμό ημερών θα διαγράφονται αυτόματα</string>
-    <string name="delete_recordings_on_uninstall">Θα διαγραφούν όλες οι εγγραφές αν απεγκαταστήσετε την εφαρμογή Call Recorder</string>
     <string name="number_of_days">Αριθμός ημερών</string>
 
     <string name="recording_method">Μέθοδος εγγραφής</string>
@@ -137,7 +102,6 @@
     <string name="use_external_player">Χρησιμοποίησε εξωτερικό player</string>
     <string name="use_external_media_player_to_play_recordings">Χρησιμοποίησε εξωτερικό player για να ακούσεις τις εγγραφές</string>
     <string name="play">Παίξε</string>
-    <string name="pause">Παύση</string>
     <string name="enabled">Ενεργοποιημένο</string>
     <string name="disabled">Απενεργοποιημένο</string>
     <string name="new_recordings">Νέες εγγραφές</string>
@@ -167,8 +131,6 @@
     <string name="do_not_show_again">Μην το δείξεις ξανά</string>
     <string name="delete_after_upload_to_cloud">Αυτόματη διαγραφή ανεβασμένων εγγραφών από το τηλέφωνο</string>
 
-    <string name="not_able_to_import_to_pro">Αν αυτή η επιλογή είναι ενεργοποιημένη, τότε δε θα είναι δυνατό να εισάγεις αυτόματα εγγραφές στην Pro έκδοση. Ακόμη,κάνε backup όλων των σημαντικών εγγραφών αν αποφασίσεις να απεγκαταστήσεις την εφαρμογή, καθώς θα διαγραφούν όλες.</string>
-    <string name="not_able_to_import">"Αν αυτή η επιλογή είναι ενεργοποιημένη και αποφασίσεις να απεγκαταστήσεις την εφαρμογή, τότε πρέπει να κάνεις backup όλων των σημαντικών εγγραφών, καθώς θα διαγραφούν όλες και δε θα είναι δυνατό να εισάγεις αυτόματα εγγραφές, όταν εγκαταστήσεις την εφαρμογή ξανά. "</string>
 
     <string name="number_of_seconds">Αριθμός δευτερολέπτων</string>
     <string name="delay_for_incoming_calls">Καθυστέρηση για εισερχόμενες κλήσεις σε δευτερόλεπτα</string>
@@ -178,7 +140,6 @@
 
     <string name="call">Κλήση</string>
     <string name="note">Σημείωση</string>
-    <string name="add_to_excluded">Πρόσθεσε στους αποκλεισμένους</string>
     <string name="restore_license">Επανέφερε άδεια</string>
     <string name="restore_for_purchased_users">Πρέπει να εγκαταστήσεις την τελευταία Pro έκδοση, από το Google Play, που αγόρασες προηγουμένως. Θα χρησιμοποιηθεί ως άδεια για ενεργοποίηση των premium λειτουργιών.</string>
     <string name="app_is_not_licensed">Η εφαρμογή δεν είναι αδειοδοτημένη</string>
@@ -187,8 +148,6 @@
     <string name="permissions">Εξουσιοδοτήσεις</string>
     <string name="in_order_to_work_please_grand_permission">Για να δουλεύει σωστά, παρακαλώ, παραχωρήστε τις ακόλουθες εξουσιοδοτήσεις για την εφαρμογή.</string>
     <string name="delete_uploaded">Διαγραφή ανεβασμένων</string>
-    <string name="persistent_notifications">Συνεχείς ειδοποιήσεις</string>
-    <string name="enable_persistent_notifications">Ενεργοποιημένες συνεχείς ειδοποιήσεις</string>
     <string name="path">Διαδρομή</string>
     <string name="app_description_free">Η απλή εφαρμογή Call Recorder έχει τη δυνατότητα να:
 - Ενεργοποιήσει/Απενεργοποιήσει την εγγραφή κλήσεων
@@ -212,16 +171,7 @@
     <string name="tap_here_to_troubleshoot">Πάτα εδώ για διάγνωση προβλημάτων</string>
     <string name="recording_problem">Πρόβλημα καταγραφής;</string>
 
-    <string name="app_description_pro">Το Call Recorder Pro (ξεκινώντας από την έκδοση 6.6) δε θα αναβαθμίζεται πλέον με νέες λειτουργίες αλλά θα χρησιμοποιείται ως άδεια ενεργοποίησης για να ενεργοποιήσει premium δυνατότητες για την κανονική Δωρεάν έκδοση.
 
-Ακόμα θα λειτουργεί όπως πριν, αλλά χωρίς νέες λειτουργίες όπως:
-
--Νέα επιφάνεια διεπαφής με δυνατότητα να αλλάζεις ανάμεσα στο Φωτεινό και Σκοτεινό φόντο
--Σημειώσεις για εγγραφές. Πρόσθεσε, επεξεργάσου, διέγραψε σημειώσεις και ψάξε μέσω σημειώσεων.
--Κλήση αριθμού από την εγγραφή.
--και άλλα που θα προσθέτονται στις νέες κυκλοφορίες.
-
-Έτσι προτείνεται να εγκαταστήσεις την κανονική δωρεάν έκδοση και να επαναφέρεις την άδειά σου εδώ</string>
 
 <string name="recording_notification">Ειδοποίηση εγγραφής</string>
     <string name="show_notification_during_recording">Εμφάνισε ειδοποίηση κατά την εγγραφή</string>

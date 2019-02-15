@@ -1,30 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="sd">Sätt i ett minneskort i mobilen tack!</string>
-    <string name="contact">Kontakter</string>
-    <string name="selected">utvalda</string>
     <string name="settings">Inställningar</string>
     <string name="notifications">"Meddelande "</string>
     <string name="notificationStatus_checkbox_title">"Aktivera notiser "</string>
     <string name="notificationStatus_checkbox_summary">Visa notis i meddelande-fältet</string>
     <string name="saveRecordQuestion_checkbox_summary">Fråga efter varje inspelat samtal</string>
     <string name="storage">Lagring</string>
-    <string name="deleteRecord_title">Automatisk rensning</string>
-    <string name="deleteRecord_summary">Ta bort inspelningar</string>
     <string name="recording">Inställningar för inspelning</string>
     <string name="audioSource_title">Ljudkälla</string>
     <string name="fileFormat_title">Filformat</string>
-    <string name="recordingQuality_title">Inspelningskvalitet</string>
-    <string name="email_subject">Inspelade samtal</string>
-	<string name="buy_category_description">Betal version</string>
-	<string name="buy_category_title">Köp betalversion</string>
-	<string name="buy_summary">Utan annonser och ytterligare egenskaper</string>
 
 	<string name="rate">Var snäll och betygsätt denna app</string>
 	<string name="rateOk">Okej</string>
 	<string name="rateLater">Senare</string>
-    <string name="start_notification">Samtalsinspelning startade</string>    
-    <string name="stop_notification">Samtalsinspelning avslutade</string>
 
     <string name="save_the_call">Spara detta samtal?</string>
     <string name="yes">Ja</string>
@@ -32,13 +21,10 @@
 
 	<string name="unknown">Okänd</string>
     <string name="hidden">Dold</string>
-	<string name="start_recording">Samtalsinspelning arbetar!</string>    
-    <string name="start_recording_details">Alla framtida samtal blir sparade.</string>    
-    <string name="stop_recording">Sätt PÅ inspelning!</string>    
+    <string name="start_recording_details">Alla framtida samtal blir sparade.</string>
     <string name="stop_recording_details">Inspelning är tillfälligt avstängd.</string>
 
-    <string name="new_call">Ett nytt samtal har spelats in!</string>    
-    <string name="info">Info</string>       
+    <string name="info">Info</string>
     <string name="faq_title">FAQ</string>
     <string name="faq_summary">Vanliga frågor</string>
     <string name="other_app_title">Alla egenskaper</string>
@@ -52,9 +38,6 @@
     <string name="delete">Ta bort</string>
     <string name="select_all">Välj alla</string>
     <string name="recordings">Inspelningar</string>
-    <string name="help">Hjälp</string>
-    <string name="hint_tap_on_contact_photo">Dutta ett kontaktfoto för att välja.</string>
-    <string name="importing_recordings">Importerar inspelningar…</string>
 
     <string name="buy">Köp</string>
     <string name="cancel">Annulera</string>
@@ -66,15 +49,9 @@
     <string name="advanced_botifications">Avancerade notiser</string>
     <string name="no_more_ads">Inga annonser</string>
 
-    <string name="sd_card">Minneskort</string>
-    <string name="call_recorder_folder">Mapp \"Callrecorder\"</string>
-    <string name="sd_card_memory_occupied">Använt minne</string>
-    <string name="sd_card_free_memory">Ledigt minne</string>
     <string name="total_files">Antal filer totalt</string>
     <string name="import_recordings">Importera inspelningar</string>
-    <string name="run_clean_up">Rensa nu</string>
     <string name="cleaning">Rensar gamla inspelningar…</string>
-    <string name="share_via">Dela via…</string>
 
     <string name="passcode">Lösenord</string>
     <string name="enable_passcode_description">Skydda dina inspelningar med lösenord varje gång du öppnar appen</string>
@@ -98,7 +75,6 @@
     <string name="google_drive">Google Drive</string>
     <string name="google_drive_link">Länka till GoogleDrive-konto</string>
     <string name="google_drive_unlink">Ta bort länken till GoogleDrive-konto</string>
-    <string name="connecting_to_google_drive">Kopplar till GoogleDrive</string>
 
     <string name="login">Logga in</string>
     <string name="logout">Logga ut</string>
@@ -107,33 +83,21 @@
     <string name="wifi_only">Endast Wifi</string>
     <string name="wifi_only_when_sync">Synka endast med wifi</string>
 
-    <string name="run_pro_question_dlg_description">Du använder nu gratis-versionen av Callrecorder men har köpt Pro. Vill du använda Pro istället?</string>
-    <string name="run_pro_question_dlg_title">Kör Pro</string>
-    <string name="last_recording">Senaste inspelning</string>
-    <string name="last_recording_problem_description">Det verkar vara ett problem med den senaste inspelningen. Kommer detta meddelande upp igen, var god försök ändra Filformat eller Ljud -inställningar.</string>
-    <string name="read_instructions">Läs instruktionerna</string>
     <string name="about">Om</string>
-    <string name="translations">Översättningar</string>
     <string name="translate">Översätt</string>
     <string name="help_translate">Hjälp oss att översätta till ditt modersmål</string>
 
-    <string name="write_ext_storage_problem_description">Kan inte skriva till externt minne.</string>
-    <string name="allow_to_write_to_sd_card">Godkänn att spara till minneskort</string>
-    <string name="delete_recordings_older_then_selected_days">Alla inspelningar äldre än antal valda dagar kommer automatiskt att raderas</string>
-    <string name="delete_recordings_on_uninstall">Detta raderar alla inspelningar om du avinstallerar Callrecorder</string>
     <string name="number_of_days">Antal dagar</string>
 
     <string name="no_player_app_found">Det finns ingen musikspelare för att spela detta</string>
 
     <string name="app_name">Samtalsinspelning</string>
-    <string name="audioChannel_title">"Lagringskanal "</string>
     <string name="enable_passcode">"Koppla på lösenord "</string>
     <string name="passcode_delete_recordings_description">Ta bort inspelningar på denna mobil efter 10 misslyckade lösenordsförsök</string>
     <string name="recording_method">Inspelningsmetod</string>
     <string name="player">Mediaspelare</string>
     <string name="use_external_player">Använd extern spelare</string>
     <string name="play">"Spela "</string>
-    <string name="pause">Pausa</string>
     <string name="number_of_seconds">Antal sekunder</string>
     <string name="delay_for_incoming_calls">Fördröjning för inkommande samtal på några sekunder</string>
     <string name="delay_for_outgoing_calls">Antal sekunders fördröjning för utgående samtal</string>
@@ -143,8 +107,6 @@
     <string name="new_recordings">nya inspelningar</string>
 
     <string name="use_external_media_player_to_play_recordings">"Använd extern mediaspelare för att spela upp inspelningar "</string>
-    <string name="not_able_to_import_to_pro">"Om du använder detta valet så kommer det inte gå att automatiskt  föra över dina inspelningar till Pro versionen. Därtill rekommenderas det att du säkerhetskopierar alla viktiga inspelningar ifall du väljer att avinstallera denna appen! Annars kommer dom att raderas"</string>
-    <string name="not_able_to_import">"Om det här alternativet Aktiverad och du väljer att avinstallera programmet, måste du göra backup av alla viktiga inspelningar, eftersom alla de kommer att tas bort och det kommer inte att vara möjligt att automaticaly importera inspelningar efter att ha installerat appen igen. "</string>
 
     <string name="app_description_free">Enkel Call Recorder program som har en förmåga att:
 - Aktivera / inaktivera samtalsinspelning
@@ -163,27 +125,6 @@ Vänligen inte ge dåliga betyg för det. Tack!
 
 Om du har några förslag eller kommentarer, besök vår webbplats http://clevermobile.net och välkommen att kontakta oss.</string>
 
-    <string name="app_description_pro">Denna ansökan fungerar inte för vissa telefoner. Så,
-vänligen prova vår gratisversion innan du köper den här.
-Om fri version inte fungerar för din telefon - inte slösa dina pengar för att köpa Pro!
 
-*** TURN INSPELNING AV I FRI VERSION precis efter PRO INSTALLERAS ***
-
-Pro-versionen av Call Recorder utan annonser och inkluderar ytterligare funktioner.
-
-Pro-versionen av Call Recorder ansökan har en förmåga att:
-- Aktivera / inaktivera samtalsinspelning
-- Spelar in alla dina telefonsamtal
-- Start / Stopp inspelat ljud genom beröring på objektet
-- Ta bort inspelade objekt
-- Lås registreras objekt att förhindra automatisk rengöring
-- Dela utvalda inspelningar (endast i Pro)
-- Synkronisering med Dropbox och Google Drive (endast i Pro)
-- Dialogrutan Bekräftelse efter varje samtal: Spara inspelningen? (Endast i Pro)
-
-Om du vill ha den i ditt språk och redo hjälp med översättning - du är välkommen! Vänligen besök översättnings sida här: http://translate.clevermobile.net/projects/call-recorder/translations/
-
-Om du har några förslag eller kommentarer, besök vår webbplats http://clevermobile.net och välkommen att kontakta oss.
-</string>
 
 </resources>

@@ -2,31 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="app_name">Call Recorder</string>
     <string name="sd">Įdėkite SD kortelę!</string>
-    <string name="contact">Kontaktai</string>
-    <string name="selected">pasirinkta</string>
     <string name="settings">Nustatymai</string>
     <string name="notifications">Pranešimai</string>
     <string name="notificationStatus_checkbox_title">Įjungti pranešimus</string>
     <string name="notificationStatus_checkbox_summary">Po kiekvieno įrašyto skambučio rodyti pranešimų juostoje</string>
     <string name="saveRecordQuestion_checkbox_summary">Paklausti po kiekvieno įrašyto skambučio</string>
     <string name="storage">Saugykla</string>
-    <string name="deleteRecord_title">Automatinis valymas</string>
-    <string name="deleteRecord_summary">Pašalinti įrašus</string>
     <string name="recording">Įrašoma</string>
     <string name="audioSource_title">Garso šaltinis</string>
-    <string name="audioChannel_title">Garso kanalas</string>
     <string name="fileFormat_title">Failo formatas</string>
-    <string name="recordingQuality_title">Įrašymo kokybė</string>
-    <string name="email_subject">Įrašyti skambučiai</string>
-	<string name="buy_category_description">Pro versija</string>
-	<string name="buy_category_title">Pirkti „call recorder“ pro versiją</string>
-	<string name="buy_summary">Be reklamų ir su papildomomis galimybėmis</string>
 
 	<string name="rate">Prašau įvertinkite šią programą</string>
 	<string name="rateOk">Gerai</string>
 	<string name="rateLater">Vėliau</string>
-    <string name="start_notification">Skambučio įrašymas pradėtas</string>    
-    <string name="stop_notification">Skambučio įrašymas sustabdytas</string>
 
     <string name="save_the_call">Įrašyti šį skambutį?</string>
     <string name="yes">Taip</string>
@@ -34,13 +22,10 @@
 
 	<string name="unknown">Nežinomas</string>
     <string name="hidden">Paslėpta</string>
-	<string name="start_recording">Skambučių įrašytojas veikia!</string>
     <string name="start_recording_details">Visi jūsų skambučiai bus įrašyti.</string>
-    <string name="stop_recording">Įjunkite įrašymą!</string>
     <string name="stop_recording_details">Įrašytojas išjungtas.</string>
 
-    <string name="new_call">Naujas skambutis įrašytas!</string>    
-    <string name="info">Informacija</string>       
+    <string name="info">Informacija</string>
     <string name="faq_title">DUK</string>
     <string name="faq_summary">Dažniausiai užduodami klausimai</string>
     <string name="other_app_title">Visos programos</string>
@@ -54,9 +39,6 @@
     <string name="delete">Pašalinti</string>
     <string name="select_all">Pasirinkti viską</string>
     <string name="recordings">Įrašai</string>
-    <string name="help">Pagalba</string>
-    <string name="hint_tap_on_contact_photo">Norėdami pasirinkti, paspauskite ant kontakto paveikslėlio .</string>
-    <string name="importing_recordings">Importuojami įrašai…</string>
 
     <string name="buy">Pirkti</string>
     <string name="cancel">Atšaukti</string>
@@ -68,15 +50,9 @@
     <string name="advanced_botifications">Išplėstiniai pranešimai</string>
     <string name="no_more_ads">Daugiau jokių reklamų</string>
 
-    <string name="sd_card">SD kortelė</string>
-    <string name="call_recorder_folder">Aplankas \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">Panaudota atmintis</string>
-    <string name="sd_card_free_memory">Laisva atmintis</string>
     <string name="total_files">Viso failų</string>
     <string name="import_recordings">Importuoti įrašus</string>
-    <string name="run_clean_up">Valyti dabar</string>
     <string name="cleaning">Išvalomi seni įrašai…</string>
-    <string name="share_via">Dalintis…</string>
 
     <string name="passcode">Slaptažodis</string>
     <string name="enable_passcode">Įjungti slaptažodį</string>
@@ -102,7 +78,6 @@
     <string name="google_drive">„Google Drive“</string>
     <string name="google_drive_link">Susieti „Google drive“ paskyrą</string>
     <string name="google_drive_unlink">Atsieti „Google drive“ paskyrą</string>
-    <string name="connecting_to_google_drive">Jungiamasi prie „Google Drive“</string>
 
     <string name="login">Prisijungti</string>
     <string name="logout">Atsijungti</string>
@@ -111,21 +86,11 @@
     <string name="wifi_only">Tik WiFi</string>
     <string name="wifi_only_when_sync">Įkelti tik kai prisijungta prie WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Jūs bandote paleisti nemokamą „Call recorder“ versiją, bet jau turite įdiegę Pro versiją. Ar norite paleisti Pro?</string>
-    <string name="run_pro_question_dlg_title">Paleisti Pro versiją</string>
-    <string name="last_recording">Paskutinis įrašas</string>
-    <string name="last_recording_problem_description">Per paskutinį įrašą įvyko klaida. Jei šį pranešimą pamatysite dar kartą, pabandykite nustatymuose pakeisti įrašymo būdą arba garso šaltinį.</string>
-    <string name="read_instructions">Skaitykite instrukciją</string>
     <string name="about">Apie</string>
-    <string name="translations">Vertimai</string>
     <string name="translate">Versti</string>
     <string name="help_translate">Padėkite mums išversti programą į jūsų kalbą mūsų tinklapyje. Norite pradėti?</string>
     <string name="add_translation">Pridėti vertimą</string>
 
-    <string name="write_ext_storage_problem_description">Neįmanoma įrašyti į išorinę saugyklą.</string>
-    <string name="allow_to_write_to_sd_card">Leisti rašyti į SD kortelę</string>
-    <string name="delete_recordings_older_then_selected_days">Visi įrašai senesni nei dienų skaičius bus automatiškai pašalinti</string>
-    <string name="delete_recordings_on_uninstall">Jei pašalinsite „Pokalbių įrašytoją“ visi įrašai bus pašalinti</string>
     <string name="number_of_days">Dienų</string>
 
     <string name="recording_method">Įrašymo būdas</string>
@@ -135,9 +100,6 @@
     <string name="use_external_player">Naudoti išorinį grotuvą</string>
     <string name="use_external_media_player_to_play_recordings">Įrašams atkurti naudoti išorinį media grotuvą</string>
     <string name="play">Atkurti</string>
-    <string name="pause">Pauzė</string>
-    <string name="not_able_to_import_to_pro">Jei ši parinktis įjungta negalėsite automatiškai importuoti įrašų į Pro versiją. Be to padarykite svarbių įrašų kopiją, nes jei pašalinsite programą negalėsite jų atkurti.</string>
-    <string name="not_able_to_import">"Jei ši parinktis įjungta ir jūs nuspręsite pašalinti programą, turite padaryti svarbių įrašų atsargines kopijas, nes jie bus pašalinti ir negalėsite jų importuoti kitą kart įdiegę programą. "</string>
 
     <string name="number_of_seconds">Sekundės</string>
     <string name="delay_for_incoming_calls">Įeinančių skambučių delsa sekundėmis</string>
@@ -146,8 +108,6 @@
     <string name="enabled">Įjungta</string>
     <string name="disabled">Išjungta</string>
     <string name="new_recordings">Nauji įrašymai</string>
-    <string name="persistent_notifications">Nuolatiniai pranešimai</string>
-    <string name="enable_persistent_notifications">Įjungti nuolatinius pranešimus</string>
     <string name="usage_terms_and_privacy_policy">Naudojimo sąlygos ir privatumo politika</string>
     <string name="list_of_known_configurations">Žinomų konfigūracijų sąrašas</string>
 
@@ -163,7 +123,6 @@
     <string name="use_dark_theme">Naudoti tamsią temą</string>
     <string name="call">Skambinti</string>
     <string name="note">Pastaba</string>
-    <string name="add_to_excluded">Pridėti į išimtis</string>
     <string name="rec_info">Informacija</string>
     <string name="add">Pridėti</string>
     <string name="save">Išsaugoti</string>
@@ -201,16 +160,7 @@ Nepalikite prasto atsiliepimo tik dėl tos priežasties. Dėkui!
 
 Jei turite pasiūlymų ar komentarų, aplankykite mūsų tinklapį http://clevermobile.net ir susisiekite su mumis.</string>
 
-    <string name="app_description_pro">Call Recorder Pro (pradedant v6.6) nebebus atnaujinamas su naujomis galimybėmis, bet veiks kaip licencijos aktyvacijos priemonė įjungianti premium galimybes standartinėje nemokamoje versijoje.
 
-Ji veiks kaip ir anksčiau, bet be naujų galimybių tokių kaip:
-
-- Nauja naudotojo sąsaja su galimybe perjungti tarp šviesios ir tamsios temos
-- Pastabos įrašams. Pridėti, redaguoti, pašalinti pastabas bei ieškoti tarp jų.
-- Rinkti numerį iš įrašo.
-- ir daug kitų kurios bus pridėtos vėlesnėse versijose.
-
-Rekomenduojama įdiegti standartinę nemokamą versiją ir atstatyti licenciją ten</string>
 
 <string name="delete_uploaded">Pašalinti įkeltą</string>
     <string name="delete_after_upload_to_cloud">Automatiškai pašalinti įkeltus įrašus iš telefono</string>

@@ -2,26 +2,16 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="app_name">通話錄音</string>
     <string name="sd">請將記憶卡安裝上手機</string>
-    <string name="contact">通訊錄</string>
-    <string name="selected">已選擇</string>
     <string name="settings">設定</string>
     <string name="notifications">通知</string>
     <string name="notificationStatus_checkbox_title">開啟通知功能</string>
     <string name="notificationStatus_checkbox_summary">每次通話錄音完成後於通知列顯示通知</string>
     <string name="saveRecordQuestion_checkbox_summary">於每次通話錄音後詢問</string>
     <string name="storage">儲存空間</string>
-    <string name="deleteRecord_title">自動清理</string>
-    <string name="deleteRecord_summary">刪除錄音</string>
     <string name="recording">錄音進行中</string>
     <string name="audioSource_title">音源</string>
-    <string name="audioChannel_title">音頻</string>
     <string name="fileFormat_title">檔案格式</string>
-    <string name="recordingQuality_title">錄音品質</string>
-    <string name="email_subject">已錄音通話</string>
-	<string name="buy_category_description">專業版</string>
-	<string name="buy_category_title">購買通話錄音專業版</string>
 	<string name="save_the_call">儲存此通話？</string>
-    <string name="buy_summary">無廣告並且增加更多的功能</string>
 
 	<string name="rate">請評價此程式</string>
 	<string name="rateLater">稍後</string>

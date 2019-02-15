@@ -2,31 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Snimač razgovora</string>
     <string name="sd">Molim vas ubacite SD karticu u telefon</string>
-    <string name="contact">Kontakti</string>
-    <string name="selected">odabran</string>
     <string name="settings">Podešavanja</string>
     <string name="notifications">Obaveštenja</string>
     <string name="notificationStatus_checkbox_title">Omogući obaveštenja</string>
     <string name="notificationStatus_checkbox_summary">Prikaži obaveštenja posle svakog snimljenog poziva</string>
     <string name="saveRecordQuestion_checkbox_summary">Pitaj posle svakog snimljenog poziva</string>
     <string name="storage">Memorija</string>
-    <string name="deleteRecord_title">Automatsko brisanje</string>
-    <string name="deleteRecord_summary">Brisanje snimaka</string>
     <string name="recording">Podešavanje snimanja</string>
     <string name="audioSource_title">Izvor zvuka</string>
-    <string name="audioChannel_title">Audio kanal</string>
     <string name="fileFormat_title">Format fajla</string>
-    <string name="recordingQuality_title">Kvalitet snimka</string>
-    <string name="email_subject">Snimljeni pozivi</string>
-	<string name="buy_category_description">Profesionalna verzija</string>
-	<string name="buy_category_title">Kupi profesionalnu verziju</string>
-	<string name="buy_summary">Ova funkcija je moguća samo u prodesionalnoj verziji</string>
 
 	<string name="rate">Molimo ocenite aplikaciju</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">Kasnije</string>
-    <string name="start_notification">Snimač razgovora je pokrenut</string>
-    <string name="stop_notification">Snimač razgovora je zaustavljen</string>
 
     <string name="save_the_call">Sačuvaj ovaj poziv?</string>
     <string name="yes">Da</string>
@@ -34,12 +22,9 @@
 
 	<string name="unknown">Nepoznat</string>
     <string name="hidden">Skriven</string>
-	<string name="start_recording">Snimač razgovora radi!</string>
     <string name="start_recording_details">Svi budući pozivi biće snimljeni.</string>
-    <string name="stop_recording">Uključi snimanje!</string>
     <string name="stop_recording_details">Snimanje razgovora je isključeno.</string>
 
-    <string name="new_call">Novi poziv je snimljen</string>
     <string name="info">Informacija</string>
     <string name="faq_title">Često postavljena pitanja</string>
     <string name="faq_summary">Često postavljena pitanja</string>
@@ -54,9 +39,6 @@
     <string name="delete">Obriši</string>
     <string name="select_all">Odaberi sve</string>
     <string name="recordings">Snimci</string>
-    <string name="help">Pomoć</string>
-    <string name="hint_tap_on_contact_photo">Klikni na fotografiju kontakta za odabir.</string>
-    <string name="importing_recordings">Uvezi snimke&#8230;</string>
 
     <string name="buy">Kupi</string>
     <string name="cancel">Odustani</string>
@@ -68,15 +50,9 @@
     <string name="advanced_botifications">napredna obaveštenja</string>
     <string name="no_more_ads">nema reklama</string>
 
-    <string name="sd_card">SD kartica</string>
-    <string name="call_recorder_folder">Folder \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">- Korišćena memorija</string>
-    <string name="sd_card_free_memory">- Slobodna memorija</string>
     <string name="total_files">- Ukupno fajlova</string>
     <string name="import_recordings">Uvezi snimke</string>
-    <string name="run_clean_up">Čišćenje</string>
     <string name="cleaning">Čišćenje starih snimaka</string>
-    <string name="share_via">Podeli preko&#8230;</string>
 
     <string name="passcode">Lozinka</string>
     <string name="enable_passcode">Omogući lozinku</string>
@@ -102,7 +78,6 @@
     <string name="google_drive">Google Drive</string>
     <string name="google_drive_link">Prijavi Google Drive nalog</string>
     <string name="google_drive_unlink">Odjavi Google Drive nalog</string>
-    <string name="connecting_to_google_drive">Povezivanje na Google drive</string>
 
     <string name="login">Prijava</string>
     <string name="logout">Odjava</string>
@@ -111,16 +86,9 @@
     <string name="wifi_only">Samo uz WiFi vezu</string>
     <string name="wifi_only_when_sync">Sinhronizacija samo kada ste povezani preko WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Pokušavate da pokrenete Besplatnu verziju ali ste već instalirali Profesionalnu verziju. Da li želite da startujete profesionalnu verziju?</string>
-    <string name="run_pro_question_dlg_title">Pokreni Profesionalnu verziju</string>
-    <string name="last_recording">Poslednji snimak</string>
-    <string name="last_recording_problem_description">Izgleda da se javio problem prilikom poslednjeg snimka. Ukoliko se ovo obaveštenje pojavi ponovo promenite format fajla ili izvor zvuka u podešavanju.</string>
-    <string name="read_instructions">Pročitaj uputstvo</string>
     <string name="about">O autoru</string>
-    <string name="translations">Prevod</string>
     <string name="translate">Prevod</string>
     <string name="help_translate">Pomozite nam da prevedemo aplikaciju na vaš jezik</string>
 
-    <string name="write_ext_storage_problem_description">Nemoguć upis na eksternu memoriju</string>
 
 </resources>

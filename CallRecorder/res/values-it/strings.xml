@@ -2,31 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Registratore di Chiamata</string>
     <string name="sd">Per favore, inserisci la SD card nel telefono!</string>
-    <string name="contact">Contatti</string>
-    <string name="selected">selezionato</string>
     <string name="settings">Impostazioni</string>
     <string name="notifications">Notifiche</string>
     <string name="notificationStatus_checkbox_title">Abilita notifiche</string>
     <string name="notificationStatus_checkbox_summary">Mostra nella barra delle notifiche ciascuna registrazione di chiamata</string>
     <string name="saveRecordQuestion_checkbox_summary">Chiedi dopo ogni chiamata registrata</string>
     <string name="storage">Memoria</string>
-    <string name="deleteRecord_title">Pulizia automatica</string>
-    <string name="deleteRecord_summary">Elimina registrazioni</string>
     <string name="recording">Impostazioni di registrazione</string>
     <string name="audioSource_title">Fonte audio</string>
-    <string name="audioChannel_title">Canale audio</string>
     <string name="fileFormat_title">Formato File</string>
-    <string name="recordingQuality_title">Qualità di registrazione</string>
-    <string name="email_subject">Chiamate registrate</string>
-    <string name="buy_category_description">Versione Pro</string>
-	<string name="buy_category_title">Acquista versione Pro di Call Recorder</string>
-	<string name="buy_summary">Senza pubblicità e con funzioni aggiuntive</string>
 
 	<string name="rate">Per favore, vota questa applicazione</string>
 	<string name="rateOk">OK</string>
 	<string name="rateLater">Più tardi</string>
-    <string name="start_notification">Registrazione chiamata iniziata</string>
-    <string name="stop_notification">Registrazione chiamata conclusa</string>
 
     <string name="save_the_call">Salvare questa chiamata?</string>
     <string name="yes">Si</string>    
@@ -34,12 +22,9 @@
 
 	<string name="unknown">Sconosciuto</string>
 	<string name="hidden">Nascosto</string>	
-	<string name="start_recording">Call Recorder è in funzione!</string>
     <string name="start_recording_details">Tutte le successive chiamate saranno salvate.</string>
-    <string name="stop_recording">Attiva registrazione!</string>
     <string name="stop_recording_details">Attualmente il registratore di chiamate è spento</string>
 
-	<string name="new_call">La nuova chiamata è stata registrata!!</string>
 	<string name="info">Informazioni</string>
 	<string name="faq_title">FAQ (Domande frequenti)</string>
 	<string name="faq_summary">Domande frequenti</string>
@@ -54,9 +39,6 @@
     <string name="delete">Elimina</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="recordings">Registrazioni</string>
-    <string name="help">Aiuto</string>
-    <string name="hint_tap_on_contact_photo">Tocca sulla foto del contatto per selezionare un oggetto.</string>
-    <string name="importing_recordings">Importazione registrazioni…</string>
 
     <string name="buy">Acquista</string>
     <string name="cancel">Cancella</string>
@@ -68,15 +50,9 @@
     <string name="advanced_botifications">Notifiche avanzate</string>
     <string name="no_more_ads">Nessuna pubblicità</string>
 
-    <string name="sd_card">SD card</string>
-    <string name="call_recorder_folder">Cartella \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">- Memoria usata</string>
-    <string name="sd_card_free_memory">- Memoria libera</string>
     <string name="total_files">- Files totali</string>
     <string name="import_recordings">Importa registrazioni</string>
-    <string name="run_clean_up">Pulisci ora</string>
     <string name="cleaning">Pulizia</string>
-    <string name="share_via">Condividi con…</string>
 
     <string name="passcode">Password</string>
     <string name="enable_passcode">Attiva password</string>
@@ -102,7 +78,6 @@
     <string name="google_drive">Google Drive</string>
     <string name="google_drive_link">Collega ad account Google Drive</string>
     <string name="google_drive_unlink">Scollega da account Dropbox</string>
-    <string name="connecting_to_google_drive">Connessione a Google Drive</string>
 
     <string name="login">Accedi</string>
     <string name="logout">Esci</string>
@@ -111,21 +86,11 @@
     <string name="wifi_only">Solo WiFi</string>
     <string name="wifi_only_when_sync">Carica solo quando connesso a WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Stai provando ad usare la versione Gratuita di Call Recorder ma hai già installato la versione Pro. Preferisci continuare con la versione Pro?</string>
-    <string name="run_pro_question_dlg_title">Attiva versione Pro</string>
-    <string name="last_recording">Ultima registrazione</string>
-    <string name="last_recording_problem_description">Sembra che si sia verificato un problema durante l’ultima registrazione. Se questo messaggio appare ancora prova, per favore, a cambiare il formato File o la fonte Audio in Impostazioni.</string>
-    <string name="read_instructions">Leggi le istruzioni</string>
     <string name="about">Informazioni su…</string>
-    <string name="translations">Traduzioni</string>
     <string name="translate">Traduci</string>
     <string name="help_translate">Aiutaci a tradurre i testi dell\'app nella tua lingua nativa usando il nostro sito web. Vorresti procedere?</string>
 
-    <string name="write_ext_storage_problem_description">Non abilitato a scrivere su archivio esterno.</string>
 
-<string name="allow_to_write_to_sd_card">Permetti di scrivere sulla SD card</string>
-    <string name="delete_recordings_older_then_selected_days">Tutte le registrazioni più vecchie dei giorni selezionati saranno cancellate automaticamante</string>
-    <string name="delete_recordings_on_uninstall">Tutte le registrazioni saranno cancellate se disinstalli Call Recorder</string>
     <string name="number_of_days">Numero di giorni</string>
 
     <string name="recording_method">Metodo di registrazione</string>
@@ -135,9 +100,6 @@
     <string name="use_external_player">Usa player esterno</string>
     <string name="use_external_media_player_to_play_recordings">"Usa player esterno per riprodurre le registrazioni "</string>
     <string name="play">Riproduci</string>
-    <string name="pause">Pausa</string>
-    <string name="not_able_to_import_to_pro">Se questa opzione è abilitata non è possibile importare automaticamente le registrazioni nella versione Pro. Inoltre effettua un backup di tutte le registrazioni importanti se decidi di disinstallare l\'app, poiché saranno tutte eliminate.</string>
-    <string name="not_able_to_import">"Se questa opzione è abilitata  e decidi di disinstallare l\'app devi effettuare un backup di tutte le registrazioni importanti perché saranno eliminate e non sarà possibile importare automaticamente le registrazioni  dopo aver installato di nuovo l\'app."</string>
 
     <string name="number_of_seconds">Numero di secondi</string>
     <string name="delay_for_incoming_calls">Ritardo per chiamate in arrivo in secondi</string>
@@ -145,8 +107,6 @@
 
     <string name="enabled">Abilitato</string>
     <string name="disabled">Disabilitato</string>
-    <string name="persistent_notifications">Notifiche continue</string>
-    <string name="enable_persistent_notifications">Abilita notifiche continue</string>
 
     <string name="new_recordings">Nuove registrazioni</string>
     <string name="add_translation">Aggiungi traduzione</string>
@@ -166,7 +126,6 @@
     <string name="use_dark_theme">Usa tema scuro</string>
     <string name="call">Chiamare</string>
     <string name="note">Nota</string>
-    <string name="add_to_excluded">Aggiungi alle esclusioni</string>
     <string name="rec_info">Informazioni</string>
     <string name="add">Aggiungere</string>
     <string name="save">Salvare</string>
@@ -244,21 +203,12 @@ Grazie!
 
 Se hai alcuni suggerimenti o commenti, per favore visita il nostro sito http://clevermobile.net e sentiti libero di contattarci.</string>
 
-    <string name="app_description_pro">Call Recorder Pro (inizia con la versione 6.6) non sarà molto aggiornato con le nuove funzionalità, ma funzionerá come una licenza attivata e abilitata alle caratteristiche premium per le versioni free standard.
 
-Funzionerà ancora come prima, ma senza nuove caratteristiche come:
-
--Nuovo UI con possibilità di cambiare tema chiaro e scuro
--Appunti per le registrazioni. Aggiungere, modifica, rimuovi appunti e cerca dagli appunti.
--Comporre il numero dalla registrazione.
--e altro che sarà aggiunto nei prossimi rilasci.
-
-Perció è raccomandato installare la versione free standard e ripristinare la tua licenza lì</string>
 
 <string name="language">Lingua</string>
     <string name="select_language">Scegli lingua</string>
     <string name="use_proximity_sensor">Usa il sensore di prossimita</string>
-    <string name="switch_audio_mode">Cambia modalita audio quando il display è vicino orecchio</string>
+    <string name="switch_audio_mode">Cambia modo audio quandi il display è vicino al tuo orecchio</string>
 
 
 

@@ -2,31 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Grabador de Llamadas</string>
     <string name="sd">Por favor, ¡inserte la tarjeta SD en el teléfono!</string>
-    <string name="contact">Contactos</string>
-    <string name="selected">seleccionado</string>
     <string name="settings">Ajustes</string>
     <string name="notifications">Notificaciones</string>
     <string name="notificationStatus_checkbox_title">Habilitar notificaciones</string>
     <string name="notificationStatus_checkbox_summary">Mostrar en la barra de notificación después de cada llamada grabada</string>
     <string name="saveRecordQuestion_checkbox_summary">Preguntar después de cada llamada grabada</string>
     <string name="storage">Almacenamiento</string>
-    <string name="deleteRecord_title">Limpieza automática</string>
-    <string name="deleteRecord_summary">Eliminar grabaciones</string>
     <string name="recording">Grabaciones</string>
     <string name="audioSource_title">Fuente de audio</string>
-    <string name="audioChannel_title">Canal de audio</string>
     <string name="fileFormat_title">Formato del archivo</string>
-    <string name="recordingQuality_title">Calidad de grabación</string>
-	<string name="email_subject">Llamadas grabadas</string>
-	<string name="buy_category_description">Versión Pro</string>
-	<string name="buy_category_title">Comprar el Grabador de Llamadas versión Pro</string>
-	<string name="buy_summary">Sin anuncios y con funciones adicionales</string>
 
     <string name="rate">Por favor, califique esta aplicación</string>
     <string name="rateOk">Está bien</string>
     <string name="rateLater">Más adelante</string>
-    <string name="start_notification">Inició la grabación de la llamada</string>
-    <string name="stop_notification">Paró la grabación de la llamada</string>
 
     <string name="save_the_call">¿Guardar esta llamada?</string>
     <string name="yes">Si</string>
@@ -34,12 +22,9 @@
 
 	<string name="unknown">Desconocido</string>
 	<string name="hidden">Oculto</string>
-    <string name="start_recording">¡Está funcionando el Grabador de Llamadas!</string>
     <string name="start_recording_details">Todas sus llamadas futuras serán guardadas.</string>
-    <string name="stop_recording">¡Active la grabación!</string>
     <string name="stop_recording_details">La grabadora está apagada.</string>
 
-    <string name="new_call">¡Se ha grabado una nueva llamada!</string>
     <string name="info">Información</string>
     <string name="faq_title">Preguntas frecuentes</string>
     <string name="faq_summary">Preguntas frecuentes</string>
@@ -54,9 +39,6 @@
     <string name="delete">Eliminar</string>
     <string name="select_all">Seleccionar todo</string>
     <string name="recordings">Grabaciones</string>
-    <string name="help">Ayuda</string>
-    <string name="hint_tap_on_contact_photo">Pulse sobre la imagen del contacto para seleccionar el elemento.</string>
-    <string name="importing_recordings">Importando grabaciones…</string>
 
     <string name="buy">Comprar</string>
     <string name="cancel">Cancelar</string>
@@ -68,15 +50,9 @@
     <string name="advanced_botifications">Notificaciones avanzadas</string>
     <string name="no_more_ads">No más anuncios</string>
 
-    <string name="sd_card">Tarjeta SD</string>
-    <string name="call_recorder_folder">Carpeta \"CallRecorder\"</string>
-    <string name="sd_card_memory_occupied">Memoria usada</string>
-    <string name="sd_card_free_memory">Memoria libre</string>
     <string name="total_files">Total de archivos</string>
     <string name="import_recordings">Importar grabaciones</string>
-    <string name="run_clean_up">Limpiar ahora</string>
     <string name="cleaning">Limpieza</string>
-    <string name="share_via">Compartir a través de…</string>
 
     <string name="passcode">Contraseña</string>
     <string name="enable_passcode">Habilitar contraseña</string>
@@ -102,7 +78,6 @@
     <string name="google_drive">Google Drive</string>
     <string name="google_drive_link">Vincular cuenta de Google Drive</string>
     <string name="google_drive_unlink">Desvincular cuenta de Google Drive</string>
-    <string name="connecting_to_google_drive">Conectándose a Google Drive</string>
 
     <string name="login">Conectar</string>
     <string name="logout">Desconectar</string>
@@ -111,21 +86,11 @@
     <string name="wifi_only">sólo WiFi</string>
     <string name="wifi_only_when_sync">Sincronizar solo cuando se está conectado por WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Usted está intentando ejecutar la versión gratuita del Grabador de Llamadas pero ya ha instalado la versión Pro. ¿Desearía seguir con la versión Pro?</string>
-    <string name="run_pro_question_dlg_title">Ejecutar la versión Pro</string>
-    <string name="last_recording">La última grabación</string>
-    <string name="last_recording_problem_description">Al parecer ocurrió un problema durante la última grabación. Si este mensaje aparece de nuevo, entonces por favor intente cambiar el formato del Archivo o la fuente de Audio en Ajustes.</string>
-    <string name="read_instructions">Lea las instrucciones</string>
     <string name="about">Acerca de</string>
-    <string name="translations">Traducciones</string>
     <string name="translate">Traduzca</string>
     <string name="help_translate">Ayúdenos con la traducción a su idioma utilizando nuestro sitio web.¿Te gustaría proceder?</string>
 
-    <string name="write_ext_storage_problem_description">No se puede guardar en almacenamiento externo.</string>
 
-    <string name="allow_to_write_to_sd_card">Permitir escribir en la tarjeta SD extraíble</string>
-    <string name="delete_recordings_older_then_selected_days">Todas las grabaciones anteriores al período de días seleccionado serán eliminadas de manera automática</string>
-    <string name="delete_recordings_on_uninstall">Se borrarán todas las grabaciones si se desinstala la aplicación Call Recorder</string>
     <string name="number_of_days">Número de días</string>
 
     <string name="recording_method">Método de grabación</string>
@@ -135,9 +100,6 @@
     <string name="use_external_player">Utilizar reproductor externo</string>
     <string name="use_external_media_player_to_play_recordings">Utilizar reproductor de multimedia externo para reproducir grabaciones</string>
     <string name="play">Reproducir</string>
-    <string name="pause">Pausar</string>
-    <string name="not_able_to_import_to_pro">Si esta opción está habilitada, no será posible importar de forma automática las grabaciones a la versión Pro. Además, haga una copia de seguridad de todas las grabaciones importantes si decide desinstalar la aplicación, ya que todas ellas serán eliminadas.</string>
-    <string name="not_able_to_import">"Si está habilitada esta opción y usted decide desinstalar la aplicación, tiene que hacer una copia de seguridad de todas las grabaciones importantes, ya que, todas se eliminarán y no será posible importar  automáticamente las grabaciones después de instalar la aplicación de nuevo. "</string>
 
     <string name="app_description_free">La aplicación Grabadora de llamadas simple tiene la capacidad de:
 - Activar/desactivar la grabación de llamadas
@@ -156,16 +118,7 @@ Por favor, no de malas puntuaciones por eso. ¡Gracias!
 
 Si usted tiene algunas sugerencias o comentarios, por favor visite nuestro sitio http://clevermobile.net y no dude en ponerse en contacto con nosotros.</string>
 
-    <string name="app_description_pro">Call Recorder Pro (a partir de la versión 6.6) ya no será actualizado con nuevas funcionalidades, sino que funcionará como un activador de licencia para activar las funciones premium de la versión gratuita.
 
-Aún funcionará como antes, pero sin nuevas características como:
-
-- Nueva interfaz de usuario con la posibilidad de cambiar entre temas Claros y Oscuros
-- Notas para grabaciones. Añadir, editar, eliminar notas y buscar por notas.
-- Marcar el número desde la grabación.
-- y más que se agregaran en los próximos lanzamientos.
-
-Por lo tanto, se recomienda instalar la versión gratuita estándar y restaurar su licencia allí</string>
 
 <string name="number_of_seconds">Número de segundos</string>
     <string name="delay_for_incoming_calls">Retraso de las llamadas entrantes en segundos</string>
@@ -175,8 +128,6 @@ Por lo tanto, se recomienda instalar la versión gratuita estándar y restaurar 
     <string name="disabled">Deshabilitado</string>
     <string name="new_recordings">Nuevas grabaciones</string>
 
-    <string name="persistent_notifications">Notificaciones persistentes</string>
-    <string name="enable_persistent_notifications">Notificaciones persistentes habilitadas</string>
 
     <string name="usage_terms_and_privacy_policy">Políticas de privacidad y términos de uso</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Usando esta aplicación usted acepta la Politica de privacidad y términos de uso</string>
@@ -189,7 +140,6 @@ Por lo tanto, se recomienda instalar la versión gratuita estándar y restaurar 
     <string name="use_dark_theme">Usar tema oscuro</string>
     <string name="call">Llamada</string>
     <string name="note">Nota</string>
-    <string name="add_to_excluded">Añadir a excluidos</string>
     <string name="rec_info">Información</string>
     <string name="add">Añadir</string>
     <string name="save">Guardar</string>
@@ -257,4 +207,8 @@ Por lo tanto, se recomienda instalar la versión gratuita estándar y restaurar 
     <string name="memory_occupied">Memoria utilizada</string>
     <string name="free_memory">Memoria libre</string>
     <string name="switch_filtering">Conmutar filtrado</string>
+    <string name="language">Idioma</string>
+    <string name="select_language">Seleccione idioma</string>
+    <string name="rename">Renombrar</string>
+
     </resources>

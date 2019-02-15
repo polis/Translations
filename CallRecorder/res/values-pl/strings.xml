@@ -2,31 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Rejestrator Rozmów</string>
     <string name="sd">Proszę włożyć kartę SD do telefonu!</string>
-    <string name="contact">Kontakty</string>
-    <string name="selected">Wybrane</string>
     <string name="settings">Ustawienia</string>
     <string name="notifications">Powiadomienia</string>
     <string name="notificationStatus_checkbox_title">Włącz powiadomienia</string>
     <string name="notificationStatus_checkbox_summary">Wyświetlaj wyskakujące powiadomienia</string>
     <string name="saveRecordQuestion_checkbox_summary">Pokaż okno po wywołaniu</string>
     <string name="storage">Pamięć trwała</string>
-    <string name="deleteRecord_title">Automatyczne usuwanie</string>
-    <string name="deleteRecord_summary">Skasuj nagrania</string>
     <string name="recording">Ustawienia nagrywania</string>
     <string name="audioSource_title">Źródło dzwięku</string>
-    <string name="audioChannel_title">Kanał audio</string>
     <string name="fileFormat_title">Format pliku</string>
-    <string name="recordingQuality_title">Jakość nagrywania</string>
-    <string name="email_subject">Nagrane rozmowy</string>
-    <string name="buy_category_description">Wersija Pro</string>
-    <string name="buy_category_title">Kup Call Recorder Pro version</string>
-    <string name="buy_summary">Bez reklam i z dodatkową funkcjonalnością</string>
 
     <string name="rate">Proszę oceń tą aplikację</string>
     <string name="rateOk">Ok</string>
     <string name="rateLater">Później</string>
-    <string name="start_notification">Rozpoczęto nagrywanie</string>
-    <string name="stop_notification">Nagrywanie zakończono</string>
 
     <string name="save_the_call">Zapisać tą rozmowę?</string>
     <string name="yes">Tak</string>
@@ -35,12 +23,9 @@
     <string name="unknown">Nieznany</string>
     <string name="hidden">Ukryty</string>
 
-    <string name="start_recording">Nagranie rozmów aktywne!</string>
     <string name="start_recording_details">Wszystkie Twoje następne rozmowy będą nagrane.</string>
-    <string name="stop_recording">Włącz nagrywanie!</string>
     <string name="stop_recording_details">Aktualnie nagrywanie rozmów wyłączone.</string>
 
-    <string name="new_call">Nowa rozmowa została nagrana!</string>
     <string name="info">Informacja</string>
     <string name="faq_title">Często zadawane pytania (FAQ)</string>
     <string name="faq_summary"> Idź do strony FAQ </string>
@@ -55,9 +40,6 @@
     <string name="delete">Usuń</string>
     <string name="select_all">Zaznacz wszystko</string>
     <string name="recordings">Nagrania</string>
-    <string name="help">Pomoc</string>
-    <string name="hint_tap_on_contact_photo">Kliknij na zdjęcie kontaktu aby wybrać nagranie.</string>
-    <string name="importing_recordings">Importowanie nagrań…</string>
 
     <string name="buy">Kup</string>
     <string name="cancel">Anuluj</string>
@@ -69,15 +51,9 @@
     <string name="advanced_botifications">Zaawansowane powiadomienia</string>
     <string name="no_more_ads">Brak reklam</string>
 
-    <string name="sd_card">Karta SD</string>
-    <string name="call_recorder_folder">Folder „CallRecorder”</string>
-    <string name="sd_card_memory_occupied">Użyta pamięć</string>
-    <string name="sd_card_free_memory">Wolna pamięć</string>
     <string name="total_files">Liczba plików</string>
     <string name="import_recordings">Import nagranych rozmów</string>
-    <string name="run_clean_up">Oczyść teraz</string>
     <string name="cleaning">Usuwanie</string>
-    <string name="share_via">Udostępnij przez…</string>
 
     <string name="passcode">Hasło</string>
     <string name="enable_passcode">Aktywuj hasło</string>
@@ -103,7 +79,6 @@
     <string name="google_drive">Dysk Google</string>
     <string name="google_drive_link">Połączyć się z Google Drive</string>
     <string name="google_drive_unlink">Odlączyć się od Google Drive</string>
-    <string name="connecting_to_google_drive">Podłączanie do Google Drive</string>
 
     <string name="login">Zaloguj</string>
     <string name="logout">Wyloguj</string>
@@ -112,20 +87,10 @@
     <string name="wifi_only">Tylko WiFi</string>
     <string name="wifi_only_when_sync">Załaduj tylko wtedy, gdy WiFi jest włączone</string>
 
-    <string name="run_pro_question_dlg_description">Próbujesz uruchomić darmową wersję Call Recordera, ale masz już zainstalowaną wersję Pro. Czy chcesz zrezygnować z wersji Pro?</string>
-    <string name="run_pro_question_dlg_title">Uruchom wersję Pro</string>
-    <string name="last_recording">Ostatnie nagranie</string>
-    <string name="last_recording_problem_description">Wygląda na to, że podczas ostatniego nagrania, wydarzył się jakiś problem. Jeśli ta wiadomość pojawi się ponownie, wówczas zmień proszę w Ustawieniach format pliku albo źródło dźwięku.</string>
-    <string name="read_instructions">Przeczytaj instrukcję</string>
     <string name="about">O aplikacji</string>
-    <string name="translations">Tłumaczenia</string>
     <string name="translate">Przetłumacz</string>
     <string name="help_translate">Pomóż nam z tłumaczeniem aplikacji na twój ojczysty język przy użyciu naszej strony internetowej. Chcesz zacząć tłumaczenie?</string>
 
-    <string name="write_ext_storage_problem_description">Nie można zapisać na pamięci zewnętrznej.</string>
-    <string name="allow_to_write_to_sd_card">Pozwól na zapis na karcie SD</string>
-    <string name="delete_recordings_older_then_selected_days">Wszystkie nagrania starsze niż wybrana liczba dni zostaną usunięte automatycznie</string>
-    <string name="delete_recordings_on_uninstall">Podczas odinstalowania aplikacji wszystkie nagrania zostaną automatycznie usunięte</string>
     <string name="number_of_days">Liczba dni</string>
 
 <string name="recording_method">Metody nagrywania</string>
@@ -135,7 +100,6 @@
     <string name="use_external_player">Użyj zewnętrznego odtwarzacza</string>
     <string name="use_external_media_player_to_play_recordings">Aby odsłuchać nagrania, użyj zewnętrznego odtwarzacza</string>
     <string name="play">Odtwarzaj</string>
-    <string name="pause">Pauza</string>
     <string name="delay_for_incoming_calls">Opóźnienie w sekundach dla połączeń przychodzących</string>
     <string name="number_of_seconds">Liczba sekund</string>
     <string name="enabled">Włączone</string>
@@ -143,13 +107,9 @@
     <string name="new_recordings">Nowe nagrania</string>
     <string name="delay_for_outgoing_calls">Opóźnienie w sekundach dla połączeń wychodzących</string>
 
-    <string name="persistent_notifications">Powiadomienia</string>
-    <string name="enable_persistent_notifications">Włącz powiadomienia</string>
 
     <string name="add_translation">Dodaj tłumaczenie</string>
 
-    <string name="not_able_to_import_to_pro">Jeśli ta opcja będzie włączona, wówczas nie będzie możliwości automatycznego importu nagrań do wersji Pro. Ponadto, jeśli zdecydujesz się odinstalować tę aplikację, najpierw wykonaj kopię ważnych nagrań, ponieważ wszystkie nagrania przy odinstalowywaniu zostaną usunięte.</string>
-    <string name="not_able_to_import">"Jeśli ta opcja będzie włączona a ty zdecydujesz się na odinstalowanie aplikacji, wcześniej zrób kopię ważnych nagrań, ponieważ wszystkie nagrania zostaną usunięte i nie będzie możliwe ich zaimportowanie po ponownym zainstalowaniu aplikacji. "</string>
 
     <string name="usage_terms_and_privacy_policy">Warunki użytkowania i ochrony prywatności</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Korzystając z tej aplikacji zgadzasz się z warunkami użytkowania i ochrony prywatności</string>
@@ -166,7 +126,6 @@
     <string name="use_dark_theme">Użyj ciemnej skórki</string>
     <string name="call">Zadzwoń</string>
     <string name="note">Notatka</string>
-    <string name="add_to_excluded">Dodaj do wykluczonych</string>
     <string name="rec_info">Informacja</string>
     <string name="add">Dodaj</string>
     <string name="save">Zapisz</string>
@@ -195,7 +154,7 @@
     <string name="tap_here_to_troubleshoot">Kliknij tutaj aby rozwiązać problemy</string>
     <string name="recording_problem">Problem z nagrywaniem?</string>
     <string name="recording_notification">Powiadomienie o nagrywaniu</string>
-    <string name="show_notification_during_recording">Pokaż powiadomienie podczas nagrywania</string>
+    <string name="show_notification_during_recording">Pokaż powiadomienie o nagrywaniu</string>
 
     <string name="app_description_free">Prosta aplikacja do nagrywania rozmów, dzięki której możesz:
  - włączać/wyłączać nagrywanie rozmów,
@@ -213,18 +172,9 @@ Proszę w związku z powyższym nie wystawiać niskich ocen. Dziękuję!
 
 Jeśli masz jakieś sugestie lub komentarze, proszę odwiedź naszą stronę internetową: http://clevermobile.net i skontaktuj się z nami.</string>
 
-    <string name="app_description_pro">Call Recorder Pro (od wersji 6.6) nie będzie już więcej rozwijany, ale będzie działał jako aktywator licencji premium w wersji darmowej.
 
-Nadal będzie działał jak przedtem, ale bez nowych funkcji, takich jak:
 
- - nowy interfejs użytkownika (UI) z obsługą dwóch skórek (jasna i ciemna),
- - notatki do nagrań; dodawanie, edycja, usuwanie notatek oraz wyszukiwanie w notatkach,
- - wybieranie numeru telefonu wprost z nagrania,
- - oraz więcej funkcjonalności, które zostaną dodane w następnych wydaniach.
-
-Zalecamy więc zainstalowanie wersji darmowej i aktywowanie w niej swojej licencji</string>
-
-<string name="recording_filter">Filtr nagrywania</string>
+<string name="recording_filter">Filtr nagrań</string>
     <string name="filter">Filtruj</string>
     <string name="use_filtering_by_phone_numbers">Filtruj numerami telefonu</string>
     <string name="filtering_method">Metoda filtrowania</string>

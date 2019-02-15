@@ -1,32 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">Gespreksopnemer</string>
+    <string name="app_name">Call Recorder</string>
     <string name="sd">Gelieve een SD-kaart in de telefoon te plaatsen!</string>
-    <string name="contact">Contacten</string>
-    <string name="selected">geselecteerd</string>
     <string name="settings">Instellingen</string>
     <string name="notifications">Notificaties</string>
     <string name="notificationStatus_checkbox_title">Notificaties inschakelen</string>
     <string name="notificationStatus_checkbox_summary">Tonen in de notificatiebalk na elk opgenomen gesprek</string>
     <string name="saveRecordQuestion_checkbox_summary">Na elk opgenomen gesprek vragen</string>
     <string name="storage">Opslagruimte</string>
-    <string name="deleteRecord_title">Automatisch opschonen</string>
-    <string name="deleteRecord_summary">Opnames verwijderen</string>
     <string name="recording">Opnameinstellingen</string>
     <string name="audioSource_title">Audiobron</string>
-    <string name="audioChannel_title">Audiokanaal</string>
     <string name="fileFormat_title">Bestandstype</string>
-    <string name="recordingQuality_title">Opnamekwaliteit</string>
-    <string name="email_subject">Opgenomen gesprekken</string>
-	<string name="buy_category_description">Pro versie</string>
-	<string name="buy_category_title">Gespreksopnemer Pro kopen</string>
-	<string name="buy_summary">Zonder reclame en met bijkomende mogelijkheden</string>
 
 	<string name="rate">Beoordeel deze applicatie alstublieft</string>
 	<string name="rateOk">Ok</string>
 	<string name="rateLater">Later</string>
-    <string name="start_notification">Gespreksopname gestart</string>
-    <string name="stop_notification">Gespreksopname gestopt</string>
 
     <string name="save_the_call">Dit gesprek bewaren?</string>
     <string name="yes">Ja</string>
@@ -34,12 +22,9 @@
 
 	<string name="unknown">Onbekend</string>
 	<string name="hidden">Verborgen</string>	
-	<string name="start_recording">Gespreksopnemer staat aan!</string>
     <string name="start_recording_details">Alle volgende gesprekken worden opgeslagen.</string>
-    <string name="stop_recording">Zet opname AAN!</string>
     <string name="stop_recording_details">Gespreksopnemer staat momenteel uit.</string>
 
-    <string name="new_call">Niew gesprek is opgenomen!</string>
     <string name="info">Informatie</string>
     <string name="faq_title">FAQ (Veelgestelde vragen)</string>
     <string name="faq_summary">Veelgestelde vragen</string>
@@ -54,9 +39,6 @@
     <string name="delete">Verwijderen</string>
     <string name="select_all">Alle selecteren</string>
     <string name="recordings">Opnames</string>
-    <string name="help">Help</string>
-    <string name="hint_tap_on_contact_photo">Tik op een contactafbeelding om een item te kiezen.</string>
-    <string name="importing_recordings">Geïmporteerde opnames…</string>
 
     <string name="buy">Kopen</string>
     <string name="cancel">Annuleren</string>
@@ -68,15 +50,9 @@
     <string name="advanced_botifications">Geavanceerde notificaties</string>
     <string name="no_more_ads">Geen reclame</string>
 
-    <string name="sd_card">SD-kaart</string>
-    <string name="call_recorder_folder">\"CallRecorder\" map</string>
-    <string name="sd_card_memory_occupied">- Gebruikt geheugen</string>
-    <string name="sd_card_free_memory">- Vrij geheugen</string>
     <string name="total_files">- Totaal aantal bestanden</string>
     <string name="import_recordings">Opnames importeren</string>
-    <string name="run_clean_up">Nu opschonen</string>
-    <string name="cleaning">Oude opnames opschonen…</string>
-    <string name="share_via">Delen via…</string>
+    <string name="cleaning">Opschonen</string>
 
     <string name="passcode">Toegangscode</string>
     <string name="enable_passcode">Toegangscode inschakelen</string>
@@ -87,45 +63,34 @@
     <string name="enter_passcode">Toegangscode invoeren</string>
     <string name="reenter_passcode">Toegangscode opnieuw invoeren</string>
     <string name="enter_old_passcode">Oude toegangscode invoeren</string>
-    <string name="passcode_did_not_match">De toegangscodes zijn niet hetzelfde. Probeert u het alstublieft opnieuw!</string>
+    <string name="passcode_did_not_match">De toegangscode klopt niet. Probeer nogmaals!</string>
     <string name="enter_new_passcode">Nieuwe toegangscode invoeren</string>
     <string name="reenter_new_passcode">Nieuwe toegangscode opnieuw invoeren</string>
     <string name="wrong_passcode">Verkeerde toegangscode. Probeer het opnieuw!</string>
     <string name="exit">Verlaten</string>
 
-    <string name="cloud">Synchronisatie</string>
+    <string name="cloud">Cloud</string>
 
     <string name="dropbox">Dropbox</string>
-    <string name="dropbox_link">Link met Dropboxaccount</string>
-    <string name="dropbox_unlink">Link met Dropboxaccount  verwijderen</string>
+    <string name="dropbox_link">Verbind met Dropboxaccount</string>
+    <string name="dropbox_unlink">Link met Dropbox verwijderen</string>
 
     <string name="google_drive">Google Drive</string>
-    <string name="google_drive_link">Link met Google Drive</string>
-    <string name="google_drive_unlink">Link met Google Drive verwijderen</string>
-    <string name="connecting_to_google_drive">Verbinden met Google Drive</string>
+    <string name="google_drive_link">Verbinden met Google Drive</string>
+    <string name="google_drive_unlink">Verbinding met Google Drive beeindigen</string>
 
     <string name="login">Inloggen</string>
-    <string name="logout">Uitloggen</string>
-    <string name="sync_title">Nu synchroniseren</string>
-    <string name="sync_summary">Alle opnames nu synchroniseren</string>
-    <string name="wifi_only">Enkele WiFi</string>
-    <string name="wifi_only_when_sync">Alleen synchroniseren bij WiFi-verbinding</string>
+    <string name="logout">Afmelden</string>
+    <string name="sync_title">Nu in de Cloud plaatsen</string>
+    <string name="sync_summary">Alle opnames nu synchroniseren in de Cloud</string>
+    <string name="wifi_only">Alleen WiFi</string>
+    <string name="wifi_only_when_sync">Alleen uploaden bij WiFi-verbinding</string>
 
-    <string name="run_pro_question_dlg_description">Je probeert de gratis versie van Call Recorder (Gespreksopnemer) te starten, maar je hebt de Pro-versie al geïnstalleerd. Wilt u de Pro-versie gebruiken?</string>
-    <string name="run_pro_question_dlg_title">Pro-versie starten</string>
-    <string name="last_recording">Laatste opname</string>
-    <string name="last_recording_problem_description">Er deed zich een probleem voor bij de laatste opname. Als dit bericht blijft verschijnen, probeer dan de Opneem methode of Audiobron te wijzigen in de Instellingen.</string>
-    <string name="read_instructions">Instructies lezen</string>
     <string name="about">Over</string>
-    <string name="translations">Vertalingen</string>
     <string name="translate">Vertalen</string>
     <string name="help_translate">Help ons met het vertalen van de app naar jouw moedertaal door middel van onze website. Weet je zeker dat je dit wilt voortzetten?</string>
 
-    <string name="write_ext_storage_problem_description">Opslaan op extern opslagmedium mislukt.</string>
 
-<string name="allow_to_write_to_sd_card">Schrijven naar SD card toestaan</string>
-    <string name="delete_recordings_older_then_selected_days">Alle opnames ouder dan de ingestelde periode worden automatisch verwijderd</string>
-    <string name="delete_recordings_on_uninstall">Alle opnames worden gewist bij het verwijderen van de applicatie</string>
     <string name="number_of_days">Aantal dagen</string>
 
     <string name="recording_method">Opname methode</string>
@@ -135,9 +100,136 @@
     <string name="use_external_player">Gebruik externe speler</string>
     <string name="use_external_media_player_to_play_recordings">Gebruik externe Media speler om opnames te beluisteren</string>
     <string name="play">Afspelen</string>
-    <string name="pause">Pauze</string>
     <string name="add_translation">Vertaling toevoegen</string>
 
-    <string name="not_able_to_import_to_pro">Is deze optie niet geactiveerd, dan zal het niet mogelijk zijn om de opnames automatisch te importeren naar de Pro versie. Verder nog, doe een back-up van alle belangrijke opnames als je beslist om de applicatie te verwijderen, doordat deze ook verwijderd worden.</string>
     <string name="number_of_seconds">Aantal seconden</string>
-    </resources>
+    <string name="delay_for_incoming_calls">Uitstel voor inkomende oproepen in seconden</string>
+    <string name="delay_for_outgoing_calls">Uitstel voor uitgaande oproepen in seconden</string>
+
+    <string name="enabled">Ingeschakeld</string>
+    <string name="disabled">Uitgeschakeld</string>
+    <string name="new_recordings">Nieuwe opnames</string>
+    <string name="usage_terms_and_privacy_policy">Gebruiksvoorwaarden en privacy beleid</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Als u deze applicatie gebruikt stem je in met de gebruiksvoorwaarden en privacy beleid</string>
+    <string name="supported_phones">Ondersteunde telefoons</string>
+    <string name="list_of_known_configurations">Lijst met bekende configuraties</string>
+
+    <string name="navigation_drawer_open">Menu openen</string>
+    <string name="tell_a_friend">Aanbevelen</string>
+    <string name="navigation_drawer_close">Menu sluiten</string>
+    <string name="rate_me">Beoordelen</string>
+    <string name="check_out_call_recorder_app_at">Hi, Kijk eens naar de Call-Recorder app</string>
+    <string name="upgrade_to_premium">Opwaarderen naar Premium</string>
+    <string name="theme">Thema</string>
+    <string name="use_dark_theme">Donker thema toepassen</string>
+    <string name="call">Oproepen</string>
+    <string name="note">Aantekening</string>
+    <string name="rec_info">Details</string>
+    <string name="add">Toevoegen</string>
+    <string name="save">Opslaan</string>
+    <string name="close">Sluiten</string>
+    <string name="search">Zoeken</string>
+    <string name="name">Naam</string>
+    <string name="number">Nummer</string>
+    <string name="path">Pad</string>
+    <string name="size">Grootte</string>
+    <string name="thank_you_for_upgrading_to_premium">Bedankt voor het opwaarderen naar Premium!</string>
+    <string name="proceed">Voortgaan</string>
+    <string name="restore_license">Gebruik licentiesleutel</string>
+    <string name="restore_for_purchased_users">Gebruik de Call Recorder Sleutel app van Google Play. Die activeert de Premium functies.</string>
+    <string name="app_is_not_licensed">Applicatie heeft geen licentie</string>
+    <string name="buy_license_in_order_to_use_app">Om deze app te gebruiken, koop je het a.u.b. via Google Play!</string>
+    <string name="pro_version_as_a_license">Call Recorder Pro (vanaf versie 6.6) wordt niet meer bijgewerkt met nieuwe functies, maar het werkt sindsdien als licentie sleutel om de premium functies van de standaard Free versie vrij te geven.</string>
+    <string name="check_again">Nogmaals proberen</string>
+    <string name="permissions">Machtigingen</string>
+    <string name="in_order_to_work_please_grand_permission">Voor probleemloos gebruik ken je de volgende machtigingen toe</string>
+    <string name="read_more">Lees meer</string>
+    <string name="do_not_show_again">Niet nogmaals tonen</string>
+    <string name="delete_uploaded">Verwijder geuploade data</string>
+    <string name="delete_after_upload_to_cloud">Verwijder geuploade opnames automatisch van de telefoon</string>
+    <string name="call_is_recording_now">Oproep wordt nu opgenomen</string>
+    <string name="error_during_recording">Fouten tijdens opnemen</string>
+    <string name="tap_here_to_troubleshoot">Klik hier voor probleemoplossen</string>
+    <string name="recording_problem">Opneem probleem?</string>
+    <string name="recording_notification">Opname melding</string>
+    <string name="show_notification_during_recording">Geef meldingen weer tijdens opnemen</string>
+    <string name="recording_filter">Opname filter</string>
+    <string name="filter">Filter</string>
+    <string name="use_filtering_by_phone_numbers">Filter volgens telefoonnummer</string>
+    <string name="filtering_method">Filter methode</string>
+    <string name="switch_filtering">Filter wisselen</string>
+    <string name="record_all_phone_numbers_exept_excluded">Maak geen opnames van onderstaande nummers</string>
+    <string name="record_only_included_phone_numbers">Maak alleen opnames van de onderstaande nummers</string>
+    <string name="add_contact">Voeg contact toe</string>
+    <string name="add_phone_number">Voeg telefoonnummer toe</string>
+    <string name="add_to_filter">Voeg aan filter toe</string>
+    <string name="another_call_recording_app_is_running">Een andere app neemt oproepen op. Verwijder het om Call Recorder goed te laten functioneren.</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">Als deze optie uit staat, kan Android de app onderbreken en sommige oproepen worden niet of deels opgenomen. Wil je hem toch uitzetten?</string>
+
+    <string name="automatic_cleaning">Automatisch schonen</string>
+    <string name="delete_recordings">Opnames verwijderen</string>
+    <string name="memory_occupied">Geheugen in gebruik</string>
+    <string name="free_memory">Vrij geheugen</string>
+    <string name="use_removable_storage">Gebruik verwisselbare opslag</string>
+    <string name="record_audio_files_to_removable_storage">Neem audio op verwisselbare opslag op</string>
+    <string name="repopulate_the_list_of_recordings">Neem de lijst van opnames in de app over van het bestandssysteem van het toestel</string>
+    <string name="delete_automatically">Verwijder automatisch</string>
+    <string name="delete_older_then">Automatisch verwijderen van opnames ouder dan een ingesteld aantal dagen. Geblokkeerde opnames worden niet verwijderd.</string>
+    <string name="clean_up">Nu opruimen</string>
+    <string name="delete_old_recordings">Oude opnames verwijderen. Geblokkeerde opnames worden niet verwijderd.</string>
+    <string name="general">Algemeen</string>
+    <string name="hide_from_media_player">Verbergen voor mediaspeler</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Toon audioopnames niet in mediaspeler apps</string>
+    <string name="deleted_recordings_if_uninstall">Als deze option aanstaat en je verwijdert de app, dan worden alle opnames in de verwisselbare opslag verwijderd door het systeem.</string>
+    <string name="finished">Klaar</string>
+    <string name="language">Taal</string>
+    <string name="select_language">Kies taal</string>
+    <string name="use_proximity_sensor">Gebruik nabijheidssensor</string>
+    <string name="switch_audio_mode">Wissel de audio modus als het scherm dicht bij je oor is</string>
+
+
+
+    <string name="app_description_free">Simple Call Recorder applicatie kenmerken:
+- opnemen van oproepen aan/uit zetten
+- al je telefoon gespreken opnemen
+- afspelen van opgenomen audio door aanraking van het item starten en stoppen
+- opnames verwijderen
+- opnames blokkeren om automatische opruimen te voorkomen
+- opnames delen (alleen in Pro versie)
+- Bevestigingsdialoog meteen na de oproep: Wil je de opgenomen oproep bewaren? (only in Pro version).
+
+ALS HET HELEMAAL NIET WERKT OP OP JE TELEFOON
+OF HET NEEEMT BINNENKOMENDE OPROEPEN NIET DUIDELIJK OP
+1. Probeer verschillende opname instellingen te mixen, zoals hier beschreven: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Er is een belemmering voor sommige telefoons die geen ondersteuning bieden voor opnemen vanaf de telefoonlijn of via bluetoothe. Het is probleem met het audiostuurprogramma van de fabrikant van de telefoon. Er is een lijst van ondersteunde telefoons en van configuraties daarvoor: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Geef daarvoor geen slechte beoordeling! Dank!
+
+Als je suggesties of reacties heeft, bezoek dan onze website: http://clevermobile.net en voel je vrij op contact met ons op te nemen.</string>
+
+
+
+<string name="rename">Hernoemen</string>
+
+    <string name="permission_record_audio_explanation">Microfoon om audio van gesprekken te laten opnemen</string>
+    <string name="permission_storage_explanation">Opslagruimte om opnames op te slaan</string>
+    <string name="permission_manage_phone_calls__explanation">Telefoon om opnemen van gesprekken automatisch te starten en te eindigen</string>
+    <string name="permission_contacts_explanation">Contacten om naam en logo weer te geven</string>
+
+    <string name="what_can_be_improved">Wat kan beter?</string>
+    <string name="submit">Voorleggen</string>
+
+
+    <string name="license_key">Licentiesleutel</string>
+    <string name="thank_you">Bedankt voor gebruik en ondersteuning van onze app!</string>
+    <string name="this_is_license_key">Dit is de licentiesleutel app voor Call Recorder die de premium functies activeert. Je moet eerst de Call Recorder app installeren.</string>
+
+    <string name="app_description_key">Call Recorder Key app verwijdert de adverenties uit de Call Recorder Free app. Het activeert ook de Premium functies:
+
+ - Opnames delen
+ - Dialoog melding na elke oproep: \"Deze opname bewaren?\"
+ - Automatisch opnames opnames uploaden naaar Dropbox of Google Drive
+
+ De Call Recorder Free app moet geinstalleerd zijn op je telefoon.</string>
+
+</resources>

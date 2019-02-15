@@ -3,31 +3,19 @@
 
     <string name="app_name">مسجل المكالمات</string>
     <string name="sd">الرجاء ادخل بطاقة SD في الهاتف</string>
-    <string name="contact">جهات اتصال</string>
-    <string name="selected">اختيار</string>
     <string name="settings">اعدادات</string>
     <string name="notifications">تنبيهات</string>
     <string name="notificationStatus_checkbox_title">تمكين التنبيهات</string>
     <string name="notificationStatus_checkbox_summary">اعرض في شريط التنبيهات بعد كل تسجيل مكالمة</string>
     <string name="saveRecordQuestion_checkbox_summary">اسأل بعد كل تسجيل مكالمة؟</string>
     <string name="storage">تحزين</string>
-    <string name="deleteRecord_title">تنظيف تلقائي</string>
-    <string name="deleteRecord_summary">حذف التسجيل</string>
     <string name="recording">إعدادات التسجيل</string>
     <string name="audioSource_title">مصدر الصوت</string>
-    <string name="audioChannel_title">قناة الصوت</string>
     <string name="fileFormat_title">تنسيق ملف</string>
-    <string name="recordingQuality_title">جودة التسجيل</string>
-    <string name="email_subject">المكالمات المسجلة</string>
-    <string name="buy_category_description">الاصدار الكامل</string>
-    <string name="buy_category_title">اشتري الاصدار الكامل</string>
-    <string name="buy_summary">بدون اعلانات ومع مميزات اضافية </string>
 
     <string name="rate">تقيمك للبرنامج يسعدنا</string>
     <string name="rateOk">حسنا</string>
     <string name="rateLater">لاحقا</string>
-    <string name="start_notification">بدء التسجيل </string>
-    <string name="stop_notification">ايقاف التسجيل</string>
 
     <string name="save_the_call">حفظ المكالمة</string>
     <string name="yes">نعم</string>
@@ -35,12 +23,9 @@
 
     <string name="unknown">مجهول</string>
     <string name="hidden">مخفي</string>
-    <string name="start_recording">التسجيل يعمل!</string>
     <string name="start_recording_details">سيتم حفظ جميع المكالمات</string>
-    <string name="stop_recording">تشغيل التسجيل</string>
     <string name="stop_recording_details">وضع التسجيل الان مغلق</string>
 
-    <string name="new_call">تم تسجيل مكالمة جديدة</string>
     <string name="info">معلومات</string>
     <string name="faq_title">اسئلة متكررة</string>
     <string name="faq_summary">اسئلة متكررة</string>
@@ -55,9 +40,6 @@
     <string name="delete">حذف</string>
     <string name="select_all">اختيار الكل</string>
     <string name="recordings">التسجيلات</string>
-    <string name="help">مساعدة</string>
-    <string name="hint_tap_on_contact_photo">انقر على صورة المتصل لاختيار عنصر</string>
-    <string name="importing_recordings">استيراد التسجيلات</string>
 
     <string name="buy">شراء</string>
     <string name="cancel">إلغاء</string>
@@ -69,15 +51,9 @@
     <string name="advanced_botifications">تنبهات متقدمة</string>
     <string name="no_more_ads">لا مزيد من الاعلانات</string>
 
-    <string name="sd_card">الذاكرة الخارجية</string>
-    <string name="call_recorder_folder">\"CallRecorder\" مجلد </string>
-    <string name="sd_card_memory_occupied">الذاكرة المستخدمة</string>
-    <string name="sd_card_free_memory">الذاكرة المتوفرة</string>
     <string name="total_files">عدد الملفات</string>
     <string name="import_recordings">استيراد التسجيلات</string>
-    <string name="run_clean_up">التنظيف التلقائي الان</string>
     <string name="cleaning">حذف التسجيلات القديمة</string>
-    <string name="share_via">مشاركة ..</string>
 
     <string name="passcode">الرمز السري</string>
     <string name="enable_passcode">تمكين الرمز السري</string>
@@ -103,7 +79,6 @@
     <string name="google_drive">قوقل درايف</string>
     <string name="google_drive_link">ربط حسابك بقوقل درايف</string>
     <string name="google_drive_unlink">الغاء ربط حسابك بقوقل درايف</string>
-    <string name="connecting_to_google_drive">الاتصال على قوقل درايف</string>
 
     <string name="login">تسجيل الدخول</string>
     <string name="logout">تسجيل الخروج</string>
@@ -112,24 +87,13 @@
     <string name="wifi_only">WiFi فقط</string>
     <string name="wifi_only_when_sync">تحميل عند الاتصال بالـ WiFi فقط</string>
 
-    <string name="run_pro_question_dlg_description">تحاول تثبيت النسخة المجانية لكن لديك مثبت النسخة الكاملة.هل تريد تبقى مع النسخة الكاملة؟</string>
-    <string name="run_pro_question_dlg_title">تشغيل النسخة الكاملة</string>
-    <string name="last_recording">التسجيل الاخير</string>
-    <string name="last_recording_problem_description">يبدو انه هناك مشكلة في التسجيل الاخير. لو ظهرت هذه المشكلة مرة اخرى ، فحاول تغير نوعية تنسيق الملفات او مصدر الصوت من الاعدادات.</string>
-    <string name="read_instructions">اقرأ التعليمات</string>
     <string name="about">حول</string>
-    <string name="translations">الترجمة</string>
     <string name="translate">ترجم</string>
     <string name="help_translate">ساعدنا في ترجمة التطبيق الى لغتك الأم بمساعدة موقعنا. هل ترغب في إجراء العملية؟</string>
 
-    <string name="write_ext_storage_problem_description">لا يمكن التخزين بالذاكرة الخارجية</string>
 
-<string name="allow_to_write_to_sd_card">السماح بالتخزين في الذاكرة الخارجية</string>
-    <string name="delete_recordings_older_then_selected_days">جميع السجلات الأقدم من عدد الأيام المختارة سيتم مسحها تلقائيا</string>
-    <string name="not_able_to_import_to_pro">لو هذا الخيار متاح لن يكون من الممكن استيراد التسجيلات إلي النسخة المتقدمة لذلك اعمل نسخة من تسجيلاتك المهمة لو انت قررت إلغاء البرنامج لانها سوف تلغي كليا</string>
     <string name="add_translation">أضف ترجمة</string>
 
-    <string name="delete_recordings_on_uninstall">سوف يتم مسح كل التسجيلات في حالة إلغاء تنزيل البرنامج</string>
     <string name="number_of_days">عدد الأيام</string>
 
     <string name="no_player_app_found">لا يوجد تطبيق لتشغيل هذا الملف الصوتي</string>
@@ -138,9 +102,7 @@
     <string name="use_external_media_player_to_play_recordings">استخدم وسيط تشغيل خارجي لتشغيل هذا التسجيل</string>
     <string name="player">وسيط تشغيل ملفات صوتية</string>
     <string name="play">تشغيل</string>
-    <string name="pause">توقف</string>
     <string name="recording_method">طريقة التسجيل</string>
-    <string name="not_able_to_import">إذا تم تمكين هذا الخيار وعليك أن تقرر لإلغاء التطبيق، ما عليك القيام به نسخة احتياطية من جميع التسجيلات الهامة، كما كل ما سيتم حذف وأنه لن يكون من الممكن استيراد التسجيلات بالعمل تلقائيا بعد تثبيت التطبيق مرة أخرى</string>
 
     <string name="number_of_seconds">عدد الثواني</string>
     <string name="delay_for_incoming_calls">تاخير تسجل المكالمات الوارده</string>
@@ -149,8 +111,6 @@
     <string name="enabled">تمكين</string>
     <string name="disabled">يبدو انه هناك مشكلة في التسجيل الاخير. لو ظهرت هذه المشكلة مرة اخرى ، فحاول تغير نوعية تنسيق الملفات او مصدر الصوت من الاعدادات.</string>
     <string name="new_recordings">تسجيلات جديدة</string>
-    <string name="persistent_notifications">اشعارات مستمرة</string>
-    <string name="enable_persistent_notifications">تفعيل الإشعارات المستمرة</string>
     <string name="usage_terms_and_privacy_policy">استخدام شروط وسياسات الخصوصية</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">باستخدام هذا التطبيق فأنت توافق على شروط الاستخدام وسياسة الخصوصية</string>
     <string name="supported_phones">الهواتف المدعومة</string>
@@ -166,7 +126,6 @@
     <string name="use_dark_theme">استخدم القالب المعتم</string>
     <string name="call">مكالمة</string>
     <string name="note">ملحوظة</string>
-    <string name="add_to_excluded">اضافة الي استبعاد</string>
     <string name="rec_info">معلومات</string>
     <string name="add">اضافة</string>
     <string name="save">حفظ</string>
@@ -201,16 +160,7 @@ IF IT لا يعمل على هاتفك AT ALL
 
 إذا كان لديك بعض اقتراحات أو تعليقات، يرجى زيارة موقعنا http://clevermobile.net وتتردد في الاتصال بنا</string>
 
-    <string name="app_description_pro">استدعاء تسجيل برو (بدءا من النسخة 6.6) لن يتم تحديثه من قبل وظائف جديدة ولكن سيتم العمل مثل منشط ترخيص لتمكين ميزات قسط نسخة مجانية قياسي.
 
-لا يزال سوف تعمل كما كان من قبل، ولكن من دون ميزات جديدة مثل:
-
-- واجهة مستخدم جديدة مع إمكانية التبديل بين الضوء والظلام المواضيع
-- ملاحظات للتسجيلات. إضافة، تعديل، وإزالة الملاحظات والبحث عن طريق الملاحظات.
-- طلب عدد من التسجيل.
-- وأكثر من ذلك أنه سيتم مضيفا في الإصدارات القادمة.
-
-لذلك فمن المستحسن لتثبيت نسخة مجانية القياسية واستعادة الترخيص الخاص بك هناك</string>
 
 <string name="restore_for_purchased_users">لديك لتثبيت أحدث إصدار برو، من Google Play، التي يمكنك شراؤها من قبل. وسوف يكون استخدام مثل رخصة حصول على وظائف تفعيل متميزة.</string>
     <string name="pro_version_as_a_license">لن يتم تحديث تسجيل المكالمات Pro الإصدار من الميزات الجديدة أكثر من ذلك. سيتم استخدامها للمستخدمين الحالي باعتباره مفتاح الترخيص لتنشيط وظائف مميزة في النسخة القياسية. مزيد من المعلومات حول هذا الموضوع على موقعنا</string>
@@ -225,5 +175,8 @@ IF IT لا يعمل على هاتفك AT ALL
     <string name="recording_problem">مشكلة تسجيل؟</string>
     <string name="recording_notification">"اشعارات التسجيل "</string>
     <string name="show_notification_during_recording">"اظهار الاشعارات اثناء التسجيل "</string>
-    <string name="filter">"تصفية "</string>
+    <string name="filter">الزراعة والثروة</string>
+    <string name="proceed">Moisson</string>
+    <string name="recording_filter">الحصاد</string>
+    <string name="use_filtering_by_phone_numbers"/>
     </resources>

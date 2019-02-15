@@ -2,21 +2,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">कॉल रिकॉर्डर</string>
     <string name="sd">"कृपया,  फोन में एसडी कार्ड डालें!"</string>
-    <string name="contact">संपर्क सूची</string>
-    <string name="selected">चयनित</string>
     <string name="settings">सेटिंग्स</string>
     <string name="notifications">नोटिफिकेसन</string>
     <string name="notificationStatus_checkbox_title">नोटिफिकेसन चालू</string>
     <string name="notificationStatus_checkbox_summary">हर रिकॉर्डेड कॉल के बाद नोटिफिकेसन बार में दिखाएं</string>
     <string name="saveRecordQuestion_checkbox_summary">हर रिकार्डेड कॉल के बाद पूछें</string>
-    <string name="deleteRecord_title">स्वचलित सफाई</string>
-    <string name="deleteRecord_summary">रिकॉर्डिंग मिटाएं</string>
     <string name="recording">रिकॉर्डिंग</string>
-    <string name="audioChannel_title">श्रव्य माध्यम</string>
     <string name="fileFormat_title">दस्तावेज प्रारूप</string>
-    <string name="recordingQuality_title">रिकॉर्डिंग गुणवत्ता</string>
-    <string name="email_subject">रिकॉर्डेड कॉल्स</string>
-	<string name="buy_category_description">पेशेवर संस्करण</string>
-	<string name="buy_category_title">कॉल रिकॉर्डर का पेशेवर संस्करण खरीदे</string>
-	<string name="audioSource_title"></string>
     </resources>

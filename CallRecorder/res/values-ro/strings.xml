@@ -2,31 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Inregistrator de apeluri</string>
     <string name="sd">Vă rugăm, introduceți cardul-MicroSD în telefon!</string>
-    <string name="contact">Contacte</string>
-    <string name="selected">selectat</string>
     <string name="settings">Setări</string>
     <string name="notifications">Notificări</string>
     <string name="notificationStatus_checkbox_title">Activare notificări</string>
     <string name="notificationStatus_checkbox_summary">"Afișează  bara de notificare după fiecare apel înregistrat"</string>
     <string name="saveRecordQuestion_checkbox_summary">Întreabă după fiecare apel înregistrat</string>
     <string name="storage">Depozitare</string>
-    <string name="deleteRecord_title">Curăţare automată</string>
-    <string name="deleteRecord_summary">Șterge înregistrările</string>
     <string name="recording">Setări de înregistrare</string>
     <string name="audioSource_title">Sursă audio</string>
-    <string name="audioChannel_title">Canal audio</string>
     <string name="fileFormat_title">Tipul de fișier</string>
-    <string name="recordingQuality_title">Calitatea înregistrării</string>
-    <string name="email_subject">Apeluri înregistrate</string>
-	<string name="buy_category_description">Versiunea Pro</string>
-	<string name="buy_category_title">"Cumpără Inregistratorul de apeluri,  versiunea Pro"</string>
-	<string name="buy_summary">—Fără reclame și cu caracteristici suplimentare</string>
 
 	<string name="rate">Vă rugam, evaluați această aplicație</string>
 	<string name="rateOk">Bine</string>
 	<string name="rateLater">Mai târziu</string>
-    <string name="start_notification">Inregistrarea apelului este pornita</string>
-    <string name="stop_notification">Inregistrarea apelului este terminata</string>
 
     <string name="save_the_call">Salvați acest apel?</string>
     <string name="yes">Da</string>
@@ -34,12 +22,9 @@
 
     <string name="unknown">Necunoscut</string>
     <string name="hidden">Ascuns</string>
-    <string name="start_recording">Inregistratorul de apeluri funcționează!</string>
     <string name="start_recording_details">Toate apelurilele tale vor fi salvate.</string>
-    <string name="stop_recording">Porniti inregistrarea !</string>
     <string name="stop_recording_details">Înregistratorul este oprit.</string>
 
-    <string name="new_call">Noul apel a fost înregistrat!</string>
     <string name="info">Informație</string>
     <string name="faq_title">FAQ(Întrebări frecvente)</string>
     <string name="faq_summary">Întrebări frecvente</string>
@@ -54,9 +39,6 @@
     <string name="delete">Șterge</string>
     <string name="select_all">Selectează tot</string>
     <string name="recordings">Înregistrări</string>
-    <string name="help">Ajutor</string>
-    <string name="hint_tap_on_contact_photo">Apăsați pe o fotografie de contact pentru a selecta un element.</string>
-    <string name="importing_recordings">Se importă înregistrări…</string>
 
     <string name="buy">Cumpără</string>
     <string name="cancel">Anulare</string>
@@ -68,15 +50,9 @@
     <string name="advanced_botifications">Notificări avansate</string>
     <string name="no_more_ads">Fără reclame</string>
 
-    <string name="sd_card">Card MicroSD</string>
-    <string name="call_recorder_folder">"Fisierul  \"CallRecorder\""</string>
-    <string name="sd_card_memory_occupied">- Memorie folosită</string>
-    <string name="sd_card_free_memory">- Memorie liberă</string>
     <string name="total_files">- Fisiere total</string>
     <string name="import_recordings">Importa inregistrari</string>
-    <string name="run_clean_up">Curăță acum</string>
     <string name="cleaning">Curățare înregistrări vechi…</string>
-    <string name="share_via">Spune-le prietenilor prin…</string>
 
     <string name="passcode">Parola</string>
     <string name="enable_passcode">Activați parola</string>
@@ -102,7 +78,6 @@
     <string name="google_drive">Google Drive</string>
     <string name="google_drive_link">Faceti legatura cu contul Google Drive</string>
     <string name="google_drive_unlink">Deconectare legatură la contul Google Drive</string>
-    <string name="connecting_to_google_drive">Conectare la Google Drive</string>
 
     <string name="login">Logare</string>
     <string name="logout">Delogare</string>
@@ -111,21 +86,11 @@
     <string name="wifi_only">Numai WiFi</string>
     <string name="wifi_only_when_sync">Sincronizare numai atunci când este conectat la rețeaua WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Ati incercat sa porniti versiunea gratuita a programului Call Recorder, dar aveti instalata versiunea Pro. Doriti sa pornim versiunea Pro ?</string>
-    <string name="run_pro_question_dlg_title">Rulează versiunea Pro</string>
-    <string name="last_recording">Ultima înregistrare</string>
-    <string name="last_recording_problem_description">Se pare că a fost o problema în timpul ultimei înregistrări. Dacă acest mesaj apare din nou, atunci vă rugăm să încercați schimbarea metodei de inregistrare sau sursa audio din Setări.</string>
-    <string name="read_instructions">Citiți instrucțiunile</string>
     <string name="about">Despre</string>
-    <string name="translations">Traduceri</string>
     <string name="translate">Traduceți</string>
     <string name="help_translate">Ajutați-ne cu traducerea în limba dumneavoastra natala</string>
 
-    <string name="write_ext_storage_problem_description">Nu se poate scrie în stocarea externă.</string>
-    
-<string name="allow_to_write_to_sd_card">Permiteți înmagazinarea pe cardul SD</string>
-    <string name="delete_recordings_older_then_selected_days">Toate înregistrările mai vechi de perioada selectată vor fi şterse automat</string>
-    <string name="delete_recordings_on_uninstall">Se vor şterge toate înregistrările dacă dezinstalați aplicația Call Recorder</string>
+
     <string name="number_of_days">Numărul de zile</string>
 
     <string name="recording_method">Metoda de înregistrare</string>
@@ -135,10 +100,7 @@
     <string name="use_external_player">Folosiți un player extern</string>
     <string name="use_external_media_player_to_play_recordings">Folosiți un player media extern pentru a rula înregistrările</string>
     <string name="play">Rulează.</string>
-    <string name="pause">Pauză</string>
     <string name="number_of_seconds">Număr de secunde</string>
-    <string name="not_able_to_import_to_pro">Daca aceasta optiune este pornita, atunci nu va fi posibil sa importati automat inregistrari in versiunea Pro. In plus, salvati toate inregistrarile importante daca decideti sa dezinstalati aplicatia, pentru ca acestea vor fi sterse.</string>
-    <string name="not_able_to_import">"Daca aceasta optiune este activa si decideti sa dezinstalati aplicatia,  trebuie sa salvati toate inregistrarile importante deoarece ele vor fi sterse si nu va fi posibil sa importati automat inregistrari dupa instalarea din nou a aplicatiel. "</string>
 
     <string name="delay_for_incoming_calls">Intarziere pentru apelurile receptionate, in secunde</string>
     <string name="delay_for_outgoing_calls">Intarziere pentru apelurile efectuate, in secunde</string>
@@ -146,8 +108,6 @@
     <string name="enabled">Pornit</string>
     <string name="disabled">Dezabilitat</string>
     <string name="new_recordings">inregistrari noi</string>
-    <string name="persistent_notifications">Notificari persistente</string>
-    <string name="enable_persistent_notifications">Notificari continue pornite</string>
     <string name="usage_terms_and_privacy_policy">Termeni de utilizare si politica de securitate</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Prin utilizarea acestei aplicatii, sunteti de acord cu Termenii de utilizare si politica de securitate</string>
     <string name="supported_phones">Telefoane compatibile</string>
@@ -155,6 +115,5 @@
 
     <string name="app_description_free"/>
 
-    <string name="app_description_pro"/>
 
 </resources>

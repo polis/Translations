@@ -2,31 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Záznam Hovoru</string>
     <string name="sd">Prosím, vložte SD kartu do telefonu!</string>
-    <string name="contact">Kontakty</string>
-    <string name="selected">vybrané</string>
     <string name="settings">Nastavení</string>
     <string name="notifications">Upozornění</string>
     <string name="notificationStatus_checkbox_title">Uprav upozornění</string>
     <string name="notificationStatus_checkbox_summary">Ukaž upozornění po nahrávání</string>
     <string name="saveRecordQuestion_checkbox_summary">Ukaž dialog po hovoru</string>
     <string name="storage">Úložiště</string>
-    <string name="deleteRecord_title">Automatické čištění</string>
-    <string name="deleteRecord_summary">Smaž všechny nahrávky</string>
     <string name="recording">Nastavení nahrávání</string>
     <string name="audioSource_title">Zdroj zvuku</string>
-    <string name="audioChannel_title">Audio kanál</string>
     <string name="fileFormat_title">Formát souborů</string>
-    <string name="recordingQuality_title">Kvalita nahrávání</string>
-    <string name="email_subject">Nahrané hovory</string>
-	<string name="buy_category_description">Pro verze</string>	
-	<string name="buy_category_title">Kup Záznam Hovorů Pro verzi</string>	
-	<string name="buy_summary">Neobsahuje reklamy a má funkce navíc</string>
 
 	<string name="rate">Prosím, ohodnoťe tuto aplikaci</string>
 	<string name="rateOk">Ok</string>
 	<string name="rateLater">Později</string>
-    <string name="start_notification">Nahrávání hovoru začalo</string>    
-    <string name="stop_notification">Nahrávání hovoru skončilo</string>
 
     <string name="save_the_call">Uložit tento hovor?</string>    
     <string name="yes">Ano</string>    
@@ -34,13 +22,10 @@
 
 	<string name="unknown">Neznámé</string>
 	<string name="hidden">Skryté</string>	
-	<string name="start_recording">Záznam Hovorů pracuje!</string>    
-    <string name="start_recording_details">Všechny následujcí hovory budou uložené.</string>    
-    <string name="stop_recording">Zapni nahrávání!</string>    
+    <string name="start_recording_details">Všechny následujcí hovory budou uložené.</string>
     <string name="stop_recording_details">Aktuálně je nahrávání vypnuto.</string>
 
-    <string name="new_call">Nový hovor byl zaznamenán!</string>    
-    <string name="info">Informace</string>       
+    <string name="info">Informace</string>
     <string name="faq_title">Často kladené dotazy</string>       
     <string name="faq_summary">Přejděte na stránku FAQ Záznamníku hovorů</string>       
     <string name="other_app_title">Další programy od Clever Mobile</string>
@@ -65,19 +50,12 @@
     <string name="cancel">Zrušit</string>
     <string name="select_all">Vyber vše</string>
     <string name="recordings">Záznam</string>
-    <string name="help">Pomoc</string>
-    <string name="sd_card">SD karta</string>
-    <string name="sd_card_memory_occupied">Použitá paměť</string>
-    <string name="sd_card_free_memory">Volná paměť</string>
     <string name="import_recordings">"Import nahrávek "</string>
-    <string name="hint_tap_on_contact_photo">Stiskněte obrázek kontaktu pro výběr položky.</string>
     <string name="pro_description">Placená verze obsahuje</string>
     <string name="share_recordings">Sdílet záznamy</string>
     <string name="no_more_ads">Bez reklam</string>
 
-    <string name="call_recorder_folder">Složka \"CallRecorder\"</string>
     <string name="cleaning">Čištění</string>
-    <string name="share_via">Sdílet pomocí…</string>
 
     <string name="passcode">Heslo</string>
     <string name="enable_passcode">Použít heslo</string>
@@ -94,7 +72,6 @@
     <string name="wrong_passcode">Chybné heslo, opakujte zadání!</string>
     <string name="exit">Ukončit</string>
 
-    <string name="importing_recordings">Import záznamů</string>
 
     <string name="google_drive_upload">Uložit na disk Google</string>
     <string name="dropbox_upload">Uložit do Dropboxu</string>
@@ -103,15 +80,8 @@
     <string name="wifi_only">Pouze WiFi</string>
     <string name="wifi_only_when_sync">Nahrávání pouze při připojení na WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Pokoušíte se spustit bezplatnou verzi, ale už máte nainstalovanou verzi PRO. Chcete pokračovat s verzí PRO?</string>
-    <string name="run_pro_question_dlg_title">Spustit verzi PRO</string>
-    <string name="last_recording">Poslední nahrávání</string>
-    <string name="last_recording_problem_description">Vypadá to, že se během posledního nahrávání objevil problém. Pokud potíže přetrvají, zkuste změnit metodu nahrávání nebo změňte zdroj zvuku v nastaveni.</string>
-    <string name="read_instructions">Přečtěte si pokyny</string>
     <string name="about">O programu</string>
-    <string name="translations">Překlady</string>
     <string name="translate">Přeložit</string>
-    <string name="run_clean_up">Vyčistit teď</string>
     <string name="add_to_filter">Přidat k filtrování</string>
     <string name="add_contact">Přidat kontakt</string>
     <string name="filtering_method">Metoda filtrování</string>
@@ -139,7 +109,6 @@
     <string name="google_drive">Disk Google</string>
     <string name="google_drive_link">Propojte účet se službou Google Disk</string>
     <string name="google_drive_unlink">Odpojit od účtu Google Diss</string>
-    <string name="connecting_to_google_drive">Připojuji na Google Disk</string>
 
     <string name="help_translate">Pomozte nám s překladem aplikace do vašeho rodného jazyka pomocí našeho webu. Chtěli byste pokračovat?</string>
     <string name="add_translation">Přidat překlad</string>
@@ -151,7 +120,6 @@
     <string name="use_external_player">Použít externí přehrávač</string>
     <string name="use_external_media_player_to_play_recordings">Použít externí přehrávač pro přehrání záznamů</string>
     <string name="play">Přehrát</string>
-    <string name="pause">Pozastavit</string>
 
     <string name="number_of_seconds">Počet sekund</string>
     <string name="delay_for_incoming_calls">Zpoždění záznamu pro příchozí hovory v sekundách</string>
@@ -160,8 +128,6 @@
     <string name="enabled">Povoleno</string>
     <string name="disabled">Zakázáno</string>
     <string name="new_recordings">Nové nahrávky</string>
-    <string name="persistent_notifications">Trvalé oznámení</string>
-    <string name="enable_persistent_notifications">Povolené trvalé oznámení</string>
     <string name="usage_terms_and_privacy_policy">Podmínky použití a zásady ochrany osobních údajů</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Používáním této aplikace souhlasíte s podmínkami používání a zásadami ochrany osobních údajů</string>
     <string name="supported_phones">Podporované telefony</string>
@@ -177,7 +143,6 @@
     <string name="use_dark_theme">Použít tmavý vzhled</string>
     <string name="call">Hovor</string>
     <string name="note">Poznámka</string>
-    <string name="add_to_excluded">Přidat k vyloučeným</string>
     <string name="rec_info">Info</string>
     <string name="add">Přidat</string>
     <string name="save">Uložit</string>
@@ -241,16 +206,7 @@ Prosím, nedávejte na to špatné známky. Děkuji!
 
 Pokud máte nějaké návrhy nebo připomínky, navštivte naše stránky http://clevermobile.net a neváhejte nás kontaktovat.</string>
 
-    <string name="app_description_pro">Call Recorder Pro (počínaje verzí 6.6) již nebude aktualizován novými funkcemi, ale bude pracovat jako aktivátor licence, který povolí prémiové funkce pro standardní bezplatnou verzi.
 
-Stále bude fungovat stejně jako předtím, ale bez nových funkcí, jako je:
-
-- Nové uživatelské rozhraní s možností přepínat mezi světlými a temnými motivy
-- Poznámky k záznamům. Přidávat, upravovat, odstraňovat poznámky a vyhledávat podle poznámek.
-- Zadejte číslo z nahrávání.
-- a další, které budou přidány do dalších vydání.
-
-Doporučujeme proto nainstalovat standardní bezplatnou verzi a obnovit licenci tam</string>
 
 <string name="repopulate_the_list_of_recordings">Znovu zadat seznam záznamů v aplikaci ze systému souborů</string>
     </resources>

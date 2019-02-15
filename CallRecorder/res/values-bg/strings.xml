@@ -2,31 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 <string name="app_name">Запис на обажданията</string>
     <string name="sd">Моля, поставете SD карта в телефона си!</string>
-    <string name="contact">Контакти</string>
-    <string name="selected">избрани</string>
     <string name="settings">Настройки</string>
     <string name="notifications">Известия</string>
     <string name="notificationStatus_checkbox_title">Включи известията</string>
     <string name="notificationStatus_checkbox_summary">Показвай известие горе в бара по време на запис</string>
     <string name="saveRecordQuestion_checkbox_summary">Попитай след запис на разговора</string>
     <string name="storage">Съхранение</string>
-    <string name="deleteRecord_title">Автоматично почистване</string>
-    <string name="deleteRecord_summary">Изтриване на записи</string>
     <string name="recording">Настройки на записа</string>
     <string name="audioSource_title">Аудио формат</string>
-    <string name="audioChannel_title">Аудио канал</string>
     <string name="fileFormat_title">Файлов формат</string>
-    <string name="recordingQuality_title">Качество на запис</string>
-    <string name="email_subject">Записани обаждания</string>
-	<string name="buy_category_description">Разширена версия</string>
-	<string name="buy_category_title">Закупи запис на обажданията разширена версия</string>
-	<string name="buy_summary">Без реклами и допълнителни функции</string>
 
 	<string name="rate">Моля, гласувайте за това приложение</string>
 	<string name="rateOk">ОК</string>
 	<string name="rateLater">По-късно</string>
-    <string name="start_notification">Записа на обажданията е стартиран</string>    
-    <string name="stop_notification">Запис на обажданията е спрян</string>
 
     <string name="save_the_call">Да запиша ли това обаждане?</string>
     <string name="yes">Да</string>
@@ -34,13 +22,10 @@
 
 	<string name="unknown">Не знам</string>
     <string name="hidden">Скрити</string>
-	<string name="start_recording">Записа на обажданията работи!</string>    
-    <string name="start_recording_details">Всички ваши бъдещи обаждания ще бъдат записани.</string>    
-    <string name="stop_recording">Включване на записа!</string>    
+    <string name="start_recording_details">Всички ваши бъдещи обаждания ще бъдат записани.</string>
     <string name="stop_recording_details">Текущия запис е изключен.</string>
 
-    <string name="new_call">Новото обаждане беше записано!</string>    
-    <string name="info">Информация</string>       
+    <string name="info">Информация</string>
     <string name="faq_title">FAQ</string>
     <string name="faq_summary">Често задавани въпроси</string>
     <string name="other_app_title">Всички проложения</string>
@@ -54,9 +39,6 @@
     <string name="delete">Изтриване</string>
     <string name="select_all">Избери всички</string>
     <string name="recordings">Записи</string>
-    <string name="help">Помощ</string>
-    <string name="hint_tap_on_contact_photo">Докоснете снимката на контакта за да изберете.</string>
-    <string name="importing_recordings">Добавени записи…</string>
 
     <string name="buy">Купи</string>
     <string name="cancel">Отказ</string>
@@ -68,15 +50,9 @@
     <string name="advanced_botifications">Допълнителни известия</string>
     <string name="no_more_ads">Без повече реклама</string>
 
-    <string name="sd_card">SD карта</string>
-    <string name="call_recorder_folder">Папка \"Записани обаждания\"</string>
-    <string name="sd_card_memory_occupied">Използвана памет</string>
-    <string name="sd_card_free_memory">Свободна памет</string>
     <string name="total_files">Общо файлове</string>
     <string name="import_recordings">Добавени записи</string>
-    <string name="run_clean_up">Почисти сега</string>
     <string name="cleaning">Почистване</string>
-    <string name="share_via">Сподели през…</string>
 
     <string name="passcode">Парола</string>
     <string name="enable_passcode">Включи парола</string>
@@ -102,7 +78,6 @@
     <string name="google_drive">Облак на Google Drive</string>
     <string name="google_drive_link">Връзка към Google Drive акаунт</string>
     <string name="google_drive_unlink">Разкачи връзката към Google Drive акаунт</string>
-    <string name="connecting_to_google_drive">Свързване към Google Drive</string>
 
     <string name="login">Влизане</string>
     <string name="logout">Излизане</string>
@@ -111,20 +86,10 @@
     <string name="wifi_only">Само през WiFi</string>
     <string name="wifi_only_when_sync">Качване само при връзка с WiFi</string>
 
-    <string name="run_pro_question_dlg_description">Вие опитвате да стартирате безплатна версия на приложението, но вече имате разширена версия. Желаете ли да я запазите?</string>
-    <string name="run_pro_question_dlg_title">Стартирай разширена версия</string>
-    <string name="last_recording">Последни записи</string>
-    <string name="last_recording_problem_description">Изглежда имате проблем по време на последния запис. Ако това съобщение продължи да се появява, моля, сменете аудио формата за съхранение от настройките.</string>
-    <string name="read_instructions">Прочети инструкцийте</string>
     <string name="about">Относно</string>
-    <string name="translations">Преводи</string>
     <string name="translate">Превод</string>
     <string name="help_translate">Помогнете ни с превода на приложението на родния си език, като използвате нашия уебсайт. Искате ли да продължите?</string>
 
-    <string name="write_ext_storage_problem_description">Невъзможен е запис на карта за съхранение.</string>
-    <string name="allow_to_write_to_sd_card">Позволи запис на външна SD карта</string>
-    <string name="delete_recordings_older_then_selected_days">Всички записи по-стари от избрания период ще бъдат автоматично изтрити</string>
-    <string name="delete_recordings_on_uninstall">Това ще изтрие всички записи, ако деинсталирате приложението Call Recorder</string>
     <string name="number_of_days">Брой дни</string>
 
     <string name="recording_method">Вид на записа</string>
@@ -134,9 +99,6 @@
     <string name="use_external_player">Използвай външен плеър</string>
     <string name="use_external_media_player_to_play_recordings">Използвай външен плеър за възпроизвеждане на записаните разговори</string>
     <string name="play">Възпроизвеждане</string>
-    <string name="pause">Пауза</string>
-    <string name="not_able_to_import_to_pro">Ако тази опция включена то тогава няма да е възможно автоматично импортиране на записи за Pro версията. Освен това, направете резервно копие на всички важни записи, ако решите обаче да деинсталирате приложението то всички те ще бъдат изтрити.</string>
-    <string name="not_able_to_import">"Ако тази опция е включена и решите да деинсталирате приложението, трябва да направите резервно копие на всички важни записи, тъй като всички те ще бъдат изтрити и няма да е възможно автоматично импортиране на записи, ако решите да инсталирате приложението отново. "</string>
 
     <string name="app_description_free">Приложението Call Recorder има следните функции:
 - Включване / Изключване запис на повикване
@@ -155,16 +117,7 @@
 
 Ако имате предложения или коментари, моля посетете нашия сайт http://clevermobile.net и не се колебайте да се свържете с нас.</string>
 
-    <string name="app_description_pro">Call Recorder Pro (започвайки от версия 6.6) вече няма да бъде актуализиран с нова функционалност, но ще работи като активиращ лиценз, за да даде възможност за премия за стандартна безплатна версия.
 
-Той все още ще работи както преди, но без нови функции като:
-
-- Нов потребителски интерфейс с възможност за превключване между светли и тъмни теми
-- Бележки за записи. Добавяне, редактиране, премахване на бележки и търсене по бележки.
-- Наберете номера от записа.
-- и още, които ще бъдат добавени в следващите издания.
-
-Затова се препоръчва да инсталирате стандартна безплатна версия за да възстановите лиценза си</string>
 
 <string name="add_translation">Въведете превод</string>
 
@@ -175,8 +128,6 @@
     <string name="enabled">Включен</string>
     <string name="disabled">Изключен</string>
     <string name="new_recordings">Нови записи</string>
-    <string name="persistent_notifications">Постоянни известия</string>
-    <string name="enable_persistent_notifications">Включи постоянните известия</string>
     <string name="usage_terms_and_privacy_policy">Условия за ползване и Декларация за поверителност</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Използвайки това приложение вие се съгласявате с нашите условия за ползване и декларация за поверителност</string>
     <string name="supported_phones">Поддържани телефони</string>
@@ -192,7 +143,6 @@
     <string name="use_dark_theme">Използвай тъмна тема</string>
     <string name="call">Обаждане</string>
     <string name="note">Известие</string>
-    <string name="add_to_excluded">Добави към изключения</string>
     <string name="rec_info">Информация</string>
     <string name="add">Добави</string>
     <string name="save">Запази</string>

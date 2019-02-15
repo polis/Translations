@@ -2,31 +2,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">電話錄音機</string>
     <string name="sd">請在電話中插入存儲卡</string>
-    <string name="contact">連絡人</string>
-    <string name="selected">已选中</string>
     <string name="settings">设置</string>
     <string name="notifications">提醒</string>
     <string name="notificationStatus_checkbox_title">打開提醒</string>
     <string name="notificationStatus_checkbox_summary">完成錄音後顯示提醒</string>
     <string name="saveRecordQuestion_checkbox_summary">通話後顯示確認對話方塊</string>
     <string name="storage">存儲</string>
-    <string name="deleteRecord_title">自動清理</string>
-    <string name="deleteRecord_summary">刪除所有錄音</string>
     <string name="recording">錄音設置</string>
     <string name="audioSource_title">音訊源</string>
-    <string name="audioChannel_title">音訊通道</string>
     <string name="fileFormat_title">檔案格式</string>
-    <string name="recordingQuality_title">錄音品質</string>
-    <string name="email_subject">通話錄音</string>
-	<string name="buy_category_description">高級版</string>	
-	<string name="buy_category_title">購買電話錄音機高級版</string>	
-	<string name="buy_summary">去除廣告，附加額外的特性。</string>	
 
 	<string name="rate">請為此應用評分</string>
 	<string name="rateOk">確認</string>
 	<string name="rateLater">稍後</string>
-    <string name="start_notification">已開始通話錄音</string>    
-    <string name="stop_notification">通話錄音結束</string>
 
     <string name="save_the_call">是否需要保存此次通話？</string>    
     <string name="yes">是</string>    
@@ -34,13 +22,10 @@
 
 	<string name="unknown">未知</string>
 	<string name="hidden">隱藏的</string>	
-	<string name="start_recording">正在對通話進行錄音。</string>    
-    <string name="start_recording_details">所有未來的通話都會被錄音。</string>    
-    <string name="stop_recording">打開通話錄音！</string>    
+    <string name="start_recording_details">所有未來的通話都會被錄音。</string>
     <string name="stop_recording_details">錄音機最近關閉了。</string>
 
-    <string name="new_call">新的通話已被錄音！</string>    
-    <string name="info">信息</string>       
+    <string name="info">信息</string>
     <string name="faq_title">常見問題</string>       
     <string name="faq_summary">前往電話錄音機常見問題頁面</string>       
     <string name="other_app_title">All Clever移動應用</string>       
@@ -59,15 +44,11 @@
     <string name="delete">刪除</string>
     <string name="select_all">全選</string>
     <string name="recordings">記錄</string>
-    <string name="help">幫助</string>
-    <string name="hint_tap_on_contact_photo">輕點連絡人照片選擇一個項目</string>
-    <string name="importing_recordings">導入記錄</string>
 
     <string name="buy">購買</string>
     <string name="cancel">取消</string>
 
 
-<string name="sd_card">SD記憶卡</string>
     <string name="change_passcode">變更密碼</string>
     <string name="exit">離開</string>
 
@@ -77,11 +58,7 @@
     <string name="advanced_botifications">進階通知</string>
     <string name="no_more_ads">無廣告</string>
 
-    <string name="sd_card_memory_occupied">已使用記憶體</string>
-    <string name="sd_card_free_memory">閒置記憶體</string>
-    <string name="run_clean_up">即刻清除</string>
 
-    <string name="share_via">分享經由...</string>
 
     <string name="passcode">通行碼</string>
     <string name="enable_passcode">啟用通行碼</string>
@@ -104,13 +81,11 @@
     <string name="google_drive">Google Drive</string>
     <string name="google_drive_link">連結Google Drive帳戶</string>
     <string name="google_drive_unlink">終止連結Google Drive帳戶</string>
-    <string name="connecting_to_google_drive">接續Google Drive</string>
 
     <string name="wifi_only">僅用WiFi</string>
     <string name="wifi_only_when_sync">僅當WiFi連線時上傳</string>
 
     <string name="about">關於</string>
-    <string name="translations">譯文</string>
     <string name="translate">翻譯</string>
     <string name="help_translate">使用我們的網頁，協助我們將app標題轉譯為你的本國語文。你願意著手進行嗎？</string>
     <string name="add_translation">附加譯文</string>
@@ -122,7 +97,6 @@
     <string name="use_external_player">使用外部播放器</string>
     <string name="use_external_media_player_to_play_recordings">使用外部播放器播放錄音</string>
     <string name="play">播放</string>
-    <string name="pause">暫停</string>
 
     <string name="number_of_seconds">秒數</string>
     <string name="delay_for_incoming_calls">撥入電話延遲秒數</string>
@@ -131,8 +105,6 @@
     <string name="enabled">啟動</string>
     <string name="disabled">終止</string>
     <string name="new_recordings">新的錄音</string>
-    <string name="persistent_notifications">持續通知</string>
-    <string name="enable_persistent_notifications">啟動持續通知</string>
     <string name="usage_terms_and_privacy_policy">使用條款及隱私政策</string>
     <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">使用這項應用軟體你需同意相關使用條款及隱私政策</string>
     <string name="supported_phones">支援服務電話</string>
@@ -147,6 +119,4 @@
     <string name="use_dark_theme">使用深色主題</string>
     <string name="call">通話</string>
     <string name="note">註記</string>
-    <string name="add_to_excluded">附加排除</string>
-    <string name="pro_description"></string>
     </resources>
