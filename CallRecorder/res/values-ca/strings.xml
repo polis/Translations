@@ -233,4 +233,6 @@ Si vostè té alguns suggeriments o comentaris, si us plau visiti la nostra pàg
 
 Heu de tenir instal·lada l\'aplicació Call Recorder al vostre telèfon.</string>
 
-</resources>
+<string name="to_many_items_selected">Hi han molts registres seleccionats. Proveu de seleccionar menys elements per compartir.</string>
+
+    </resources>
