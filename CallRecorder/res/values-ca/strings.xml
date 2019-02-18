@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">Gravador de trucades</string>
+    <string name="app_name">Enregistrador de trucades</string>
     <string name="sd">Inseriu una tarja SD a l\'aparell!</string>
     <string name="settings">Configuracions</string>
     <string name="notifications">Notificacions</string>
     <string name="notificationStatus_checkbox_title">Activa notificacions</string>
-    <string name="notificationStatus_checkbox_summary">Mostra a la barra de notificacions després de cada trucada gravada</string>
-    <string name="saveRecordQuestion_checkbox_summary">Pregunta després de cada trucada gravada</string>
+    <string name="notificationStatus_checkbox_summary">Mostra a la barra de notificacions després de cada trucada enregistrada</string>
+    <string name="saveRecordQuestion_checkbox_summary">Pregunta després de cada trucada enregistrada</string>
     <string name="storage">Emmagatzematge</string>
-    <string name="recording">Ajustaments de gravació</string>
+    <string name="recording">Ajustaments d\'enregistrament</string>
     <string name="audioSource_title">Font d\'àudio</string>
     <string name="fileFormat_title">Format d\'arxiu</string>
 
@@ -22,8 +22,8 @@
 
 	<string name="unknown">Desconegut</string>
     <string name="hidden">Ocult</string>
-    <string name="start_recording_details">Totes les trucades es gravaran.</string>
-    <string name="stop_recording_details">El gravador està apagat.</string>
+    <string name="start_recording_details">Totes les trucades s\'enregistran.</string>
+    <string name="stop_recording_details">L\'enregistrador està apagat.</string>
 
     <string name="info">Informació</string>
     <string name="faq_title">PF</string>
@@ -38,13 +38,13 @@
     <string name="share">Comparteix</string>
     <string name="delete">Suprimeix</string>
     <string name="select_all">Selecciona-ho tot</string>
-    <string name="recordings">Gravacions</string>
+    <string name="recordings">Enregistraments</string>
 
     <string name="buy">Compra</string>
     <string name="cancel">Cancel·la</string>
 
     <string name="pro_description">La versió Pro permet</string>
-    <string name="share_recordings">Compartir gravacions</string>
+    <string name="share_recordings">Compartir enregistraments</string>
     <string name="dropbox_upload">Sincronitzar amb Dropbox</string>
     <string name="google_drive_upload">Sincronitzar amb Google Drive</string>
     <string name="advanced_botifications">Obtenir notificacions avançades</string>
@@ -52,14 +52,14 @@
 
     <string name="total_files">Total arxius</string>
     <string name="import_recordings">Importa enregistraments</string>
-    <string name="cleaning">Netejant…</string>
+    <string name="cleaning">Netejant</string>
 
     <string name="passcode">Clau d\'accés</string>
     <string name="enable_passcode">Activa clau d\'accés</string>
-    <string name="enable_passcode_description">Protegiu les gravacions amb clau d\'accés cada vegada que engegueu l\'app</string>
+    <string name="enable_passcode_description">Protegiu els enregistraments amb clau d\'accés cada vegada que engegueu l\'app</string>
     <string name="change_passcode">Canvia la clau d\'accés</string>
-    <string name="passcode_delete_recordings">Suprimeix gravacions</string>
-    <string name="passcode_delete_recordings_description">Suprimeix totes les gravacions de l\'aparell després de 10 errors en la clau d\'accés</string>
+    <string name="passcode_delete_recordings">Suprimeix enregistraments</string>
+    <string name="passcode_delete_recordings_description">Suprimeix tots els enregistraments de l\'aparell després de 10 errors en la clau d\'accés</string>
     <string name="enter_passcode">Introduïu la clau d\'accés</string>
     <string name="reenter_passcode">Reintroduïu la clau d\'accés</string>
     <string name="enter_old_passcode">Introduïu la clau d\'accés antiga</string>
@@ -82,7 +82,7 @@
     <string name="login">Entra</string>
     <string name="logout">Surt</string>
     <string name="sync_title">Sincronitza ara</string>
-    <string name="sync_summary">Sincronitza ara totes les gravacions</string>
+    <string name="sync_summary">Sincronitza ara tots els enregistraments</string>
     <string name="wifi_only">Només wifi</string>
     <string name="wifi_only_when_sync">Sincronitza només a través de connexió wifi</string>
 
@@ -93,12 +93,12 @@
 
     <string name="number_of_days">Nombre de dies</string>
 
-    <string name="recording_method">Mètode de gravació</string>
+    <string name="recording_method">Mètode d\'enregistrament</string>
     <string name="no_player_app_found">No s\'ha trobat cap aplicació per poder reproduir aquest áudio</string>
 
     <string name="player">Reproductor de mèdia</string>
     <string name="use_external_player">Utilitza un reproductor extern</string>
-    <string name="use_external_media_player_to_play_recordings">Utilitza un reproductor extern per reproduir les gravacions</string>
+    <string name="use_external_media_player_to_play_recordings">Utilitza un reproductor extern per reproduir els enregistraments</string>
     <string name="play">Reprodueix</string>
 
     <string name="number_of_seconds">Nombre de segons</string>
@@ -107,7 +107,7 @@
 
     <string name="enabled">Activat</string>
     <string name="disabled">Desactivat</string>
-    <string name="new_recordings">noves gravacions</string>
+    <string name="new_recordings">Nous enregistraments</string>
     <string name="add_translation">Afegir la traducció</string>
 
     <string name="usage_terms_and_privacy_policy">Termes d\'ús i política de privacitat</string>
@@ -143,32 +143,32 @@
     <string name="pro_version_as_a_license">Call Recorder Pro versió no s\'actualitzarà per noves característiques. Serà utilitzat per als usuaris actuals com una clau de llicència per activar la funcionalitat pro en la versió standart. Més informació a la nostra pàgina web.</string>
     <string name="check_again">Comprovar de nou</string>
     <string name="permissions">Permisos</string>
-    <string name="in_order_to_work_please_grand_permission">Per tal de funcionar correctament, si us plau, concedeixi els permisos següents per a aquesta aplicació.</string>
+    <string name="in_order_to_work_please_grand_permission">Per tal de funcionar correctament, si us plau, concedeixi els permisos següents per a aquesta aplicació</string>
     <string name="read_more">Llegir més</string>
     <string name="do_not_show_again">No mostrar de nou</string>
 
 
-    <string name="app_description_free">Aplicació Gravadora de trucades simple que té la capacitat de:
-- Activar / desactivar la gravació de trucades
-- Registres totes les seves trucades telefòniques
-- Reproduir / Aturar l\'àudio gravat pel tacte en l\'element
-- Eliminar elements registrats
-- Bloqueig d\'articles per evitar que es auto-neteja registrar
+    <string name="app_description_free">Aplicació enregistradora de trucades simple que té la capacitat de:
+- Activar / desactivar l\'enregistrament de trucades
+- Enregistra totes les seves trucades telefòniques
+- Reproduir / Aturar l\'àudio enregistrat fent clic en l\'element
+- Eliminar elements enregistrats
+- Bloqueig d\'arxius per evitar que s\'esborrin
 - Accions registrada articles (només en la versió Pro)
-- diàleg de confirmació: Li agradaria mantenir anomenada gravada que es mostra just després de la trucada (només en la versió Pro).
+- Diàleg de confirmació: Li agradaria mantenir anomenada enregistrada que es mostra just després de la trucada (només en la versió Pro).
 
 SI NO funciona en el seu telèfon
-O NO grava la veu del altre COSTAT amb claredat:
-1. Intenta barrejar diferents configuracions de gravació descrites aquí: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
-2. Hi ha una limitació per a alguns telèfons que no admeten la gravació per línia telefònica o bluetooth. És un problema del controlador d\'àudio realitzat pel fabricant del telèfon. Llista de dispositius i configuracions suportades per a ells aquí: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
-Si us plau, no donar males notes per això. Gràcies!
+O NO enregistra la veu del altre COSTAT amb claredat:
+1. Intenta barrejar diferents configuracions d\'enregistrament descrites aquí: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Hi ha una limitació per a alguns telèfons que no admeten l\'enregistrament per línia telefònica o bluetooth. És un problema del controlador d\'àudio realitzat pel fabricant del telèfon. Llista de dispositius i configuracions suportades per a ells aquí: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Si us plau, no doni males notes per això. Gràcies!
 
-Si vostè té alguns suggeriments o comentaris, si us plau visiteu la nostra pàgina http://clevermobile.net i no dubti en posar-se en contacte amb nosaltres.</string>
+Si vostè té alguns suggeriments o comentaris, si us plau visiti la nostra pàgina http://clevermobile.net i no dubti en posar-se en contacte amb nosaltres.</string>
 
 
 
 <string name="finished">Finalitzat</string>
-    <string name="recording_filter">Filtre de gravació</string>
+    <string name="recording_filter">Filtre d\'enregistrament</string>
     <string name="use_filtering_by_phone_numbers">Filtre per número de telèfon</string>
     <string name="delete_uploaded">Esborrar el que s\'ha pujat</string>
     <string name="delete_after_upload_to_cloud">Esborrar automàticament del telèfon el que s\'ha pujat</string>
@@ -204,7 +204,7 @@ Si vostè té alguns suggeriments o comentaris, si us plau visiteu la nostra pà
     <string name="general">General</string>
     <string name="hide_from_media_player">Amagar del reproductor</string>
     <string name="do_not_show_audio_recordings_in_media_player_app">No mostrar els enregistraments en els reproductors multimèdia</string>
-    <string name="deleted_recordings_if_uninstall">Si aquesta opció està activada i desinstal·la l\'app, tots els enregistraments emmagatzemats seran esborrats pel sistema</string>
+    <string name="deleted_recordings_if_uninstall">Si aquesta opció està activada i desinstal·la l\'app, tots els enregistraments emmagatzemats seran esborrats pel sistema.</string>
     <string name="language">Idioma</string>
     <string name="select_language">Seleccioni l\'idioma</string>
     <string name="use_proximity_sensor">Usar el sensor de proximitat</string>
@@ -212,8 +212,8 @@ Si vostè té alguns suggeriments o comentaris, si us plau visiteu la nostra pà
     <string name="rename">Reanomenar</string>
 
     <string name="permission_record_audio_explanation">El micròfon ha d\'estar habilitat per enregistrar trucades</string>
-    <string name="permission_storage_explanation">Fotos, Mèdia i Fitxers per guardar la gravació a l\'emmagatzematge del telèfon</string>
-    <string name="permission_manage_phone_calls__explanation">Feu i gestioneu les trucades telefòniques necessàries per iniciar i aturar automàticament la gravació</string>
+    <string name="permission_storage_explanation">Fotos, Mèdia i Fitxers per guardar l\'enregistrament a l\'emmagatzematge del telèfon</string>
+    <string name="permission_manage_phone_calls__explanation">Feu i gestioneu les trucades telefòniques de la forma habitual per iniciar i aturar automàticament l\'enregistrament</string>
     <string name="permission_contacts_explanation">Contactes utilitzats per mostrar el nom i la imatge del contacte</string>
 
     <string name="what_can_be_improved">Què es podria millorar?</string>
@@ -229,8 +229,8 @@ Si vostè té alguns suggeriments o comentaris, si us plau visiteu la nostra pà
 
  - Compartir enregistraments
  - El diàleg de notificació després de cada trucada \"Desa aquesta crida?\"
- - Càrrega automàtica de gravacions a Dropbox o a Google Drive
+ - Càrrega automàtica d\'enregistraments a Dropbox o a Google Drive
 
-Heu de tenir instal·lada l\'aplicació Call Recorder instal·lada al vostre telèfon.</string>
+Heu de tenir instal·lada l\'aplicació Call Recorder al vostre telèfon.</string>
 
 </resources>
