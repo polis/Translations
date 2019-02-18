@@ -50,9 +50,9 @@
     <string name="advanced_botifications">Obtenir notificacions avançades</string>
     <string name="no_more_ads">Eliminar els anuncis</string>
 
-    <string name="total_files">Arxius</string>
-    <string name="import_recordings">Importa gravacions</string>
-    <string name="cleaning">Netejant gravacions antigues…</string>
+    <string name="total_files">Total arxius</string>
+    <string name="import_recordings">Importa enregistraments</string>
+    <string name="cleaning">Netejant…</string>
 
     <string name="passcode">Clau d\'accés</string>
     <string name="enable_passcode">Activa clau d\'accés</string>
@@ -137,13 +137,13 @@
     <string name="thank_you_for_upgrading_to_premium">Gràcies per actualitzar a Pro!</string>
     <string name="proceed">Procedir</string>
     <string name="restore_license">Restaurar la llicència</string>
-    <string name="restore_for_purchased_users">Vostè ha d\'instal lar l\'última versió Pro, des de Google Play, que ha adquirit abans. Serà usant com una llicència per activar la versió Pro.</string>
+    <string name="restore_for_purchased_users">Vostè ha d\'instal·lar l\'última versió Pro, des de Google Play, que ha adquirit abans. S\'usarà la llicència per activar la versió Pro.</string>
     <string name="app_is_not_licensed">L\'aplicació no està llicenciada</string>
     <string name="buy_license_in_order_to_use_app">Per utilitzar aquesta aplicació, si us plau, comprar-lo a través de Google Play!</string>
     <string name="pro_version_as_a_license">Call Recorder Pro versió no s\'actualitzarà per noves característiques. Serà utilitzat per als usuaris actuals com una clau de llicència per activar la funcionalitat pro en la versió standart. Més informació a la nostra pàgina web.</string>
     <string name="check_again">Comprovar de nou</string>
     <string name="permissions">Permisos</string>
-    <string name="in_order_to_work_please_grand_permission">Per tal de funcionar correctament, si us plau, concedir permisos següents per a aquesta aplicació.</string>
+    <string name="in_order_to_work_please_grand_permission">Per tal de funcionar correctament, si us plau, concedeixi els permisos següents per a aquesta aplicació.</string>
     <string name="read_more">Llegir més</string>
     <string name="do_not_show_again">No mostrar de nou</string>
 
@@ -170,4 +170,67 @@ Si vostè té alguns suggeriments o comentaris, si us plau visiteu la nostra pà
 <string name="finished">Finalitzat</string>
     <string name="recording_filter">Filtre de gravació</string>
     <string name="use_filtering_by_phone_numbers">Filtre per número de telèfon</string>
-    </resources>
+    <string name="delete_uploaded">Esborrar el que s\'ha pujat</string>
+    <string name="delete_after_upload_to_cloud">Esborrar automàticament del telèfon el que s\'ha pujat</string>
+    <string name="call_is_recording_now">La trucada s\'està enregistrant</string>
+    <string name="error_during_recording">Error durant l\'enregistrament</string>
+    <string name="tap_here_to_troubleshoot">Clic aquí per solucionar errors</string>
+    <string name="recording_problem">Problemes a l\'enregistrar?</string>
+    <string name="recording_notification">Notificació d\'enregistrament</string>
+    <string name="show_notification_during_recording">Mostrar notificació durant l\'enregistrament</string>
+    <string name="filter">Filtre</string>
+    <string name="filtering_method">Mètode de filtrat</string>
+    <string name="switch_filtering">Commutar el filtre</string>
+    <string name="record_all_phone_numbers_exept_excluded">No enregistrar trucades d\'aquesta llista</string>
+    <string name="record_only_included_phone_numbers">Enregistrar només d\'aquesta llista</string>
+    <string name="add_contact">Afegir un contacte</string>
+    <string name="add_phone_number">Afegir un número de telèfon</string>
+    <string name="add_to_filter">Agegir un filtre</string>
+    <string name="another_call_recording_app_is_running">"Una altra aplicació d\'enregistrament  de trucades està en ús. Si us plau, elimini-la per tal que Call Recorder funcioni correctament."</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">Si aquesta opció no està habilitada, Android pot parar l\'app i algunes trucades no serien enregistrades o només parcialment. Vols deshabilitar-la?</string>
+
+    <string name="automatic_cleaning">Neteja automàtica</string>
+    <string name="delete_recordings">Esborrar enregistraments</string>
+    <string name="memory_occupied">Memòria en ús</string>
+    <string name="free_memory">Memòria lliure</string>
+    <string name="use_removable_storage">Usa emmagatzematge extraïble</string>
+    <string name="record_audio_files_to_removable_storage">Desa arxius d\'àudio a l\'emmagatzament extraïble</string>
+    <string name="repopulate_the_list_of_recordings">Reconstruïr la llista d\'enregistraments de la app des del sistema d\'arxius de l\'aparell</string>
+    <string name="delete_automatically">Esborra automàticament</string>
+    <string name="delete_older_then">Esborrar automàticament els enregistraments més antics que els dies seleccionats. Els enregistraments blocats no s\'esborraran.</string>
+    <string name="clean_up">Netejar ara</string>
+    <string name="delete_old_recordings">Esborrar els enregistraments antics. Els que estiguin blocats no s\'esborraran.</string>
+    <string name="general">General</string>
+    <string name="hide_from_media_player">Amagar del reproductor</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">No mostrar els enregistraments en els reproductors multimèdia</string>
+    <string name="deleted_recordings_if_uninstall">Si aquesta opció està activada i desinstal·la l\'app, tots els enregistraments emmagatzemats seran esborrats pel sistema</string>
+    <string name="language">Idioma</string>
+    <string name="select_language">Seleccioni l\'idioma</string>
+    <string name="use_proximity_sensor">Usar el sensor de proximitat</string>
+    <string name="switch_audio_mode">Canviar el mode d\'àudio quan la pantalla està vora l\'orella</string>
+    <string name="rename">Reanomenar</string>
+
+    <string name="permission_record_audio_explanation">El micròfon ha d\'estar habilitat per enregistrar trucades</string>
+    <string name="permission_storage_explanation">Fotos, Mèdia i Fitxers per guardar la gravació a l\'emmagatzematge del telèfon</string>
+    <string name="permission_manage_phone_calls__explanation">Feu i gestioneu les trucades telefòniques necessàries per iniciar i aturar automàticament la gravació</string>
+    <string name="permission_contacts_explanation">Contactes utilitzats per mostrar el nom i la imatge del contacte</string>
+
+    <string name="what_can_be_improved">Què es podria millorar?</string>
+    <string name="submit">Enviar</string>
+
+    <string name="license_key">Codi de la Llicència</string>
+    <string name="thank_you">Gràcies per usar i donar suport a aquesta app!</string>
+    <string name="this_is_license_key">Aquesta és el codi de Llicència de Call Recorder i només s\'utilitza per activar la funcionalitat Premium. Heu de tenir instal·lada l\'aplicació Call Recorde al vostre telèfon.</string>
+
+    <string name="open_call_recorder">Obrir Call Recorder</string>
+
+    <string name="app_description_key">El codi de Call Recorder és una aplicació que elimina els anuncis de l\'aplicació gratuïta i també activa la funcionalitat Premium:
+
+ - Compartir enregistraments
+ - El diàleg de notificació després de cada trucada \"Desa aquesta crida?\"
+ - Càrrega automàtica de gravacions a Dropbox o a Google Drive
+
+Heu de tenir instal·lada l\'aplicació Call Recorder instal·lada al vostre telèfon.</string>
+
+</resources>
