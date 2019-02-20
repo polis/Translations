@@ -1,3 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="app_name">Kontrola głośności</string>
+    <string name="volume">Tom</string>
+    <string name="profiles">Profile</string>
+    <string name="profile_add">Dodaj nowy profil</string>
+    <string name="profile_edit">Edytuj profil</string>
+    <string name="toast_enter_profile_name">Proszę podać nazwę profilu.</string>
+    <string name="scheduler">Harmonogram</string>
+    <string name="location">Lokalizacje</string>          
+    
+    <string name="tap_hint_text">Stuknij, aby wprowadzić tytuł</string>       
+    <string name="button_Save">Zapisz</string>    
+    <string name="button_Cancel">Anuluj</string>       
+    <string name="dialog_button_OK">OK</string>       
+    <string name="dialog_delete_profile_title">Usuń profil</string>       
+    <string name="dialog_delete_profile_message">Wszystkie zapisane dane zostają zapisane. Czy chcesz zapisać zmiany?</string>            
+    
+    <string name="ringTitle">Dzwonek</string>
+    <string name="musicTitle">Głoska bezdźwięczna</string>
+    <string name="voiceCallTitle">Rozmowa głosowa</string>
+    <string name="alarmTitle">Alarm</string>
+    <string name="notificationTitle">Powiadomienie</string>
+    <string name="systemTitle">System</string>
+    
+    <string name="radio_silent">Wyciszenie</string>
+    <string name="radio_normal">Normalny</string>
+    <string name="radio_vibrate">Wibracja</string>
+
+    <string name="edit">Edycja</string>
+
+    <string name="rate">Proszę oceń aplikację</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">Później</string>
+    
+    <string name="wifi">Spoty WiFi</string>
+    <string name="add_wifi">"Proszę  wybrać spot WiFi i profil dźwiękowy"</string>
+    <string name="wifi_connecting">WiFi włącza się!</string>
+    <string name="on_disconnect">Po odłączeniu od punktu Wi-Fi</string>
+
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">Korzystając z tej aplikacji, zgadzasz się z jej Warunkami użytkowania i Polityką prywatności</string>
+
+
+<string name="set">Zestaw</string>
+
+    <string name="buy">Kup</string>
+    <string name="cancel">Anuluj</string>
+    <string name="premium_version_contains">Wersja premium zawiera</string>
+
+    <string name="info">Informacja</string>
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Często Zadawane Pytania</string>
+    <string name="other_app_title">Wszystkie aplikacje</string>
+    <string name="other_app_summary">Z Clever Mobile</string>
+    <string name="about">O</string>
+    <string name="translations">Tłumaczenia</string>
+    <string name="translate">Tłumaczyć</string>
+    <string name="help_translate">Pomóż nam w tłumaczeniu etykiet aplikacji na Twój język ojczysty za pomocą naszej strony internetowej. Czy chcesz kontynuować?</string>
+    <string name="add_translation">Dodaj tłumaczenie</string>
+
+    <string name="navigation_drawer_open">Otwórz menu</string>
+    <string name="navigation_drawer_close">Zamknij menu</string>
+    <string name="rate_me">Oceń mnie</string>
+    <string name="check_out_call_recorder_app_at">Hej! Sprawdź aplikację Regulacja głośności pod adresem</string>
+    <string name="upgrade_to_premium">Przejdź na Premium</string>
+
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="delete">Kasować</string>
+    <string name="select_all">Zaznacz wszystko</string>
+    <string name="create_profile_first">Najpierw musisz utworzyć profil woluminu.</string>
+    <string name="empty">Pusty</string>
+    <string name="grant_permissions">Dać pozwolenie</string>
+    <string name="profile">Profil</string>
+    <string name="thank_you_for_upgrading_to_premium">Dziękujemy za uaktualnienie do premium!</string>
+    <string name="set_profile_on_disconnect_from_wifi">Możliwość zastosowania profilu podczas odłączania się od WiFi</string>
+    <string name="no_more_ads">Koniec z reklamami</string>
+
+    <string name="privacy_policy">Warunki użytkowania i polityka prywatności</string>
+    <string name="tell_a_friend">Powiedz przyjacielowi</string>
+    <string name="volume_profile_was_not_changed">Uprawnienie Nie przeszkadzać nie jest ustawione.</string>
+    </resources>

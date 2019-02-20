@@ -1,3 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-</resources>
+<string name="app_name">Contrôle du volume</string>
+    <string name="volume">Volume</string>
+    <string name="profiles">Profiles</string>
+    <string name="profile_add">Ajouter un nouveau profile</string>
+    <string name="profile_edit">Modifier le profile</string>
+    <string name="toast_enter_profile_name">Veuillez entrer le nom du Profile.</string>
+    <string name="scheduler">Planificateur</string>
+    <string name="location">Localisation</string>          
+    
+    <string name="tap_hint_text">Toucher pour entrer le titre</string>       
+    <string name="button_Save">Enregistrer</string>    
+    <string name="button_Cancel">Annuler</string>       
+    <string name="dialog_button_OK">Ok</string>       
+    <string name="dialog_delete_profile_title">Supprimer le profile</string>       
+    <string name="voiceCallTitle">Appel vocal</string>
+    <string name="alarmTitle">Alarme</string>
+    <string name="notificationTitle">Notifications</string>
+    <string name="systemTitle">Système</string>
+    
+    <string name="radio_silent">Silence</string>
+    <string name="radio_normal">Normale</string>
+    <string name="radio_vibrate">Vibreur</string>
+
+    <string name="edit">Editer</string>
+
+    <string name="rate">S\'il vous plait, notez cette application</string>
+	<string name="rateOk">OK</string>
+	<string name="rateLater">Plustard</string>
+    
+    <string name="buy">Acheter</string>
+    <string name="cancel">Annuler</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">En utilisant cette application vous acceptez sa Poitique de Vie Privée</string>
+
+
+<string name="privacy_policy">Termes d\'utilisations et Vie Privée</string>
+    <string name="dialog_delete_profile_message">Toutes les planifications, localisation et Spots Wi-Fi assignés à ce profile seront supprimés. Voulez-vous continuer ?</string>            
+    
+    <string name="ringTitle">Sonner</string>
+    <string name="musicTitle">Média</string>
+    <string name="wifi">Bornes Wi-Fi</string>
+    <string name="add_wifi">Sélectionnez une borne Wi-Fi ainsi que le Profile</string>
+    <string name="wifi_connecting">Le WiFi est en train de s\'activer!</string>
+    </resources>
