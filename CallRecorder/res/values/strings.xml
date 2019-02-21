@@ -186,6 +186,7 @@
     <string name="this_is_license_key">This is license key for Call Recorder and is only used to activate premium functionality. You need to have Call Recorder app installed on your phone.</string>
 
     <string name="open_call_recorder">Open Call Recorder</string>
+    <string name="to_many_items_selected">To many records are selected. Try to select less items for sharing.</string>
 
     <string name="app_description_free">Simple Call Recorder application that has an ability to:
 - Enable/Disable call recording
