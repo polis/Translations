@@ -233,4 +233,6 @@ Als je suggesties of reacties heeft, bezoek dan onze website: http://clevermobil
  De Call Recorder Free app moet geinstalleerd zijn op je telefoon.</string>
 
 <string name="open_call_recorder">Open Call Recorder</string>
+    <string name="to_many_items_selected">Te veel opnames zijn geselecteerd. Probeer minder om te delen.</string>
+
     </resources>
