@@ -190,22 +190,22 @@
 
 
 
-    <string name="app_description_free">Simple Call Recorder applicatie kenmerken:
+    <string name="app_description_free">Simple Call Recorder kenmerken:
 - opnemen van oproepen aan/uit zetten
-- al je telefoon gespreken opnemen
-- afspelen van opgenomen audio door aanraking van het item starten en stoppen
+- al je telefoon gesprekken opnemen
+- afspelen van opgenomen audio starten en stoppen door aanraken van het item 
 - opnames verwijderen
-- opnames blokkeren om automatische opruimen te voorkomen
+- opnames blokkeren om automatisch opruimen te voorkomen
 - opnames delen (alleen in Pro versie)
-- Bevestigingsdialoog meteen na de oproep: Wil je de opgenomen oproep bewaren? (only in Pro version).
+- Bevestigingsdialoog meteen na de oproep: Wil je de opgenomen oproep bewaren? (alleen in de Pro versie).
 
 ALS HET HELEMAAL NIET WERKT OP OP JE TELEFOON
 OF HET NEEEMT BINNENKOMENDE OPROEPEN NIET DUIDELIJK OP
-1. Probeer verschillende opname instellingen te mixen, zoals hier beschreven: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
-2. Er is een belemmering voor sommige telefoons die geen ondersteuning bieden voor opnemen vanaf de telefoonlijn of via bluetoothe. Het is probleem met het audiostuurprogramma van de fabrikant van de telefoon. Er is een lijst van ondersteunde telefoons en van configuraties daarvoor: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
-Geef daarvoor geen slechte beoordeling! Dank!
+1. Probeer verschillende opname instellingen te combineren, zoals beschreven op: http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2. Er is een probleem voor sommige telefoons die geen ondersteuning bieden voor opnemen vanaf de telefoonlijn of via bluetooth. Dat ligt aan het audiostuurprogramma van de telefoonfabrikant. Er is een lijst van ondersteunde telefoons en van configuraties daarvoor: http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+Geef ons daarvoor geen slechte beoordeling! Dank!
 
-Als je suggesties of reacties heeft, bezoek dan onze website: http://clevermobile.net en voel je vrij op contact met ons op te nemen.</string>
+Bezoek onze website voor suggesties en/of reacties : http://clevermobile.net. Voel je vrij op contact met ons op te nemen.</string>
 
 
 
@@ -224,7 +224,7 @@ Als je suggesties of reacties heeft, bezoek dan onze website: http://clevermobil
     <string name="thank_you">Bedankt voor gebruik en ondersteuning van onze app!</string>
     <string name="this_is_license_key">Dit is de licentiesleutel app voor Call Recorder die de premium functies activeert. Je moet eerst de Call Recorder app installeren.</string>
 
-    <string name="app_description_key">Call Recorder Key app verwijdert de adverenties uit de Call Recorder Free app. Het activeert ook de Premium functies:
+    <string name="app_description_key">De app Call Recorder Key verwijdert de adverenties uit de Call Recorder Free app. Het activeert ook de Premium functies:
 
  - Opnames delen
  - Dialoog melding na elke oproep: \"Deze opname bewaren?\"
