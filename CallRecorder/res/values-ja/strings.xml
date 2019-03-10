@@ -6,7 +6,7 @@
     <string name="notificationStatus_checkbox_summary">録音された通話ごとに通知バーに表示</string>
     <string name="saveRecordQuestion_checkbox_summary">録音された通話毎に尋ねる</string>
     <string name="storage">ストレージ</string>
-    <string name="app_name">コールレコーダー</string>
+    <string name="app_name">Call Recorder</string>
     <string name="sd">スマートフォンに SD カードを挿入してください！</string>
     <string name="recording">録音</string>
     <string name="audioSource_title">音源</string>
@@ -148,7 +148,7 @@
     <string name="delete_automatically">自動的に削除</string>
     <string name="to_many_items_selected">多くの録音が選択されています。選択を減らしてみてください。</string>
 
-    <string name="open_call_recorder">コールレコーダーを開く</string>
+    <string name="open_call_recorder">Call Recorder を開く</string>
     <string name="thank_you">我々のアプリを選択支援いただき、ありがとうございます！</string>
     <string name="license_key">ライセンスキー</string>
     <string name="submit">送信</string>
@@ -173,7 +173,7 @@
     <string name="language">言語</string>
     <string name="select_language">言語を選択</string>
     <string name="use_proximity_sensor">近接センサを使う</string>
-    <string name="another_call_recording_app_is_running">他の通話録音アプリが起動されています。コールレコーダーを正常に起動させるためにそれらのアプリを削除してください。</string>
+    <string name="another_call_recording_app_is_running">他の通話録音アプリが起動されています。Call Recorder を正常に起動させるためにそれらのアプリを削除してください。</string>
 
     <string name="android_can_stop_recording_if_this_notification_disabled">このオプションが無効になるとAndroidはアプリを停止し、通話が録音されなくなるか一部が録音されます。無効にしますか？</string>
 
@@ -184,15 +184,15 @@
     <string name="switch_audio_mode">ディスプレイが耳に近いときにオーディオモードへ切り替える</string>
     <string name="permission_record_audio_explanation">通話を録音できる通話用マイク</string>
     <string name="permission_storage_explanation">写真、メディア、および録音されたファイルを端末ストレージに保存する</string>
-    <string name="this_is_license_key">これはコールレコーダーのライセンスキーであり、プレミアム機能を有効にするためにのみ使用します。あなたの端末にコールレコーダーがインストールされている必要があります。</string>
+    <string name="this_is_license_key">これは Call Recorder のライセンスキーであり、プレミアム機能を有効にするためにのみ使用します。あなたの端末に Call Recorder がインストールされている必要があります。</string>
 
     <string name="what_can_be_improved">何を改良できるか？</string>
-    <string name="pro_version_as_a_license">コールレコーダープロのバージョンは、新機能で更新されなくなります。現在のユーザーは、標準バージョンのプレミアム機能を有効にするためのライセンスキーとして使用されます。我々のウェブサイトにより多くの情報があります。</string>
+    <string name="pro_version_as_a_license">Call Recorder Pro バージョンは、新機能で更新されなくなります。現在のユーザーは、標準バージョンのプレミアム機能を有効にするためのライセンスキーとして使用されます。我々のウェブサイトにより多くの情報があります。</string>
     <string name="in_order_to_work_please_grand_permission">正しく機能させるために、以下のを許可を与えてください</string>
     <string name="permission_manage_phone_calls__explanation">自動的に通話の録音を開始・停止するために必要な作成と管理</string>
     <string name="permission_contacts_explanation">連絡先として連絡先の名前と画像を使用する</string>
 
-    <string name="check_out_call_recorder_app_at">こんにちは！ Call Recorderアプリをチェックして</string>
+    <string name="check_out_call_recorder_app_at">こんにちは！ Call Recorder アプリをチェックして</string>
     <string name="app_description_key">"Call Recorder Key は Call Recorder 無料アプリから広告を削除し、プレミアム機能を有効にするアプリです。
 
   - 録音の共有
