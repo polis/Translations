@@ -3,8 +3,8 @@
 <string name="settings">設定</string>
     <string name="notifications">通知</string>
     <string name="notificationStatus_checkbox_title">通知を有効にする</string>
-    <string name="notificationStatus_checkbox_summary">記録されたコールごとに通知バーに表示</string>
-    <string name="saveRecordQuestion_checkbox_summary">記録された各コール後に尋ねる</string>
+    <string name="notificationStatus_checkbox_summary">録音された通話ごとに通知バーに表示</string>
+    <string name="saveRecordQuestion_checkbox_summary">録音された通話毎に尋ねる</string>
     <string name="storage">ストレージ</string>
     <string name="app_name">コールレコーダー</string>
     <string name="sd">スマートフォンに SD カードを挿入してください！</string>
@@ -21,7 +21,7 @@
     <string name="no">いいえ</string>
 
 	<string name="unknown">不明な</string>
-    <string name="hidden">不可視な</string>
+    <string name="hidden">非通知</string>
     <string name="start_recording_details">以降の全ての通話は保存されます。</string>
     <string name="stop_recording_details">録音機能を不可にしました。</string>
 
@@ -45,18 +45,179 @@
 
     <string name="pro_description">プレミアム・バージョンの内容</string>
     <string name="share_recordings">録音を共有する</string>
-    <string name="dropbox_upload">Dropbox にアップロード</string>
+    <string name="dropbox_upload">ドロップボックスにアップロード</string>
     <string name="google_drive_upload">Google ドライブにアップロード</string>
     <string name="advanced_botifications">拡張された通知</string>
     <string name="no_more_ads">広告は結構</string>
 
     <string name="total_files">総ファイル数</string>
     <string name="import_recordings">録音をインポートする</string>
-    <string name="cleaning">古い録音を消去しています…</string>
+    <string name="cleaning">消去します</string>
 
     <string name="passcode">パスコード</string>
     <string name="enable_passcode">パスコードを利用可能にする</string>
     <string name="enable_passcode_description">録音を保護する為にパスコードによる認証がアプリの起動の度に必要です</string>
     <string name="change_passcode">パスコードの変換</string>
     <string name="passcode_delete_recordings">録音の削除</string>
+    <string name="passcode_delete_recordings_description">パスコードの入力で10回失敗した場合、このデバイスからすべての記録を削除します</string>
+    <string name="enter_passcode">パスコードを入力</string>
+    <string name="reenter_passcode">パスコードを再入力</string>
+    <string name="enter_old_passcode">古いパスコードを入力</string>
+    <string name="passcode_did_not_match">パスコードが一致しません。もう一度やり直してください！</string>
+    <string name="enter_new_passcode">新しいパスコードを入力</string>
+    <string name="reenter_new_passcode">新しいパスコードを再入力</string>
+    <string name="wrong_passcode">パスコードが間違っています。もう一度やり直してください！</string>
+    <string name="exit">終了</string>
+    <string name="cloud">クラウド</string>
+    <string name="dropbox">ドロップボックス</string>
+    <string name="dropbox_link">ドロップボックスのアカウントで接続する</string>
+    <string name="dropbox_unlink">ドロップボックスのアカウントを切断する</string>
+    <string name="google_drive">Google ドライブ</string>
+    <string name="google_drive_link">Google ドライブのアカウントで接続する</string>
+    <string name="google_drive_unlink">Google ドライブのアカウントを切断する</string>
+    <string name="login">ログイン</string>
+    <string name="logout">ログアウト</string>
+    <string name="sync_title">今すぐアップロード</string>
+    <string name="sync_summary">今すぐ全ての録音をアップロード</string>
+    <string name="wifi_only">WiFi のみ</string>
+    <string name="wifi_only_when_sync">WiFi 接続時にのみアップロードする</string>
+    <string name="about">このソフトについて</string>
+    <string name="translate">翻訳</string>
+    <string name="help_translate">当社のウェブサイトを使用して、アプリの表示をあなたの母国語に翻訳するのをお手伝いください。続行しますか？</string>
+    <string name="add_translation">翻訳を追加する</string>
+    <string name="recording_method">録音方法</string>
+    <string name="no_player_app_found">この音声を再生するアプリが見つかりません</string>
+    <string name="player">メディアプレイヤー</string>
+    <string name="use_external_player">外部のプレイヤーを使う</string>
+    <string name="use_external_media_player_to_play_recordings">録音を再生するために外部のメディアプレイヤーを使用する</string>
+    <string name="play">再生</string>
+    <string name="number_of_seconds">秒数</string>
+    <string name="delay_for_incoming_calls">着話時の遅延時間（秒）</string>
+    <string name="delay_for_outgoing_calls">発話時の遅延時間（秒）</string>
+    <string name="enabled">有効</string>
+    <string name="disabled">無効</string>
+    <string name="new_recordings">新しい録音</string>
+    <string name="usage_terms_and_privacy_policy">使用条件とプライバシーポリシー</string>
+    <string name="by_using_this_app_you_agree_with_usage_terms_and_privacy_policy">このアプリケーションを用いて、あなたはその使用条件とプライバシーポリシーに同意します</string>
+    <string name="supported_phones">動作確認済みの端末</string>
+    <string name="list_of_known_configurations">判明している設定のリスト</string>
+    <string name="navigation_drawer_open">メニューを開く</string>
+    <string name="navigation_drawer_close">メニューを閉じる</string>
+    <string name="tell_a_friend">友達に教える</string>
+    <string name="rate_me">評価してください</string>
+    <string name="upgrade_to_premium">プレミアムにアップグレード</string>
+    <string name="theme">テーマ</string>
+    <string name="use_dark_theme">ダークテーマを使う</string>
+    <string name="call">通話</string>
+    <string name="note">メモ</string>
+    <string name="rec_info">情報</string>
+    <string name="add">追加</string>
+    <string name="save">保存</string>
+    <string name="close">閉じる</string>
+    <string name="search">検索</string>
+    <string name="name">名前</string>
+    <string name="number">番号</string>
+    <string name="path">保存先</string>
+    <string name="size">サイズ</string>
+    <string name="thank_you_for_upgrading_to_premium">プレミアムへアップグレードしていただき、ありがとうございます！</string>
+    <string name="proceed">続行する</string>
+    <string name="restore_license">キーを使う</string>
+    <string name="restore_for_purchased_users">Google Play から Call Recorder Key アプリをインストールしてください。プレミアムの機能が有効になります。</string>
+
+    <string name="app_is_not_licensed">アプリケーションはライセンスされていません</string>
+    <string name="buy_license_in_order_to_use_app">このアプリを使用する場合は Google Play アプリから購入してください！</string>
+    <string name="check_again">再度チェックしてください</string>
+    <string name="permissions">権限</string>
+    <string name="read_more">もっと読む</string>
+    <string name="do_not_show_again">再表示しない</string>
+    <string name="delete_uploaded">アップロードを削除</string>
+    <string name="delete_after_upload_to_cloud">アップロードした録音を端末から自動的に削除する</string>
+    <string name="call_is_recording_now">通話を録音中</string>
+    <string name="error_during_recording">録音中にエラーが発生しました</string>
+    <string name="tap_here_to_troubleshoot">タップしてトラブルシュートへ</string>
+    <string name="recording_problem">録音の問題？</string>
+    <string name="recording_notification">録音通知</string>
+    <string name="show_notification_during_recording">録音中に通知を表示</string>
+    <string name="recording_filter">録音フィルタ</string>
+    <string name="filter">フィルタ</string>
+    <string name="use_filtering_by_phone_numbers">電話番号をフィルタする</string>
+    <string name="filtering_method">フィルタ方法</string>
+    <string name="switch_filtering">フィルタ切替</string>
+    <string name="record_all_phone_numbers_exept_excluded">以下のリストにある電話番号の通話は録音しません</string>
+    <string name="record_only_included_phone_numbers">以下のリストにある電話番号の通話のみ録音します</string>
+    <string name="delete_automatically">自動的に削除</string>
+    <string name="to_many_items_selected">多くの録音が選択されています。選択を減らしてみてください。</string>
+
+    <string name="open_call_recorder">コールレコーダーを開く</string>
+    <string name="thank_you">我々のアプリを選択支援いただき、ありがとうございます！</string>
+    <string name="license_key">ライセンスキー</string>
+    <string name="submit">送信</string>
+
+    <string name="rename">リネーム</string>
+
+    <string name="add_to_filter">フィルタに追加</string>
+    <string name="add_phone_number">電話番号を追加</string>
+    <string name="add_contact">連絡先を追加</string>
+    <string name="automatic_cleaning">自動クリーニング</string>
+    <string name="delete_recordings">録音を削除</string>
+    <string name="memory_occupied">使用中メモリ</string>
+    <string name="free_memory">空メモリ</string>
+    <string name="use_removable_storage">リムーバブルメディアを使う</string>
+    <string name="record_audio_files_to_removable_storage">リムーバブルメディアに音声ファイルを保存する</string>
+    <string name="clean_up">今すぐクリーニング</string>
+    <string name="delete_old_recordings">古い録音を削除します。ロックされた録音は削除されません。</string>
+    <string name="general">全般</string>
+    <string name="hide_from_media_player">メディアプレイヤーを隠す</string>
+    <string name="finished">完了</string>
+    <string name="number_of_days">日数</string>
+    <string name="language">言語</string>
+    <string name="select_language">言語を選択</string>
+    <string name="use_proximity_sensor">近接センサを使う</string>
+    <string name="another_call_recording_app_is_running">他の通話録音アプリが起動されています。コールレコーダーを正常に起動させるためにそれらのアプリを削除してください。</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">このオプションが無効になるとAndroidはアプリを停止し、通話が録音されなくなるか一部が録音されます。無効にしますか？</string>
+
+    <string name="repopulate_the_list_of_recordings">端末のファイルシステムからアプリ用の録音のリストを再作成する</string>
+    <string name="delete_older_then">選択した日数より古い録音を自動的に削除します。ロックされた録画は削除されません。</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">メディアプレーヤーアプリケーションで音声録音ファイルを表示しない</string>
+    <string name="deleted_recordings_if_uninstall">このオプションが有効な状態でアプリをアンインストールすると、リムーバブルストレージに保存されているすべての録音がシステムによって削除されます。</string>
+    <string name="switch_audio_mode">ディスプレイが耳に近いときにオーディオモードへ切り替える</string>
+    <string name="permission_record_audio_explanation">通話を録音できる通話用マイク</string>
+    <string name="permission_storage_explanation">写真、メディア、および録音されたファイルを端末ストレージに保存する</string>
+    <string name="this_is_license_key">これはコールレコーダーのライセンスキーであり、プレミアム機能を有効にするためにのみ使用します。あなたの端末にコールレコーダーがインストールされている必要があります。</string>
+
+    <string name="what_can_be_improved">何を改良できるか？</string>
+    <string name="pro_version_as_a_license">コールレコーダープロのバージョンは、新機能で更新されなくなります。現在のユーザーは、標準バージョンのプレミアム機能を有効にするためのライセンスキーとして使用されます。我々のウェブサイトにより多くの情報があります。</string>
+    <string name="in_order_to_work_please_grand_permission">正しく機能させるために、以下のを許可を与えてください</string>
+    <string name="permission_manage_phone_calls__explanation">自動的に通話の録音を開始・停止するために必要な作成と管理</string>
+    <string name="permission_contacts_explanation">連絡先として連絡先の名前と画像を使用する</string>
+
+    <string name="check_out_call_recorder_app_at">こんにちは！ Call Recorderアプリをチェックして</string>
+    <string name="app_description_key">"Call Recorder Key は Call Recorder 無料アプリから広告を削除し、プレミアム機能を有効にするアプリです。
+
+  - 録音の共有
+  - 各通話後に通知を表示「この通話を保存しますか？」
+  -  Dropbox または Google Drive への録音を自動アップロード
+
+ あなたの端末に Call Recorder 無料アプリをインストールされている必要があります。"</string>
+
+<string name="app_description_free">シンプルな通話録音のアプリケーションとして以下の機能を持っています：
+ - 通話録音を有効/無効
+ - すべての通話を記録
+ - アイテムをタッチして録音した音声を再生/停止
+ - 録音されたアイテムを削除する
+ - 自動クリーニングを防止する為の録音されたアイテムのロック
+ - 共有録音アイテム（Pro版のみ）
+ - 確認ダイアログ：録音された通話を保存するかを通話の直後に表示されます（Proバージョンのみ）。
+
+あなたの端末で全く機能しない場合
+もしくは相手側の声を明確に録音しない場合：
+1.以下に記載されているように、異なる録画設定を混在させてみてください。
+http://clevermobile.net/products/call-recorder/call-recorder-settings-configuration-instructions/
+2.電話回線またはBluetoothからの録音をサポートしていない一部の端末には制限があります。端末のメーカー製のオーディオドライバの問題です。サポートされている既知のデバイスとそれらの設定の一覧はこちらです。
+http://clevermobile.net/products/call-recorder/call-recorder-supported-phones-and-configurations-for-them/
+これらについて、我々に悪い評価を付けないでください。よろしくお願いいたします！
+
+あなたがいくつかの提案やコメントがあれば、私たちのサイト http://clevermobile.net を訪問し、お気軽に私達に連絡してください。</string>
+
     </resources>
