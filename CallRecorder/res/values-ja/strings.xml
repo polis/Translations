@@ -45,7 +45,7 @@
 
     <string name="pro_description">プレミアム・バージョンの内容</string>
     <string name="share_recordings">録音を共有する</string>
-    <string name="dropbox_upload">ドロップボックスにアップロード</string>
+    <string name="dropbox_upload">Dropbox にアップロード</string>
     <string name="google_drive_upload">Google ドライブにアップロード</string>
     <string name="advanced_botifications">拡張された通知</string>
     <string name="no_more_ads">広告は結構</string>
