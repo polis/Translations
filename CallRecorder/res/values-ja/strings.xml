@@ -46,7 +46,7 @@
     <string name="pro_description">プレミアム・バージョンの内容</string>
     <string name="share_recordings">録音を共有する</string>
     <string name="dropbox_upload">Dropbox にアップロード</string>
-    <string name="google_drive_upload">Google ドライブにアップロード</string>
+    <string name="google_drive_upload">Google Drive にアップロード</string>
     <string name="advanced_botifications">拡張された通知</string>
     <string name="no_more_ads">広告は結構</string>
 
@@ -69,12 +69,12 @@
     <string name="wrong_passcode">パスコードが間違っています。もう一度やり直してください！</string>
     <string name="exit">終了</string>
     <string name="cloud">クラウド</string>
-    <string name="dropbox">ドロップボックス</string>
-    <string name="dropbox_link">ドロップボックスのアカウントで接続する</string>
-    <string name="dropbox_unlink">ドロップボックスのアカウントを切断する</string>
-    <string name="google_drive">Google ドライブ</string>
-    <string name="google_drive_link">Google ドライブのアカウントで接続する</string>
-    <string name="google_drive_unlink">Google ドライブのアカウントを切断する</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="dropbox_link">Dropbox のアカウントで接続する</string>
+    <string name="dropbox_unlink">Dropbox のアカウントを切断する</string>
+    <string name="google_drive">Google Drive</string>
+    <string name="google_drive_link">Google Drive のアカウントで接続する</string>
+    <string name="google_drive_unlink">Google Drive のアカウントを切断する</string>
     <string name="login">ログイン</string>
     <string name="logout">ログアウト</string>
     <string name="sync_title">今すぐアップロード</string>
