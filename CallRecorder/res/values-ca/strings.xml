@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
     <string name="app_name">Enregistrador de trucades</string>
-    <string name="sd">Inseriu una tarja SD a l\'aparell!</string>
+    <string name="sd">Si us plau, Introduïu la targeta SD al telèfon.</string>
     <string name="settings">Configuracions</string>
     <string name="notifications">Notificacions</string>
     <string name="notificationStatus_checkbox_title">Activa notificacions</string>
