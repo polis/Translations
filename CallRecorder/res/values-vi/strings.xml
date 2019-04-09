@@ -52,7 +52,7 @@
 
     <string name="total_files">Tổng số tệp</string>
     <string name="import_recordings">Nhập bản ghi âm</string>
-    <string name="cleaning">Xóa bản ghi cũ…</string>
+    <string name="cleaning">Đang xóa bản ghi cũ…</string>
 
     <string name="passcode">Mật mã</string>
     <string name="enable_passcode">BẬT mật mã</string>
@@ -80,9 +80,9 @@
     <string name="login">Đăng nhập</string>
     <string name="logout">Đăng xuất</string>
     <string name="sync_title">Upload now</string>
-    <string name="sync_summary">Đồng bộ tất cả bản ghi ngay bây giờ</string>
+    <string name="sync_summary">Đồng bộ tất cả bản ghi âm ngay bây giờ</string>
     <string name="wifi_only">Chỉ khi dùng WIFI</string>
-    <string name="wifi_only_when_sync">Đồng bộ chỉ kết nối WIFI</string>
+    <string name="wifi_only_when_sync">Chỉ tải lên khi dùng WiFi</string>
 
     <string name="about">Giới thiệu</string>
     <string name="translate">Dịch</string>
@@ -99,4 +99,107 @@
     <string name="use_external_player">Sử dụng trình chơi khác</string>
     <string name="use_external_media_player_to_play_recordings">Sử dụng trình chơi ngoài để mở bản ghi này</string>
     <string name="play">Chơi</string>
-    </resources>
+    <string name="cloud">Lưu trữ lên đám mây</string>
+    <string name="number_of_seconds">Số giây</string>
+    <string name="list_of_known_configurations">Danh sách cấu hình đã dùng</string>
+    <string name="navigation_drawer_close">Đóng Menu</string>
+    <string name="tell_a_friend">Chia sẻ với bạn bè</string>
+    <string name="rate_me">Đánh giá ứng dụng</string>
+    <string name="check_out_call_recorder_app_at">Chào bạn! Kiểm tra ứng dụng Call Recorder tại</string>
+    <string name="upgrade_to_premium">Nâng cấp ứng dụng lên phiên bản Cao cấp</string>
+    <string name="theme">Chủ đề</string>
+    <string name="use_dark_theme">Dùng chủ đề tối màu</string>
+    <string name="call">Cuộc gọi</string>
+    <string name="note">Ghi chú</string>
+    <string name="rec_info">Thông tin</string>
+    <string name="add">Thêm vào</string>
+    <string name="save">Lưu</string>
+    <string name="close">Đóng</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="name">Tên liên hệ</string>
+    <string name="number">Số điện thoại</string>
+    <string name="path">Đường dẫn</string>
+    <string name="size">Kích cỡ</string>
+    <string name="thank_you_for_upgrading_to_premium">"Cảm ơn bạn đã nâng cấp lên bản Cao cấp! "</string>
+    <string name="proceed">Đã xử lý</string>
+    <string name="restore_license">Mã kích hoạt</string>
+    <string name="restore_for_purchased_users">Vui lòng cài đặt ứng dụng Call Recorder từ Google Play để kích hoạt chức năng cao cấp.</string>
+
+    <string name="app_is_not_licensed">Ứng dụng không được cấp phép</string>
+    <string name="buy_license_in_order_to_use_app">Để sử dụng ứng dụng này, vui lòng mua từ Google Play!</string>
+    <string name="pro_version_as_a_license">Phiên bản Call Recorder Pro sẽ không được cập nhật các tính năng mới nữa. Người dùng hiện tại dùng mã bản quyền này để kích hoạt chức năng cao cấp trong phiên bản tiêu chuẩn.
+Truy cập trang web của chúng tôi để biết thêm thông tin.</string>
+    <string name="check_again">Kiểm tra lại</string>
+    <string name="permissions">Cho phép</string>
+    <string name="in_order_to_work_please_grand_permission">Để ứng dụng hoạt động chính xác, vui lòng cấp các quyền sau</string>
+    <string name="read_more">Đọc thêm</string>
+    <string name="do_not_show_again">Không hiển thị lại</string>
+    <string name="delete_uploaded">Xóa bản tải lên</string>
+    <string name="delete_after_upload_to_cloud">Tự động xóa các bản ghi âm trong điện thoại sau khi được tải lên</string>
+    <string name="call_is_recording_now">Cuộc gọi đang ghi âm</string>
+    <string name="error_during_recording">Lỗi trong khi ghi âm</string>
+    <string name="tap_here_to_troubleshoot">Nhấn vào đây để khắc phục</string>
+    <string name="recording_problem">Bản ghi âm có vấn đề?</string>
+    <string name="recording_notification">Thông báo đang ghi âm</string>
+    <string name="show_notification_during_recording">Hiện thông báo đang ghi âm</string>
+    <string name="recording_filter">Bộ lọc ghi âm</string>
+    <string name="filter">Bộ lọc</string>
+    <string name="use_filtering_by_phone_numbers">Dùng bộ lọc theo số điện thoại</string>
+    <string name="filtering_method">Lọc theo</string>
+    <string name="switch_filtering">Chuyển bộ lọc</string>
+    <string name="record_all_phone_numbers_exept_excluded">Không ghi âm các cuộc gọi từ danh sách liên hệ dưới đây</string>
+    <string name="record_only_included_phone_numbers">Ghi âm các cuộc gọi từ danh sách liên hệ dưới đây</string>
+    <string name="add_contact">Thêm liên hệ</string>
+    <string name="add_phone_number">Thêm số điện thoại</string>
+    <string name="add_to_filter">Thêm vào bộ lọc</string>
+    <string name="another_call_recording_app_is_running">Một ứng dụng ghi âm cuộc gọi khác đang chạy. Vui lòng tắt ứng dụng khác để Call Recorder hoạt động chính xác.</string>
+
+    <string name="android_can_stop_recording_if_this_notification_disabled">Nếu vô hiệu hóa tùy chọn này, Android có thể dừng ứng dụng và một số cuộc gọi sẽ không được ghi âm hoặc chỉ được ghi âm một phần.
+Bạn vẫn muốn vô hiệu hóa nó?</string>
+
+    <string name="automatic_cleaning">Tự động làm sạch</string>
+    <string name="delete_recordings">Xóa các bản ghi âm</string>
+    <string name="memory_occupied">Bộ nhớ đã dùng</string>
+    <string name="free_memory">Bộ nhớ trống</string>
+    <string name="use_removable_storage">Dùng bộ nhớ thẻ</string>
+    <string name="record_audio_files_to_removable_storage">Ghi tập tin âm thanh vào bộ nhớ thẻ</string>
+    <string name="repopulate_the_list_of_recordings">Khôi phục danh sách các bản ghi âm trong bộ nhớ máy</string>
+    <string name="delete_automatically">Tự động xóa</string>
+    <string name="delete_older_then">Tự động xóa các bản ghi âm cũ theo thời gian đã chọn. Bản ghi bị khóa sẽ không bị xóa.</string>
+    <string name="clean_up">Dọn dẹp ngay</string>
+    <string name="delete_old_recordings">Xóa các bản ghi âm cũ. Bản ghi bị khóa sẽ không bị xóa.</string>
+    <string name="general">Chính</string>
+    <string name="hide_from_media_player">Ẩn khỏi trình phát đa phương tiện</string>
+    <string name="do_not_show_audio_recordings_in_media_player_app">Không hiển thị tệp ghi âm trong các ứng dụng phát đa phương tiện</string>
+    <string name="deleted_recordings_if_uninstall">Nếu bật tùy chọn này, sau khi bạn gỡ ứng dụng khỏi thiết bị hệ thống sẽ tự xóa các tập tin ghi âm được lưu trong bộ nhớ thẻ.</string>
+    <string name="finished">Hoàn thành xong</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="select_language">Chọn ngôn ngữ</string>
+    <string name="use_proximity_sensor">Sử dụng cảm biến tiệm cận</string>
+    <string name="switch_audio_mode">Chuyển chế độ âm thanh khi màn hình gần tai bạn</string>
+    <string name="rename">Đổi tên</string>
+
+    <string name="permission_record_audio_explanation">Micrô để ghi âm các cuộc gọi điện thoại</string>
+    <string name="permission_storage_explanation">Ảnh, Phương tiện và Tệp để lưu bản ghi vào bộ nhớ điện thoại</string>
+    <string name="permission_manage_phone_calls__explanation">Tạo và quản lý các cuộc gọi thoại để tự động bắt đầu và kết thúc ghi âm</string>
+    <string name="permission_contacts_explanation">Danh bạ được dùng để hiển thị tên và hình ảnh liên lạc</string>
+
+    <string name="what_can_be_improved">Cần cải thiện những gì?</string>
+    <string name="submit">Hoàn thành</string>
+
+    <string name="license_key">Mã bản quyền</string>
+    <string name="thank_you">Cảm ơn bạn đã lựa chọn và hỗ trợ ứng dụng của chúng tôi!</string>
+    <string name="this_is_license_key">Mã bản quyền này chỉ được dùng để kích hoạt chức năng cao cấp trong ứng dụng Call Recorder. Bạn cần cài đặt ứng dụng Call Recorder trên điện thoại để dùng.</string>
+
+    <string name="open_call_recorder">Mở Call Recorder</string>
+    <string name="to_many_items_selected">Quá số lượng tệp ghi âm được cho phép. Thử chọn ít tệp hơn để chia sẻ.</string>
+
+    <string name="app_description_key">Bản Call Recorder mất phí xóa quảng cáo trên ứng dụng và kích hoạt các chức năng cao cấp như:
+
+- Chia sẻ tập tin ghi âm.
+- Hỏi lưu sau mỗi cuộc gọi.
+- Tự động tải các bản ghi âm lên Dropbox hoặc Google Drive
+
+Bạn cần cài đặt Call Recorder bản miễn phí trên điện thoại của bạn.</string>
+
+</resources>
