@@ -167,4 +167,19 @@ Ak máte nejaké návrhy alebo pripomienky, neváhajte sa na nás obrátiť a pr
 
 
 
-</resources>
+<string name="delete_uploaded">Odstrániť nahrané</string>
+    <string name="delete_after_upload_to_cloud">Automatické vymazanie sinchronizovaných nahrávok z telefónu</string>
+    <string name="call_is_recording_now">Volanie sa zaznamenáva teraz</string>
+    <string name="error_during_recording"/>
+    <string name="tap_here_to_troubleshoot"/>
+    <string name="recording_problem"/>
+    <string name="recording_notification">Oznámenie o nahrávaní</string>
+    <string name="show_notification_during_recording"/>
+    <string name="recording_filter"/>
+    <string name="filter"/>
+    <string name="use_filtering_by_phone_numbers"/>
+    <string name="filtering_method"/>
+    <string name="switch_filtering"/>
+    <string name="record_all_phone_numbers_exept_excluded"/>
+    <string name="record_only_included_phone_numbers"/>
+    </resources>
